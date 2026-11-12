@@ -17,4 +17,8 @@ Os historiadores marxistas britânicos aplicam o materialismo histórico à pesq
 - [[Ellen Meiksins Wood]]
 - [[Robert Brenner]]
 
+## Estudo
+- [[História do século XX]]
+- [[História social marxista]]
+
 Voltar ao [[MOC - Materialismo histórico e dialético]].

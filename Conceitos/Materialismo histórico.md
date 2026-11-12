@@ -2,6 +2,7 @@
 tipo: conceito
 tags:
   - conceito
+  - dialetica
 criado: 2026-11-12
 ---
 

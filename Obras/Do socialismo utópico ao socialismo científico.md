@@ -5,6 +5,7 @@ status: para ler
 tags:
   - obra
   - fichamento
+  - dialetica
 criado: 2026-11-12
 ---
 

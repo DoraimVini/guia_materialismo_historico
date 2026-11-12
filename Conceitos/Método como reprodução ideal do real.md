@@ -2,6 +2,7 @@
 tipo: conceito
 tags:
   - conceito
+  - epistemologia
 criado: 2026-11-12
 ---
 

@@ -39,6 +39,7 @@ Autores que discutem materialismo histórico e dialético, organizados por corre
 
 ## Estudo
 - [[Questões em aberto]]
+- [[Conferências pendentes]]: o que falta conferir com a sua edição e o que falta ler
 - [[Inbox]]
 - Fichamentos: [[A Ideologia Alemã]], [[Princípios Básicos do Comunismo]], [[Trabalho Assalariado e Capital]], [[Que Fazer (Lênin)]], [[Imperialismo, fase superior do capitalismo (Lênin)]], [[Lênin - textos curtos (1901-1905)]], [[Tática e Ética (Lukács)]], [[Consciência de Classe (Lukács, 1920)]], [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]], [[Lei do desenvolvimento desigual e combinado (Lora)]], [[Descartes, materialismo e dualismo (Teixeira)]], [[Reforma ou Revolução]], [[Greve de massas, partido e sindicatos]], [[A Revolução Russa (1918)]], [[A Acumulação do Capital]], [[Imperialismo (1914)]], [[Do socialismo utópico ao socialismo científico]], [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Cadernos do Cárcere]], [[História e Consciência de Classe]], [[Ler O Capital]], [[A Miséria da Teoria]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]], [[O Capital - Livro I]], [[Salário, Preço e Lucro]], [[A Era dos Extremos]], [[Manifesto para a renovação da história]], [[Depoimento (1989)]], [[Obituário de E. P. Thompson]], [[A Origem da Família, da Propriedade Privada e do Estado]], [[Materialismo Dialético - Academia de Ciências da URSS]], [[Compêndio de História da Filosofia]]
 - Modelos de nota ficam em `Modelos/` (fichamento, conceito, autor)

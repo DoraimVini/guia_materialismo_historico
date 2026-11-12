@@ -23,14 +23,14 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*. Original: *The
 É o panorama que Hobsbawm propõe para o século XX e, no cofre, a base para reconstruir a história e testar as ideias de [[Economia política marxista]] e de [[Epistemologia do materialismo histórico]]. Faz parte de uma série: *A Era das Revoluções*, *A Era do Capital* e *A Era dos Impérios* precedem este volume.
 
 ## Estrutura e mapa do PDF
-Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **o capítulo 1 foi lido por inteiro ([[Era dos Extremos, cap. 1 - A era da guerra total]]); os demais, só por trechos**.
+Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **os capítulos 1, 2 e 3 foram lidos por inteiro ([[Era dos Extremos, cap. 1 - A era da guerra total]]; [[Era dos Extremos, cap. 2 - A revolução mundial]]; [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]); os demais, só por trechos**.
 
 | Parte | Cap. | Título (sumário do PDF) | Início (PDF) | Estado |
 | --- | --- | --- | --- | --- |
 | Prefácio | | Prefácio e agradecimentos; "O século: vista aérea" | [[Hobsbawm - Era dos Extremos.pdf#page=6|p. 6]] / [[Hobsbawm - Era dos Extremos.pdf#page=11|p. 11]] | li a vista aérea quase toda; o prefácio só o começo |
 | I. [[Era da Catástrofe]] | 1 | A era da guerra total | [[Hobsbawm - Era dos Extremos.pdf#page=31|p. 31]] | **lido por inteiro**: [[Era dos Extremos, cap. 1 - A era da guerra total]] |
-| | 2 | A revolução mundial | [[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]] | li a abertura (pp. 71-76) |
-| | 3 | Rumo ao abismo econômico | [[Hobsbawm - Era dos Extremos.pdf#page=107|p. 107]] | li a abertura (pp. 107-110) |
+| | 2 | A revolução mundial | [[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]] | **lido por inteiro**: [[Era dos Extremos, cap. 2 - A revolução mundial]] |
+| | 3 | Rumo ao abismo econômico | [[Hobsbawm - Era dos Extremos.pdf#page=107|p. 107]] | **lido por inteiro**: [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]] |
 | | 4 | A queda do liberalismo | [[Hobsbawm - Era dos Extremos.pdf#page=135|p. 135]] | li a abertura (pp. 135-139) |
 | | 5 | Contra o inimigo comum | [[Hobsbawm - Era dos Extremos.pdf#page=174|p. 174]] | só um parágrafo (p. 176) |
 | | 6 | As artes 1914-45 | [[Hobsbawm - Era dos Extremos.pdf#page=216|p. 216]] | só um parágrafo (p. 218) |
@@ -55,7 +55,7 @@ Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **o cap�
 > — PDF p. 16 · O século: vista aérea · [[Hobsbawm - Era dos Extremos.pdf#page=16|abrir]]
 
 2. **A Revolução de Outubro é o eixo político do século.** O capítulo 2 a coloca ao lado da Revolução Francesa para o século XX, e Hobsbawm lê a política internacional depois de 1917 como luta da velha ordem contra a revolução social. Ver [[Era da Catástrofe]].
-3. **O colapso econômico do entreguerras explica o mundo posterior.** Sem ele, não haveria Hitler nem Roosevelt, e o sistema soviético não seria visto como alternativa séria (p. 108).
+3. **O colapso econômico do entreguerras explica o mundo posterior.** Sem ele, não haveria Hitler nem Roosevelt, e o sistema soviético não seria visto como alternativa séria (p. 108). O capítulo 3 conclui que a Depressão "destruiu o liberalismo econômico por meio século" (p. 118). Ver [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]].
 4. **A Era de Ouro (1947-73) é um enigma que ele diz não resolver.** Ver [[Era de Ouro]].
 > "Eis, talvez, a questão central para os historiadores do século XX."
 > — PDF p. 19 · O século: vista aérea · [[Hobsbawm - Era dos Extremos.pdf#page=19|abrir]]
@@ -75,7 +75,7 @@ Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **o cap�
 4. **Marx está presente como autor, não como método declarado.** Hobsbawm o cita em pontos decisivos (pp. 28, 75, 109, 347, 448, 459, 584-585, 663). Ver [[Hobsbawm lê Marx]].
 
 > [!question] Leitura minha
-> A pergunta que eu deixava em aberto na versão anterior, "onde Hobsbawm usa categorias econômicas e onde recorre a guerras, Estados e ideias", ganhou uma resposta parcial: ele descreve os períodos em termos econômicos (catástrofe, boom, crise), mas data o século por acontecimentos políticos e explica o fim do socialismo por limites institucionais da economia planificada. Falta ler os capítulos 5, 6, 7, 12, 15, 17 e 18 para ver se isso se mantém. *(conferir)*
+> A pergunta que eu deixava em aberto na versão anterior, "onde Hobsbawm usa categorias econômicas e onde recorre a guerras, Estados e ideias", ganhou uma resposta parcial: ele descreve os períodos em termos econômicos (catástrofe, boom, crise), mas data o século por acontecimentos políticos e explica o fim do socialismo por limites institucionais da economia planificada. Falta ler os capítulos 5, 6, 7, 12, 15, 17 e 18 para ver se isso se mantém. *(conferir)* O capítulo 3, lido por inteiro, reforça a resposta: a crise é explicada por desequilíbrio internacional e falta de demanda, e suas consequências são lidas na política (fim do liberalismo econômico, fascismo, Estado de bem-estar).
 
 ## Citações (com página do PDF)
 ### Método e propósito
@@ -151,7 +151,8 @@ A versão anterior desta nota se apoiava na Wikipédia e nas resenhas de Cavalla
 - Hobsbawm diz que o fracasso soviético "solapou" o socialismo não comunista (p. 663) e, páginas antes, que não decide a sorte de todo "o projeto de socialismo tradicional" (p. 586). Como ler as duas afirmações? Ver [[Socialismo real]] e a Questão 9.
 
 ## Para continuar a leitura
-- [ ] Prefácio completo (a periodização). O capítulo 1 já foi lido por inteiro.
+- [ ] Prefácio completo (a periodização). Os capítulos 1, 2 e 3 já foram lidos por inteiro.
+- [ ] Capítulo 4 inteiro (a queda do liberalismo), continuação direta do 3.
 - [ ] Capítulos 5, 6 e 7 (antifascismo, artes, descolonização).
 - [ ] Capítulos 12 e 15 (Terceiro Mundo), para testar as críticas de eurocentrismo e de "cegueira" sobre a Ásia.
 - [ ] Capítulo 16 inteiro, para ler o diagnóstico completo do fim da URSS.
