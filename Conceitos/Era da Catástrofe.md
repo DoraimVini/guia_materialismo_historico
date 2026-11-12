@@ -17,13 +17,13 @@ Primeira parte de *A Era dos Extremos* (caps. 1 a 7): das duas guerras mundiais 
 ## Capítulos (sumário do PDF)
 1. A era da guerra total ([[Hobsbawm - Era dos Extremos.pdf#page=31|p. 31]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 1 - A era da guerra total]]
 2. A revolução mundial ([[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 2 - A revolução mundial]]
-3. Rumo ao abismo econômico ([[Hobsbawm - Era dos Extremos.pdf#page=107|p. 107]])
+3. Rumo ao abismo econômico ([[Hobsbawm - Era dos Extremos.pdf#page=107|p. 107]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]
 4. A queda do liberalismo ([[Hobsbawm - Era dos Extremos.pdf#page=135|p. 135]])
 5. Contra o inimigo comum ([[Hobsbawm - Era dos Extremos.pdf#page=174|p. 174]])
 6. As artes 1914-45 ([[Hobsbawm - Era dos Extremos.pdf#page=216|p. 216]])
 7. O fim dos impérios ([[Hobsbawm - Era dos Extremos.pdf#page=241|p. 241]])
 
-Os capítulos 1 e 2 foram lidos por inteiro. Dos demais, li as aberturas dos capítulos 3 e 4 e só parágrafos soltos.
+Os capítulos 1, 2 e 3 foram lidos por inteiro. Dos demais, li a abertura do capítulo 4 e só parágrafos soltos.
 
 ## O que o livro diz
 - **A guerra como início.** O cap. 1 diz que não se compreende o Breve Século XX sem a guerra mundial de 31 anos (1914-45) e que ele "viveu e pensou em termos de guerra mundial, mesmo quando os canhões se calavam" (p. 34).
@@ -39,7 +39,7 @@ Os capítulos 1 e 2 foram lidos por inteiro. Dos demais, li as aberturas dos cap
 > — PDF p. 75 · cap. 2 · [[Hobsbawm - Era dos Extremos.pdf#page=75|abrir]]
 
 - **Um terço da humanidade.** Trinta ou quarenta anos depois de Lênin chegar a Petrogrado, "um terço da humanidade" vivia sob regimes derivados de Outubro (p. 73).
-- **A economia (cap. 3).** O colapso entre as guerras explica o mundo posterior: sem ele, não haveria Hitler nem Roosevelt, e o sistema soviético não pareceria alternativa séria (p. 108). Pela primeira vez na história do capitalismo, suas flutuações ameaçavam o sistema (p. 110). Hobsbawm também diz que só socialistas como Marx achavam que o ciclo expressava contradições internas insuperáveis (p. 109).
+- **A economia (cap. 3).** O colapso entre as guerras explica o mundo posterior: sem ele, não haveria Hitler nem Roosevelt, e o sistema soviético não pareceria alternativa séria (p. 108). Pela primeira vez na história do capitalismo, suas flutuações ameaçavam o sistema (p. 110). Hobsbawm também diz que só socialistas como Marx achavam que o ciclo expressava contradições internas insuperáveis (p. 109). A consequência de longo prazo é que a Depressão "destruiu o liberalismo econômico por meio século" e obrigou os governos a pôr as considerações sociais à frente das econômicas (p. 118); a curto prazo, abriu caminho ao fascismo e enfraqueceu a esquerda revolucionária (pp. 129-130).
 > "o mundo da segunda metade do século XX é incompreensível se não entendermos o impacto do colapso econômico"
 > — PDF p. 108 · cap. 3 · [[Hobsbawm - Era dos Extremos.pdf#page=108|abrir]]
 
@@ -66,7 +66,7 @@ Os capítulos 1 e 2 foram lidos por inteiro. Dos demais, li as aberturas dos cap
 
 ## Perguntas
 - A expressão "catástrofe" é descritiva ou explicativa? O que unifica guerra, depressão e fascismo? Hobsbawm responde, em parte, com o colapso econômico.
-- Como o capítulo 3 ("Rumo ao abismo econômico") se relaciona com [[Acumulação de capital]] e [[Queda tendencial da taxa de lucro]]? O texto que li não usa essas categorias: fala em ciclos, ondas longas de Kondratiev e "globalização". *(conferir o resto do capítulo)*
+- Como o capítulo 3 ("Rumo ao abismo econômico") se relaciona com [[Acumulação de capital]] e [[Queda tendencial da taxa de lucro]]? O texto que li não usa essas categorias: fala em ciclos, ondas longas de Kondratiev e "globalização". Lido o capítulo inteiro, isso se confirma: as duas explicações que ele apresenta são o desequilíbrio internacional (os EUA sem papel de estabilizador) e a falta de demanda (salários atrás da produtividade, "superprodução e especulação", p. 124). Ver [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]].
 - A [[Teoria do reflexo]] e a [[Filosofia da práxis]] se aplicam de modo diferente à Revolução de 1917? Hobsbawm descreve Lênin concluindo que não havia condições na Rússia, o que pesa na leitura de [[Lênin]], [[Trotsky]] e [[Stalin]].
 
 ## Autores

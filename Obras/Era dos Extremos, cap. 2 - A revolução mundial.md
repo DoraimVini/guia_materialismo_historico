@@ -11,7 +11,7 @@ criado: 2026-11-12
 
 # Era dos Extremos, cap. 2 - A revolução mundial
 
-Autor: [[Eric Hobsbawm]] · Parte I, [[Era da Catástrofe]] · livro: [[A Era dos Extremos]] · capítulo anterior: [[Era dos Extremos, cap. 1 - A era da guerra total]]
+Autor: [[Eric Hobsbawm]] · Parte I, [[Era da Catástrofe]] · livro: [[A Era dos Extremos]] · capítulo anterior: [[Era dos Extremos, cap. 1 - A era da guerra total]] · próximo: [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]
 
 > [!info] Como ler as marcas
 > Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` que você enviou (PDF pp. 71-106). As citações foram **localizadas por script** no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**; na sua edição de papel use as seções (I a VII) para achar o trecho. Os resumos são paráfrases minhas; o que é meu e não de Hobsbawm vem marcado como *(leitura minha)*.

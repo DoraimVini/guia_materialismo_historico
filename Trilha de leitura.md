@@ -13,7 +13,7 @@ Um caminho comum para iniciantes vai de Engels a Marx e, depois, a Gramsci ou Lu
 2. [ ] [[Karl Marx]]: o [[Prefácio de 1859]] da *Contribuição à Crítica da Economia Política*, junto com [[A Ideologia Alemã]] (cap. Feuerbach), que o Prefácio recorda no §5
 3. [ ] [[Karl Marx]]: [[Trabalho Assalariado e Capital]], [[Salário, Preço e Lucro]] e o cap. 1 de [[O Capital - Livro I]] (ver [[Economia política marxista]])
 4. [ ] [[Antonio Gramsci]] (*Cadernos do Cárcere*) ou [[Georg Lukács]] (*História e Consciência de Classe*)
-5. [ ] [[Eric Hobsbawm]]: *Era dos Extremos* (ver [[História do século XX]]); caps. 1 e 2 lidos por inteiro; já li trechos dos outros, falta o resto: prefácio, cap. 3 em diante, e os caps. 5-7, 12, 15 e 16 completos
+5. [ ] [[Eric Hobsbawm]]: *Era dos Extremos* (ver [[História do século XX]]); caps. 1, 2 e 3 lidos por inteiro; já li trechos dos outros, falta o resto: prefácio, cap. 4 em diante, e os caps. 5-7, 12, 15 e 16 completos
 6. [ ] [[Friedrich Engels]]: [[A Origem da Família, da Propriedade Privada e do Estado]], depois os manuais soviéticos ([[Materialismo dialético soviético]]) como fonte histórica
 7. [ ] [[Antonio Gramsci]]: [[Cadernos do Cárcere]] (Caderno 11, §§ 12 e 17; Caderno 12, § 1)
 

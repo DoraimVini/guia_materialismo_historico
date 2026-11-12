@@ -181,6 +181,7 @@ Rosa diz que reforma e revolução se condicionam. Hobsbawm descreve a Era de Ou
 
 - Ver: [[Reforma e revolução]], [[Era de Ouro]], [[Desmoronamento]]
 - Textos para testar: [[Reforma ou Revolução]]; [[A Era dos Extremos]] (cap. 9 e cap. 14)
+- Do cap. 3 ([[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]): a reforma (pleno emprego, previdência, subsídios) nasce do medo da radicalização à esquerda e à direita durante a Depressão, e não de uma teoria pronta (pp. 118-119, 132).
 - Hipótese:
 - Objeções:
 
