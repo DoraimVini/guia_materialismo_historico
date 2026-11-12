@@ -5,6 +5,7 @@ status: lido por trechos
 tags:
   - obra
   - fichamento
+  - estado-hegemonia
 criado: 2026-11-12
 ---
 

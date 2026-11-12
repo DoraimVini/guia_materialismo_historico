@@ -16,5 +16,6 @@ Corrente: [[Historiografia e tradição britânica]]
 
 ## Fichamentos
 - [[A Miséria da Teoria]]
+- [[Obituário de E. P. Thompson]] (por Hobsbawm)
 
 ## Minhas anotações

@@ -19,4 +19,7 @@ Um dos sistematizadores do "materialismo dialético".
 ## Conceitos relacionados
 - [[Materialismo dialético]]
 
+## No manual soviético
+O [[Compêndio de História da Filosofia]] o trata como defensor do materialismo dialético contra os revisionistas, mas diz que "não mostra suficientemente as diferenças básicas entre o materialismo dialético e o materialismo anterior a Marx".
+
 ## Minhas anotações

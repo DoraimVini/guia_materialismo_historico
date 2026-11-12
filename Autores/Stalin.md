@@ -19,4 +19,10 @@ A versão dogmática oficial.
 - [[Materialismo dialético]]
 - [[Materialismo histórico]]
 
+## Fichamentos
+- [[Materialismo Dialético - Academia de Ciências da URSS]] (cita Stálin: definição do materialismo dialético e quatro traços do método)
+- [[Compêndio de História da Filosofia]]
+
+Ver também [[Materialismo dialético soviético]].
+
 ## Minhas anotações

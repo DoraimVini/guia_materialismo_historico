@@ -18,4 +18,7 @@ Esta vertente retoma a dialética, a consciência e a cultura contra o determini
 - [[Karel Kosík]]
 - [[Escola de Frankfurt]] (Adorno, Horkheimer, Marcuse, Benjamin)
 
+## Estudo
+- Gramsci: [[Hegemonia]], [[Senso comum e bom senso]], [[Intelectuais orgânicos e tradicionais]], [[Bloco histórico]], [[Historicismo absoluto]], [[Objetividade histórica]]
+
 Voltar ao [[MOC - Materialismo histórico e dialético]].
