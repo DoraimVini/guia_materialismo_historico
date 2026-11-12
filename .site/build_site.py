@@ -49,7 +49,7 @@ MODULES = [
     ("f", "F", "História do século XX",
      "O \"breve século XX\" de Hobsbawm: catástrofe, era de ouro e desmoronamento.", "hist",
      ["História do século XX", "Breve século XX", "Cronologia do breve século XX", "A Era dos Extremos", "Era da Catástrofe",
-      "Era dos Extremos, cap. 1 - A era da guerra total", "Era de Ouro",
+      "Era dos Extremos, cap. 1 - A era da guerra total", "Era dos Extremos, cap. 2 - A revolução mundial", "Era de Ouro",
       "Desmoronamento", "Socialismo real", "Hobsbawm lê Marx", "História social marxista"]),
     ("g", "G", "Rosa no Brasil",
      "Ponte para Florestan Fernandes: como Rosa Luxemburgo foi lida no Brasil e o que ela diz sobre comunidades tradicionais.", "br",
