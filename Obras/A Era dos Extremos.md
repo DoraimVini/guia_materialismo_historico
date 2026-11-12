@@ -23,13 +23,13 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*. Original: *The
 É o panorama que Hobsbawm propõe para o século XX e, no cofre, a base para reconstruir a história e testar as ideias de [[Economia política marxista]] e de [[Epistemologia do materialismo histórico]]. Faz parte de uma série: *A Era das Revoluções*, *A Era do Capital* e *A Era dos Impérios* precedem este volume.
 
 ## Estrutura e mapa do PDF
-Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **o capítulo 1 foi lido por inteiro ([[Era dos Extremos, cap. 1 - A era da guerra total]]); os demais, só por trechos**.
+Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **os capítulos 1 e 2 foram lidos por inteiro ([[Era dos Extremos, cap. 1 - A era da guerra total]]; [[Era dos Extremos, cap. 2 - A revolução mundial]]); os demais, só por trechos**.
 
 | Parte | Cap. | Título (sumário do PDF) | Início (PDF) | Estado |
 | --- | --- | --- | --- | --- |
 | Prefácio | | Prefácio e agradecimentos; "O século: vista aérea" | [[Hobsbawm - Era dos Extremos.pdf#page=6|p. 6]] / [[Hobsbawm - Era dos Extremos.pdf#page=11|p. 11]] | li a vista aérea quase toda; o prefácio só o começo |
 | I. [[Era da Catástrofe]] | 1 | A era da guerra total | [[Hobsbawm - Era dos Extremos.pdf#page=31|p. 31]] | **lido por inteiro**: [[Era dos Extremos, cap. 1 - A era da guerra total]] |
-| | 2 | A revolução mundial | [[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]] | li a abertura (pp. 71-76) |
+| | 2 | A revolução mundial | [[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]] | **lido por inteiro**: [[Era dos Extremos, cap. 2 - A revolução mundial]] |
 | | 3 | Rumo ao abismo econômico | [[Hobsbawm - Era dos Extremos.pdf#page=107|p. 107]] | li a abertura (pp. 107-110) |
 | | 4 | A queda do liberalismo | [[Hobsbawm - Era dos Extremos.pdf#page=135|p. 135]] | li a abertura (pp. 135-139) |
 | | 5 | Contra o inimigo comum | [[Hobsbawm - Era dos Extremos.pdf#page=174|p. 174]] | só um parágrafo (p. 176) |
@@ -151,7 +151,7 @@ A versão anterior desta nota se apoiava na Wikipédia e nas resenhas de Cavalla
 - Hobsbawm diz que o fracasso soviético "solapou" o socialismo não comunista (p. 663) e, páginas antes, que não decide a sorte de todo "o projeto de socialismo tradicional" (p. 586). Como ler as duas afirmações? Ver [[Socialismo real]] e a Questão 9.
 
 ## Para continuar a leitura
-- [ ] Prefácio completo (a periodização). O capítulo 1 já foi lido por inteiro.
+- [ ] Prefácio completo (a periodização). Os capítulos 1 e 2 já foram lidos por inteiro.
 - [ ] Capítulos 5, 6 e 7 (antifascismo, artes, descolonização).
 - [ ] Capítulos 12 e 15 (Terceiro Mundo), para testar as críticas de eurocentrismo e de "cegueira" sobre a Ásia.
 - [ ] Capítulo 16 inteiro, para ler o diagnóstico completo do fim da URSS.

@@ -16,14 +16,14 @@ Primeira parte de *A Era dos Extremos* (caps. 1 a 7): das duas guerras mundiais 
 
 ## Capítulos (sumário do PDF)
 1. A era da guerra total ([[Hobsbawm - Era dos Extremos.pdf#page=31|p. 31]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 1 - A era da guerra total]]
-2. A revolução mundial ([[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]])
+2. A revolução mundial ([[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 2 - A revolução mundial]]
 3. Rumo ao abismo econômico ([[Hobsbawm - Era dos Extremos.pdf#page=107|p. 107]])
 4. A queda do liberalismo ([[Hobsbawm - Era dos Extremos.pdf#page=135|p. 135]])
 5. Contra o inimigo comum ([[Hobsbawm - Era dos Extremos.pdf#page=174|p. 174]])
 6. As artes 1914-45 ([[Hobsbawm - Era dos Extremos.pdf#page=216|p. 216]])
 7. O fim dos impérios ([[Hobsbawm - Era dos Extremos.pdf#page=241|p. 241]])
 
-O capítulo 1 foi lido por inteiro. Dos demais, li as aberturas dos capítulos 2, 3 e 4 e só parágrafos soltos.
+Os capítulos 1 e 2 foram lidos por inteiro. Dos demais, li as aberturas dos capítulos 3 e 4 e só parágrafos soltos.
 
 ## O que o livro diz
 - **A guerra como início.** O cap. 1 diz que não se compreende o Breve Século XX sem a guerra mundial de 31 anos (1914-45) e que ele "viveu e pensou em termos de guerra mundial, mesmo quando os canhões se calavam" (p. 34).
