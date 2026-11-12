@@ -24,6 +24,14 @@ O site tem um **roteiro de leitura em 7 módulos** (A a G), um índice livre de 
 
 Todo pull request roda a verificação: confere que não há PDF/EPUB no repositório e monta a página; a página montada fica disponível como artefato do PR para pré-visualizar.
 
+## Sincronizar o cofre com o repositório (Obsidian Git)
+A pasta do cofre é a própria raiz do repositório. Quem edita no Obsidian usa o plugin **Obsidian Git** (Configurações > Plugins da comunidade > Obsidian Git) com o ramo `rascunho`:
+1. Instale o [Git](https://git-scm.com/downloads) e, no plugin, deixe o commit e o push automáticos (por exemplo, a cada 30 minutos) e o pull ao abrir.
+2. Na primeira vez, o GitHub pede o login; use o *Git Credential Manager* que vem com o Git para Windows.
+3. Para publicar: no GitHub, abra um pull request de `rascunho` para `main` e faça o *merge*.
+
+Se aparecer conflito de arquivo, não force o push: feche o Obsidian, rode `git pull` na pasta e resolva a diferença.
+
 ## Gerar o site localmente
 ```
 pip install -r .site/requirements.txt
