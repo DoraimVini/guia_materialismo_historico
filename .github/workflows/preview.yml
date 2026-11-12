@@ -1,0 +1,21 @@
+name: Verificar e montar a página (pull requests)
+on:
+  pull_request:
+    branches: [main, rascunho]
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -r .site/requirements.txt
+      - run: python .site/check.py .
+      - run: mkdir -p _site && python .site/build_site.py . _site/index.html
+      - uses: actions/upload-artifact@v4
+        with:
+          name: pagina-previa
+          path: _site/index.html
+          retention-days: 14

@@ -1,0 +1,13 @@
+# Livros: nunca vao para o repositorio (direitos autorais)
+*.pdf
+*.epub
+*.mobi
+*.djvu
+# Obsidian: so o grafo (cores) e compartilhado
+.obsidian/*
+!.obsidian/graph.json
+# Saidas e lixo
+_site/
+__pycache__/
+.DS_Store
+Thumbs.db

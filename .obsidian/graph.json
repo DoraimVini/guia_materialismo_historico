@@ -1,0 +1,86 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#economia-politica",
+      "color": {
+        "a": 1,
+        "rgb": 16098851
+      }
+    },
+    {
+      "query": "tag:#epistemologia",
+      "color": {
+        "a": 1,
+        "rgb": 5088255
+      }
+    },
+    {
+      "query": "tag:#dialetica",
+      "color": {
+        "a": 1,
+        "rgb": 4054148
+      }
+    },
+    {
+      "query": "tag:#estado-hegemonia",
+      "color": {
+        "a": 1,
+        "rgb": 11568629
+      }
+    },
+    {
+      "query": "tag:#familia-reproducao",
+      "color": {
+        "a": 1,
+        "rgb": 16744118
+      }
+    },
+    {
+      "query": "tag:#historia",
+      "color": {
+        "a": 1,
+        "rgb": 16734799
+      }
+    },
+    {
+      "query": "tag:#autor",
+      "color": {
+        "a": 1,
+        "rgb": 12434877
+      }
+    },
+    {
+      "query": "tag:#corrente",
+      "color": {
+        "a": 1,
+        "rgb": 2282478
+      }
+    },
+    {
+      "query": "tag:#moc OR tag:#trilha OR tag:#questoes OR tag:#biblioteca",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.9999999999999927,
+  "close": true
+}
