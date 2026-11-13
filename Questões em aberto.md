@@ -237,7 +237,7 @@ Lukács (1919) trata de responsabilidade, culpa e do critério da ação; Rosa (
 Engels (1847, P19) pensa a revolução comunista como não "simplesmente nacional", nos países "civilizados", com ritmos diferentes. Rosa, Lênin e Lora trabalham com o desenvolvimento desigual e combinado e com o imperialismo. O que a tese de 1847 ainda explica, e o que ela não alcança?
 
 - Ver: [[Princípios Básicos do Comunismo]], [[Comunismo como movimento real]], [[Desenvolvimento desigual e combinado]], [[Imperialismo - Lênin e Rosa]]
-- Textos para testar: o *Manifesto* (não fichado) e [[Imperialismo, fase superior do capitalismo (Lênin)]]
+- Textos para testar: o [[Manifesto do Partido Comunista]] (o mercado mundial, pp. 33-34; o prefácio russo de 1882, p. 9) e [[Imperialismo, fase superior do capitalismo (Lênin)]]
 - Hipótese:
 - Objeções:
 

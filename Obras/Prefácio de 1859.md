@@ -96,7 +96,7 @@ O §4. Leia-o duas vezes: a primeira para os termos, a segunda para a ordem das 
 ## Dúvidas e objeções
 - O que significa "determina": causa, condicionamento ou limite? A resposta pesa nas Questões 1 e 2 de [[Questões em aberto]].
 - O passo 7 supõe um ponto de vista exterior à ideologia. De onde ele vem? (Questões 2 e 3)
-- O Prefácio dá primazia às forças produtivas. O *Manifesto* diz que a história é a história da luta de classes. Qual das duas é primária, e elas são compatíveis?
+- O Prefácio dá primazia às forças produtivas. O [[Manifesto do Partido Comunista]] diz que a história é a história da luta de classes. Qual das duas é primária, e elas são compatíveis?
 - O que muda se lermos "ser social" como relações sociais (como na Tese VI de [[Teses sobre Feuerbach]]) e não como "condições materiais"?
 
 ## Para a conferência com a edição em papel

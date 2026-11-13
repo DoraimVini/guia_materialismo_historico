@@ -90,7 +90,7 @@ Estas não estavam em listas de conferência, mas as notas dizem que a leitura f
 - [ ] [[Fontes de Rosa Luxemburgo]]: a polêmica de Rosa com Lênin (1904) e o panfleto de Junius, ainda não lidos.
 - [ ] [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]]: as entrevistas de Angela Mendes de Almeida e de Gilmar Mauro.
 - [ ] [[Florestan Fernandes]]: *A Revolução Burguesa no Brasil*, caps. 5 e 6, ainda não lidos.
-- [ ] Obras ainda sem fichamento: *Anti-Dühring*, *Dialética da Natureza*, *Manifesto Comunista* e *O 18 Brumário*.
+- [ ] Obras ainda sem fichamento: *Anti-Dühring*, *Dialética da Natureza*, e *O 18 Brumário* (o *Manifesto* já tem fichamento: [[Manifesto do Partido Comunista]]).
 - [ ] [[Cadernos do Cárcere]]: vol. 3 (Maquiavel, Estado); livros de Lukács, Althusser e Thompson.
 
 ## 2. Páginas das citações
@@ -157,7 +157,7 @@ Itens escritos nas notas:
 - [ ] Comparar a tradução com a de Barata-Moura (por exemplo "superstrutura" e "superestrutura").
 
 **[[Princípios Básicos do Comunismo]]**
-- [ ] Comparar com o *Manifesto* (não fichado no cofre).
+- [ ] Comparar com o [[Manifesto do Partido Comunista]].
 
 **[[Salário, Preço e Lucro]]**
 - [ ] Conferir no link os trechos dos caps. 6 e 12 a 14, que vieram por resumo da página, sem o texto integral.

@@ -30,6 +30,7 @@ Fichamentos: [[A Ideologia Alemã]] (seção do desenvolvimento das forças prod
 - [[Friedrich Engels]]
 
 ## Ver também
+- [[Manifesto do Partido Comunista]]: as teses comunistas como "expressões gerais das condições de fato de uma luta de classes real" (PDF p. 41)
 - [[Teoria marxista do Estado]]
 - [[Socialismo ou barbárie]]
 - [[Socialismo real]]

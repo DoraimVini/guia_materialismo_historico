@@ -18,7 +18,7 @@ Onde Hobsbawm cita ou usa Marx em *A Era dos Extremos*, com páginas, para ver e
 ## Passagens (páginas do PDF)
 | Onde | O que diz | Nota |
 | --- | --- | --- |
-| [[Hobsbawm - Era dos Extremos.pdf#page=28|p. 28]] (vista aérea) | Marx e os "profetas da desintegração dos velhos valores" tinham razão: o capitalismo é força revolucionadora permanente e acaba "serrando" um dos galhos em que se assenta | ligar ao *Manifesto Comunista* (ainda sem fichamento no cofre) |
+| [[Hobsbawm - Era dos Extremos.pdf#page=28|p. 28]] (vista aérea) | Marx e os "profetas da desintegração dos velhos valores" tinham razão: o capitalismo é força revolucionadora permanente e acaba "serrando" um dos galhos em que se assenta | ligar ao [[Manifesto do Partido Comunista]] ("profana-se tudo que é sagrado", PDF p. 32) |
 | [[Hobsbawm - Era dos Extremos.pdf#page=75|p. 75]] (cap. 2) | Os marxistas russos sabiam que a revolução na Rússia seria "burguesa"; o próprio Marx, no fim da vida, esperava que a Rússia detonasse a revolução no Ocidente | [[Lênin]], [[Trotsky]] |
 | [[Hobsbawm - Era dos Extremos.pdf#page=109|p. 109]] (cap. 3) | Só socialistas como Marx achavam que o ciclo expressava contradições internas insuperáveis | [[Acumulação de capital]] |
 | [[Hobsbawm - Era dos Extremos.pdf#page=128|p. 128]] (cap. 3) | Críticos de Marx reconheciam que ele acertara sobre a crescente concentração de capital; o capitalismo entreguerras já não era o da livre concorrência | [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]] |

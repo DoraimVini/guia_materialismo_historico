@@ -40,4 +40,7 @@ No cap. 9 de *Salário, Preço e Lucro*: "o valor ou preço da força de trabalh
 - [[Mais-valia]]
 - [[Economia política marxista]]
 
+## Ver também (Engels, 1845)
+- [[A Situação da Classe Trabalhadora na Inglaterra]]: o salário médio depende "das necessidades médias e do grau de civilidade dos operários" (p. 120)
+
 ## Minhas anotações

@@ -108,9 +108,10 @@ Em memória *(conferir)*: é um rascunho de programa para a Liga dos Comunistas,
 - [ ] Anotar a página de cada citação.
 - [ ] Ler as perguntas 11 a 13 e 24 e 25 direto no texto (a nota só tem resumo delas).
 - [ ] Ler a nota da edição sobre as perguntas 9, 22 e 23.
-- [ ] Comparar com o *Manifesto* (não fichado no cofre).
+- [ ] Comparar com o [[Manifesto do Partido Comunista]].
 
 ## Conceitos relacionados
+- [[Manifesto do Partido Comunista]]: a versão final, de fevereiro de 1848, que abandona a forma de perguntas e respostas
 - [[Comunismo como movimento real]]
 - [[Economia política marxista]]
 - [[Força de trabalho]]

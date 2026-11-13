@@ -36,6 +36,7 @@ Nunca usou o termo "materialismo dialético".
 - [[Economia política marxista]]
 
 ## Fichamentos
+- [[Manifesto do Partido Comunista]] (com Engels)
 - [[Prefácio de 1859]]
 - [[Manuscritos de 1844 - Crítica da dialética hegeliana]]
 - [[Teses sobre Feuerbach]]

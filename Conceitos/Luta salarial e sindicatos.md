@@ -39,4 +39,7 @@ Sindicato é escola de luta ou freio? Questão 29 em [[Questões em aberto]].
 - [[Economia política marxista]]
 - [[Mais-valia]]
 
+## Ver também (Engels, 1845)
+- [[A Situação da Classe Trabalhadora na Inglaterra]]: as *trade unions* como "a primeira tentativa operária para suprimir a concorrência" e as greves como "escola de guerra" (pp. 253, 258)
+
 ## Minhas anotações
