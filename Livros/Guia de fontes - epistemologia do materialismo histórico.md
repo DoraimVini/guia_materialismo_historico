@@ -20,10 +20,12 @@ criado: 2026-11-12
 ## O que o cofre já tem, e o que falta
 **Já fichado:** [[Teses sobre Feuerbach]], [[A Ideologia Alemã]], [[Introdução de 1857]], [[Prefácio de 1859]], [[Posfácio de 1873]], [[Do socialismo utópico ao socialismo científico]], [[Materialismo e Empiriocriticismo]], os Cadernos 11 e 12 de Gramsci ([[Cadernos do Cárcere]]), o manual soviético ([[Materialismo Dialético - Academia de Ciências da URSS]]).
 
+**Fichado a partir deste guia:** [[Prefácio à Fenomenologia do Espírito]] (etapa 1), [[Manuscritos de 1844 - Crítica da dialética hegeliana]] (etapa 2), [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]] (etapa 3, partes I, II e IV).
+
 **O que falta** (a lacuna é a ponte com Hegel):
-1. o texto de Hegel: ao menos o Prefácio e o cap. IV da *Fenomenologia*;
-2. o fim dos *Manuscritos de 1844*, a principal leitura de Hegel por Marx;
-3. o *Ludwig Feuerbach* de Engels (1886), a versão "sistema e método";
+1. o cap. IV, A da *Fenomenologia* (senhor e escravo), em edição traduzida;
+2. a carta de 1858 e o cap. 1 de *O Capital* lidos junto com a *Lógica* (etapa 3);
+3. a parte III do *Ludwig Feuerbach*;
 4. os *Cadernos filosóficos* de Lênin (1914-15);
 5. as duas grandes interpretações do século XX: Lukács (*O jovem Hegel*) e Althusser (*Por Marx*);
 6. a escola brasileira que mais estudou a relação Marx-Hegel (Giannotti, Arantes, Fausto).
@@ -65,16 +67,16 @@ O princípio: **ler em pares**, o texto de Hegel e a resposta marxista ao mesmo 
 
 ### Etapa 1. A matriz: o que Hegel diz (2-3 semanas)
 - **Ler:** o Prefácio da *Fenomenologia* (online) e o cap. IV, A ("Senhorio e servidão"). Como apoio, a *Introdução* de Kojève (só a primeira lição) ou o cap. IV de *O jovem Hegel*.
-- **Produzir:** um fichamento do Prefácio, com as quatro ideias da nota [[Hegel, a Fenomenologia e o materialismo histórico]].
+- **Produzir:** um fichamento do Prefácio, com as quatro ideias da nota [[Hegel, a Fenomenologia e o materialismo histórico]]. **Feito:** [[Prefácio à Fenomenologia do Espírito]]; falta o cap. IV, A.
 - **Pergunta-guia:** em que sentido o "verdadeiro" é um resultado?
 
 ### Etapa 2. A resposta do jovem Marx (2 semanas)
 - **Ler:** o fim dos *Manuscritos de 1844* (online), depois as [[Teses sobre Feuerbach]] (Tese I, o "lado ativo").
-- **Produzir:** o fichamento de "Crítica da dialética e da filosofia hegelianas", com a distinção entre objetivação e alienação.
+- **Produzir:** o fichamento de "Crítica da dialética e da filosofia hegelianas", com a distinção entre objetivação e alienação. **Feito:** [[Manuscritos de 1844 - Crítica da dialética hegeliana]].
 - **Pergunta-guia:** o que Marx elogia e o que recusa no "trabalho" de Hegel?
 
 ### Etapa 3. O método maduro: a *Lógica* e *O Capital* (3-4 semanas)
-- **Ler:** a carta de 1858; a [[Introdução de 1857]] e o [[Posfácio de 1873]] relidos juntos; o cap. 1 de [[O Capital - Livro I]]; o resumo de Lênin.
+- **Ler:** a carta de 1858; a [[Introdução de 1857]] e o [[Posfácio de 1873]] relidos juntos; o cap. 1 de [[O Capital - Livro I]]; o resumo de Lênin; e, para a versão de Engels, [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]] (**fichado**).
 - **Apoio:** Ruy Fausto, *Marx: lógica e política*, ou Jorge Grespan.
 - **Produzir:** uma nota sobre "o núcleo racional", respondendo à Questão 32.
 - **Pergunta-guia:** a ordem das categorias de *O Capital* imita a *Lógica*?

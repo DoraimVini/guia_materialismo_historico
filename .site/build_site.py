@@ -25,6 +25,8 @@ MODULES = [
      "Como Marx e Engels pensam o conhecimento: do ser social à crítica da ideologia. Comece aqui se a pergunta for \"com que método se estuda a história?\".", "epist",
      ["Materialismo histórico", "Materialismo dialético", "Epistemologia do materialismo histórico",
       "Epistemologia do método de Hobsbawm", "Hegel, a Fenomenologia e o materialismo histórico",
+      "Prefácio à Fenomenologia do Espírito", "Manuscritos de 1844 - Crítica da dialética hegeliana",
+      "Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã",
       "Guia de fontes - epistemologia do materialismo histórico", "Prefácio de 1859",
       "Primazia do ser social", "A Ideologia Alemã", "Ideologia e ideias dominantes", "Teses sobre Feuerbach",
       "Introdução de 1857", "Do abstrato ao concreto pensado", "Prática como critério de verdade",

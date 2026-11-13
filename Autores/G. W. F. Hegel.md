@@ -17,6 +17,7 @@ Georg Wilhelm Friedrich Hegel (1770-1831), filósofo alemão. Não é marxista, 
 - *Lições sobre a filosofia da história*: a razão na história.
 
 ## Notas
+- [[Prefácio à Fenomenologia do Espírito]]: fichamento do Prefácio inteiro
 - [[Hegel, a Fenomenologia e o materialismo histórico]]: o que a *Fenomenologia* deu ao marxismo, de Marx (1844) a Althusser (1969)
 - [[Guia de fontes - epistemologia do materialismo histórico]]
 - Onde Hegel aparece no cofre: [[Posfácio de 1873]], [[Introdução de 1857]], [[Do socialismo utópico ao socialismo científico]], [[Historicismo absoluto]], [[Materialismo dialético]]

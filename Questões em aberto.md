@@ -43,7 +43,7 @@ Se a ciência se separa da ideologia por uma ruptura epistemológica, qual é o 
 Engels estende a dialética à natureza. Lukács a restringe à realidade social. Isso decide se o materialismo dialético é uma ontologia geral ou um método para o ser social.
 
 - Ver: [[Materialismo dialético]], [[Friedrich Engels]], [[Georg Lukács]], [[Hegel, a Fenomenologia e o materialismo histórico]]
-- Textos para testar: *Dialética da Natureza*; [[História e Consciência de Classe]]; [[Do socialismo utópico ao socialismo científico]]
+- Textos para testar: *Dialética da Natureza*; [[História e Consciência de Classe]]; [[Do socialismo utópico ao socialismo científico]]; [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]] (parte IV: a dialética como "ciência das leis universais do movimento, tanto do mundo exterior como do pensar humano")
 - Hipótese:
 - Objeções:
 
@@ -266,6 +266,7 @@ Em 1844, Marx elogia a *Fenomenologia* por apreender o homem "como o resultado d
 
 - Ver: [[Hegel, a Fenomenologia e o materialismo histórico]], [[Posfácio de 1873]], [[Introdução de 1857]], [[Ruptura epistemológica]], [[Guia de fontes - epistemologia do materialismo histórico]]
 - Textos para testar: o fim dos *Manuscritos de 1844*; a carta a Engels de 16/1/1858; o cap. 1 de [[O Capital - Livro I]]; Lukács, *O jovem Hegel*, cap. IV
+- Achados da leitura: Hegel diz que "o método não é outra coisa que a estrutura do todo" ([[Prefácio à Fenomenologia do Espírito]]), o que pesa contra a separação de Engels entre método e sistema ([[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]]); Marx elogia na *Fenomenologia* o trabalho, e não o método ([[Manuscritos de 1844 - Crítica da dialética hegeliana]]).
 - Hipótese:
 - Objeções:
 

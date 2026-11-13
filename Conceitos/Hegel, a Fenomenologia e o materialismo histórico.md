@@ -72,7 +72,7 @@ E a frase que liga Hegel à economia:
 
 A crítica: em Hegel, a atividade "viva, sensória e concreta" se reduz a "negatividade absoluta", e o processo é a "expressão abstrata, lógica e especulativa do processo histórico", que ainda não é "a verdadeira história do homem". *(lido e conferido no mesmo texto)* Por isso, o materialismo histórico pode ser lido como a tentativa de fazer a história que Hegel só pensou em forma lógica. *(leitura minha)*
 
-**Atenção para um mito comum.** Marx não discute, nos *Manuscritos*, a passagem do senhor e do escravo; a crítica dele vai ao capítulo final, o do saber absoluto. A ideia de que o senhor e o escravo seriam a "origem" da luta de classes vem sobretudo da leitura de Kojève nos anos 1930. *(de memória, conferir: ler o texto inteiro de 1844 para confirmar)*
+**Atenção para um mito comum.** Marx não discute, nos *Manuscritos*, a passagem do senhor e do escravo; a crítica dele vai ao capítulo final, o do saber absoluto. A ideia de que o senhor e o escravo seriam a "origem" da luta de classes vem sobretudo da leitura de Kojève nos anos 1930. *(conferido no texto de 1844: a única menção é o título "dominação e servidão", no sumário que Marx copia; ver [[Manuscritos de 1844 - Crítica da dialética hegeliana]]. A atribuição a Kojève segue de memória.)*
 
 ## 2. Marx, 1857-1873: da *Fenomenologia* à *Lógica*
 - **A carta de 1858.** Enquanto escrevia os *Grundrisse*, Marx releu a *Lógica* por acaso:
@@ -140,6 +140,13 @@ Os dois polos em uma frase cada:
 ## 7. E Hobsbawm?
 *(leitura minha)* Hobsbawm não discute Hegel em *Era dos Extremos*, mas responde aos que viram o "fim da história" na queda da URSS (PDF p. 20, ver [[A Era dos Extremos]]). A fórmula de Fukuyama vem da leitura de Kojève da *Fenomenologia*. *(de memória, conferir)* Quando Hobsbawm recusa a profecia e diz que o futuro não pode ser o prolongamento do presente, ele recusa também o "saber absoluto" na versão liberal.
 
+## O que a leitura dos textos inteiros acrescentou
+Os três fichamentos das etapas 1 a 3 do roteiro ([[Prefácio à Fenomenologia do Espírito]], [[Manuscritos de 1844 - Crítica da dialética hegeliana]], [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]]) corrigem ou precisam esta nota em quatro pontos:
+1. **"De cabeça para baixo" é uma imagem do próprio Hegel.** No Prefácio, é a consciência comum que, ao entrar na ciência, tenta "andar de cabeça para baixo". Marx (1873) e Engels (1886) devolvem a imagem contra Hegel.
+2. **Hegel não separa método e conteúdo.** "O método não é outra coisa que a estrutura do todo" (Prefácio). A separação de Engels entre método revolucionário e sistema conservador é uma tese de Engels, não uma leitura neutra de Hegel.
+3. **A mesma imagem do dinheiro, em sentidos opostos.** Hegel: a verdade "não é uma moeda cunhada". Marx (1844): "a lógica é o dinheiro da mente". Um recusa a verdade pronta; o outro denuncia a abstração indiferente a todo conteúdo.
+4. **Duas noções de prática.** Engels refuta Kant com "a experimentação e a indústria"; as Teses de Marx falam de atividade "prático-crítica". A primeira é a do laboratório; a segunda, a da transformação social. *(leitura minha)*
+
 ## Perguntas
 1. O que exatamente é o "núcleo racional" que Marx diz ter tirado de Hegel? Ele está na *Fenomenologia* (o trabalho, a alienação) ou na *Lógica* (a ordem das categorias)? Questão 32.
 2. A separação de Engels entre sistema e método é fiel a Hegel? E a Marx?
@@ -147,7 +154,7 @@ Os dois polos em uma frase cada:
 4. A dialética do senhor e do escravo tem lugar legítimo numa leitura de Marx, ou é uma projeção de Kojève?
 
 ## Para continuar
-Ver o roteiro de leitura em [[Guia de fontes - epistemologia do materialismo histórico]].
+Ver o roteiro de leitura em [[Guia de fontes - epistemologia do materialismo histórico]]. Fichamentos já feitos: [[Prefácio à Fenomenologia do Espírito]], [[Manuscritos de 1844 - Crítica da dialética hegeliana]], [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]].
 
 ## Ver também
 - [[Epistemologia do materialismo histórico]]
