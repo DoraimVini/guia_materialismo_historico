@@ -46,6 +46,7 @@ Questão 15 em [[Questões em aberto]].
 - [[Antonio Gramsci]]
 
 ## Ver também
+- [[Fascismo]]: Hobsbawm explica a vitória do fascismo pelo colapso do "maquinário de poder, influência e hegemonia" das velhas classes dominantes ([[Era dos Extremos, cap. 4 - A queda do liberalismo]], p. 155)
 - [[Filosofia da práxis]]
 - [[Bloco histórico]]
 - [[Senso comum e bom senso]]

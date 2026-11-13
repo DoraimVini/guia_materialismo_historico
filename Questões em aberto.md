@@ -5,6 +5,7 @@ tags:
 criado: 2026-11-12
 ---
 
+
 # Questões em aberto
 
 Perguntas que orientam o estudo. Para cada uma: formular a hipótese, apontar o que a testaria e registrar as objeções.
@@ -251,6 +252,13 @@ Marx (1865) chama os sindicatos de "centro de resistência" e pede que se mire a
 A Ideologia Alemã afirma que "não é a consciência que determina a vida, é a vida que determina a consciência", e que as ideias dominantes são as da classe dominante; mas também que a transformação vem da revolução, "não da crítica". Como isso se concilia com a Tese III sobre Feuerbach (os homens fazem as circunstâncias) e com as respostas de Lênin e Lukács?
 
 - Ver: [[Ideologia e ideias dominantes]], [[A Ideologia Alemã]], [[Teses sobre Feuerbach]], [[Consciência de fora e espontaneidade]], [[Totalidade e consciência atribuída]]
+- Hipótese:
+- Objeções:
+## 31. O fascismo expressa o capital ou só o serve?
+Hobsbawm recusa a tese soviética de que o fascismo foi "a expressão do capital monopolista": o grande capital se acomoda a qualquer regime que não o exproprie, e só apoiou Hitler tarde. Mas ele mostra que o fascismo derrotou a revolução, eliminou os sindicatos e deu ao capital a saída mais favorável da Depressão. Isso refuta a leitura marxista, ou pede uma versão com autonomia relativa do Estado (Gramsci, Thalheimer, Poulantzas)? E onde fica o Estado Novo de Vargas, que Hobsbawm separa do fascismo porque criou um movimento trabalhista?
+
+- Ver: [[Fascismo]], [[Era dos Extremos, cap. 4 - A queda do liberalismo]], [[Teoria marxista do Estado]], [[Hegemonia]]
+- Textos para testar: [[Cadernos do Cárcere]] (Caderno 13, não fichado); Dimitrov (1935) e Poulantzas, *Fascismo e ditadura* (não lidos)
 - Hipótese:
 - Objeções:
 

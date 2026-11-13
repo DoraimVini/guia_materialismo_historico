@@ -18,12 +18,12 @@ Primeira parte de *A Era dos Extremos* (caps. 1 a 7): das duas guerras mundiais 
 1. A era da guerra total ([[Hobsbawm - Era dos Extremos.pdf#page=31|p. 31]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 1 - A era da guerra total]]
 2. A revolução mundial ([[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 2 - A revolução mundial]]
 3. Rumo ao abismo econômico ([[Hobsbawm - Era dos Extremos.pdf#page=107|p. 107]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]
-4. A queda do liberalismo ([[Hobsbawm - Era dos Extremos.pdf#page=135|p. 135]])
+4. A queda do liberalismo ([[Hobsbawm - Era dos Extremos.pdf#page=135|p. 135]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 4 - A queda do liberalismo]] e a síntese [[Fascismo]]
 5. Contra o inimigo comum ([[Hobsbawm - Era dos Extremos.pdf#page=174|p. 174]])
 6. As artes 1914-45 ([[Hobsbawm - Era dos Extremos.pdf#page=216|p. 216]])
 7. O fim dos impérios ([[Hobsbawm - Era dos Extremos.pdf#page=241|p. 241]])
 
-Os capítulos 1, 2 e 3 foram lidos por inteiro. Dos demais, li a abertura do capítulo 4 e só parágrafos soltos.
+Os capítulos 1 a 4 foram lidos por inteiro. Dos capítulos 5 a 7, só parágrafos soltos.
 
 ## O que o livro diz
 - **A guerra como início.** O cap. 1 diz que não se compreende o Breve Século XX sem a guerra mundial de 31 anos (1914-45) e que ele "viveu e pensou em termos de guerra mundial, mesmo quando os canhões se calavam" (p. 34).
@@ -54,7 +54,7 @@ Os capítulos 1, 2 e 3 foram lidos por inteiro. Dos demais, li a abertura do cap
 > "Até 1938, havia talvez dezessete desses Estados, em 1944 talvez doze, de um total global de 65."
 > — PDF p. 139 · cap. 4 · [[Hobsbawm - Era dos Extremos.pdf#page=139|abrir]]
 
-- **O perigo vinha da direita.** Entre as guerras, a ameaça às instituições liberais vinha só da direita; o fascismo "deu à direita internacional um senso de confiança histórica" (p. 139). O rótulo "fascismo" é, diz ele, "insuficiente mas não inteiramente irrelevante".
+- **O perigo vinha da direita.** Entre as guerras, a ameaça às instituições liberais vinha só da direita; o fascismo "deu à direita internacional um senso de confiança histórica" (p. 139). O rótulo "fascismo" é, diz ele, "insuficiente mas não inteiramente irrelevante". Lido o capítulo inteiro: há três direitas antiliberais (autoritários tradicionais, corporativistas e fascistas), o traço próprio do fascismo é a mobilização de massas, e ele chega ao poder onde ruíram os velhos regimes e seu "maquinário de poder, influência e hegemonia" (p. 155). Ver [[Fascismo]].
 > "deu à direita internacional um senso de confiança histórica"
 > — PDF p. 139 · cap. 4 · [[Hobsbawm - Era dos Extremos.pdf#page=139|abrir]]
 
@@ -73,6 +73,7 @@ Os capítulos 1, 2 e 3 foram lidos por inteiro. Dos demais, li a abertura do cap
 - [[Eric Hobsbawm]]
 
 ## Ver também
+- [[Fascismo]]
 - [[Breve século XX]]
 - [[Era de Ouro]]
 - [[A Era dos Extremos]]
