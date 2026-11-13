@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Força de trabalho
 
 > [!info] Como ler as marcas
-> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a sua edição e preencher as páginas.
+> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a edição em papel e preencher as páginas.
 
 ## Em uma frase
 O que o operário vende não é "o trabalho", mas a sua capacidade de trabalhar por um tempo, e essa capacidade tem um valor como qualquer mercadoria.
@@ -27,7 +27,7 @@ Fichamentos: [[O Capital - Livro I]] (cap. 4 §3) e [[Salário, Preço e Lucro]]
 Se o operário vendesse o trabalho, e o salário pagasse esse trabalho, o salário seria igual ao valor criado e não haveria mais-valia. Ao vender a força de trabalho, o valor dela (o necessário à subsistência) difere do valor que ela produz no uso. Ver [[Mais-valia]].
 
 ## O "elemento histórico e moral"
-O valor da força de trabalho depende de costumes, hábitos e do nível de luta da classe. Ele não é um dado puramente natural: é um ponto onde a economia depende de história e política. Ver [[Primazia do ser social]]. *(leitura minha)*
+O valor da força de trabalho depende de costumes, hábitos e do nível de luta da classe. Ele não é um dado puramente natural: é um ponto onde a economia depende de história e política. Ver [[Primazia do ser social]]. *(interpretação)*
 
 ## Aparência do "preço do trabalho"
 No cap. 9 de *Salário, Preço e Lucro*: "o valor ou preço da força de trabalho toma a aparência do preço ou valor do próprio trabalho". O salário esconde a divisão entre trabalho pago e não pago. Ver [[Fetichismo da mercadoria]] e [[Crítica da ideologia e historicidade das categorias]].

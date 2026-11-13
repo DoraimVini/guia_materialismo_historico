@@ -39,7 +39,7 @@ Autores que discutem materialismo histórico e dialético, organizados por corre
 
 ## Estudo
 - [[Questões em aberto]]
-- [[Conferências pendentes]]: o que falta conferir com a sua edição e o que falta ler
+- [[Conferências pendentes]]: o que falta conferir com a edição em papel e o que falta ler
 - [[Inbox]]
 - Fichamentos: [[A Ideologia Alemã]], [[Princípios Básicos do Comunismo]], [[Trabalho Assalariado e Capital]], [[Que Fazer (Lênin)]], [[Imperialismo, fase superior do capitalismo (Lênin)]], [[Lênin - textos curtos (1901-1905)]], [[Tática e Ética (Lukács)]], [[Consciência de Classe (Lukács, 1920)]], [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]], [[Lei do desenvolvimento desigual e combinado (Lora)]], [[Descartes, materialismo e dualismo (Teixeira)]], [[Reforma ou Revolução]], [[Greve de massas, partido e sindicatos]], [[A Revolução Russa (1918)]], [[A Acumulação do Capital]], [[Imperialismo (1914)]], [[Do socialismo utópico ao socialismo científico]], [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Cadernos do Cárcere]], [[História e Consciência de Classe]], [[Ler O Capital]], [[A Miséria da Teoria]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]], [[O Capital - Livro I]], [[Salário, Preço e Lucro]], [[A Era dos Extremos]], [[Manifesto para a renovação da história]], [[Depoimento (1989)]], [[Obituário de E. P. Thompson]], [[A Origem da Família, da Propriedade Privada e do Estado]], [[Materialismo Dialético - Academia de Ciências da URSS]], [[Compêndio de História da Filosofia]]
 - Modelos de nota ficam em `Modelos/` (fichamento, conceito, autor)
@@ -62,4 +62,4 @@ No Obsidian, abra o grafo (Ctrl+G): cada ponto tem a cor do assunto da nota. As 
 Cada nota recebe uma cor só (a do assunto principal). Se uma nota pertence a dois assuntos, os links entre os pontos mostram a ponte.
 
 > [!note] Origem
-> Conteúdo organizado a partir do doc "Autores do materialismo histórico e dialético" (12/11/2026). As referências foram escritas de memória e merecem conferência.
+> Conteúdo organizado a partir do doc "Autores do materialismo histórico e dialético" (12/11/2026). As referências não foram conferidas na fonte e merecem conferência.

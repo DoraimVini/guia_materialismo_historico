@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Era da Catástrofe
 
 > [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos*** que você enviou, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso cito também o capítulo. Os resumos são paráfrases minhas. O que não li, ou que vem de memória ou de resenha, termina com *(conferir)*.
+> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
 
 ## Em uma frase
 Primeira parte de *A Era dos Extremos* (caps. 1 a 7): das duas guerras mundiais ao fim dos impérios, passando pela revolução, pela Grande Depressão e pela queda do liberalismo.
@@ -58,15 +58,15 @@ Os capítulos 1 a 4 foram lidos por inteiro. Dos capítulos 5 a 7, só parágraf
 > "deu à direita internacional um senso de confiança histórica"
 > — PDF p. 139 · cap. 4 · [[Hobsbawm - Era dos Extremos.pdf#page=139|abrir]]
 
-- **Antifascismo (cap. 5).** Só li o começo: em janeiro de 1939, 83% dos americanos preferiam a vitória soviética a uma alemã numa guerra URSS-Alemanha (p. 176), o que Hobsbawm chama de anomalia num século de confronto entre comunismo e capitalismo.
+- **Antifascismo (cap. 5).** Só o começo foi lido: em janeiro de 1939, 83% dos americanos preferiam a vitória soviética a uma alemã numa guerra URSS-Alemanha (p. 176), o que Hobsbawm chama de anomalia num século de confronto entre comunismo e capitalismo.
 - **Eurocentrismo (cap. 7).** Em trecho do capítulo, ele diz que a história do mundo não ocidental no Breve Século XX é "derivada, não original" em sua dinâmica, e que se opõe ao que E. P. Thompson chamou de "enorme condescendência" (p. 243). *(ler o capítulo para entender o alcance dessa frase)*
 
-## Erros da versão anterior que esta leitura corrige
-- A nota dizia que o fascismo "teria atraído por eficiência técnica" (Wikipédia). Não encontrei isso nos trechos lidos.
+## Fontes secundárias conferidas no livro
+- A Wikipédia afirma que o fascismo "teria atraído por eficiência técnica". A frase não aparece nos trechos lidos.
 
 ## Perguntas
 - A expressão "catástrofe" é descritiva ou explicativa? O que unifica guerra, depressão e fascismo? Hobsbawm responde, em parte, com o colapso econômico.
-- Como o capítulo 3 ("Rumo ao abismo econômico") se relaciona com [[Acumulação de capital]] e [[Queda tendencial da taxa de lucro]]? O texto que li não usa essas categorias: fala em ciclos, ondas longas de Kondratiev e "globalização". Lido o capítulo inteiro, isso se confirma: as duas explicações que ele apresenta são o desequilíbrio internacional (os EUA sem papel de estabilizador) e a falta de demanda (salários atrás da produtividade, "superprodução e especulação", p. 124). Ver [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]].
+- Como o capítulo 3 ("Rumo ao abismo econômico") se relaciona com [[Acumulação de capital]] e [[Queda tendencial da taxa de lucro]]? Os trechos lidos não usam essas categorias: fala em ciclos, ondas longas de Kondratiev e "globalização". Lido o capítulo inteiro, isso se confirma: as duas explicações que ele apresenta são o desequilíbrio internacional (os EUA sem papel de estabilizador) e a falta de demanda (salários atrás da produtividade, "superprodução e especulação", p. 124). Ver [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]].
 - A [[Teoria do reflexo]] e a [[Filosofia da práxis]] se aplicam de modo diferente à Revolução de 1917? Hobsbawm descreve Lênin concluindo que não havia condições na Rússia, o que pesa na leitura de [[Lênin]], [[Trotsky]] e [[Stalin]].
 
 ## Autores

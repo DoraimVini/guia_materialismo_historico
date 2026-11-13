@@ -14,10 +14,10 @@ criado: 2026-11-12
 Autor: [[Eric Hobsbawm]]
 
 > [!info] Como ler as marcas
-> **Ainda não li o livro *A Era dos Extremos*.** Esta nota usa: a página da edição brasileira (Companhia das Letras), a [página da Wikipédia em inglês](https://en.wikipedia.org/wiki/The_Age_of_Extremes), as resenhas de Cavallaro Filho (2022) e de Pomar (1997/98), e três textos do próprio Hobsbawm no marxists.org: o *Depoimento* (1989), o obituário de E. P. Thompson (1993) e o *Manifesto para a renovação da história* (2004). Os resumos são paráfrases minhas. O que não vem dessas leituras termina com *(conferir)*. Para citar, é preciso a sua edição: as páginas ficam como `página: ___`.
+> **Nota anterior à leitura de *A Era dos Extremos*.** Fontes: a página da edição brasileira (Companhia das Letras), a [página da Wikipédia em inglês](https://en.wikipedia.org/wiki/The_Age_of_Extremes), as resenhas de Cavallaro Filho (2022) e de Pomar (1997/98), e três textos do próprio Hobsbawm no marxists.org: o *Depoimento* (1989), o obituário de E. P. Thompson (1993) e o *Manifesto para a renovação da história* (2004). Os resumos são paráfrases. O que não vem dessas leituras termina com *(conferir)*. Para citar, é preciso uma edição em papel: as páginas ficam como `página: ___`.
 
 ## Referência
-Eric Hobsbawm, *Manifesto para a renovação da história*, texto apresentado no Colóquio da Academia Britânica sobre Historiografia Marxista, 13 de novembro de 2004. Versão online: [marxists.org (PDF)](https://www.marxists.org/portugues/hobsbawm/2004/11/13.pdf). A página não indica tradutor. Sua edição:
+Eric Hobsbawm, *Manifesto para a renovação da história*, texto apresentado no Colóquio da Academia Britânica sobre Historiografia Marxista, 13 de novembro de 2004. Versão online: [marxists.org (PDF)](https://www.marxists.org/portugues/hobsbawm/2004/11/13.pdf). A página não indica tradutor. Edição de referência:
 
 ## Por que ler
 É um programa curto para a história, escrito no fim da vida. Mostra o que Hobsbawm espera da historiografia marxista. Ver [[História social marxista]].
@@ -38,7 +38,7 @@ Eric Hobsbawm, *Manifesto para a renovação da história*, texto apresentado no
 3. Os adversários são o relativismo e a fragmentação identitária, que negam a possibilidade de explicar objetivamente.
 4. A experiência dos projetos coletivos do século XX pode ajudar a entender o que a humanidade fez e não pretendia.
 
-> [!question] Leitura minha
+> [!question] Interpretação
 > A defesa da "razão" contra o relativismo supõe um critério de verdade histórica. A Questão 3 pergunta qual. Hobsbawm responde com a ideia de uma coalizão de historiadores, não com um critério formal. É suficiente?
 
 ## Debate crítico
@@ -49,7 +49,7 @@ Eric Hobsbawm, *Manifesto para a renovação da história*, texto apresentado no
 - O que torna a posição marxista "necessária" e não só útil?
 - A defesa da universalidade é compatível com a ênfase marxista no ponto de vista de classe?
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Ler o texto completo (o resumo foi extraído de uma página online) e anotar a página das frases usadas.
 
 ## Conceitos relacionados

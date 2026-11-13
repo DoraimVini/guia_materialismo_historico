@@ -11,7 +11,7 @@ criado: 2026-11-12
 # Fascismo
 
 > [!info] Como ler as marcas
-> A primeira parte vem do **PDF de *Era dos Extremos*** que você enviou, capítulos 2, 3 e 4 lidos por inteiro; as citações estão nos fichamentos, conferidas por script, e a página é a do PDF. A seção "Teorias marxistas do fascismo" **não vem do livro**: é um mapa de leitura de memória, e tudo nela termina com *(conferir)* até ser lido na fonte.
+> A primeira parte vem do **PDF de *Era dos Extremos***, capítulos 2, 3 e 4 lidos por inteiro; as citações estão nos fichamentos, conferidas por script, e a página é a do PDF. A seção "Teorias marxistas do fascismo" **não vem do livro**: é um mapa de leitura sem conferência na fonte, e tudo nela termina com *(conferir)* até ser lido na fonte.
 
 ## Em uma frase
 Para Hobsbawm, o fascismo é a forma nova da direita antiliberal do entreguerras: uma contrarrevolução que mobiliza massas de baixo para cima, chega ao poder pela mão dos velhos regimes em colapso e, sem ser criado pelo grande capital, lhe presta os maiores serviços.
@@ -34,7 +34,7 @@ Hobsbawm se posiciona contra a primeira e em diálogo implícito com as outras.
 - **August Thalheimer.** O fascismo como forma de **bonapartismo**, a partir do *18 de Brumário* de Marx: a burguesia entrega o poder político para salvar o poder social. *(conferir)* Liga-se à exceção de Engels na [[Teoria marxista do Estado]] ("certa independência momentânea" do Estado).
 - **Nicos Poulantzas**, *Fascismo e ditadura* (1970): o fascismo como forma de "Estado de exceção" numa crise de hegemonia do bloco no poder. *(conferir)*
 
-## Onde Hobsbawm fica nesse mapa *(leitura minha)*
+## Onde Hobsbawm fica nesse mapa *(interpretação)*
 Ele recusa a versão **instrumental** (o capital cria e dirige o fascismo) e fica perto das versões que dão ao Estado e à crise política uma **autonomia relativa** (Gramsci, Thalheimer, Poulantzas): o fascismo é uma resposta a uma crise de hegemonia, que serve aos interesses do capital sem ser comandada por ele. Mas Hobsbawm não usa esse vocabulário teórico: argumenta como historiador, por comparação de casos e por dados.
 
 ## Brasil

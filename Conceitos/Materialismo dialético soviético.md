@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Materialismo dialético soviético
 
 > [!info] Como ler as marcas
-> Esta nota vem dos **epubs que você enviou**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases minhas. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
+> Esta nota vem dos **epubs da pasta `Livros/`**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
 
 ## Em uma frase
 É a versão codificada do materialismo dialético que se tornou doutrina oficial na União Soviética: um sistema com quatro traços do método, teoria do reflexo e filosofia partidária.
@@ -36,7 +36,7 @@ criado: 2026-11-12
 - **Origem do termo.** O manual não diz quem criou a expressão. Ele menciona Dietzgen só para dizer que Lênin o criticou por "terminologia pouco precisa" ao tratar do ideal e do material. Continua *(conferir)* que Plekhanov ou Dietzgen tenham usado o termo antes.
 - **Distância de Marx.** Marx nunca usou a expressão (ver [[Materialismo dialético]]). Os manuais atribuem a criação do sistema a Marx e Engels e o desenvolvimento a Lênin e Stálin.
 
-## Críticas (de memória)
+## Críticas (conferir)
 - A tradição da práxis ([[Georg Lukács]], [[Karl Korsch]], [[Antonio Gramsci]]) vê aqui o materialismo contemplativo que as [[Teses sobre Feuerbach]] criticam. *(conferir)*
 - [[Louis Althusser]] critica o dogmatismo, mas conserva a pretensão de ciência. [[E. P. Thompson]] o trata como parte do problema, em [[A Miséria da Teoria]]. *(conferir)*
 - Gramsci criticou o *Ensaio popular* de [[Bukharin]] (conferido nos PDFs: [[Cadernos do Cárcere]]), por seu realismo ingênuo, pela teoria do "instrumento técnico" e por não definir a filosofia da práxis. Isso é anterior aos manuais de 1954 (Gramsci morreu em 1937), então a crítica não os atinge diretamente. Ver [[Objetividade histórica]] e Questão 16.

@@ -14,10 +14,10 @@ criado: 2026-11-12
 Autor: [[Karl Marx]]
 
 > [!info] Como ler as marcas
-> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto vem de memória e termina com *(conferir)*. Falta conferir tudo com a sua edição.
+> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto não foi conferido na fonte e termina com *(conferir)*. Falta conferir tudo com uma edição em papel.
 
 ## Referência
-Karl Marx, Posfácio à segunda edição alemã de *O Capital*, livro I (a página do marxists.org traz "1872" no título; o texto é de 1873). Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1873/01/24.htm), tradução de José Barata-Moura (*Obras Escolhidas*, Avante!, 1982). Sua edição:
+Karl Marx, Posfácio à segunda edição alemã de *O Capital*, livro I (a página do marxists.org traz "1872" no título; o texto é de 1873). Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1873/01/24.htm), tradução de José Barata-Moura (*Obras Escolhidas*, Avante!, 1982). Edição de referência:
 
 ## Por que ler
 É a descrição que Marx faz do próprio método, e a base da distinção entre investigação e exposição. Sustenta [[Método como reprodução ideal do real]] e entra na Questão 3 de [[Questões em aberto]].
@@ -26,7 +26,7 @@ Karl Marx, Posfácio à segunda edição alemã de *O Capital*, livro I (a pági
 A resposta de Marx à resenha de Kaufman e as frases sobre Hegel.
 
 > [!note] Paráfrase e citação
-> Os resumos são paráfrases minhas. Só as aspas da seção "Citações" foram conferidas literalmente. Os detalhes da resenha de Kaufman (periódico, ano, pontos citados) devem ser conferidos. *(conferir)*
+> Os resumos são paráfrases. Só as aspas da seção "Citações" foram conferidas literalmente. Os detalhes da resenha de Kaufman (periódico, ano, pontos citados) devem ser conferidos. *(conferir)*
 
 ## Roteiro do texto
 1. **Investigação e exposição.** Marx distingue o modo de exposição do modo de investigação. A investigação se apropria do material em pormenor e analisa suas formas de desenvolvimento.
@@ -40,7 +40,7 @@ A resposta de Marx à resenha de Kaufman e as frases sobre Hegel.
 3. O ideal (o pensamento) é "o material transposto e traduzido na cabeça do homem". Em Hegel, o processo de pensamento seria o demiurgo do real; em Marx, o pensamento é o real transposto.
 4. A dialética que sobra é a que estuda a lei do movimento e da passagem de uma forma social a outra.
 
-> [!question] Leitura minha
+> [!question] Interpretação
 > Marx endorsa a descrição de Kaufman de que o movimento social é processo histórico-natural regido por leis independentes da vontade e da consciência. Isso contrasta com a Tese III de [[Teses sobre Feuerbach]] (a coincidência entre mudar as circunstâncias e a atividade humana como práxis revolucionante). É um ponto para a Questão 1: ciência de leis ou filosofia da práxis?
 
 ## Citações (com página)
@@ -69,9 +69,9 @@ A resposta de Marx à resenha de Kaufman e as frases sobre Hegel.
 - Se o ideal é o material transposto, qual a diferença entre isso e a [[Teoria do reflexo]]? (Questão 1)
 - A concordância com Kaufman (leis independentes da consciência) é compatível com a práxis revolucionante da Tese III?
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Anotar a página de cada citação.
-- [ ] Ler a resenha de Kaufman completa, se a sua edição a traz.
+- [ ] Ler a resenha de Kaufman completa, se a edição usada a traz.
 
 ## Conceitos relacionados
 - [[Método como reprodução ideal do real]]

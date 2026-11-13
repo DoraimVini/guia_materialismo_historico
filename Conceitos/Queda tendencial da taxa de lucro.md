@@ -9,13 +9,13 @@ criado: 2026-11-12
 # Queda tendencial da taxa de lucro
 
 > [!info] Como ler as marcas
-> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a sua edição e preencher as páginas.
+> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a edição em papel e preencher as páginas.
 
 ## Em uma frase
 Com o aumento da composição orgânica do capital, a taxa de lucro tende a cair, mesmo que a taxa de mais-valia suba.
 
 ## Base textual
-*O Capital* III, cap. 13 (versão inglesa do marxists.org, edição de Engels; a página não indica tradutor). As citações são em inglês e a tradução é minha.
+*O Capital* III, cap. 13 (versão inglesa do marxists.org, edição de Engels; a página não indica tradutor). As citações são em inglês, com tradução livre.
 - "The progressive tendency of the general rate of profit to fall is, therefore, just ... an expression peculiar to the capitalist mode of production." (a tendência progressiva de queda da taxa geral de lucro é "uma expressão peculiar ao modo de produção capitalista")
 - O modo de produção capitalista produz "a continuously rising organic composition of the total capital."
 - A taxa de mais-valia, mesmo igual ou crescente, "is represented by a continually falling general rate of profit."
@@ -28,7 +28,7 @@ Com o aumento da composição orgânica do capital, a taxa de lucro tende a cair
 3. Como só v produz mais-valia, a taxa de lucro cai, salvo contratendências.
 
 ## "Tendência"
-Marx a chama de **tendência**, e os debates giram em torno disso. Existem causas contrariantes (cap. 14 do livro III: aumento da exploração, barateamento do capital constante, etc.), mas não as li. *(conferir)*
+Marx a chama de **tendência**, e os debates giram em torno disso. Existem causas contrariantes (cap. 14 do livro III: aumento da exploração, barateamento do capital constante, etc.), ainda não lidas. *(conferir)*
 
 ## Debates
 - **Teorema de Okishio** (1961): se os capitalistas só adotam técnicas que reduzem custos, a taxa de lucro não cai. Os defensores da lei respondem com interpretações alternativas do valor. *(conferir)*

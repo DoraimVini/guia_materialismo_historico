@@ -14,7 +14,7 @@ criado: 2026-11-12
 Autor: Guillermo Lora (ensaio) e seleção do POR. Fonte central da lei: [[Trotsky]]
 
 > [!info] Como ler as marcas
-> Esta nota vem de um **PDF que você enviou**, com texto extraível. As citações foram **localizadas por script no texto do PDF**; cada uma traz a página do PDF e um link `abrir`. As páginas citadas são as **impressas** (o PDF tem uma a mais). Comentários de entrevistados são **interpretações deles**, não textos de Rosa. Os resumos são paráfrases minhas, e o que vem de memória termina com *(conferir)*.
+> Esta nota vem de um **PDF da pasta `Livros/`**, com texto extraível. As citações foram **localizadas por script no texto do PDF**; cada uma traz a página do PDF e um link `abrir`. As páginas citadas são as **impressas** (o PDF tem uma a mais). Comentários de entrevistados são **interpretações deles**, não textos de Rosa. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
 
 ## Referência
 Partido Operário Revolucionário (POR, Brasil), *Lei do desenvolvimento desigual e combinado: apontamentos sobre a lei do desenvolvimento combinado, de Guillermo Lora; extratos de Trotsky, Lênin, Rosa Luxemburgo, Engels e Marx*, folheto de abril de 2021, elaborado para uma Escola de Quadros em Fortaleza. O ensaio de Lora é de dezembro de 1992 e foi traduzido para o folheto. Arquivo: [[Lora - Lei do desenvolvimento desigual e combinado.pdf]].
@@ -29,7 +29,7 @@ Partido Operário Revolucionário (POR, Brasil), *Lei do desenvolvimento desigua
 | Lora, *Lei do desenvolvimento combinado aplicado à Bolívia* (ensaio de 1992) | 6-25 |
 | Extratos 1 a 6 (Trotsky, Lênin, Marx, Engels, Rosa) | 26-112 |
 
-Lido: a apresentação, o ensaio de Lora, e os extratos de Lênin (*Imperialismo*) e de Rosa nas páginas 86-96 do PDF. **Não li** o restante dos extratos de Trotsky nem os de Marx e Engels.
+Lido: a apresentação, o ensaio de Lora, e os extratos de Lênin (*Imperialismo*) e de Rosa nas páginas 86-96 do PDF. **Não foram lidos** o restante dos extratos de Trotsky nem os de Marx e Engels.
 
 ## A lei, formulada por Lora
 > "A lei do desenvolvimento combinado não é mais que a do desenvolvimento desigual aplicada aos países atrasados e, particularmente, nesta época do capitalismo."
@@ -68,7 +68,7 @@ Lora recusa que a relação entre país atrasado e imperialismo seja de dependê
 > — p. 20 (PDF p. 21) · [[Lora - Lei do desenvolvimento desigual e combinado.pdf#page=21|abrir]]
 
 
-Note como Lora usa "dependência": ele rejeita uma leitura de dependência como submissão sem contradição, e propõe uma "revolução combinada" (tarefas democrático-burguesas e socialistas ao mesmo tempo). Isso fala diretamente com o problema de Florestan sobre o que uma burguesia dependente deixa por fazer. Mas **não sei** como Florestan lida com isso *(conferir)*. Ver [[Desenvolvimento desigual e combinado]].
+Note como Lora usa "dependência": ele rejeita uma leitura de dependência como submissão sem contradição, e propõe uma "revolução combinada" (tarefas democrático-burguesas e socialistas ao mesmo tempo). Isso fala diretamente com o problema de Florestan sobre o que uma burguesia dependente deixa por fazer. Mas **não está verificado** como Florestan lida com isso *(conferir)*. Ver [[Desenvolvimento desigual e combinado]].
 
 ## Cuidado de método
 > "Não deve ser tomada como um rótulo para encobrir a ignorância, o desconhecimento da realidade dos países atrasados."

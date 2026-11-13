@@ -14,12 +14,12 @@ criado: 2026-11-12
 Autor: [[Rosa Luxemburgo]]
 
 > [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org lidas pela ferramenta de busca**. Eu não consegui baixar os arquivos, então as aspas foram transcritas pela ferramenta de leitura e **não foram conferidas por script contra um arquivo**, como fiz com os PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, confira no link. Se você me enviar o PDF do livro, refaço com página conferida. Os resumos são paráfrases minhas, e o que vem de memória termina com *(conferir)*.
+> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página online e **não foram conferidas por script contra um arquivo**, ao contrário das notas feitas a partir dos PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
 
 ## Referência
-Rosa Luxemburgo, *A Revolução Russa*, escrito em 1918, na prisão, e publicado depois de sua morte *(conferir)*. Texto em PDF no [marxists.org](https://www.marxists.org/portugues/luxemburgo/1918/mes/40.pdf). As páginas abaixo são as **impressas no volume do PDF**; não identifiquei a edição. As seções (II a IV) seguem o texto lido.
+Rosa Luxemburgo, *A Revolução Russa*, escrito em 1918, na prisão, e publicado depois de sua morte *(conferir)*. Texto em PDF no [marxists.org](https://www.marxists.org/portugues/luxemburgo/1918/mes/40.pdf). As páginas abaixo são as **impressas no volume do PDF**; a edição não está identificada. As seções (II a IV) seguem o texto lido.
 
-## Argumento (do que li)
+## Argumento (nos trechos lidos)
 1. **Elogio.** Os bolcheviques "salvaram" a Revolução Russa e a honra do socialismo internacional, e foram o único partido que fez uma política realmente socialista (seção II).
 2. **Questão agrária.** A distribuição de terras entre os camponeses não criou propriedade social, e sim "uma nova propriedade privada" (seção III).
 3. **Democracia.** O erro fundamental da teoria de Lênin e Trotsky, diz ela, é opor ditadura à democracia, como Kautsky. O socialismo não é outorgado nem decretado, e a liberdade é sempre a de quem pensa de modo diferente (seção IV).
@@ -50,7 +50,7 @@ Rosa Luxemburgo, *A Revolução Russa*, escrito em 1918, na prisão, e publicado
 
 ## Cuidados de leitura
 - É um texto escrito sob prisão, sem acesso a toda a informação, e em polêmica interna. Hobsbawm lembra que a Rússia não estava "madura" para o socialismo segundo os próprios marxistas russos (ver [[Era da Catástrofe]]); Rosa discute exatamente o que fazer nesse cenário.
-- A crítica à Constituinte tem trechos em que ela expõe o argumento dos bolcheviques. Não separei, nas frases lidas, o que é dela e o que é dos adversários, então não citei aquela passagem. *(conferir na edição)*
+- A crítica à Constituinte tem trechos em que ela expõe o argumento dos bolcheviques. Nas frases lidas, não é possível separar o que é dela e o que é dos adversários, e por isso a passagem não é citada. *(conferir na edição)*
 
 ## Perguntas
 - Rosa diz que o socialismo não se decreta; Hobsbawm diz que o planejamento central nasceu de improvisos (ver [[Socialismo real]]). Quem dava a explicação melhor sobre o resultado?

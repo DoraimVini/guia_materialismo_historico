@@ -14,15 +14,15 @@ criado: 2026-11-12
 Autor: João de Fernandes Teixeira *(conferir)*
 
 > [!info] Como ler as marcas
-> O PDF é um **escaneamento sem texto**; eu usei OCR. As colunas saem embaralhadas, então só aceitei como citação trechos curtos que o script achou no OCR. O resto é paráfrase minha, com a página do PDF. O livro de origem é *Como ler a filosofia da mente*, de João de Fernandes Teixeira *(identificado pelos cabeçalhos das páginas)*; o PDF traz as páginas 15 a 39 do livro, aproximadamente.
+> O PDF é um **escaneamento sem texto**; o texto foi obtido por OCR. As colunas saem embaralhadas, então só entram como citação trechos curtos localizados por script no OCR. O resto é paráfrase, com a página do PDF. O livro de origem é *Como ler a filosofia da mente*, de João de Fernandes Teixeira *(identificado pelos cabeçalhos das páginas)*; o PDF traz as páginas 15 a 39 do livro, aproximadamente.
 
 ## Referência
-João de Fernandes Teixeira, *Como ler a filosofia da mente* (capítulos sobre Descartes, o materialismo e o dualismo). O PDF não traz a ficha da edição; **conferir** (identifiquei o livro pelo cabeçalho "Como ler a filosofia da mente / João de Fernandes Teixeira"). Arquivo: [[Teixeira - Descartes, materialismo e dualismo.pdf]].
+João de Fernandes Teixeira, *Como ler a filosofia da mente* (capítulos sobre Descartes, o materialismo e o dualismo). O PDF não traz a ficha da edição; **conferir** (livro identificado pelo cabeçalho "Como ler a filosofia da mente / João de Fernandes Teixeira"). Arquivo: [[Teixeira - Descartes, materialismo e dualismo.pdf]].
 
 > [!warning] Lugar deste texto no cofre
-> É um livro de **filosofia da mente analítica**, não de marxismo. Eu o uso como material de apoio para a pergunta epistemológica "o que é materialismo?", e a relação com o materialismo de Marx fica como hipótese minha, sem apoio no texto.
+> É um livro de **filosofia da mente analítica**, não de marxismo. Entra no cofre como material de apoio para a pergunta epistemológica "o que é materialismo?", e a relação com o materialismo de Marx fica como hipótese, sem apoio no texto.
 
-## Estrutura (do que li, por página do PDF)
+## Estrutura (trechos lidos, por página do PDF)
 | Assunto | PDF |
 | --- | --- |
 | Descartes: três argumentos para a distinção mente-corpo e o problema da interação | 1-3 |
@@ -71,8 +71,8 @@ Chalmers, com o "problema difícil" da consciência; Nagel, com o morcego e os *
 > — PDF p. 10 (texto reconhecido por OCR) · [[Teixeira - Descartes, materialismo e dualismo.pdf#page=10|abrir]]
 
 
-## Perguntas (hipóteses minhas)
-- O materialismo de Marx (e o do manual soviético, ver [[Materialismo dialético soviético]]) é do mesmo tipo que o do debate acima? Em Marx a questão é a primazia do ser social ([[Primazia do ser social]]), e não a identidade entre mente e cérebro. *(leitura minha, a verificar)*
+## Perguntas (hipóteses)
+- O materialismo de Marx (e o do manual soviético, ver [[Materialismo dialético soviético]]) é do mesmo tipo que o do debate acima? Em Marx a questão é a primazia do ser social ([[Primazia do ser social]]), e não a identidade entre mente e cérebro. *(interpretação, a verificar)*
 - O exemplo de Joana d'Arc no texto pede explicação histórica, e não física. Isso se parece com a distinção entre níveis explicativos que o cofre trata em [[Objetividade histórica]]? Ver a Questão 24.
 
 ## Conceitos relacionados

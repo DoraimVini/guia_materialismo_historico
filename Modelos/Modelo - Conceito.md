@@ -7,7 +7,7 @@ criado: {{date}}
 
 # {{title}}
 
-Definição em uma ou duas frases, com as minhas palavras.
+Definição em uma ou duas frases, com palavras próprias.
 
 ## Autores
 - [[ ]]

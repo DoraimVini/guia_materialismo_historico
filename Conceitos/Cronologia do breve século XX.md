@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Cronologia do breve século XX
 
 > [!info] Como ler as marcas
-> Datas gerais de memória, **exceto** as marcadas com "PDF", que foram conferidas em *Era dos Extremos* (páginas do PDF, que não batem com as da edição em papel).
+> Datas gerais não conferidas na fonte, **exceto** as marcadas com "PDF", que foram conferidas em *Era dos Extremos* (páginas do PDF, que não batem com as da edição em papel).
 
 ## Como usar
 Datas de referência para situar as leituras. A maioria vem de conhecimento geral. Conferidas no livro: o período 1914-1991 ([[Hobsbawm - Era dos Extremos.pdf#page=16|p. 16]]), a Era de Ouro de 1947 a 1973 ([[Hobsbawm - Era dos Extremos.pdf#page=19|p. 19]]), a queda dos governos constitucionais em 1920, 1938 e 1944 ([[Hobsbawm - Era dos Extremos.pdf#page=138|p. 138]], [[Hobsbawm - Era dos Extremos.pdf#page=139|p. 139]]) e as recessões de 1973-5 e 1981-3 ([[Hobsbawm - Era dos Extremos.pdf#page=480|p. 480]]).

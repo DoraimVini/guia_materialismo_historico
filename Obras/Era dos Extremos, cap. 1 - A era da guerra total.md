@@ -14,10 +14,10 @@ criado: 2026-11-12
 Autor: [[Eric Hobsbawm]] · Parte I, [[Era da Catástrofe]] · livro: [[A Era dos Extremos]]
 
 > [!info] Como ler as marcas
-> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` que você enviou (PDF pp. 31-70). As citações foram **localizadas por script** no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**, então cito a página do PDF e o capítulo; na sua edição de papel use a seção (I a IV) para achar o trecho. Os resumos são paráfrases minhas; o que é meu e não de Hobsbawm vem marcado como *(leitura minha)*.
+> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` (PDF pp. 31-70). As citações foram **localizadas por script** no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**, por isso a citação traz a página do PDF e o capítulo; na edição em papel, usar a seção (I a IV) para achar o trecho. Os resumos são paráfrases; as interpretações que não são de Hobsbawm vêm marcadas *(interpretação)*.
 
 ## Referência
-Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 1, "A era da guerra total". Quatro seções: I (PDF pp. 33-48), II (pp. 49-59), III (pp. 59-65), IV (pp. 65-70). Sua edição:
+Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 1, "A era da guerra total". Quatro seções: I (PDF pp. 33-48), II (pp. 49-59), III (pp. 59-65), IV (pp. 65-70). Edição de referência:
 
 ## Por que ler
 É o capítulo que fixa o ponto de partida do livro: o "breve século XX" começa com uma guerra que não se parece com nenhuma anterior. Dele saem três ideias que o resto do livro usa: a guerra como **tudo ou nada** (objetivos ilimitados), a guerra como **mobilização total da economia e da sociedade**, e a **brutalização** da política e da vida depois de 1914.
@@ -42,11 +42,11 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 1, "A era
 3. **Efeito sobre o Estado e a economia:** a guerra total obrigou os governos a planejar. Hobsbawm liga essa experiência ao planejamento soviético (retomado no cap. 13) e à aceleração tecnológica (cap. 9).
 4. **Efeito cultural:** a guerra "democratizada" e impessoal baixou o limiar da crueldade, e o fim do século se acostumou ao que antes escandalizava.
 
-> [!question] Leitura minha
-> *(leitura minha)* Hobsbawm explica as metas ilimitadas pela fusão da política com a economia na Era dos Impérios, o que remete a [[Imperialismo - Lênin e Rosa]] e a [[Imperialismo e militarismo]]. Mas o capítulo não usa as categorias de Lênin nem de Rosa: fala em rivalidade de potências e status, não em capital financeiro ou acumulação. Vale perguntar se "metas ilimitadas" é uma versão descritiva da tese de que o capital não tem limite próprio, ou se é uma explicação diferente. Ver [[Acumulação e ambientes não capitalistas]].
+> [!question] Interpretação
+> Hobsbawm explica as metas ilimitadas pela fusão da política com a economia na Era dos Impérios, o que remete a [[Imperialismo - Lênin e Rosa]] e a [[Imperialismo e militarismo]]. Mas o capítulo não usa as categorias de Lênin nem de Rosa: fala em rivalidade de potências e status, não em capital financeiro ou acumulação. Vale perguntar se "metas ilimitadas" é uma versão descritiva da tese de que o capital não tem limite próprio, ou se é uma explicação diferente. Ver [[Acumulação e ambientes não capitalistas]].
 
-> [!question] Leitura minha
-> *(leitura minha)* A passagem sobre economia de guerra planejada, que depois inspira os bolcheviques, pede um cotejo com [[Socialismo real]] e com a [[Teoria marxista do Estado]]: o planejamento nasceu como técnica de guerra de Estados capitalistas, e não como projeto da classe operária.
+> [!question] Interpretação
+> A passagem sobre economia de guerra planejada, que depois inspira os bolcheviques, pede um cotejo com [[Socialismo real]] e com a [[Teoria marxista do Estado]]: o planejamento nasceu como técnica de guerra de Estados capitalistas, e não como projeto da classe operária.
 
 ## Citações (com página do PDF)
 > "Não há como compreender o Breve Século XX sem ela. Ele foi marcado pela guerra."
@@ -91,8 +91,8 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 1, "A era
 - [[Imperialismo e militarismo]]
 - [[Socialismo real]]
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Anotar a página da edição de papel dos trechos citados (o PDF não tem paginação impressa).
-- [ ] Conferir a tradução de "negócios como sempre" e de "Frente Oriental" na sua edição.
+- [ ] Conferir a tradução de "negócios como sempre" e de "Frente Oriental" na edição em papel.
 
 ## Minhas anotações

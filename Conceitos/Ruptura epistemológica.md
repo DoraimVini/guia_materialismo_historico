@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Ruptura epistemológica
 
 > [!info] Como ler as marcas
-> O que vem dos textos já fichados ([[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]]) foi conferido na versão online. O resto vem de memória e termina com *(conferir)*.
+> O que vem dos textos já fichados ([[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]]) foi conferido na versão online. O resto não foi conferido na fonte e termina com *(conferir)*.
 
 ## Em uma frase
 Althusser distingue a ciência da história da ideologia e atribui à ciência uma "prática teórica" própria.

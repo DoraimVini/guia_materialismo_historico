@@ -14,12 +14,12 @@ criado: 2026-11-12
 Autor: [[Rosa Luxemburgo]]
 
 > [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org lidas pela ferramenta de busca**. Eu não consegui baixar os arquivos, então as aspas foram transcritas pela ferramenta de leitura e **não foram conferidas por script contra um arquivo**, como fiz com os PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, confira no link. Se você me enviar o PDF do livro, refaço com página conferida. Os resumos são paráfrases minhas, e o que vem de memória termina com *(conferir)*.
+> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página online e **não foram conferidas por script contra um arquivo**, ao contrário das notas feitas a partir dos PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
 
 ## Referência
-Rosa Luxemburgo, *Greve de massas, partido e sindicatos*, 1906, escrito após a revolução russa de 1905 e como intervenção no debate da social-democracia alemã sobre a greve de massas e os sindicatos. Texto online em PDF: [marxists.org](https://www.marxists.org/portugues/luxemburgo/1906/mes/40.pdf). As páginas abaixo são as **impressas no volume do PDF**, e eu não identifiquei a edição; as numerações de capítulo seguem as marcações de seção do texto lido.
+Rosa Luxemburgo, *Greve de massas, partido e sindicatos*, 1906, escrito após a revolução russa de 1905 e como intervenção no debate da social-democracia alemã sobre a greve de massas e os sindicatos. Texto online em PDF: [marxists.org](https://www.marxists.org/portugues/luxemburgo/1906/mes/40.pdf). As páginas abaixo são as **impressas no volume do PDF**, e a edição não está identificada; as numerações de capítulo seguem as marcações de seção do texto lido.
 
-## Argumento (do que li)
+## Argumento (nos trechos lidos)
 1. **Processo, não ato.** A greve de massas designa "todo um período da luta de classes", e não uma greve única, ordenada de cima.
 2. **Política e economia se alimentam.** A luta política prepara o terreno para as lutas econômicas, e vice-versa; o texto rejeita separar uma da outra.
 3. **Não se fabrica.** A greve de massas surge de uma situação social concreta e não pode ser decretada, nem pela instância mais alta do partido.

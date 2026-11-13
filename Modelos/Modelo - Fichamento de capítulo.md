@@ -13,13 +13,13 @@ criado: {{date}}
 Autor: [[ ]] · livro: [[ ]] · capítulo anterior: [[ ]] · conceito-síntese: [[ ]]
 
 > [!info] Como ler as marcas
-> Fonte e páginas: diga de onde vem o texto (PDF, epub, edição em papel) e como as páginas foram conferidas. Marcas: *(leitura minha)* para interpretação; *(de memória, conferir)* para o que não está no texto nem foi conferido; *(contexto)* para fatos de fundo.
+> Fonte e páginas: diga de onde vem o texto (PDF, epub, edição em papel) e como as páginas foram conferidas. Marcas: *(interpretação)* para o que não está no texto; *(conferir)* para o que não está no texto nem foi conferido; *(contexto)* para fatos de fundo.
 
 ## Em uma frase
 A tese do capítulo, em uma ou duas linhas.
 
 ## Referência
-Edição, seções e páginas de cada seção. Sua edição:
+Edição, seções e páginas de cada seção. Edição de referência:
 
 ## Por que ler
 Por que o capítulo importa para o cofre: com que notas, autores e questões ele conversa.
@@ -40,7 +40,7 @@ Por que o capítulo importa para o cofre: com que notas, autores e questões ele
 | --- | --- | --- | --- |
 | 1 | | | |
 
-**Como o argumento funciona** *(leitura minha)*: que tipo de explicação é (causal, comparativa, por camadas, contrafactual) e onde se apoia.
+**Como o argumento funciona** *(interpretação)*: que tipo de explicação é (causal, comparativa, por camadas, contrafactual) e onde se apoia.
 
 ## Os números do capítulo
 | Dado | Valor | Onde |
@@ -48,7 +48,7 @@ Por que o capítulo importa para o cofre: com que notas, autores e questões ele
 | | | |
 
 ## Com quem o autor discute
-- Que teses ele aceita, recusa ou corrige, e de quem são. Marcar *(de memória, conferir)* quando a fonte não está no texto.
+- Que teses ele aceita, recusa ou corrige, e de quem são. Marcar *(conferir)* quando a fonte não está no texto.
 
 ## Diálogo com o cofre
 - **[[Nota]]:** onde o capítulo confirma, contradiz ou complica o que o cofre já tem.
@@ -56,7 +56,7 @@ Por que o capítulo importa para o cofre: com que notas, autores e questões ele
 ## Brasil e América Latina
 - O que o capítulo diz, o que não diz, e que pergunta isso abre.
 
-## Limites e objeções *(leitura minha)*
+## Limites e objeções *(interpretação)*
 1.
 
 ## Personagens e termos
@@ -72,7 +72,7 @@ Por que o capítulo importa para o cofre: com que notas, autores e questões ele
 ## Conceitos relacionados
 - [[ ]]
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Páginas da edição em papel.
 - [ ] Erros do texto ou da tradução a conferir.
 

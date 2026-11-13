@@ -14,10 +14,10 @@ criado: 2026-11-12
 Autor: [[Friedrich Engels]]
 
 > [!info] Como ler as marcas
-> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica vêm de memória e terminam com *(conferir)*. Falta a sua leitura e a conferência com a sua edição.
+> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica não foram conferidos na fonte e terminam com *(conferir)*. Falta a conferência com uma edição em papel.
 
 ## Referência
-Friedrich Engels, *Do socialismo utópico ao socialismo científico* (1880). Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1880/socialismo/index.htm), em três partes (a página não indica o tradutor). Complemento: [Introdução à edição inglesa de 1892](https://www.marxists.org/portugues/marx/1892/04/20.htm). Sua edição:
+Friedrich Engels, *Do socialismo utópico ao socialismo científico* (1880). Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1880/socialismo/index.htm), em três partes (a página não indica o tradutor). Complemento: [Introdução à edição inglesa de 1892](https://www.marxists.org/portugues/marx/1892/04/20.htm). Edição de referência:
 
 ## Por que ler
 Porta de entrada sugerida na [[Trilha de leitura]]. Em poucas páginas, reúne a crítica ao socialismo utópico, a dialética, a concepção materialista da história e a análise do capitalismo. É também a fonte mais direta para a tese de que a dialética vale para a natureza (Questão 4 em [[Questões em aberto]]).
@@ -130,10 +130,10 @@ Engels explica por que usa "materialismo histórico": para designar a visão do 
 - A necessidade histórica e a missão do proletariado se conciliam ou se contradizem?
 - O que diferencia a crítica de Engels aos utopistas da crítica moral que ele recusa?
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Preencher a página de cada citação.
-- [ ] Anotar quem traduz a sua edição.
-- [ ] Ler a introdução de 1892, se a sua edição a traz.
+- [ ] Anotar quem traduz a edição em papel.
+- [ ] Ler a introdução de 1892, se a edição usada a traz.
 
 ## Conceitos relacionados
 - [[Materialismo histórico]]

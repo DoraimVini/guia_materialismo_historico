@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Reforma e revolução
 
 > [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org lidas pela ferramenta de busca**. Eu não consegui baixar os arquivos, então as aspas foram transcritas pela ferramenta de leitura e **não foram conferidas por script contra um arquivo**, como fiz com os PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, confira no link. Se você me enviar o PDF do livro, refaço com página conferida. Os resumos são paráfrases minhas, e o que vem de memória termina com *(conferir)*.
+> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página online e **não foram conferidas por script contra um arquivo**, ao contrário das notas feitas a partir dos PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
 
 ## Em uma frase
 Para Rosa Luxemburgo, reforma e revolução não são métodos alternativos de chegar ao socialismo, mas fatores diferentes da evolução da sociedade de classes que se condicionam e completam; o que não se pode é trocar a conquista do poder político por reformas sociais.

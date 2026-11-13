@@ -9,13 +9,13 @@ criado: 2026-11-12
 # Problema da transformação
 
 > [!info] Como ler as marcas
-> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a sua edição e preencher as páginas.
+> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a edição em papel e preencher as páginas.
 
 ## Em uma frase
 No livro I, mercadorias trocam por valor. No livro III, por preços de produção (custo + lucro médio). Como passar de uma coisa à outra?
 
-## Contexto (de memória)
-Os fatos abaixo vêm do que se sabe do livro III e dos debates, e não de uma leitura minha das fontes. A página do cap. 9 do livro III não estava acessível para mim. *(conferir tudo)*
+## Contexto (conferir)
+Os fatos abaixo vêm do que se sabe do livro III e dos debates, e não de uma interpretação das fontes. A página do cap. 9 do livro III não estava acessível. *(conferir tudo)*
 1. Em ramos com composição orgânica diferente, a mais-valia por capital seria diferente, mas a concorrência tende a igualar a taxa de lucro.
 2. Então o preço de produção de uma mercadoria difere do seu valor, e a soma de mais-valia sobra e falta entre ramos.
 3. Marx deu um esquema numérico em que insumos continuavam valorados em valor.

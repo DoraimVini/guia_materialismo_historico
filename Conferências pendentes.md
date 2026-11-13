@@ -9,27 +9,27 @@ criado: 2026-11-12
 # Conferências pendentes
 
 > [!info] Para que serve
-> Reúne tudo o que as notas deixaram para conferir: os itens das seções "Para a conferência com a sua edição" (52 itens em 19 notas), as páginas de citações ainda em branco, as leituras que ficaram de fora e as marcas *(conferir)* espalhadas pelas notas. Marque `[x]` ao resolver e escreva a data. Estas seções não vão para a versão online.
+> Reúne tudo o que as notas deixaram para conferir: os itens das seções "Para a conferência com a edição em papel" (52 itens em 19 notas), as páginas de citações ainda em branco, as leituras que ficaram de fora e as marcas *(conferir)* espalhadas pelas notas. Marque `[x]` ao resolver e escreva a data. Estas seções não vão para a versão online.
 
 ## Resumo
 | Tipo | Itens | O que precisa |
 | --- | --- | --- |
-| Leituras que faltam | 23 | Ler o texto: online ou em PDF/EPUB que você enviar |
-| Páginas das citações | 14 itens, 114 citações em branco | A sua edição em papel, ou o PDF, para eu localizar por script |
-| Comparações e dados da edição | 14 | A sua edição, ou outra edição para comparar |
+| Leituras que faltam | 23 | Ler o texto: online ou em PDF/EPUB da pasta `Livros/` |
+| Páginas das citações | 14 itens, 114 citações em branco | Uma edição em papel, ou o PDF, para localizar as citações por script |
+| Comparações e dados da edição | 14 | Uma edição em papel, ou outra edição para comparar |
 | Material a obter | 1 | Conseguir o arquivo |
 | Marcas *(conferir)* nas notas | 268 marcas em 91 notas | Ver a última seção |
 
 ## Ordem sugerida
-1. **Leituras que eu posso fazer agora** (seção 1): as que têm texto online ou arquivo já enviado (os PDFs e EPUBs de Gramsci, Engels e outros). Cada uma reduz uma lacuna sem depender da sua edição.
-2. **Páginas das citações** (seção 2): em lote, assim que você me mandar os PDFs ou disser qual edição tem em mãos. Com PDF eu preencho página e link por script.
+1. **Leituras possíveis agora** (seção 1): as que têm texto online ou arquivo na pasta `Livros/` (os PDFs e EPUBs de Gramsci, Engels e outros). Cada uma reduz uma lacuna sem depender da edição em papel.
+2. **Páginas das citações** (seção 2): em lote, quando houver PDF ou edição definida. Com PDF, página e link são preenchidos por script.
 3. **Comparações de edição** (seção 3): depois das páginas, porque dependem da mesma edição.
 4. **Marcas *(conferir)*** (seção 6): por conceito, lendo a fonte primária de cada afirmação.
 
 ## 1. Leituras que faltam
 
 **[[A Ideologia Alemã]]**
-- [ ] Ler as seções que não li (crítica a Feuerbach, Stirner, B. Bauer, Parte IV a partir da manufatura).
+- [ ] Ler as seções ainda não lidas (crítica a Feuerbach, Stirner, B. Bauer, Parte IV a partir da manufatura).
 
 **[[A Origem da Família, da Propriedade Privada e do Estado]]**
 - [ ] Ler o cap. II inteiro e anotar a argumentação sobre a monogamia e o amor sexual.
@@ -48,17 +48,17 @@ criado: 2026-11-12
 - [ ] Ler a entrevista inteira, pois o resumo é de uma extração online, e anotar a página.
 
 **[[Do socialismo utópico ao socialismo científico]]**
-- [ ] Ler a introdução de 1892, se a sua edição a traz.
+- [ ] Ler a introdução de 1892, se a edição usada a traz.
 
 **[[Manifesto para a renovação da história]]**
 - [ ] Ler o texto completo (o resumo foi extraído de uma página online) e anotar a página das frases usadas.
 
 **[[Materialismo Dialético - Academia de Ciências da URSS]]**
-- [ ] Ler os capítulos 2 a 5 por inteiro, pois li os trechos.
+- [ ] Ler os capítulos 2 a 5 por inteiro (só trechos foram lidos).
 - [ ] Ler as notas de rodapé (referências a Stálin e Lênin) para identificar as fontes.
 
 **[[Materialismo e Empiriocriticismo]]**
-- [ ] Ler o capítulo I (sensações) e as demais seções do capítulo II, que não li.
+- [ ] Ler o capítulo I (sensações) e as demais seções do capítulo II, ainda não lidos.
 
 **[[O Capital - Livro I]]**
 - [ ] Ler o cap. 1 inteiro, pois as seções 1 a 3 foram lidas só por trechos.
@@ -68,33 +68,33 @@ criado: 2026-11-12
 - [ ] Ler o texto inteiro, pois o resumo vem de uma extração online.
 
 **[[Posfácio de 1873]]**
-- [ ] Ler a resenha de Kaufman completa, se a sua edição a traz.
+- [ ] Ler a resenha de Kaufman completa, se a edição usada a traz.
 
 **[[Princípios Básicos do Comunismo]]**
-- [ ] Ler as perguntas 11 a 13 e 24 e 25 direto no texto: eu as tenho só em resumo.
+- [ ] Ler as perguntas 11 a 13 e 24 e 25 direto no texto (a nota só tem resumo delas).
 - [ ] Ler a nota da edição sobre as perguntas 9, 22 e 23.
 
 **[[Salário, Preço e Lucro]]**
-- [ ] Ler as Observações preliminares, os caps. 1 a 5 e o cap. 11, que não li.
+- [ ] Ler as Observações preliminares, os caps. 1 a 5 e o cap. 11, ainda não lidos.
 
 **[[Trabalho Assalariado e Capital]]**
 - [ ] Ler a introdução de Engels inteira e as notas N70 a N78.
-- [ ] Ler o texto de Marx inteiro; li só resumo e trechos.
+- [ ] Ler o texto de Marx inteiro (só resumo e trechos foram lidos).
 
 ### Lacunas das notas mais recentes
 Estas não estavam em listas de conferência, mas as notas dizem que a leitura ficou incompleta.
-- [ ] [[Que Fazer (Lênin)]]: caps. I, III e V (li só II e IV) e as Conclusões.
+- [ ] [[Que Fazer (Lênin)]]: caps. I, III e V (só II e IV foram lidos) e as Conclusões.
 - [ ] [[Imperialismo, fase superior do capitalismo (Lênin)]]: os capítulos fora de IV e VII.
-- [ ] [[Consciência de Classe (Lukács, 1920)]] e [[História e Consciência de Classe]]: os demais ensaios; o índice do endereço que você enviou não abriu.
-- [ ] *O Jovem Hegel* (Lukács): só li o índice; ainda sem nota.
-- [ ] [[Fontes de Rosa Luxemburgo]]: a polêmica de Rosa com Lênin (1904) e o panfleto de Junius, que não li.
+- [ ] [[Consciência de Classe (Lukács, 1920)]] e [[História e Consciência de Classe]]: os demais ensaios; o índice do endereço não abriu.
+- [ ] *O Jovem Hegel* (Lukács): ler o cap. IV, 3 e 4, sobre a *Fenomenologia* (só um trecho foi usado em [[Hegel, a Fenomenologia e o materialismo histórico]]).
+- [ ] [[Fontes de Rosa Luxemburgo]]: a polêmica de Rosa com Lênin (1904) e o panfleto de Junius, ainda não lidos.
 - [ ] [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]]: as entrevistas de Angela Mendes de Almeida e de Gilmar Mauro.
 - [ ] [[Florestan Fernandes]]: *A Revolução Burguesa no Brasil*, caps. 5 e 6, ainda não lidos.
 - [ ] Obras ainda sem fichamento: *Anti-Dühring*, *Dialética da Natureza*, *Manifesto Comunista* e *O 18 Brumário*.
 - [ ] [[Cadernos do Cárcere]]: vol. 3 (Maquiavel, Estado); livros de Lukács, Althusser e Thompson.
 
 ## 2. Páginas das citações
-Notas com citações marcadas `página: ___`. Com a edição em papel, a página se anota à mão; com PDF, eu localizo por script.
+Notas com citações marcadas `página: ___`. Com a edição em papel, a página se anota à mão; com PDF, por script.
 | Nota | Citações sem página |
 | --- | --- |
 
@@ -130,7 +130,7 @@ Itens escritos nas notas:
 
 **[[A Ideologia Alemã]]**
 - [ ] Conferir a "câmara escura" e o trecho do ideal.
-- [ ] Verificar o que a sua edição diz sobre a história do manuscrito.
+- [ ] Verificar o que a edição em papel diz sobre a história do manuscrito.
 
 **[[A Origem da Família, da Propriedade Privada e do Estado]]**
 - [ ] Comparar a nota 3 com o texto de Engels em outra edição.
@@ -142,10 +142,10 @@ Itens escritos nas notas:
 - [ ] Descobrir o ano da edição soviética.
 
 **[[Do socialismo utópico ao socialismo científico]]**
-- [ ] Anotar quem traduz a sua edição.
+- [ ] Anotar quem traduz a edição em papel.
 
 **[[Era dos Extremos, cap. 1 - A era da guerra total]]**
-- [ ] Conferir a tradução de "negócios como sempre" e de "Frente Oriental" na sua edição.
+- [ ] Conferir a tradução de "negócios como sempre" e de "Frente Oriental" na edição em papel.
 
 **[[Introdução de 1857]]**
 - [ ] Comparar a tradução com outra edição (esta tem erros de digitalização).
@@ -160,7 +160,7 @@ Itens escritos nas notas:
 - [ ] Comparar com o *Manifesto* (não fichado no cofre).
 
 **[[Salário, Preço e Lucro]]**
-- [ ] Conferir no link os trechos dos caps. 6 e 12 a 14, que vieram por resumo da ferramenta.
+- [ ] Conferir no link os trechos dos caps. 6 e 12 a 14, que vieram por resumo da página, sem o texto integral.
 
 **[[Teses sobre Feuerbach]]**
 - [ ] Verificar se a edição traz a versão de Marx, a de Engels ou ambas.
@@ -173,13 +173,13 @@ Itens escritos nas notas:
 - [ ] [[Cadernos do Cárcere]]: Obter o vol. 3 (Maquiavel, Estado) para a formulação de Estado e sociedade civil e para "guerra de posição".
 
 ## 5. Como resolver cada tipo
-- **Página das citações.** Preciso do PDF (ou da foto/lista de páginas da sua edição). Com o PDF, uso o mesmo método dos livros já enviados: localizo cada citação por script, anoto a página e crio o link `abrir`.
-- **Leituras.** Se o texto está online, leio pelo link já registrado na nota e atualizo o resumo. Se você tem o arquivo, leio dele e confiro a citação por script.
-- **Comparações.** Precisam de duas edições. Registro na nota qual edição foi usada.
-- **Material.** Quando você conseguir o arquivo, envie e eu fecho o item.
+- **Página das citações.** Requer o PDF (ou a lista de páginas da edição em papel). Com o PDF, cada citação é localizada por script, com a página e o link `abrir`, como nos livros da pasta `Livros/`.
+- **Leituras.** Texto online: ler pelo link registrado na nota e atualizar o resumo. Arquivo disponível: ler dele e conferir a citação por script.
+- **Comparações.** Precisam de duas edições. A nota registra qual edição foi usada.
+- **Material.** O item se fecha quando o arquivo estiver na pasta `Livros/`.
 
 ## 6. Marcas *(conferir)* nas notas
-São 268 marcas em 91 notas: afirmações de memória (sobre a literatura crítica, datas, atribuições) que as notas deixaram sem fonte. Resolver uma marca é achar a fonte ou apagar a afirmação. As 15 notas com mais marcas:
+São 268 marcas em 91 notas: afirmações sem fonte conferida (sobre a literatura crítica, datas, atribuições) que as notas deixaram sem fonte. Resolver uma marca é achar a fonte ou apagar a afirmação. As 15 notas com mais marcas:
 | Nota | Marcas |
 | --- | --- |
 

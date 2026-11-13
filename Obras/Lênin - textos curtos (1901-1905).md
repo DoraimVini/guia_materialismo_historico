@@ -14,7 +14,7 @@ criado: 2026-11-12
 Autor: [[Lênin]]
 
 > [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org lidas pela ferramenta de busca**: eu não baixei o arquivo. As aspas foram transcritas pela ferramenta, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Antes de citar em trabalho, confira no link. Os resumos são paráfrases minhas, e o que vem de memória termina com *(conferir)*.
+> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
 
 ## Textos
 | Texto | Data | Fonte na página | Link |

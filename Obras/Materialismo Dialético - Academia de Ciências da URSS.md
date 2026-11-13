@@ -14,7 +14,7 @@ criado: 2026-11-12
 Autor: [[Academia de Ciências da URSS]]
 
 > [!info] Como ler as marcas
-> Esta nota vem dos **epubs que você enviou**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases minhas. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
+> Esta nota vem dos **epubs da pasta `Livros/`**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
 
 ## Referência
 *Materialismo Dialético*, Academia de Ciências da URSS (Moscou, 1954), traduzido do russo; Editorial Vitória, Rio de Janeiro, 1955. O tradutor não é indicado. A ficha do epub lista os autores V. P. Tchertkov, V. S. Molodtsov, D. M. Trochin, K. V. Moroz, F. I. Kalochin, N. F. Ovtchinnikov, P. T. Belov, I. G. Gaidukov e M. A. Leonov. Arquivo: `Livros/Materialismo Dialético - Academia de Ciências da URSS.epub`.
@@ -35,7 +35,7 @@ Autor: [[Academia de Ciências da URSS]]
 | 8. A Cognoscibilidade do Mundo e de suas Leis | I. G. Gaidukov |
 | 9. O Materialismo Dialético e Histórico, Fundamento Teórico do Comunismo | M. A. Leonov |
 
-## Roteiro (o que li)
+## Roteiro (trechos lidos)
 1. **Cap. 1.** Define o materialismo dialético como "concepção do mundo do Partido marxista-leninista" (Stálin) e como a única concepção científica do mundo.
 2. **Caps. 2 a 5.** Expõem o que o livro chama de "traços fundamentais do método dialético": conexão universal, movimento e desenvolvimento, passagem da quantidade à qualidade, luta dos contrários. Com exemplos da biologia soviética e da política do Partido.
 3. **Cap. 6.** Conceito de matéria (definição de Lênin) e leis do desenvolvimento.
@@ -49,7 +49,7 @@ Autor: [[Academia de Ciências da URSS]]
 3. A matéria é realidade objetiva que a consciência copia. O conhecimento verifica-se na prática.
 4. A doutrina orienta a ação política: cada capítulo termina com a "significação prática" para o Partido.
 
-> [!question] Leitura minha
+> [!question] Interpretação
 > Cada seção traz um item de "significação prática para o Partido". A filosofia aparece como instrumento de linha política, o que é coerente com o seu "partidarismo". O que isso faz com o critério de verdade? Ver [[Prática como critério de verdade]] e a Questão 12.
 
 ## Citações (localização no epub)
@@ -87,18 +87,18 @@ Autor: [[Academia de Ciências da URSS]]
 > — cap. 1 (citando Lênin)
 
 ## Debate crítico
-- **Stálin e a negação da negação.** O livro reconhece que a lista de Stálin retira a "negação da negação" da dialética. Isso reduz a distância entre a dialética e o discurso de progresso linear. *(leitura minha; conferir)*
+- **Stálin e a negação da negação.** O livro reconhece que a lista de Stálin retira a "negação da negação" da dialética. Isso reduz a distância entre a dialética e o discurso de progresso linear. *(interpretação; conferir)*
 - **Reflexo.** A fórmula "cópia, fotografia, reflexo" é a versão mais crua da [[Teoria do reflexo]]. Compare com a ressalva de Lênin de 1915 sobre a *Bildertheorie*. Interessante: este mesmo livro cita o trecho de Lênin sobre o conhecimento como espiral (cap. 8), o que mostra a tensão dentro do manual.
 - **Ciência e política.** A defesa de Mitchúrin e Lissenko contra a genética "weismannista-morganista" é um exemplo documental de filosofia usada para decidir disputas científicas. A história posterior desse episódio é conhecida e deve ser conferida fora do cofre. *(conferir)*
 - **Crítica interna ao stalinismo.** [[Louis Althusser]] criticou o dogmatismo desse "diamat", e [[E. P. Thompson]] o tratou como parte do problema. *(conferir)*
 
 ## Dúvidas e objeções
 - Que parte da exposição é de Marx e Engels, e que parte é de Stálin?
-- O livro cita Lênin com generosidade. Como ele lê *Materialismo e Empiriocriticismo* em comparação com o [[Materialismo e Empiriocriticismo]] que li online? (verificar as seções 8, 10 e 12)
+- O livro cita Lênin com generosidade. Como ele lê *Materialismo e Empiriocriticismo* em comparação com o [[Materialismo e Empiriocriticismo]] lido online? (verificar as seções 8, 10 e 12)
 - O texto de Dietzgen: o livro menciona que Lênin criticou Dietzgen por "terminologia pouco precisa". O que é a origem do termo "materialismo dialético"? O livro não resolve isso.
 
 ## Para a conferência
-- [ ] Ler os capítulos 2 a 5 por inteiro, pois li os trechos.
+- [ ] Ler os capítulos 2 a 5 por inteiro (só trechos foram lidos).
 - [ ] Comparar os trechos de Lênin citados aqui com as obras originais.
 - [ ] Ler as notas de rodapé (referências a Stálin e Lênin) para identificar as fontes.
 

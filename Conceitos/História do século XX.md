@@ -9,7 +9,7 @@ criado: 2026-11-12
 # História do século XX
 
 > [!info] Estado de leitura
-> O PDF de *Era dos Extremos* foi lido **por trechos**, não por inteiro. As notas [[Breve século XX]], [[Era da Catástrofe]], [[Era de Ouro]], [[Desmoronamento]] e [[Socialismo real]] trazem citações com página do PDF (que não bate com a do livro em papel). Os textos curtos de Hobsbawm no marxists.org continuam como fontes. O que ainda não li termina com *(conferir)*.
+> O PDF de *Era dos Extremos* foi lido **por trechos**, não por inteiro. As notas [[Breve século XX]], [[Era da Catástrofe]], [[Era de Ouro]], [[Desmoronamento]] e [[Socialismo real]] trazem citações com página do PDF (que não bate com a do livro em papel). Os textos curtos de Hobsbawm no marxists.org continuam como fontes. O que ainda não foi lido termina com *(conferir)*.
 
 ## Em uma frase
 Bloco para reconstruir a história do século XX a partir de Eric Hobsbawm, em especial *A Era dos Extremos*, e ligá-la à economia política e à epistemologia já estudadas no cofre.
@@ -33,7 +33,7 @@ Bloco para reconstruir a história do século XX a partir de Eric Hobsbawm, em e
 
 ## Ordem de leitura sugerida
 1. [[Breve século XX]] e a [[Cronologia do breve século XX]], para ter o mapa.
-2. [[A Era dos Extremos]], parte por parte, com a sua edição à mão.
+2. [[A Era dos Extremos]], parte por parte, com a edição em papel à mão.
 3. Os três textos curtos de Hobsbawm, para ver o método e o ponto de vista.
 4. As pontes abaixo, como perguntas para estudar.
 

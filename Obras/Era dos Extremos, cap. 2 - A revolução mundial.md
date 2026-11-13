@@ -14,10 +14,10 @@ criado: 2026-11-12
 Autor: [[Eric Hobsbawm]] · Parte I, [[Era da Catástrofe]] · livro: [[A Era dos Extremos]] · capítulo anterior: [[Era dos Extremos, cap. 1 - A era da guerra total]] · próximo: [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]
 
 > [!info] Como ler as marcas
-> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` que você enviou (PDF pp. 71-106). As citações foram **localizadas por script** no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**; na sua edição de papel use as seções (I a VII) para achar o trecho. Os resumos são paráfrases minhas; o que é meu e não de Hobsbawm vem marcado como *(leitura minha)*.
+> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` (PDF pp. 71-106). As citações foram **localizadas por script** no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**; na edição em papel, usar as seções (I a VII) para achar o trecho. Os resumos são paráfrases; as interpretações que não são de Hobsbawm vêm marcadas *(interpretação)*.
 
 ## Referência
-Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 2, "A revolução mundial". Sete seções: I (PDF pp. 73-78), II (pp. 78-83), III (pp. 83-90), IV (pp. 90-95), V (pp. 95-98), VI (pp. 98-102), VII (pp. 102-105). Sua edição:
+Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 2, "A revolução mundial". Sete seções: I (PDF pp. 73-78), II (pp. 78-83), III (pp. 83-90), IV (pp. 90-95), V (pp. 95-98), VI (pp. 98-102), VII (pp. 102-105). Edição de referência:
 
 ## Por que ler
 É o capítulo em que Hobsbawm trata a revolução como **constante do século XX**, e não só como o episódio russo de 1917. Para o cofre, ele conecta o que já foi fichado sobre [[Lênin]], [[Rosa Luxemburgo]] e [[Trotsky]] com a história dos Estados e partidos do século, e traz as primeiras menções ao Brasil no livro.
@@ -49,14 +49,14 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 2, "A rev
 4. **Substituição da meta:** os interesses de Estado soviéticos prevalecem sobre os da revolução mundial, sem que a URSS deixe de ser, para muitos, "algo mais que apenas outra grande potência".
 5. **Balanço:** o resultado não previsto é a salvação do capitalismo liberal, por pressão externa e pelo exemplo.
 
-> [!question] Leitura minha
-> *(leitura minha)* Hobsbawm descreve a tática de Lênin como "saber seguir", e o relato de Fevereiro como "quatro dias espontâneos e sem liderança". Isso se liga ao debate de [[Consciência de fora e espontaneidade]] e [[Greve de massas e espontaneidade]]: aqui a espontaneidade é a condição da queda do czar, e a organização, a condição de transformá-la em poder. Vale ler junto com [[Que Fazer (Lênin)]] para ver se Hobsbawm descreve o mesmo Lênin do livro de 1902, ou um Lênin de 1917.
+> [!question] Interpretação
+> Hobsbawm descreve a tática de Lênin como "saber seguir", e o relato de Fevereiro como "quatro dias espontâneos e sem liderança". Isso se liga ao debate de [[Consciência de fora e espontaneidade]] e [[Greve de massas e espontaneidade]]: aqui a espontaneidade é a condição da queda do czar, e a organização, a condição de transformá-la em poder. Vale ler junto com [[Que Fazer (Lênin)]] para ver se Hobsbawm descreve o mesmo Lênin do livro de 1902, ou um Lênin de 1917.
 
-> [!question] Leitura minha
-> *(leitura minha)* Hobsbawm trata a dissolução da Constituinte (seção III) como consequência de o campesinato impedir vitórias eleitorais bolcheviques. A nota [[A Revolução Russa (1918)]] e [[Democracia socialista]] guardam a crítica de Rosa a esse caminho. O capítulo permite perguntar se a crítica dela é sobre a decisão ou sobre o contexto que Hobsbawm descreve. *(pergunta; precisa de leitura do texto de Rosa em conjunto)*
+> [!question] Interpretação
+> Hobsbawm trata a dissolução da Constituinte (seção III) como consequência de o campesinato impedir vitórias eleitorais bolcheviques. A nota [[A Revolução Russa (1918)]] e [[Democracia socialista]] guardam a crítica de Rosa a esse caminho. O capítulo permite perguntar se a crítica dela é sobre a decisão ou sobre o contexto que Hobsbawm descreve. *(pergunta; precisa de leitura do texto de Rosa em conjunto)*
 
-> [!question] Leitura minha
-> *(leitura minha)* A observação, que Hobsbawm atribui a alguns dos novos governantes comunistas, de que o capitalismo foi mais fácil de derrubar "onde era fraco ou mal existia" (seção VII) pode ser lida junto com [[Desenvolvimento desigual e combinado]], já que ela descreve o fenômeno que a tese de Trotsky procura explicar. O capítulo, porém, não usa essa categoria: cita Trotsky pela "revolução permanente" e pela Quarta Internacional.
+> [!question] Interpretação
+> A observação, que Hobsbawm atribui a alguns dos novos governantes comunistas, de que o capitalismo foi mais fácil de derrubar "onde era fraco ou mal existia" (seção VII) pode ser lida junto com [[Desenvolvimento desigual e combinado]], já que ela descreve o fenômeno que a tese de Trotsky procura explicar. O capítulo, porém, não usa essa categoria: cita Trotsky pela "revolução permanente" e pela Quarta Internacional.
 
 ## Citações (com página do PDF)
 > "A revolução foi a filha da guerra no século XX"
@@ -122,8 +122,8 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 2, "A rev
 - [[Hobsbawm lê Marx]]: os trechos de Hobsbawm sobre o que Marx esperava da Rússia (PDF p. 75) estão aqui, neste capítulo
 - [[Socialismo real]]
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Anotar a página da edição de papel dos trechos citados (o PDF não tem paginação impressa).
-- [ ] Conferir a grafia "Chang Kai-chek" / "Chiang Kai-shek" na sua edição: o texto do PDF usa as duas.
+- [ ] Conferir a grafia "Chang Kai-chek" / "Chiang Kai-shek" na edição em papel: o texto do PDF usa as duas.
 
 ## Minhas anotações

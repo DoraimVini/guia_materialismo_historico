@@ -10,7 +10,7 @@ criado: 2026-11-12
 # Hobsbawm lê Marx
 
 > [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos*** que você enviou, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso cito também o capítulo. Os resumos são paráfrases minhas. O que não li, ou que vem de memória ou de resenha, termina com *(conferir)*.
+> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
 
 ## Em uma frase
 Onde Hobsbawm cita ou usa Marx em *A Era dos Extremos*, com páginas, para ver em que sentido o livro é marxista, e o que ele diz do destino do marxismo.
@@ -44,7 +44,7 @@ Onde Hobsbawm cita ou usa Marx em *A Era dos Extremos*, com páginas, para ver e
 ## O que se pode dizer
 1. **Hobsbawm usa o Prefácio de 1859 como teoria do colapso soviético.** A tensão entre forças produtivas e relações de produção explicaria a morte do sistema (p. 584-585), mas ele não adota a segunda parte (a superação do velho por um sistema melhor), que chama de otimismo do século XIX (p. 585).
 2. **Ele separa Marx do marxismo político.** O pensador permanece; as versões doutrinárias de ação não (p. 663). Compare com a distinção de [[Antonio Gramsci]] entre filosofia da práxis e manuais ([[Cadernos do Cárcere]]).
-3. **Marx como testado pela história.** Em três pontos (campesinato, planejamento, autocracia) Hobsbawm mede o que Marx previu ou não previu. Isso é um uso da [[Prática como critério de verdade]], aplicado à teoria. *(leitura minha)*
+3. **Marx como testado pela história.** Em três pontos (campesinato, planejamento, autocracia) Hobsbawm mede o que Marx previu ou não previu. Isso é um uso da [[Prática como critério de verdade]], aplicado à teoria. *(interpretação)*
 
 ## Perguntas
 - Se o colapso soviético é "argumento para a análise de Marx", a causa é a contradição entre forças e relações, ou a falta das condições que o próprio Marx exigia? Hobsbawm parece admitir as duas. Questão 9.

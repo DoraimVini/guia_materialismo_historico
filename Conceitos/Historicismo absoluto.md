@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Historicismo absoluto
 
 > [!info] Como ler as marcas
-> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)** que você enviou, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não consegui confirmar que coincide com a paginação do livro em papel. Os resumos são paráfrases minhas. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não li, ou que vem de memória, termina com *(conferir)*.
+> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não foi lido ou conferido na fonte termina com *(conferir)*.
 
 ## Em uma frase
 Em um parágrafo do Caderno 11, Gramsci diz que a filosofia da práxis é o "historicismo absoluto": pensamento sem transcendência e sem metafísica, que continua a imanência no terreno da história.

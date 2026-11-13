@@ -15,13 +15,13 @@ criado: 2026-11-12
 Autor: [[Karl Marx]] · obra: *Manuscritos econômico-filosóficos* (1844), Terceiro Manuscrito, última seção · nota-ponte: [[Hegel, a Fenomenologia e o materialismo histórico]] · roteiro: etapa 2 do [[Guia de fontes - epistemologia do materialismo histórico]]
 
 > [!info] Como ler as marcas
-> Esta nota vem **da leitura da seção inteira** na versão online do marxists.org ([link](https://www.marxists.org/portugues/marx/1844/manuscritos/cap07.htm), "Crítica da Filosofia Dialética e Geral de Hegel"). A página não indica o tradutor; o vocabulário ("ente-espécie" para *Gattungswesen*) sugere uma tradução feita a partir do inglês. *(conferir antes de citar em trabalho; prefira uma edição traduzida do alemão, como a da Boitempo)* As citações foram procuradas por script no texto da página. Os números romanos entre parênteses, como (XXIII), são as folhas do manuscrito de Marx e servem para localizar o trecho em qualquer edição. Paráfrases são minhas; interpretação minha vem marcada *(leitura minha)*.
+> Esta nota vem **da leitura da seção inteira** na versão online do marxists.org ([link](https://www.marxists.org/portugues/marx/1844/manuscritos/cap07.htm), "Crítica da Filosofia Dialética e Geral de Hegel"). A página não indica o tradutor; o vocabulário ("ente-espécie" para *Gattungswesen*) sugere uma tradução feita a partir do inglês. *(conferir antes de citar em trabalho; prefira uma edição traduzida do alemão, como a da Boitempo)* As citações foram procuradas por script no texto da página. Os números romanos entre parênteses, como (XXIII), são as folhas do manuscrito de Marx e servem para localizar o trecho em qualquer edição. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
 
 ## Em uma frase
 Marx elogia a *Fenomenologia* por ter apreendido o homem como resultado do próprio trabalho, e a critica porque, em Hegel, esse trabalho é só o do pensamento: o homem vira autoconsciência, a alienação vira um problema de consciência, e a superação da alienação acaba confirmando o mundo alienado.
 
 ## Referência
-Karl Marx, *Manuscritos econômico-filosóficos* (Paris, 1844; publicados só em 1932), Terceiro Manuscrito, seção sobre a dialética de Hegel. Folhas XII a XXXIV do manuscrito. Sua edição:
+Karl Marx, *Manuscritos econômico-filosóficos* (Paris, 1844; publicados só em 1932), Terceiro Manuscrito, seção sobre a dialética de Hegel. Folhas XII a XXXIV do manuscrito. Edição de referência:
 
 ## Por que ler
 É o único texto em que Marx discute a *Fenomenologia* por extenso. Sem ele, a fórmula do [[Posfácio de 1873]] ("virar" a dialética) fica abstrata; com ele, se vê **o que** Marx recusa: o sujeito como pensamento, e a ideia de que superar a alienação é superar a objetividade. É também onde nasce a distinção entre **objetivação** e **alienação**, central para [[Georg Lukács]] e para a leitura humanista de Marx.
@@ -65,17 +65,17 @@ Karl Marx, *Manuscritos econômico-filosóficos* (Paris, 1844; publicados só em
 | 7 | A negação da negação hegeliana confirma o mundo alienado | o "falso positivismo"; a *Filosofia do Direito* | XXVIII-XXX |
 | 8 | O verdadeiro sujeito do processo, em Hegel, é Deus | a inversão de sujeito e predicado | XXXI |
 
-**Como o argumento funciona** *(leitura minha)*: Marx usa o **método transformativo de Feuerbach** (inverter sujeito e predicado: não é o pensamento que é o sujeito e o homem o predicado, mas o contrário) e o aplica à *Fenomenologia*. O resultado é uma crítica **imanente**: Marx não rejeita a *Fenomenologia* de fora, mas mostra que ela contém uma verdade (o trabalho, a autocriação) dita em forma invertida.
+**Como o argumento funciona** *(interpretação)*: Marx usa o **método transformativo de Feuerbach** (inverter sujeito e predicado: não é o pensamento que é o sujeito e o homem o predicado, mas o contrário) e o aplica à *Fenomenologia*. O resultado é uma crítica **imanente**: Marx não rejeita a *Fenomenologia* de fora, mas mostra que ela contém uma verdade (o trabalho, a autocriação) dita em forma invertida.
 
 ## O que isso muda na epistemologia
-1. **Um realismo do ser objetivo.** Conhecer é a relação de um ser natural com objetos que existem fora dele; um ser sem objeto é "um ser simplesmente imaginado, uma abstração". *(leitura minha)* É a raiz do "sujeito real" que conserva sua autonomia fora da mente, na [[Introdução de 1857]].
-2. **A abstração como fato social.** "A lógica é o dinheiro da mente": as formas de pensamento abstratas, indiferentes a todo conteúdo, são comparadas ao dinheiro, indiferente a toda mercadoria. *(leitura minha)* Aqui está o germe da ideia de que certas abstrações não são só erros do pensamento, mas formas da vida social, como no [[Fetichismo da mercadoria]] e em [[Trabalho concreto e trabalho abstrato]].
+1. **Um realismo do ser objetivo.** Conhecer é a relação de um ser natural com objetos que existem fora dele; um ser sem objeto é "um ser simplesmente imaginado, uma abstração". *(interpretação)* É a raiz do "sujeito real" que conserva sua autonomia fora da mente, na [[Introdução de 1857]].
+2. **A abstração como fato social.** "A lógica é o dinheiro da mente": as formas de pensamento abstratas, indiferentes a todo conteúdo, são comparadas ao dinheiro, indiferente a toda mercadoria. *(interpretação)* Aqui está o germe da ideia de que certas abstrações não são só erros do pensamento, mas formas da vida social, como no [[Fetichismo da mercadoria]] e em [[Trabalho concreto e trabalho abstrato]].
 3. **Objetivação não é alienação.** Hegel identifica as duas, e por isso quer superar a objetividade. Marx as separa: produzir objetos é próprio do ser natural; a alienação é a forma desse produzir sob a propriedade privada. É o ponto que Lukács retoma em *O jovem Hegel*. Ver [[Hegel, a Fenomenologia e o materialismo histórico]].
-4. **A história como gênese humana.** O homem tem "seu processo de gênese, a História". *(leitura minha)* É a ponte entre a antropologia de 1844 e a teoria da história de 1845-46 em [[A Ideologia Alemã]].
-5. **O que ainda falta.** Em 1844, o sujeito é o "homem" e o "ente-espécie"; ainda não são as classes nem as relações de produção. *(leitura minha)* É por isso que Althusser situa aqui o Marx "humanista", antes da [[Ruptura epistemológica]].
+4. **A história como gênese humana.** O homem tem "seu processo de gênese, a História". *(interpretação)* É a ponte entre a antropologia de 1844 e a teoria da história de 1845-46 em [[A Ideologia Alemã]].
+5. **O que ainda falta.** Em 1844, o sujeito é o "homem" e o "ente-espécie"; ainda não são as classes nem as relações de produção. *(interpretação)* É por isso que Althusser situa aqui o Marx "humanista", antes da [[Ruptura epistemológica]].
 
 ## Sobre o senhor e o escravo
-O texto **não discute** a dialética do senhor e do escravo. A única menção é o título "dominação e servidão", no sumário da *Fenomenologia* que Marx copia (folha XIII). A crítica de Marx se concentra no capítulo final, o do saber absoluto. A leitura do senhor e do escravo como chave do marxismo vem depois, sobretudo de Kojève, nos anos 1930. *(o texto de Marx foi conferido; a atribuição a Kojève é de memória, conferir)*
+O texto **não discute** a dialética do senhor e do escravo. A única menção é o título "dominação e servidão", no sumário da *Fenomenologia* que Marx copia (folha XIII). A crítica de Marx se concentra no capítulo final, o do saber absoluto. A leitura do senhor e do escravo como chave do marxismo vem depois, sobretudo de Kojève, nos anos 1930. *(o texto de Marx foi conferido; a atribuição a Kojève fica a conferir)*
 
 ## Personagens e termos
 - **Autoconsciência:** em Hegel, a consciência que se sabe a si mesma; em Bauer, o motor da história. Marx: é "uma qualidade da natureza humana", não o contrário.
@@ -144,7 +144,7 @@ O texto **não discute** a dialética do senhor e do escravo. A única menção 
 - [[Ruptura epistemológica]]: a leitura de Althusser, que situa este texto antes do "corte"
 - Questão 32 em [[Questões em aberto]]
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Conferir as citações numa edição traduzida do alemão e anotar a página.
 - [ ] Conferir as folhas: a página online marca algumas (XII, XIII, XVIII, XXIII, XXIV, XXVI-XXXIV); as outras atribuições de folha nesta nota são aproximadas, pela ordem do texto.
 

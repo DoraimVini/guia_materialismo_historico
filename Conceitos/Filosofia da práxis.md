@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Filosofia da práxis
 
 > [!info] Como ler as marcas
-> O que vem dos textos já fichados ([[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]]) foi conferido na versão online. Gramsci foi conferido nos PDFs dos *Cadernos* (ver [[Cadernos do Cárcere]]). O resto vem de memória e termina com *(conferir)*.
+> O que vem dos textos já fichados ([[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]]) foi conferido na versão online. Gramsci foi conferido nos PDFs dos *Cadernos* (ver [[Cadernos do Cárcere]]). O resto não foi conferido na fonte e termina com *(conferir)*.
 
 ## Em uma frase
 Lukács, Korsch, Gramsci e Kosík tratam o conhecimento como inseparável da atividade histórica e do ponto de vista de classe.

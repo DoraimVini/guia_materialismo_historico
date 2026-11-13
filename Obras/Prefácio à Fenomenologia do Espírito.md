@@ -15,19 +15,19 @@ criado: 2026-11-12
 Autor: [[G. W. F. Hegel]] · obra: *Fenomenologia do Espírito* (1807), Prefácio · nota-ponte: [[Hegel, a Fenomenologia e o materialismo histórico]] · roteiro: etapa 1 do [[Guia de fontes - epistemologia do materialismo histórico]] · ler junto: [[Manuscritos de 1844 - Crítica da dialética hegeliana]]
 
 > [!info] Como ler as marcas
-> Esta nota vem **da leitura do Prefácio inteiro** na versão online do marxists.org ([link](https://www.marxists.org/portugues/hegel/1807/mes/fenomenologia.htm)). A página não indica o tradutor; a terminologia ("suprassumir" para *aufheben*, "ser-aí" para *Dasein*, "carente-de-conceito") é a da tradução de Paulo Meneses (Vozes). *(conferir na edição da Vozes antes de citar em trabalho)* As citações foram procuradas por script no texto da página. A página não numera os parágrafos; esta nota divide o texto em onze partes, na ordem do Prefácio. Paráfrases são minhas; interpretação minha vem marcada *(leitura minha)*.
+> Esta nota vem **da leitura do Prefácio inteiro** na versão online do marxists.org ([link](https://www.marxists.org/portugues/hegel/1807/mes/fenomenologia.htm)). A página não indica o tradutor; a terminologia ("suprassumir" para *aufheben*, "ser-aí" para *Dasein*, "carente-de-conceito") é a da tradução de Paulo Meneses (Vozes). *(conferir na edição da Vozes antes de citar em trabalho)* As citações foram procuradas por script no texto da página. A página não numera os parágrafos; esta nota divide o texto em onze partes, na ordem do Prefácio. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
 
 ## Em uma frase
 O Prefácio diz que **a verdade é um processo**: o verdadeiro é o todo, o todo só existe como resultado do seu desenvolvimento, e por isso a filosofia não pode ser nem intuição imediata do absoluto, nem aplicação de um esquema, nem coleção de proposições prontas; ela é o "esforço tenso do conceito" que acompanha o movimento da própria coisa.
 
 ## Referência
-G. W. F. Hegel, *Fenomenologia do Espírito* (Bamberg e Würzburg, 1807), Prefácio. Escrito depois do livro, como apresentação de todo o sistema. Tradução brasileira de referência: Paulo Meneses (Vozes, 1992; revista em 2002). Sua edição:
+G. W. F. Hegel, *Fenomenologia do Espírito* (Bamberg e Würzburg, 1807), Prefácio. Escrito depois do livro, como apresentação de todo o sistema. Tradução brasileira de referência: Paulo Meneses (Vozes, 1992; revista em 2002). Edição de referência:
 
 ## Por que ler
 É o texto mais citado de Hegel pelos marxistas e o mais curto para entrar no seu pensamento. Contém, em poucas páginas, as fórmulas que Marx, Engels, Lênin, Lukács e Gramsci retomam ("o verdadeiro é o todo", "substância como sujeito", "trabalho do negativo"). E mostra uma coisa que os resumos esquecem: Hegel já falava da consciência que anda "de cabeça para baixo", e já dizia que o método não se separa do conteúdo.
 
 ## O que é bom saber antes *(contexto)*
-- **Contra quem Hegel escreve.** Contra o romantismo e a "filosofia do sentimento" (o absoluto sentido e intuído, não pensado) e contra o formalismo da filosofia da natureza de Schelling, seu antigo amigo, que aplicava o mesmo esquema a tudo. A frase sobre a noite em que "todos os gatos são pardos" foi lida como ataque a Schelling e rompeu a amizade. *(de memória, conferir)*
+- **Contra quem Hegel escreve.** Contra o romantismo e a "filosofia do sentimento" (o absoluto sentido e intuído, não pensado) e contra o formalismo da filosofia da natureza de Schelling, seu antigo amigo, que aplicava o mesmo esquema a tudo. A frase sobre a noite em que "todos os gatos são pardos" foi lida como ataque a Schelling e rompeu a amizade. *(conferir)*
 - **1807.** O livro saiu logo depois da vitória de Napoleão em Iena (1806). O Prefácio fala de "um tempo de nascimento e trânsito para uma nova época".
 - **O Prefácio e a *Lógica*.** O Prefácio apresenta a *Fenomenologia* como introdução: ela termina onde começa a *Lógica*. Isso ajuda a entender por que Marx, mais tarde, buscou o "método" na *Lógica* ([[Hegel, a Fenomenologia e o materialismo histórico]]).
 
@@ -71,17 +71,17 @@ G. W. F. Hegel, *Fenomenologia do Espírito* (Bamberg e Würzburg, 1807), Prefá
 | 7 | Esse caminho é a experiência e a formação histórica | o espírito do mundo e o indivíduo | 7-8 |
 | 8 | Por isso o método não se separa do conteúdo | "a estrutura do todo"; contra a tríade-esquema | 10 |
 
-**Como o argumento funciona** *(leitura minha)*: o Prefácio é construído **contra dois inimigos ao mesmo tempo**, o sentimento imediato (que tem conteúdo e não tem forma) e o formalismo (que tem forma e não tem conteúdo). A tese central (substância como sujeito) é a saída dos dois: a forma é o movimento do próprio conteúdo. É o mesmo duplo combate que Marx trava na [[Introdução de 1857]] contra o empirismo (começar pelo concreto imediato) e contra a especulação (gerar o real pelo pensamento).
+**Como o argumento funciona** *(interpretação)*: o Prefácio é construído **contra dois inimigos ao mesmo tempo**, o sentimento imediato (que tem conteúdo e não tem forma) e o formalismo (que tem forma e não tem conteúdo). A tese central (substância como sujeito) é a saída dos dois: a forma é o movimento do próprio conteúdo. É o mesmo duplo combate que Marx trava na [[Introdução de 1857]] contra o empirismo (começar pelo concreto imediato) e contra a especulação (gerar o real pelo pensamento).
 
 ## O que isso muda na epistemologia
-1. **A verdade como processo histórico.** O verdadeiro é resultado, e os sistemas se sucedem como momentos. *(leitura minha)* Marx tira daí a [[Crítica da ideologia e historicidade das categorias]]: as categorias são "produtos históricos e transitórios". A diferença é que, para Hegel, o processo é o do espírito; para Marx, o das relações sociais.
+1. **A verdade como processo histórico.** O verdadeiro é resultado, e os sistemas se sucedem como momentos. *(interpretação)* Marx tira daí a [[Crítica da ideologia e historicidade das categorias]]: as categorias são "produtos históricos e transitórios". A diferença é que, para Hegel, o processo é o do espírito; para Marx, o das relações sociais.
 2. **A totalidade.** "O verdadeiro é o todo" é a fonte da categoria de totalidade em [[Georg Lukács]] ([[Totalidade e consciência atribuída]]) e do "concreto como síntese de múltiplas determinações" na [[Introdução de 1857]].
-3. **O método não se separa do conteúdo.** A frase "o método não é outra coisa que a estrutura do todo" é um problema para a leitura de Engels, que separa o **método** revolucionário do **sistema** conservador ([[Hegel, a Fenomenologia e o materialismo histórico]]). *(leitura minha)* Ela dá razão, antes, a Marx, quando ele diz no [[Posfácio de 1873]] que seu método é "o directo oposto" do de Hegel: se método e conteúdo são inseparáveis, trocar o conteúdo (espírito por relações sociais) muda o método.
-4. **"De cabeça para baixo" é uma imagem de Hegel.** No Prefácio, é a consciência comum que, ao entrar na ciência, tenta "andar de cabeça para baixo". *(leitura minha)* Marx e Engels devolvem a imagem: é a dialética de Hegel que está de cabeça para baixo. A inversão é também uma resposta a esta passagem.
-5. **O bem-conhecido não é conhecido.** A crítica do que parece óbvio é o ponto de partida da crítica da ideologia e do senso comum. *(leitura minha)* Ver [[Senso comum e bom senso]]: Gramsci também parte do senso comum para elevá-lo, e Hegel aqui despreza o "bom senso" que oferece "verdades banais".
-6. **A verdade não é moeda.** A comparação de Hegel (a verdade não é "moeda cunhada" que se embolsa) e a de Marx em 1844 ("a lógica é o dinheiro da mente") usam a mesma imagem em sentidos opostos. *(leitura minha)* Hegel recusa que a verdade seja uma coisa pronta; Marx acusa a lógica de Hegel de ser abstrata como o dinheiro. Ver [[Manuscritos de 1844 - Crítica da dialética hegeliana]].
-7. **A comunidade das consciências.** A natureza da humanidade é "tender ao consenso com outros". *(leitura minha)* Liga-se à objetividade "humanamente objetiva" de Gramsci ([[Objetividade histórica]]) e à "coalizão" de historiadores de Hobsbawm ([[Epistemologia do método de Hobsbawm]]): em todos, a verdade é social, mas não arbitrária.
-8. **Julgar é fácil, compreender é difícil.** *(leitura minha)* A frase da parte 1 antecipa a de Hobsbawm no prefácio de *Era dos Extremos*: "O difícil é compreender" (PDF p. 16).
+3. **O método não se separa do conteúdo.** A frase "o método não é outra coisa que a estrutura do todo" é um problema para a leitura de Engels, que separa o **método** revolucionário do **sistema** conservador ([[Hegel, a Fenomenologia e o materialismo histórico]]). *(interpretação)* Ela dá razão, antes, a Marx, quando ele diz no [[Posfácio de 1873]] que seu método é "o directo oposto" do de Hegel: se método e conteúdo são inseparáveis, trocar o conteúdo (espírito por relações sociais) muda o método.
+4. **"De cabeça para baixo" é uma imagem de Hegel.** No Prefácio, é a consciência comum que, ao entrar na ciência, tenta "andar de cabeça para baixo". *(interpretação)* Marx e Engels devolvem a imagem: é a dialética de Hegel que está de cabeça para baixo. A inversão é também uma resposta a esta passagem.
+5. **O bem-conhecido não é conhecido.** A crítica do que parece óbvio é o ponto de partida da crítica da ideologia e do senso comum. *(interpretação)* Ver [[Senso comum e bom senso]]: Gramsci também parte do senso comum para elevá-lo, e Hegel aqui despreza o "bom senso" que oferece "verdades banais".
+6. **A verdade não é moeda.** A comparação de Hegel (a verdade não é "moeda cunhada" que se embolsa) e a de Marx em 1844 ("a lógica é o dinheiro da mente") usam a mesma imagem em sentidos opostos. *(interpretação)* Hegel recusa que a verdade seja uma coisa pronta; Marx acusa a lógica de Hegel de ser abstrata como o dinheiro. Ver [[Manuscritos de 1844 - Crítica da dialética hegeliana]].
+7. **A comunidade das consciências.** A natureza da humanidade é "tender ao consenso com outros". *(interpretação)* Liga-se à objetividade "humanamente objetiva" de Gramsci ([[Objetividade histórica]]) e à "coalizão" de historiadores de Hobsbawm ([[Epistemologia do método de Hobsbawm]]): em todos, a verdade é social, mas não arbitrária.
+8. **Julgar é fácil, compreender é difícil.** *(interpretação)* A frase da parte 1 antecipa a de Hobsbawm no prefácio de *Era dos Extremos*: "O difícil é compreender" (PDF p. 16).
 
 ## Personagens e termos
 - **Substância e sujeito:** a substância é o que subsiste por si (Espinosa); o sujeito é o que se põe e se reconhece pela própria atividade. Hegel quer as duas coisas juntas.
@@ -169,7 +169,7 @@ G. W. F. Hegel, *Fenomenologia do Espírito* (Bamberg e Würzburg, 1807), Prefá
 - [[Senso comum e bom senso]], [[Objetividade histórica]]
 - [[Posfácio de 1873]], [[Introdução de 1857]]
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Conferir as citações na tradução de Paulo Meneses (Vozes) e anotar a página e o parágrafo (as edições numeram os parágrafos do Prefácio).
 - [ ] Ler em seguida o cap. IV, A ("Independência e dependência da consciência-de-si: dominação e escravidão").
 

@@ -11,11 +11,11 @@ criado: 2026-11-12
 
 > [!info] Como ler as marcas
 > Este guia diz **o que ler, em que ordem e onde encontrar** para aprofundar a epistemologia do materialismo histórico, com atenção à herança de Hegel. Três selos:
-> - **online, conferido:** abri a página e procurei o trecho; o link funciona.
+> - **online, conferido:** a página foi aberta e o trecho localizado; o link funciona.
 > - **edição em livro, conferida:** a edição foi confirmada em catálogo, resenha ou repositório.
-> - *(conferir)*: indicação de memória; confirme a edição antes de comprar ou citar.
+> - *(conferir)*: indicação sem conferência; confirmar a edição antes de comprar ou citar.
 >
-> Os livros não vão para o repositório (direitos autorais). Se você me enviar o PDF ou o EPUB, faço o fichamento com página, como foi feito com Hobsbawm e Gramsci.
+> Os livros não vão para o repositório (direitos autorais). Com o PDF ou o EPUB na pasta `Livros/`, o fichamento pode ter página conferida, como os de Hobsbawm e Gramsci.
 
 ## O que o cofre já tem, e o que falta
 **Já fichado:** [[Teses sobre Feuerbach]], [[A Ideologia Alemã]], [[Introdução de 1857]], [[Prefácio de 1859]], [[Posfácio de 1873]], [[Do socialismo utópico ao socialismo científico]], [[Materialismo e Empiriocriticismo]], os Cadernos 11 e 12 de Gramsci ([[Cadernos do Cárcere]]), o manual soviético ([[Materialismo Dialético - Academia de Ciências da URSS]]).
@@ -42,7 +42,7 @@ criado: 2026-11-12
 | Lênin, *Resumo da Ciência da Lógica* (1914) | [marxists.org, em francês](https://www.marxists.org/francais/lenin/works/1914/12/logiquehegelnote.htm) | online, conferido (só a abertura) | o aforismo sobre *O Capital* e a *Lógica* |
 | Lukács, *O jovem Hegel* (escrito em 1938) | [marxists.org, em português](https://www.marxists.org/portugues/lukacs/1938/jovem/index.htm); cap. IV, [3](https://www.marxists.org/portugues/lukacs/1938/jovem/25.htm) e [4](https://www.marxists.org/portugues/lukacs/1938/jovem/26.htm) | online, conferido; **tradução com problemas**, use a Boitempo para citar | a alienação na *Fenomenologia* |
 | Althusser, *Lênin diante de Hegel* (1969) | [marxists.org, em inglês](https://www.marxists.org/reference/archive/althusser/1969/lenin-before-hegel.htm) | online, conferido | a "história como processo sem sujeito" |
-| Giannotti, *Origens da dialética do trabalho* (1966) | [PDF no marxists.org](https://www.marxists.org/portugues/tematica/livros/origens-dialetica/origen.pdf) | online (link encontrado; não abri o PDF) | a lógica do jovem Marx, em diálogo com Hegel |
+| Giannotti, *Origens da dialética do trabalho* (1966) | [PDF no marxists.org](https://www.marxists.org/portugues/tematica/livros/origens-dialetica/origen.pdf) | online (link localizado; o PDF não foi aberto) | a lógica do jovem Marx, em diálogo com Hegel |
 
 ## 2. Edições em livro
 | Livro | Edição | Estado |
@@ -92,7 +92,7 @@ O princípio: **ler em pares**, o texto de Hegel e a resposta marxista ao mesmo 
 - **Pergunta-guia:** um historiador precisa de Hegel para ser dialético?
 
 ## 4. Como cada leitura entra no cofre
-1. **Fichamento** no modelo *Modelo - Fichamento de capítulo* (pasta `Modelos/` do Obsidian): roteiro, mapa do argumento, citações com página e as marcas *(conferir)* e *(leitura minha)*.
+1. **Fichamento** no modelo *Modelo - Fichamento de capítulo* (pasta `Modelos/` do Obsidian): roteiro, mapa do argumento, citações com página e as marcas *(conferir)* e *(interpretação)*.
 2. **Atualizar a nota-ponte** [[Hegel, a Fenomenologia e o materialismo histórico]], trocando cada *(conferir)* pela leitura feita.
 3. **Responder a uma questão** em [[Questões em aberto]] (as Questões 1, 3, 4, 14 e 32 são as desta trilha), preenchendo "Hipótese" e "Objeções".
 4. **Publicar** pelo fluxo de sempre (rascunho → pull request → site).

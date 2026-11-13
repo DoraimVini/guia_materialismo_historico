@@ -14,10 +14,10 @@ criado: 2026-11-12
 Autor: [[Eric Hobsbawm]]
 
 > [!info] Como ler as marcas
-> **Ainda não li o livro *A Era dos Extremos*.** Esta nota usa: a página da edição brasileira (Companhia das Letras), a [página da Wikipédia em inglês](https://en.wikipedia.org/wiki/The_Age_of_Extremes), as resenhas de Cavallaro Filho (2022) e de Pomar (1997/98), e três textos do próprio Hobsbawm no marxists.org: o *Depoimento* (1989), o obituário de E. P. Thompson (1993) e o *Manifesto para a renovação da história* (2004). Os resumos são paráfrases minhas. O que não vem dessas leituras termina com *(conferir)*. Para citar, é preciso a sua edição: as páginas ficam como `página: ___`.
+> **Nota anterior à leitura de *A Era dos Extremos*.** Fontes: a página da edição brasileira (Companhia das Letras), a [página da Wikipédia em inglês](https://en.wikipedia.org/wiki/The_Age_of_Extremes), as resenhas de Cavallaro Filho (2022) e de Pomar (1997/98), e três textos do próprio Hobsbawm no marxists.org: o *Depoimento* (1989), o obituário de E. P. Thompson (1993) e o *Manifesto para a renovação da história* (2004). Os resumos são paráfrases. O que não vem dessas leituras termina com *(conferir)*. Para citar, é preciso uma edição em papel: as páginas ficam como `página: ___`.
 
 ## Referência
-Eric Hobsbawm, obituário de E. P. Thompson, *The Independent*, 30 de agosto de 1993; versão em português do marxists.org, tradução de Marcelo Martino (transcrita de *Movimento Revista*, 2017). Versão online: [marxists.org](https://www.marxists.org/portugues/hobsbawm/1993/08/30.htm). Sua edição:
+Eric Hobsbawm, obituário de E. P. Thompson, *The Independent*, 30 de agosto de 1993; versão em português do marxists.org, tradução de Marcelo Martino (transcrita de *Movimento Revista*, 2017). Versão online: [marxists.org](https://www.marxists.org/portugues/hobsbawm/1993/08/30.htm). Edição de referência:
 
 ## Por que ler
 É Hobsbawm avaliando, em tom pessoal, o historiador que escreveu *A Miséria da Teoria*. Mostra a relação entre dois nomes do marxismo britânico.
@@ -33,14 +33,14 @@ Eric Hobsbawm, obituário de E. P. Thompson, *The Independent*, 30 de agosto de 
 ## Análise do argumento
 O texto avalia mais o historiador do que o teórico. A teoria vem como incursão, com imprecisões que os admiradores relevam.
 
-> [!question] Leitura minha
+> [!question] Interpretação
 > Hobsbawm elogia a obra empírica de Thompson e relativiza a teórica. Isso diz algo sobre o que ele próprio espera da teoria marxista. Compare com [[A Miséria da Teoria]].
 
 ## Dúvidas e objeções
-- Quais seriam as imprecisões teóricas de Thompson, segundo Hobsbawm? O texto não as detalha na extração que li.
+- Quais seriam as imprecisões teóricas de Thompson, segundo Hobsbawm? O texto não as detalha no trecho lido.
 - O que muda se a teoria de Thompson é lida como polêmica política, e não como tratado?
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Ler o texto inteiro, pois o resumo vem de uma extração online.
 
 ## Conceitos relacionados

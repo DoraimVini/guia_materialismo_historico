@@ -14,7 +14,7 @@ criado: 2026-11-12
 Autor: [[Antonio Gramsci]]
 
 > [!info] Como ler as marcas
-> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)** que você enviou, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não consegui confirmar que coincide com a paginação do livro em papel. Os resumos são paráfrases minhas. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não li, ou que vem de memória, termina com *(conferir)*.
+> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não foi lido ou conferido na fonte termina com *(conferir)*.
 
 ## Referência
 Antonio Gramsci, *Cadernos do cárcere*, edição e tradução de Carlos Nelson Coutinho, co-edição de Luiz Sérgio Henriques e Marco Aurélio Nogueira. Rio de Janeiro: Civilização Brasileira.
@@ -23,14 +23,14 @@ Antonio Gramsci, *Cadernos do cárcere*, edição e tradução de Carlos Nelson 
 - Os volumes 3 a 6 (Maquiavel e o Estado; temas de cultura e americanismo; Risorgimento e classes subalternas; literatura e folclore) **não foram enviados**.
 
 ## Por que ler
-É a fonte direta da [[Filosofia da práxis]], da [[Hegemonia]] e da crítica ao manual de [[Bukharin]]. Os trechos abaixo respondem a pontos que o cofre tinha só de memória: o que Gramsci entende por "objetivo" ([[Objetividade histórica]]), o que ele chama de "historicismo absoluto" ([[Historicismo absoluto]]) e quem são os intelectuais ([[Intelectuais orgânicos e tradicionais]]).
+É a fonte direta da [[Filosofia da práxis]], da [[Hegemonia]] e da crítica ao manual de [[Bukharin]]. Os trechos abaixo respondem a pontos que o cofre tinha sem fonte conferida: o que Gramsci entende por "objetivo" ([[Objetividade histórica]]), o que ele chama de "historicismo absoluto" ([[Historicismo absoluto]]) e quem são os intelectuais ([[Intelectuais orgânicos e tradicionais]]).
 
 ## Estrutura (conforme o Sumário dos PDFs)
 **Vol. 1.** Introdução de Coutinho (pp. 5-48); cronologia (p. 51); projetos de Gramsci para os Cadernos (p. 82). I. *Introdução ao estudo da filosofia*: Caderno 11 (p. 87), com as seções I. Alguns pontos preliminares de referência (p. 97), II. Observações e notas críticas sobre uma tentativa de "Ensaio popular de sociologia" (p. 123), III. A ciência e as ideologias científicas (p. 189), IV. Os instrumentos lógicos do pensamento (p. 199), V. Tradutibilidade das linguagens científicas e filosóficas (p. 208), VI. Apontamentos miscelâneos (p. 216); e trechos dos cadernos miscelâneos (p. 258). II. *A filosofia de Benedetto Croce*: Caderno 10 (p. 321), partes I e II, e trechos dos cadernos miscelâneos (p. 502).
 
 **Vol. 2.** I. *Os intelectuais. O princípio educativo*: Caderno 12 (p. 6) e trechos dos cadernos miscelâneos (p. 50). II. *Jornalismo*: Caderno 24 (p. 203) e trechos dos cadernos miscelâneos (p. 223). Há ainda blocos posteriores no Sumário que não percorri.
 
-## Roteiro (o que li)
+## Roteiro (trechos lidos)
 | Trecho | Páginas (PDF) | Assunto |
 | --- | --- | --- |
 | Projetos de Gramsci | vol. 1, pp. 82-86 | cartas de 1927 e 1929, plano do Caderno 1, agrupamentos de matéria |
@@ -48,7 +48,7 @@ Antonio Gramsci, *Cadernos do cárcere*, edição e tradução de Carlos Nelson 
 | Trecho do bloco Jornalismo | vol. 2, pp. 277-278 | "pessimismo da inteligência, otimismo da vontade" |
 | Introdução de Coutinho | vol. 1, pp. 5-6, 27, 40, 48 | só alguns pontos |
 
-**Não li:** o resto do Caderno 11 (inclusive as pp. 114-123 e 153-168, 189-207, 216-257), a Parte II do Caderno 10 (a análise da filosofia de Croce), o resto do Caderno 12, o Caderno 24, e quase toda a Introdução de Coutinho.
+**Não lido:** o resto do Caderno 11 (inclusive as pp. 114-123 e 153-168, 189-207, 216-257), a Parte II do Caderno 10 (a análise da filosofia de Croce), o resto do Caderno 12, o Caderno 24, e quase toda a Introdução de Coutinho.
 
 ## Análise do argumento
 1. **Todos são filósofos, mas a filosofia espontânea é desagregada.** Está na linguagem, no senso comum e no folclore. A tarefa é torná-la crítica e coerente, e isso é uma tarefa política (pp. 98-104).
@@ -60,7 +60,7 @@ Antonio Gramsci, *Cadernos do cárcere*, edição e tradução de Carlos Nelson 
 7. **Hegemonia é um conceito filosófico além de político**, e Lênin é apresentado como seu formulador (pp. 110, 282).
 8. **Os intelectuais são os "prepostos" do grupo dominante** na hegemonia e no governo, e o partido faz essa função para um grupo que ainda quer dirigir (vol. 2, pp. 6-16).
 
-> [!question] Leitura minha
+> [!question] Interpretação
 > A Advertência do Caderno 11 pede que tudo seja "revisto e verificado" (p. 87). Isso importa para citar: são notas de trabalho, às vezes com erro de memória. A nota do editor da p. 177 corrige uma afirmação de Gramsci sobre o livro de Bukharin, então vale conferir os fatos que ele afirma sobre o Ensaio popular antes de citá-los.
 
 ## Citações (com página)
@@ -189,7 +189,7 @@ Antonio Gramsci, *Cadernos do cárcere*, edição e tradução de Carlos Nelson 
 - **Engels.** Gramsci diz haver "motivos" em Engels que levam aos desvios de Bukharin (p. 187). Segundo a nota do editor, esse trecho foi suprimido na "edição temática" italiana. A nota da p. 27 diz que as omissões dessa edição não parecem ter motivo ideológico, com a exceção de um trecho em que Gramsci critica o *Anti-Dühring* (e de uma nota autobiográfica).
 - **Lukács.** Gramsci reage ao que ouviu de Lukács sobre a dialética só valer para a história, e não para a natureza. Diz que o dualismo seria um erro, mas "pode estar errado e pode ter razão". A nota do editor diz que Gramsci provavelmente não conheceu *História e Consciência de Classe* diretamente (p. 187). Ver [[História e Consciência de Classe]].
 - **Erro de Gramsci.** Na p. 177 ele afirma que o Ensaio popular não cita o Prefácio de Marx de 1859. A nota do editor diz que o livro de Bukharin o reproduz por inteiro. Ver [[Prefácio de 1859]].
-- **Leituras posteriores** (Althusser, Thompson, Anderson): *(conferir)*, não li.
+- **Leituras posteriores** (Althusser, Thompson, Anderson): *(conferir)*, não lidas.
 
 ## Dúvidas e objeções
 - Se "objetivo" é "universal subjetivo" (p. 147), como distinguir objetividade de consenso histórico?

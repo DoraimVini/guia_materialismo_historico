@@ -7,7 +7,7 @@ criado: 2026-11-12
 
 # Biblioteca
 
-Livros inteiros que você enviou. Os arquivos ficam nesta pasta; as notas de leitura ficam em `Obras/`.
+Livros inteiros. Os arquivos ficam nesta pasta; as notas de leitura ficam em `Obras/`.
 
 | Livro | Arquivo | Fichamento | Edição |
 | --- | --- | --- | --- |
