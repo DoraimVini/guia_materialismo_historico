@@ -45,6 +45,7 @@ A teoria precisa explicar a si mesma com os próprios instrumentos. Se as ideias
 Todas as quatro de [[Questões em aberto]].
 
 ## Ver também
+- [[Epistemologia do método de Hobsbawm]]: o método aplicado por um historiador, de Marx a *Era dos Extremos*
 - [[Materialismo e dualismo na filosofia da mente]]: mapa do debate mente-corpo, fora de Marx
 - [[Materialismo histórico]]
 - [[Materialismo dialético]]

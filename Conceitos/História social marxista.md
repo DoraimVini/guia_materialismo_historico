@@ -29,11 +29,12 @@ Resumo de dois textos do próprio autor: [[Depoimento (1989)]] e [[Manifesto par
 9. **Posição.** Segundo Pomar, Hobsbawm defende uma concepção materialista da história, baseada na capacidade crescente de controlar a natureza, e parte dos marxistas o vê como ortodoxo.
 
 ## No livro *Era dos Extremos*
-- No começo, Hobsbawm diz que escreve como participante e que "o difícil é compreender" ([[Hobsbawm - Era dos Extremos.pdf#page=15|p. 15]]).
+- No começo, Hobsbawm diz que escreve como participante e que "o difícil é compreender" ([[Hobsbawm - Era dos Extremos.pdf#page=16|p. 16]]). Ver [[Epistemologia do método de Hobsbawm]].
 - Nas notas de [[Hobsbawm lê Marx]], o método aparece nos usos de Marx: ele o cita como autor que previu certas tendências (campesinato, instabilidade do capitalismo) e como crítico possível do sistema soviético (Prefácio de 1859), sem expor um método à parte. *(leitura minha)*
 - O livro termina recusando previsões ([[Hobsbawm - Era dos Extremos.pdf#page=685|p. 685]]), o que combina com o ponto 8 acima (consequências não intencionais).
 
 ## Ligação com a epistemologia
+- Desenvolvido em [[Epistemologia do método de Hobsbawm]].
 - Ponto 2 e a [[Introdução de 1857]]: o concreto não é ponto de partida.
 - Ponto 5 e a Questão 3: qual o critério de cientificidade? Hobsbawm responde com uma coalizão e com a razão, e não com a ruptura de [[Louis Althusser]]. *(leitura minha)*
 - Ponto 8 e o [[Posfácio de 1873]]: Marx endossa a leitura de leis independentes da consciência. Como isso se concilia com "consequências não intencionais"? Questão 10.
