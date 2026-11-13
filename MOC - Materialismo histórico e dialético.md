@@ -12,14 +12,14 @@ Autores que discutem materialismo histórico e dialético, organizados por corre
 ## Conceitos
 - [[Materialismo histórico]]: teoria da história e da sociedade
 - [[Materialismo dialético]]: base filosófica (método, ontologia, teoria do conhecimento)
-- [[Epistemologia do materialismo histórico]] (apoio: [[Materialismo e dualismo na filosofia da mente]])
+- [[Epistemologia do materialismo histórico]] (apoio: [[Materialismo e dualismo na filosofia da mente]]; aplicada a um historiador: [[Epistemologia do método de Hobsbawm]])
 - [[Economia política marxista]]: crítica da economia política, do valor à acumulação
 - [[História do século XX]]: Hobsbawm e *A Era dos Extremos*
 - [[Materialismo dialético soviético]]: os manuais da Academia de Ciências da URSS
 - [[Teoria marxista do Estado]], [[Família e reprodução social]], [[Divisões sociais do trabalho]]: Engels, *A Origem da Família*
 - [[Biblioteca]]: livros inteiros enviados
 - Gramsci: [[Hegemonia]], [[Senso comum e bom senso]], [[Intelectuais orgânicos e tradicionais]], [[Bloco histórico]], [[Historicismo absoluto]], [[Objetividade histórica]]
-- Hobsbawm: [[Hobsbawm lê Marx]], [[Morte do campesinato]], [[Socialismo real]], [[Era de Ouro]]
+- Hobsbawm: [[Hobsbawm lê Marx]], [[Morte do campesinato]], [[Socialismo real]], [[Era de Ouro]], [[Fascismo]], [[Genealogia - fascismo, Estado e hegemonia]]
 - Marx e Engels (1845-1865): [[Ideologia e ideias dominantes]], [[Comunismo como movimento real]], [[Luta salarial e sindicatos]]
 - Lênin e Lukács: [[Consciência de fora e espontaneidade]], [[Imperialismo - Lênin e Rosa]], [[Totalidade e consciência atribuída]]
 - Rosa Luxemburgo: [[Socialismo ou barbárie]], [[Comunismo primitivo e comunidades tradicionais]], [[Desenvolvimento desigual e combinado]], [[Recepção de Rosa Luxemburgo no Brasil]], [[Reforma e revolução]], [[Greve de massas e espontaneidade]], [[Democracia socialista]], [[Acumulação e ambientes não capitalistas]], [[Imperialismo e militarismo]], [[Luxemburgo e Florestan Fernandes]], [[Fontes de Rosa Luxemburgo]]

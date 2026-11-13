@@ -58,6 +58,7 @@ Ele recusa a versão **instrumental** (o capital cria e dirige o fascismo) e fic
 - [[Era dos Extremos, cap. 2 - A revolução mundial]]
 
 ## Ver também
+- [[Genealogia - fascismo, Estado e hegemonia]]: de Marx (1852) a Hobsbawm e depois, com os textos de Thalheimer, Trotsky e Dimitrov conferidos
 - [[Era da Catástrofe]]
 - [[Hegemonia]], [[Teoria marxista do Estado]]
 - [[Reforma e revolução]]

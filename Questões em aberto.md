@@ -33,7 +33,7 @@ Se as ideias são explicadas pelas condições materiais, o próprio materialism
 ## 3. Critério de cientificidade
 Se a ciência se separa da ideologia por uma ruptura epistemológica, qual é o critério, se não é a prática?
 
-- Ver: [[Ruptura epistemológica]], [[Louis Althusser]], [[G. A. Cohen]], [[E. P. Thompson]]
+- Ver: [[Ruptura epistemológica]], [[Louis Althusser]], [[G. A. Cohen]], [[E. P. Thompson]], [[Epistemologia do método de Hobsbawm]]
 - Em diálogo com: falseabilidade (Popper) e programas de pesquisa (Lakatos)
 - Textos para testar: [[Ler O Capital]]; [[A Miséria da Teoria]]
 - Hipótese:
@@ -92,7 +92,7 @@ Em 1989 Hobsbawm distingue a crise dos regimes, a da esquerda e a do marxismo. E
 ## 10. Explicação estrutural ou consequências não intencionais?
 O [[Posfácio de 1873]] endossa leis independentes da vontade e da consciência. O [[Manifesto para a renovação da história]] fala de consequências não intencionais de projetos coletivos. Como conciliar as duas coisas com a agência das classes?
 
-- Ver: [[História social marxista]], [[Filosofia da práxis]]
+- Ver: [[História social marxista]], [[Filosofia da práxis]], [[Epistemologia do método de Hobsbawm]]
 - Textos para testar: [[Manifesto para a renovação da história]]; [[Obituário de E. P. Thompson]]; [[A Miséria da Teoria]]
 - Hipótese:
 - Objeções:
@@ -124,7 +124,7 @@ Engels diz que o Estado é "por regra geral" o da classe dominante, mas também 
 ## 14. "Humanamente objetivo" ainda é objetivo?
 Gramsci diz que "objetivo" significa "humanamente objetivo", o que equivale a "universal subjetivo", e que a luta pela objetividade é a luta pela unificação cultural do gênero humano. Mas também diz que Leste e Oeste são construções históricas e, ao mesmo tempo, reais. O que isso preserva da objetividade, e o que cede ao relativismo?
 
-- Ver: [[Objetividade histórica]], [[Historicismo absoluto]], [[Teoria do reflexo]]
+- Ver: [[Objetividade histórica]], [[Historicismo absoluto]], [[Teoria do reflexo]], [[Epistemologia do método de Hobsbawm]]
 - Textos para testar: [[Cadernos do Cárcere]] (vol. 1, pp. 146-151, 179); [[Materialismo e Empiriocriticismo]]
 - Hipótese:
 - Objeções:
@@ -257,7 +257,7 @@ A Ideologia Alemã afirma que "não é a consciência que determina a vida, é a
 ## 31. O fascismo expressa o capital ou só o serve?
 Hobsbawm recusa a tese soviética de que o fascismo foi "a expressão do capital monopolista": o grande capital se acomoda a qualquer regime que não o exproprie, e só apoiou Hitler tarde. Mas ele mostra que o fascismo derrotou a revolução, eliminou os sindicatos e deu ao capital a saída mais favorável da Depressão. Isso refuta a leitura marxista, ou pede uma versão com autonomia relativa do Estado (Gramsci, Thalheimer, Poulantzas)? E onde fica o Estado Novo de Vargas, que Hobsbawm separa do fascismo porque criou um movimento trabalhista?
 
-- Ver: [[Fascismo]], [[Era dos Extremos, cap. 4 - A queda do liberalismo]], [[Teoria marxista do Estado]], [[Hegemonia]]
+- Ver: [[Fascismo]], [[Genealogia - fascismo, Estado e hegemonia]], [[Era dos Extremos, cap. 4 - A queda do liberalismo]], [[Teoria marxista do Estado]], [[Hegemonia]]
 - Textos para testar: [[Cadernos do Cárcere]] (Caderno 13, não fichado); Dimitrov (1935) e Poulantzas, *Fascismo e ditadura* (não lidos)
 - Hipótese:
 - Objeções:

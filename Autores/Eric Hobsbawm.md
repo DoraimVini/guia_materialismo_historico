@@ -19,6 +19,8 @@ Corrente: [[Historiografia e tradição britânica]]
 - [[História do século XX]]
 - [[Breve século XX]]
 - [[História social marxista]]
+- [[Epistemologia do método de Hobsbawm]]
+- [[Genealogia - fascismo, Estado e hegemonia]]
 
 ## Fichamentos
 - [[A Era dos Extremos]]: lido por trechos a partir do PDF (ver [[Hobsbawm lê Marx]] e [[Morte do campesinato]])

@@ -66,7 +66,7 @@ Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **os cap
 8. **Sem previsões.** O livro termina recusando profecias e dizendo que o futuro não pode ser o prolongamento do presente. Ver [[Desmoronamento]].
 
 ## Análise do argumento
-1. **Método declarado.** O objetivo é "compreender e explicar" o que aconteceu, e o historiador é também testemunha: Hobsbawm lembra de Berlim em 30 de janeiro de 1933 (pp. 13-14) e escreve que, embora ninguém que viveu o século se abstenha de julgar, "o difícil é compreender" (p. 15).
+1. **Método declarado.** O objetivo é "compreender e explicar" o que aconteceu, e o historiador é também testemunha: Hobsbawm lembra de Berlim em 30 de janeiro de 1933 (pp. 13-14) e escreve que, embora ninguém que viveu o século se abstenha de julgar, "o difícil é compreender" (p. 16).
 > "Não é possível escrever a história do século XX como a de qualquer outra época"
 > — PDF p. 6 · Prefácio · [[Hobsbawm - Era dos Extremos.pdf#page=6|abrir]]
 
@@ -168,5 +168,7 @@ A versão anterior desta nota se apoiava na Wikipédia e nas resenhas de Cavalla
 - [[Morte do campesinato]]
 - [[Hobsbawm lê Marx]]
 - [[Fascismo]]
+- [[Genealogia - fascismo, Estado e hegemonia]]
+- [[Epistemologia do método de Hobsbawm]]
 
 ## Minhas anotações

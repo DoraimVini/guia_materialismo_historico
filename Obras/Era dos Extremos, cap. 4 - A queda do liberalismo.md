@@ -205,6 +205,8 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 4, "A que
 
 ## Conceitos relacionados
 - [[Fascismo]]: a nota-síntese criada a partir deste capítulo
+- [[Genealogia - fascismo, Estado e hegemonia]]: de onde vêm e para onde vão as teses que o capítulo discute
+- [[Epistemologia do método de Hobsbawm]]: como Hobsbawm sabe o que afirma
 - [[Era da Catástrofe]]
 - [[Hegemonia]], [[Teoria marxista do Estado]]
 - [[Reforma e revolução]]
