@@ -9,21 +9,21 @@ criado: 2026-11-12
 # Luxemburgo e Florestan Fernandes
 
 > [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org lidas pela ferramenta de busca**. Eu não consegui baixar os arquivos, então as aspas foram transcritas pela ferramenta de leitura e **não foram conferidas por script contra um arquivo**, como fiz com os PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, confira no link. Se você me enviar o PDF do livro, refaço com página conferida. Os resumos são paráfrases minhas, e o que vem de memória termina com *(conferir)*.
+> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página online e **não foram conferidas por script contra um arquivo**, ao contrário das notas feitas a partir dos PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
 
 ## Em uma frase
 Rosa Luxemburgo dá um modelo geral em que o capitalismo central depende de uma periferia não capitalista; Florestan Fernandes pergunta como o capitalismo se constitui, por dentro, nessa periferia (capitalismo dependente). A nota organiza o que comparar antes de ler Florestan.
 
 > [!warning] Estado desta nota
-> **Ainda não li Florestan Fernandes.** O que digo dele vem de memória e termina com *(conferir)*. O que digo de Rosa vem das passagens lidas nas outras notas. As relações entre os dois são hipóteses, não afirmações de nenhum dos dois autores. Não sei se Florestan discutiu Rosa Luxemburgo; é algo a verificar.
+> **Florestan Fernandes ainda não foi lido.** O que se afirma sobre ele não foi conferido na fonte e termina com *(conferir)*. O que se afirma sobre Rosa vem das passagens lidas nas outras notas. As relações entre os dois são hipóteses, não afirmações de nenhum dos dois autores. Não está verificado se Florestan discutiu Rosa Luxemburgo.
 
 ## O que Rosa oferece
 1. **A periferia como condição.** O capital acumula entre camadas e territórios não capitalistas ([[Acumulação e ambientes não capitalistas]]).
-2. **Violência e dependência.** Compulsão sobre meios de produção e trabalho, e empréstimos que atam países atrasados (de memória; capítulo não lido). *(conferir)*
+2. **Violência e dependência.** Compulsão sobre meios de produção e trabalho, e empréstimos que atam países atrasados (capítulo não lido). *(conferir)*
 3. **Reforma e revolução.** Críticas ao gradualismo, que se dirigem à ideia de que o capitalismo se transforma sem romper ([[Reforma e revolução]]).
 4. **Democracia socialista.** Condição política do socialismo ([[Democracia socialista]]).
 
-## O que Florestan Fernandes oferece *(de memória, conferir)*
+## O que Florestan Fernandes oferece *(conferir)*
 - *A Revolução Burguesa no Brasil* (1974): revolução burguesa como processo histórico-social, não como ruptura jacobina; dependência externa e domínio interno; burguesia que se afirma de forma autocrática.
 - O conceito de **capitalismo dependente** e da dominação externa combinada com a dominação interna.
 - Textos para ler primeiro: capítulos 5 e 6 de *A Revolução Burguesa no Brasil*, que apareceram na busca (ver [[Fontes de Rosa Luxemburgo]]).
@@ -43,7 +43,7 @@ Rosa Luxemburgo dá um modelo geral em que o capitalismo central depende de uma 
 ## Próximos passos
 - [ ] Ler *A Revolução Burguesa no Brasil*, caps. 5 e 6 (ver [[Fontes de Rosa Luxemburgo]]).
 - [ ] Criar a nota de obra e os conceitos de Florestan (capitalismo dependente, revolução burguesa, autocracia burguesa).
-- [ ] Ler os capítulos 27 a 32 de *A Acumulação do Capital* (estrutura de memória).
+- [ ] Ler os capítulos 27 a 32 de *A Acumulação do Capital* (estrutura a conferir).
 - [ ] Ler as entrevistas de Angela Mendes de Almeida e de Gilmar Mauro em [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]].
 - [ ] Ler os extratos de Trotsky em [[Lei do desenvolvimento desigual e combinado (Lora)]] antes de decidir se "dependência" e "desenvolvimento combinado" respondem à mesma pergunta.
 

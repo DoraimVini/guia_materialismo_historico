@@ -15,13 +15,13 @@ criado: 2026-11-12
 Autor: [[Eric Hobsbawm]] · Parte I, [[Era da Catástrofe]] · livro: [[A Era dos Extremos]] · capítulo anterior: [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]] · conceito-síntese: [[Fascismo]]
 
 > [!info] Como ler as marcas
-> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` que você enviou (PDF pp. 135-173). As citações foram **localizadas por script** no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**; na sua edição de papel use as seções (I a V) para achar o trecho. Os resumos são paráfrases minhas. Três outras marcas: *(leitura minha)* para interpretação minha; *(de memória, conferir)* para informação que não está no capítulo e que eu não conferi numa fonte; e *(contexto)* para fatos de fundo que o capítulo supõe conhecidos.
+> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` (PDF pp. 135-173). As citações foram **localizadas por script** no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**; na edição em papel, usar as seções (I a V) para achar o trecho. Os resumos são paráfrases. Três outras marcas: *(interpretação)* para o que não está no capítulo e é leitura interpretativa; *(conferir)* para informação que não está no capítulo e que não foi conferida numa fonte; e *(contexto)* para fatos de fundo que o capítulo supõe conhecidos.
 
 ## Em uma frase
 Entre 1918 e 1944 as instituições liberais recuaram em quase todo o mundo; a ameaça veio só da direita, o fascismo foi a forma mais nova e dinâmica dessa direita, e a democracia caiu porque as condições que a tornam viável (legitimidade, compatibilidade entre grupos, pouca necessidade de governar e prosperidade) faltavam na Era da Catástrofe.
 
 ## Referência
-Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 4, "A queda do liberalismo". Duas epígrafes (Ian Kershaw, 1993, sobre os limites da explicação diante de Auschwitz; carta de um jovem voluntário da República Social fascista de 1943-45, citada por Pavone) e cinco seções: I (PDF pp. 136-143), II (pp. 143-153), III (pp. 153-159), IV (pp. 159-165), V (pp. 166-172); notas de rodapé nas pp. 172-173. Sua edição:
+Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 4, "A queda do liberalismo". Duas epígrafes (Ian Kershaw, 1993, sobre os limites da explicação diante de Auschwitz; carta de um jovem voluntário da República Social fascista de 1943-45, citada por Pavone) e cinco seções: I (PDF pp. 136-143), II (pp. 143-153), III (pp. 153-159), IV (pp. 159-165), V (pp. 166-172); notas de rodapé nas pp. 172-173. Edição de referência:
 
 ## Por que ler
 É o capítulo em que Hobsbawm dá a sua **teoria do fascismo**, e ela foi escrita contra duas leituras: a dos próprios fascistas (uma "revolução") e a do marxismo soviético (a "expressão do capital monopolista"). Para o cofre, isso o põe em diálogo direto com a [[Teoria marxista do Estado]] e com a [[Hegemonia]] de Gramsci, termo que ele usa nos pontos decisivos do argumento. É também o capítulo com a passagem mais importante sobre o Brasil até aqui: Vargas e o Estado Novo, comparados ao fascismo europeu.
@@ -65,7 +65,7 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 4, "A que
 | 10 | Fora da Europa, o "fascismo" é outra coisa | Japão sem movimento; Vargas e Perón criam sindicatos | pp. 161-165 |
 | 11 | A democracia cai por falta de quatro condições | Weimar, Áustria, Espanha versus Grã-Bretanha, EUA, Escandinávia | pp. 167-172 |
 
-**Como o argumento funciona** *(leitura minha)*: Hobsbawm define o fascismo **por comparação**, eliminando critérios (ideologia, forma de Estado, racismo) até ficar com o que distingue o fascismo das outras direitas: a mobilização de massas. A explicação de sua vitória é **conjuntural e em camadas**: uma causa permissiva (o colapso dos velhos regimes), uma causa de base (o medo da revolução e o ressentimento das camadas médias), um acelerador (a Depressão) e um amplificador (o peso da Alemanha). E a explicação da queda da democracia é **mais ampla que a do fascismo**, porque ele quer explicar também os casos em que a democracia caiu sem fascismo.
+**Como o argumento funciona** *(interpretação)*: Hobsbawm define o fascismo **por comparação**, eliminando critérios (ideologia, forma de Estado, racismo) até ficar com o que distingue o fascismo das outras direitas: a mobilização de massas. A explicação de sua vitória é **conjuntural e em camadas**: uma causa permissiva (o colapso dos velhos regimes), uma causa de base (o medo da revolução e o ressentimento das camadas médias), um acelerador (a Depressão) e um amplificador (o peso da Alemanha). E a explicação da queda da democracia é **mais ampla que a do fascismo**, porque ele quer explicar também os casos em que a democracia caiu sem fascismo.
 
 ## Os números do capítulo
 | Dado | Valor | Onde |
@@ -83,26 +83,26 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 4, "A que
 
 ## Com quem Hobsbawm discute
 - **A tese da "revolução fascista"** (dos próprios fascistas, mas "adotada por muitos historiadores liberais", p. 156-157). Ele a rejeita: houve expurgo das velhas elites na Alemanha, mas o regime era "um velho regime recauchutado".
-- **A tese do "capitalismo monopolista"**, "cara ao marxismo soviético ortodoxo" (p. 157). O capítulo não nomeia a fonte. A formulação canônica é a de Dimitrov no VII Congresso da Internacional Comunista (1935), que definiu o fascismo no poder como ditadura terrorista aberta dos elementos mais reacionários do capital financeiro. *(de memória, conferir)* Hobsbawm aceita metade dela, a de que o fascismo serviu ao capital (p. 159), e recusa a outra, a de que o expressava ou foi criado por ele (p. 158).
+- **A tese do "capitalismo monopolista"**, "cara ao marxismo soviético ortodoxo" (p. 157). O capítulo não nomeia a fonte. A formulação canônica é a de Dimitrov no VII Congresso da Internacional Comunista (1935), que definiu o fascismo no poder como ditadura terrorista aberta dos elementos mais reacionários do capital financeiro. *(conferir)* Hobsbawm aceita metade dela, a de que o fascismo serviu ao capital (p. 159), e recusa a outra, a de que o expressava ou foi criado por ele (p. 158).
 - **A visão dos marxistas do entreguerras** de que o capitalismo em crise não podia mais se dar ao luxo da democracia (p. 167). Ele reconhece "um núcleo de verdade", mas mostra os contraexemplos (Grã-Bretanha, EUA, Escandinávia).
-- **Ernst Nolte** (Nolte, 1987), no centro da "querela dos historiadores" alemã dos anos 1980, que tratava o nazismo como reação, e em parte cópia, do bolchevismo. *(o nome da querela é contexto, de memória)* Hobsbawm aceita a primeira parte (reação) e recusa a desculpa.
+- **Ernst Nolte** (Nolte, 1987), no centro da "querela dos historiadores" alemã dos anos 1980, que tratava o nazismo como reação, e em parte cópia, do bolchevismo. *(o nome da querela é contexto, a conferir)* Hobsbawm aceita a primeira parte (reação) e recusa a desculpa.
 - **Juan Linz** (1975), de quem toma a tipologia e o termo "estatismo orgânico".
 - **Thomas Childers** (1983, 1991), revisionista sobre a base social do voto nazista. Hobsbawm diz que nem os revisionistas negam a centralidade das camadas médias (p. 150).
 - **Ian Kershaw** (1983, 1993): a epígrafe sobre os limites da explicação, e o dado de que na Alemanha a violência antissemita "vinha por decreto de cima" (p. 148).
 
 ## Diálogo com o cofre
-- **[[Hegemonia]] e [[Antonio Gramsci]].** O termo aparece três vezes nos pontos em que o argumento se decide: o fascismo vence onde ruiu o "maquinário de poder, influência e hegemonia" das velhas classes (p. 155); não vence onde existe a "hegemonia da tradição revolucionária" de 1789 (p. 149); e a América Latina olha para "as regiões culturalmente hegemônicas" (p. 164). *(leitura minha)* Lida com Gramsci, a tese fica: o fascismo é uma resposta à **crise de hegemonia** das classes dominantes, quando elas não dirigem mais e precisam de força. Gramsci, que escreveu na prisão de Mussolini, trata isso como "crise orgânica" e "cesarismo". *(de memória, conferir nos [[Cadernos do Cárcere]], Caderno 13; o cofre só fichou os Cadernos 11 e 12)*
-- **[[Teoria marxista do Estado]].** A frase de que o grande capital "pode se acomodar com todo regime que não o exproprie" (p. 158) puxa para o polo do Estado com autonomia relativa, e contra o Estado como simples instrumento. *(leitura minha)* Ela lembra a exceção de Engels: os momentos em que o Estado "adquire certa independência momentânea" (o bonapartismo). Marxistas como August Thalheimer leram o fascismo como uma forma de bonapartismo. *(de memória, conferir)*
+- **[[Hegemonia]] e [[Antonio Gramsci]].** O termo aparece três vezes nos pontos em que o argumento se decide: o fascismo vence onde ruiu o "maquinário de poder, influência e hegemonia" das velhas classes (p. 155); não vence onde existe a "hegemonia da tradição revolucionária" de 1789 (p. 149); e a América Latina olha para "as regiões culturalmente hegemônicas" (p. 164). *(interpretação)* Lida com Gramsci, a tese fica: o fascismo é uma resposta à **crise de hegemonia** das classes dominantes, quando elas não dirigem mais e precisam de força. Gramsci, que escreveu na prisão de Mussolini, trata isso como "crise orgânica" e "cesarismo". *(conferir nos [[Cadernos do Cárcere]], Caderno 13; o cofre só fichou os Cadernos 11 e 12)*
+- **[[Teoria marxista do Estado]].** A frase de que o grande capital "pode se acomodar com todo regime que não o exproprie" (p. 158) puxa para o polo do Estado com autonomia relativa, e contra o Estado como simples instrumento. *(interpretação)* Ela lembra a exceção de Engels: os momentos em que o Estado "adquire certa independência momentânea" (o bonapartismo). Marxistas como August Thalheimer leram o fascismo como uma forma de bonapartismo. *(conferir)*
 - **[[Rosa Luxemburgo]].** Os oficiais que mataram Rosa e Liebknecht em 1919 aparecem como exemplo do "soldado da linha de frente" que alimentou a direita radical (p. 153); o cap. 2 já os chamava de "pistoleiros de aluguel do exército".
 - **[[Reforma e revolução]].** A social-democracia aparece como força "mantenedora do Estado" (p. 139) e "esteio indispensável dos Estados liberais" (p. 154). Pela visão de Hobsbawm, a reforma não protegeu a democracia: foi o alvo da direita, ao lado da revolução.
 - **[[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]].** O cap. 4 completa o 3: lá a Depressão abre "os portões" da guerra e destrói o liberalismo econômico; aqui ela transforma Hitler em "senhor potencial" da Alemanha e derruba Weimar, ao romper o acordo entre Estado, patrões e sindicatos (p. 168).
 
 ## Brasil e América Latina
 - **O que o capítulo diz.** O Estado Novo de Vargas (1937-45) é um dos exemplos da influência fascista "aberta e reconhecida" (p. 163). Mas Vargas, como Perón, "fez a mesma descoberta": a base de apoio estava na classe trabalhadora urbana, a quem deu proteção social em troca de apoio; foi o exército que o derrubou em 1945 e em 1954, e os trabalhadores o choraram como "o pai de seu povo" (p. 165). No cap. 3 (p. 131), Vargas já aparecia como "populista-nacionalista".
-- **O que o capítulo não diz.** Não menciona a Ação Integralista Brasileira (1932-38), o movimento de massas que imitava o fascismo de modo mais direto, nem a Aliança Nacional Libertadora e o levante de 1935, que o cap. 2 chama de "tardio e anômalo". *(de memória: os anos do integralismo, conferir)*
-- **Pergunta para o cofre.** *(leitura minha)* Hobsbawm separa fascismo e populismo pelo **efeito sobre o movimento operário** (destruição versus criação). Isso é um critério marxista: a forma política lida pela relação com as classes. Mas o trabalhismo criado por Vargas era tutelado pelo Estado (sindicato oficial, imposto sindical). *(de memória, conferir)* Isso aproxima o caso brasileiro do "estatismo orgânico" corporativista da seção I? E como se compara com a "autocracia burguesa" de [[Florestan Fernandes]]? Ver Questão 31.
+- **O que o capítulo não diz.** Não menciona a Ação Integralista Brasileira (1932-38), o movimento de massas que imitava o fascismo de modo mais direto, nem a Aliança Nacional Libertadora e o levante de 1935, que o cap. 2 chama de "tardio e anômalo". *(conferir: os anos do integralismo, conferir)*
+- **Pergunta para o cofre.** *(interpretação)* Hobsbawm separa fascismo e populismo pelo **efeito sobre o movimento operário** (destruição versus criação). Isso é um critério marxista: a forma política lida pela relação com as classes. Mas o trabalhismo criado por Vargas era tutelado pelo Estado (sindicato oficial, imposto sindical). *(conferir)* Isso aproxima o caso brasileiro do "estatismo orgânico" corporativista da seção I? E como se compara com a "autocracia burguesa" de [[Florestan Fernandes]]? Ver Questão 31.
 
-## Limites e objeções *(leitura minha)*
+## Limites e objeções *(interpretação)*
 1. **O critério da mobilização de massas é necessário, mas suficiente?** Pelo próprio capítulo, os comunistas também mantinham as massas "simbolicamente" mobilizadas (p. 145), e os populistas latino-americanos também. O que separa o fascismo é a mobilização **contra** o movimento operário. O critério de classe que ele usa para a América Latina (p. 165) é o que de fato decide a definição.
 2. **A recusa da tese do "capital monopolista" é mais fraca do que parece.** Hobsbawm recusa a ideia de que o capital *criou* o fascismo, mas mostra que o fascismo foi a solução mais favorável ao capital na Depressão (p. 159). Uma teoria marxista mais fina (o Estado com autonomia relativa, que serve aos interesses de classe sem ser dirigido por ela) acomodaria as duas coisas. Ver [[Teoria marxista do Estado]].
 3. **As quatro condições da democracia são weberianas e liberais, não marxistas.** São condições de funcionamento institucional. Só a quarta (prosperidade) e a menção à luta de classes na segunda ligam a análise à base econômica.
@@ -115,7 +115,7 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 4, "A que
 - **Rerum Novarum (1891) e Quadragesimo Anno (1931):** as encíclicas sociais da Igreja (nota *b*, p. 172).
 - **Volksgemeinschaft:** "comunidade popular", a ideia nazista de povo único e indiviso, que entrava em conflito com o corporativismo (p. 144).
 - **Frontsoldat, squadristi, Freikorps:** os ex-combatentes e as milícias da direita radical (p. 153).
-- **Matteotti:** deputado socialista assassinado pelos fascistas em 1924 *(data de memória)*, prova de que o alvo era o movimento operário, não só os comunistas (p. 154).
+- **Matteotti:** deputado socialista assassinado pelos fascistas em 1924 *(data a conferir)*, prova de que o alvo era o movimento operário, não só os comunistas (p. 154).
 - **Cruz em Seta (Hungria), Guarda de Ferro (Romênia), Ustashi (Croácia), rexismo (Bélgica):** movimentos fascistas fora da Itália e da Alemanha (pp. 142-144).
 - **Gaitán, Perón, Haya de la Torre (APRA), Sandino:** a América Latina do capítulo (pp. 163-165).
 
@@ -126,7 +126,7 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 4, "A que
 4. Em que sentido Lênin "engendrou" Mussolini e Hitler, e por que isso não desculpa o fascismo?
 5. Quais são as duas teses que Hobsbawm recusa, e quais as quatro vantagens que o fascismo deu ao capital? Elas são compatíveis?
 6. Por que o Estado Novo de Vargas não é, para Hobsbawm, o "mesmo tipo de movimento" que o fascismo europeu?
-7. Quais são as quatro condições da democracia? Qual delas você considera decisiva, e por quê?
+7. Quais são as quatro condições da democracia? Qual delas é decisiva, e por quê?
 
 ## Citações (com página do PDF)
 ### A retirada liberal
@@ -212,10 +212,10 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 4, "A que
 - [[Reforma e revolução]]
 - [[Era de Ouro]]: a estabilidade democrática depois de 1945 apoiada nos "milagres econômicos" (p. 168)
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Anotar a página da edição de papel dos trechos citados (o PDF não tem paginação impressa).
 - [ ] p. 164: o PDF diz que a Argentina favoreceu o Eixo "antes de Perón tomar o poder em 1934"; Perón chegou ao governo com o golpe de 1943 e foi eleito em 1946. Ver se o erro é do PDF ou da tradução. *(conferir)*
 - [ ] p. 156: o PDF traz "(19334)", provavelmente "(1933-4)", para a eliminação dos rivais na Alemanha.
-- [ ] Conferir a formulação de Dimitrov (1935) e a leitura de Thalheimer numa fonte, antes de citá-las. *(de memória)*
+- [ ] Conferir a formulação de Dimitrov (1935) e a leitura de Thalheimer numa fonte, antes de citá-las. *(conferir)*
 
 ## Minhas anotações

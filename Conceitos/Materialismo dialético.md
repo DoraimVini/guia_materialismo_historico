@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Materialismo dialético
 
 > [!info] Como ler as marcas
-> O que vem dos textos já fichados ([[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]]) foi conferido na versão online. O resto vem de memória e termina com *(conferir)*.
+> O que vem dos textos já fichados ([[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]]) foi conferido na versão online. O resto não foi conferido na fonte e termina com *(conferir)*.
 
 ## Em uma frase
 Base filosófica mais geral do marxismo: trata do método, da ontologia e da teoria do conhecimento. Marx nunca usou o termo.

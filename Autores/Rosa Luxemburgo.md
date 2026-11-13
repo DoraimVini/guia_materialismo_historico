@@ -11,7 +11,7 @@ criado: 2026-11-12
 Corrente: [[Marxismo clássico e tradição soviética]] (a rigor, a esquerda da Segunda Internacional; ela criticou o revisionismo e depois os bolcheviques)
 
 > [!info] Fontes desta nota
-> Os dados biográficos vêm de memória e terminam com *(conferir)*. As obras abaixo foram lidas por trechos nas páginas do marxists.org (ver [[Fontes de Rosa Luxemburgo]]).
+> Os dados biográficos não foram conferidos na fonte e terminam com *(conferir)*. As obras abaixo foram lidas por trechos nas páginas do marxists.org (ver [[Fontes de Rosa Luxemburgo]]).
 
 ## Quem foi *(conferir)*
 Revolucionária polonesa-alemã, economista e teórica marxista, assassinada em Berlim em janeiro de 1919, durante a revolta espartaquista. A lista do marxists.org traz como seu último texto "A Ordem Reina em Berlim" (janeiro de 1919). Tinha atuado na social-democracia alemã e polonesa, fundou a Liga Espartaco e passou longos períodos presa durante a guerra.

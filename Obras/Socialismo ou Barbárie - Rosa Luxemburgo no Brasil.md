@@ -14,10 +14,10 @@ criado: 2026-11-12
 Organização: Isabel Loureiro. Tema: [[Rosa Luxemburgo]]
 
 > [!info] Como ler as marcas
-> Esta nota vem de um **PDF que você enviou**, com texto extraível. As citações foram **localizadas por script no texto do PDF**; cada uma traz a página do PDF e um link `abrir`. Como o livro é diagramado em páginas duplas, a página do livro é uma de duas (por isso `pp. a-b`). Comentários de entrevistados são **interpretações deles**, não textos de Rosa. Os resumos são paráfrases minhas, e o que vem de memória termina com *(conferir)*.
+> Esta nota vem de um **PDF da pasta `Livros/`**, com texto extraível. As citações foram **localizadas por script no texto do PDF**; cada uma traz a página do PDF e um link `abrir`. Como o livro é diagramado em páginas duplas, a página do livro é uma de duas (por isso `pp. a-b`). Comentários de entrevistados são **interpretações deles**, não textos de Rosa. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
 
 ## Referência
-Isabel Loureiro (org.), *Socialismo ou Barbárie: Rosa Luxemburgo no Brasil. Entrevistas*, 2.ª edição, São Paulo, outubro de 2009. A editora não aparece nas páginas que li. Entrevistas feitas no primeiro semestre de 2008 por Danilo César e Nicolau Bruno, para um documentário sobre Rosa e material de formação (Apresentação). Arquivo: [[Loureiro (org.) - Socialismo ou Barbárie - Rosa Luxemburgo no Brasil.pdf]].
+Isabel Loureiro (org.), *Socialismo ou Barbárie: Rosa Luxemburgo no Brasil. Entrevistas*, 2.ª edição, São Paulo, outubro de 2009. A editora não aparece nas páginas lidas. Entrevistas feitas no primeiro semestre de 2008 por Danilo César e Nicolau Bruno, para um documentário sobre Rosa e material de formação (Apresentação). Arquivo: [[Loureiro (org.) - Socialismo ou Barbárie - Rosa Luxemburgo no Brasil.pdf]].
 
 ## Estrutura (Sumário do livro)
 | Entrevistado | Título | Página do livro | Lido |
@@ -98,7 +98,7 @@ Ver [[Socialismo ou barbárie]] e a Questão 22.
 > — Michael Löwy · PDF p. 23 (livro pp. 44-45) · [[Loureiro (org.) - Socialismo ou Barbárie - Rosa Luxemburgo no Brasil.pdf#page=23|abrir]]
 
 
-Isso confirma e corrige o que eu havia escrito antes, só com as páginas do marxists.org (ver [[Reforma ou Revolução]]): o livro de 1898-99 é, para Loureiro, a "lição de casa ortodoxa", e Rosa só ganha a forma própria depois. Ver [[Reforma e revolução]].
+Isso confirma e corrige o que a nota tinha a partir só das páginas do marxists.org (ver [[Reforma ou Revolução]]): o livro de 1898-99 é, para Loureiro, a "lição de casa ortodoxa", e Rosa só ganha a forma própria depois. Ver [[Reforma e revolução]].
 
 ## 4. Organização, espontaneidade e vanguarda
 > "Se lermos seus textos, vemos que ela nunca rejeitou o papel do partido."
@@ -120,7 +120,7 @@ Isso confirma e corrige o que eu havia escrito antes, só com as páginas do mar
 Ver [[Greve de massas e espontaneidade]] e a Questão 19.
 
 ## 5. Comunidades pré-capitalistas e América Latina (Löwy)
-Löwy destaca a *Introdução à economia política* (publicada só em 1925), que eu não li, e a atenção de Rosa ao "comunismo primitivo".
+Löwy destaca a *Introdução à economia política* (publicada só em 1925), não lida, e a atenção de Rosa ao "comunismo primitivo".
 > "Ela valoriza muito as qualidades humanas dessas comunidades, das práticas coletivistas, da igualdade, solidariedade dos indivíduos."
 > — Michael Löwy · PDF p. 22 (livro pp. 42-43) · [[Loureiro (org.) - Socialismo ou Barbárie - Rosa Luxemburgo no Brasil.pdf#page=22|abrir]]
 
@@ -147,7 +147,7 @@ Ver [[Comunismo primitivo e comunidades tradicionais]].
 > — Paulo Arantes (citando David Harvey) · PDF p. 57 (livro pp. 112-113) · [[Loureiro (org.) - Socialismo ou Barbárie - Rosa Luxemburgo no Brasil.pdf#page=57|abrir]]
 
 
-Observação: o livro cita **David Harvey** (*O novo imperialismo*) como quem reativou essa leitura de Rosa; Harvey não foi lido por mim. Ver [[David Harvey]] e [[Acumulação e ambientes não capitalistas]].
+Observação: o livro cita **David Harvey** (*O novo imperialismo*) como quem reativou essa leitura de Rosa; Harvey não foi lido. Ver [[David Harvey]] e [[Acumulação e ambientes não capitalistas]].
 
 ## 7. Ponte com Florestan Fernandes
 Arantes, em 2008, afirma o esgotamento da "tradição crítica brasileira". A frase é uma tese **dele**, e é útil para saber onde Florestan está no debate:

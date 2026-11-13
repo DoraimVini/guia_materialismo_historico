@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Do abstrato ao concreto pensado
 
 > [!info] Como ler as marcas
-> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto vem de memória e termina com *(conferir)*. Falta conferir tudo com a sua edição.
+> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto não foi conferido na fonte e termina com *(conferir)*. Falta conferir tudo com uma edição em papel.
 
 ## Em uma frase
 O concreto é síntese de múltiplas determinações, e o pensamento o reconstrói por abstrações sucessivas. Marx separa o método de investigação do método de exposição.
@@ -17,7 +17,7 @@ O concreto é síntese de múltiplas determinações, e o pensamento o reconstr�
 ## Base textual
 Fichamento: [[Introdução de 1857]].
 - O exemplo da população: "A população é uma abstração quando, por exemplo, deixamos de lado as classes de que se compõe."
-- O caminho de ida: da representação caótica do todo a determinações cada vez mais simples (paráfrase minha). *(conferir a formulação exata)*
+- O caminho de ida: da representação caótica do todo a determinações cada vez mais simples (paráfrase). *(conferir a formulação exata)*
 - O caminho de volta: "O concreto é concreto porque é a síntese de múltiplas determinações e, por isso, é a unidade do diverso."
 - Resultado, não ponto de partida: "Aparece no pensamento como processo de síntese, como resultado, e não como ponto de partida".
 - Contra Hegel: a "ilusão de conceber o real como resultado do pensamento", e a ressalva "não é este de modo nenhum o processo de gênese do concreto em si".

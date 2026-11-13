@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Morte do campesinato
 
 > [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos*** que você enviou, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso cito também o capítulo. Os resumos são paráfrases minhas. O que não li, ou que vem de memória ou de resenha, termina com *(conferir)*.
+> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
 
 ## Em uma frase
 Para Hobsbawm, a "mudança social mais impressionante e de mais longo alcance" da segunda metade do século XX é o desaparecimento do campesinato, que "nos isola para sempre do mundo do passado".

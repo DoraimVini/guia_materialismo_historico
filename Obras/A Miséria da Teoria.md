@@ -13,11 +13,11 @@ criado: 2026-11-12
 
 Autor: [[E. P. Thompson]]
 
-> [!warning] Contexto de memória
-> O contexto e as perguntas abaixo foram escritos antes da leitura, de memória. Confirme na obra e ajuste.
+> [!warning] Contexto anterior à leitura
+> O contexto e as perguntas abaixo foram escritos antes da leitura da obra, sem conferência na fonte. Confirmar na obra e ajustar.
 
 ## Referência
-E. P. Thompson, *A Miséria da Teoria* (1978), com o subtítulo "ou um planetário de erros: uma crítica ao pensamento de Althusser". Sua edição: 
+E. P. Thompson, *A Miséria da Teoria* (1978), com o subtítulo "ou um planetário de erros: uma crítica ao pensamento de Althusser". Edição de referência: 
 
 ## Por que ler
 Contraponto a Althusser na Questão 3 de [[Questões em aberto]]. Defende a experiência histórica e o diálogo com a evidência.

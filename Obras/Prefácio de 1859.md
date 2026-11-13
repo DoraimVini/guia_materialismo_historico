@@ -14,10 +14,10 @@ criado: 2026-11-12
 Autor: [[Karl Marx]]
 
 > [!info] Como ler as marcas
-> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica vêm de memória e terminam com *(conferir)*. Falta a sua leitura e a conferência com a sua edição.
+> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica não foram conferidos na fonte e terminam com *(conferir)*. Falta a conferência com uma edição em papel.
 
 ## Referência
-Karl Marx, Prefácio da *Contribuição à Crítica da Economia Política* (1859). Versão online: [marxists.org](https://marxists.org/portugues/marx/1859/01/prefacio.htm), tradução de José Barata-Moura (*Obras Escolhidas*, Avante!, 1982), em português de Portugal ("económica", "superstrutura"). Sua edição:
+Karl Marx, Prefácio da *Contribuição à Crítica da Economia Política* (1859). Versão online: [marxists.org](https://marxists.org/portugues/marx/1859/01/prefacio.htm), tradução de José Barata-Moura (*Obras Escolhidas*, Avante!, 1982), em português de Portugal ("económica", "superstrutura"). Edição de referência:
 
 ## Por que ler
 Segundo passo da [[Trilha de leitura]]. É a fonte da [[Primazia do ser social]] e a formulação mais citada do [[Materialismo histórico]]. O texto é curto, mas só um parágrafo (o §4) formula a teoria. Os demais situam a obra e contam o percurso de Marx.
@@ -44,7 +44,7 @@ O §4. Leia-o duas vezes: a primeira para os termos, a segunda para a ordem das 
 7. **Dois planos na análise de uma revolução.** É preciso distinguir a transformação material das condições económicas, verificável "como nas ciências naturais", das formas ideológicas em que os homens tomam consciência do conflito e o resolvem.
 8. **Periodização.** Os modos de produção asiático, antigo, feudal e burguês são épocas progressivas. O burguês é a última forma antagónica, e com ele se encerra a "pré-história" da sociedade humana.
 
-> [!question] Leitura minha
+> [!question] Interpretação
 > O passo 7 mostra a posição de onde Marx fala: ele separa o plano material, passível de verificação "como nas ciências naturais", das formas ideológicas. Isso supõe um ponto de vista que sabe distinguir os dois planos, e é exatamente o que as Questões 2 e 3 de [[Questões em aberto]] perguntam.
 
 ## Conceitos-chave (como o texto os usa)
@@ -99,7 +99,7 @@ O §4. Leia-o duas vezes: a primeira para os termos, a segunda para a ordem das 
 - O Prefácio dá primazia às forças produtivas. O *Manifesto* diz que a história é a história da luta de classes. Qual das duas é primária, e elas são compatíveis?
 - O que muda se lermos "ser social" como relações sociais (como na Tese VI de [[Teses sobre Feuerbach]]) e não como "condições materiais"?
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Localizar o §4 e anotar a página.
 - [ ] Preencher a página de cada citação.
 - [ ] Comparar a tradução com a de Barata-Moura (por exemplo "superstrutura" e "superestrutura").

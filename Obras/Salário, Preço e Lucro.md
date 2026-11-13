@@ -14,10 +14,10 @@ criado: 2026-11-12
 Autor: [[Karl Marx]]
 
 > [!info] Como ler as marcas
-> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7 a 10 conferidos na leitura anterior; caps. 6 e 12 a 14 acrescentados depois, por resumo e trechos curtos da ferramenta, **não conferidos por script**) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a sua edição e preencher as páginas.
+> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7 a 10 conferidos na leitura anterior; caps. 6 e 12 a 14 acrescentados depois, por resumo e trechos curtos da página online, **não conferidos por script**) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a edição em papel e preencher as páginas.
 
 ## Referência
-Karl Marx, *Salário, Preço e Lucro*. Versão online: [índice no marxists.org](https://www.marxists.org/portugues/marx/1865/salario/), sem indicação de tradutor. Lidos: caps. 6 a 10 e 12 a 14. **Não lidos:** Observações preliminares, caps. 1 a 5 e cap. 11. A página informa que o texto é o relatório apresentado por Marx em 20 e 27 de junho de 1865 ao Conselho Geral da Associação Internacional dos Trabalhadores, publicado em folheto em Londres, em 1898; o site usa *Obras Escolhidas de Marx e Engels*, Ediciones en Lenguas Extranjeras, Moscou, 1953 (tradutor não indicado). Sua edição:
+Karl Marx, *Salário, Preço e Lucro*. Versão online: [índice no marxists.org](https://www.marxists.org/portugues/marx/1865/salario/), sem indicação de tradutor. Lidos: caps. 6 a 10 e 12 a 14. **Não lidos:** Observações preliminares, caps. 1 a 5 e cap. 11. A página informa que o texto é o relatório apresentado por Marx em 20 e 27 de junho de 1865 ao Conselho Geral da Associação Internacional dos Trabalhadores, publicado em folheto em Londres, em 1898; o site usa *Obras Escolhidas de Marx e Engels*, Ediciones en Lenguas Extranjeras, Moscou, 1953 (tradutor não indicado). Edição de referência:
 
 ## Por que ler
 É a melhor porta de entrada para a [[Mais-valia]], num texto curto escrito para trabalhadores. Distingue [[Força de trabalho]] de trabalho, e explica o lucro sem recorrer a trapaça na troca.
@@ -50,7 +50,7 @@ Karl Marx, *Salário, Preço e Lucro*. Versão online: [índice no marxists.org]
 3. O capitalista paga o valor da força de trabalho, e a troca é "justa" em termos de mercado.
 4. A diferença é trabalho não pago, e o salário a esconde sob a forma de preço do trabalho.
 
-> [!question] Leitura minha
+> [!question] Interpretação
 > O argumento tem duas faces. Pela lei da troca, não há injustiça. Pela divisão da jornada, há exploração. Marx está dizendo que o lucro vem de uma injustiça ou que a injustiça é um efeito de um sistema de trocas justas? Essa tensão alimenta a discussão sobre justiça em [[Debates sobre a teoria do valor]].
 
 ## Citações (com página)
@@ -79,46 +79,46 @@ Karl Marx, *Salário, Preço e Lucro*. Versão online: [índice no marxists.org]
 > — cap. 10; página: ___
 
 > "Uma mercadoria tem um valor por ser uma cristalização de um trabalho social."
-> — cap. 6 (trecho da ferramenta); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap06.htm)
+> — cap. 6 (trecho transcrito da página); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap06.htm)
 
 > "a quantidade de trabalho socialmente necessário"
-> — cap. 6 (trecho da ferramenta); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap06.htm)
+> — cap. 6 (trecho transcrito da página); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap06.htm)
 
 > "Se os salários baixam, subirão os lucros; e se os salários sobem, baixarão os lucros."
-> — cap. 12 (trecho da ferramenta); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap12.htm)
+> — cap. 12 (trecho transcrito da página); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap12.htm)
 
 > "Logo, um aumento geral de salários determinaria uma diminuição da taxa geral de lucro, mas não afetaria os valores."
-> — cap. 12 (trecho da ferramenta); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap12.htm)
+> — cap. 12 (trecho transcrito da página); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap12.htm)
 
 > "O tempo é o campo do desenvolvimento humano."
-> — cap. 13 (trecho da ferramenta); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap13.htm)
+> — cap. 13 (trecho transcrito da página); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap13.htm)
 
 > "Um salário justo por uma jornada de trabalho justa!"
-> — cap. 14 (trecho da ferramenta); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap14.htm)
+> — cap. 14 (trecho transcrito da página); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap14.htm)
 
 > "Abolição do sistema de trabalho assalariado!"
-> — cap. 14 (trecho da ferramenta); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap14.htm)
+> — cap. 14 (trecho transcrito da página); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap14.htm)
 
 > "Os sindicatos trabalham bem como centro de resistência contra as usurpações do capital."
-> — cap. 14 (trecho da ferramenta); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap14.htm)
+> — cap. 14 (trecho transcrito da página); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap14.htm)
 
 > "A tendência geral da produção capitalista não é para elevar o padrão médio de salários, mas para reduzi-lo."
-> — cap. 14 (trecho da ferramenta); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap14.htm)
+> — cap. 14 (trecho transcrito da página); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1865/salario/cap14.htm)
 
 ## Debate crítico
 - **Sem mistério na troca.** A tese de que há lucro com troca de equivalentes foi contestada. O principal contra-argumento vem do problema da transformação. Ver [[Problema da transformação]].
 - **Trabalho doméstico.** [[Silvia Federici]] e [[Lise Vogel]] perguntam quem produz e reproduz a força de trabalho. *(conferir)*
-- **Sindicato como resistência.** O cap. 14 dá ao sindicato o papel de "centro de resistência" e pede um objetivo maior (abolir o salariado). Isso se compara com a fórmula de Lênin em [[Que Fazer (Lênin)]] e com [[Greve de massas, partido e sindicatos]] (Rosa). Ver [[Luta salarial e sindicatos]]. *(leitura minha)*
+- **Sindicato como resistência.** O cap. 14 dá ao sindicato o papel de "centro de resistência" e pede um objetivo maior (abolir o salariado). Isso se compara com a fórmula de Lênin em [[Que Fazer (Lênin)]] e com [[Greve de massas, partido e sindicatos]] (Rosa). Ver [[Luta salarial e sindicatos]]. *(interpretação)*
 - **Mesmo tema em 1849.** [[Trabalho Assalariado e Capital]] trata do mesmo problema doze anos antes, e a introdução de Engels (1891) explica a troca de "trabalho" por "força de trabalho".
 
 ## Dúvidas e objeções
 - O cap. 9 diz "valor do trabalho" ou "valor da força de trabalho"? A página usa as duas coisas, com a ressalva de Marx.
 - O "valor" da força de trabalho depende de lutas: onde isso aparece no texto? Resposta parcial: o resumo do cap. 14 fala em um piso físico e num componente histórico e social do valor do trabalho. Confira no texto.
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Anotar a página de cada citação.
-- [ ] Ler as Observações preliminares, os caps. 1 a 5 e o cap. 11, que não li.
-- [ ] Conferir no link os trechos dos caps. 6 e 12 a 14, que vieram por resumo da ferramenta.
+- [ ] Ler as Observações preliminares, os caps. 1 a 5 e o cap. 11, ainda não lidos.
+- [ ] Conferir no link os trechos dos caps. 6 e 12 a 14, que vieram por resumo da página, sem o texto integral.
 
 ## Conceitos relacionados
 - [[Economia política marxista]]

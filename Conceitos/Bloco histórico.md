@@ -9,10 +9,10 @@ criado: 2026-11-12
 # Bloco histórico
 
 > [!info] Como ler as marcas
-> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)** que você enviou, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não consegui confirmar que coincide com a paginação do livro em papel. Os resumos são paráfrases minhas. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não li, ou que vem de memória, termina com *(conferir)*.
+> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não foi lido ou conferido na fonte termina com *(conferir)*.
 
 ## Em uma frase
-Nas passagens que li, o bloco histórico é a unidade entre forças materiais e ideologias, em que as ideologias são a "forma" e as forças materiais o "conteúdo" (uma distinção que Gramsci chama de "puramente didática").
+Nas passagens lidas, o bloco histórico é a unidade entre forças materiais e ideologias, em que as ideologias são a "forma" e as forças materiais o "conteúdo" (uma distinção que Gramsci chama de "puramente didática").
 
 ## Base textual (verificada)
 **Forma e conteúdo.** Ao analisar a "validade das ideologias".

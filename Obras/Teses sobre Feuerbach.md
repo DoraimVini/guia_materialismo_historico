@@ -14,10 +14,10 @@ criado: 2026-11-12
 Autor: [[Karl Marx]]
 
 > [!info] Como ler as marcas
-> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica vêm de memória e terminam com *(conferir)*. Falta a sua leitura e a conferência com a sua edição.
+> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica não foram conferidos na fonte e terminam com *(conferir)*. Falta a conferência com uma edição em papel.
 
 ## Referência
-Karl Marx, *Teses sobre Feuerbach* (1845). Existem duas versões do texto: a de Marx e a editada por Engels, publicada em 1888 como apêndice de *Ludwig Feuerbach e o fim da filosofia clássica alemã*. Confira qual delas a sua edição usa. Versão online: [marxists.org](https://marxists.org/portugues/marx/1845/tesfeuer.htm), tradução de Álvaro Pina (Avante!, 1982), a partir da edição de Engels. Sua edição:
+Karl Marx, *Teses sobre Feuerbach* (1845). Existem duas versões do texto: a de Marx e a editada por Engels, publicada em 1888 como apêndice de *Ludwig Feuerbach e o fim da filosofia clássica alemã*. Confira qual delas a edição em papel usa. Versão online: [marxists.org](https://marxists.org/portugues/marx/1845/tesfeuer.htm), tradução de Álvaro Pina (Avante!, 1982), a partir da edição de Engels. Edição de referência:
 
 ## Por que ler
 Base da [[Prática como critério de verdade]] e da [[Filosofia da práxis]]. Em onze teses curtas, Marx rompe com o materialismo anterior e com o idealismo de uma só vez. Alimenta as Questões 1 e 2 de [[Questões em aberto]].
@@ -48,7 +48,7 @@ Os fios do texto se agrupam em quatro movimentos.
 3. **Circunstâncias e agentes (III).** Quem diz que as circunstâncias formam as pessoas esquece que são as pessoas que mudam as circunstâncias. A coincidência dos dois movimentos só se entende como práxis revolucionante.
 4. **Religião e essência humana (IV, VI, VII).** Feuerbach reduz o religioso ao humano, mas toma o humano como essência abstrata do indivíduo. Para Marx, a essência humana é o conjunto das relações sociais, e o próprio sentimento religioso é produto social.
 
-> [!question] Leituras minhas
+> [!question] Interpretações
 > 1. A Tese III contém o problema da reflexividade em estado nascente: ao dizer que o educador também precisa ser educado, Marx recusa dividir a sociedade em uma parte que pensa e outra pensada. Isso liga o texto à Questão 2.
 > 2. A Tese II mistura duas ideias: a prática como teste da verdade e a prática como demonstração do "poder" do pensamento. A diferença entre as duas é a Questão 1.
 
@@ -94,7 +94,7 @@ Os fios do texto se agrupam em quatro movimentos.
 - Na Tese III, quem educa o educador, e isso resolve ou repete o problema de um ponto de vista exterior à sociedade?
 - A "humanidade socializada" da Tese X é uma descrição, uma tarefa ou uma norma?
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Verificar se a edição traz a versão de Marx, a de Engels ou ambas.
 - [ ] Transcrever a Tese II inteira com a página.
 - [ ] Preencher a página de cada citação.

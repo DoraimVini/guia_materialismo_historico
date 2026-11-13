@@ -14,20 +14,20 @@ criado: 2026-11-12
 Autor: [[Eric Hobsbawm]]
 
 > [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos*** que você enviou, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso cito também o capítulo. Os resumos são paráfrases minhas. O que não li, ou que vem de memória ou de resenha, termina com *(conferir)*.
+> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
 
 ## Referência
-Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*. Original: *The Age of Extremes: The Short Twentieth Century, 1914-1991* (1994). A tradução brasileira é de Marcos Santarrita (Companhia das Letras, 1995), segundo as fontes que usei antes de ter o livro. O PDF que você enviou não traz, nas páginas iniciais que li, a ficha da edição, então **não sei confirmar a edição do PDF**. Arquivo: `Livros/Hobsbawm - Era dos Extremos.pdf` (764 páginas).
+Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*. Original: *The Age of Extremes: The Short Twentieth Century, 1914-1991* (1994). A tradução brasileira é de Marcos Santarrita (Companhia das Letras, 1995), segundo fontes secundárias. O PDF não traz, nas páginas iniciais lidas, a ficha da edição, então **a edição do PDF não está confirmada**. Arquivo: `Livros/Hobsbawm - Era dos Extremos.pdf` (764 páginas).
 
 ## Por que ler
 É o panorama que Hobsbawm propõe para o século XX e, no cofre, a base para reconstruir a história e testar as ideias de [[Economia política marxista]] e de [[Epistemologia do materialismo histórico]]. Faz parte de uma série: *A Era das Revoluções*, *A Era do Capital* e *A Era dos Impérios* precedem este volume.
 
 ## Estrutura e mapa do PDF
-Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **os capítulos 1 a 4 foram lidos por inteiro ([[Era dos Extremos, cap. 1 - A era da guerra total]]; [[Era dos Extremos, cap. 2 - A revolução mundial]]; [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]; [[Era dos Extremos, cap. 4 - A queda do liberalismo]]); os demais, só por trechos**.
+Páginas do PDF. "Lido" quer dizer que foram lidos trechos que sustentam as notas; **os capítulos 1 a 4 foram lidos por inteiro ([[Era dos Extremos, cap. 1 - A era da guerra total]]; [[Era dos Extremos, cap. 2 - A revolução mundial]]; [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]; [[Era dos Extremos, cap. 4 - A queda do liberalismo]]); os demais, só por trechos**.
 
 | Parte | Cap. | Título (sumário do PDF) | Início (PDF) | Estado |
 | --- | --- | --- | --- | --- |
-| Prefácio | | Prefácio e agradecimentos; "O século: vista aérea" | [[Hobsbawm - Era dos Extremos.pdf#page=6|p. 6]] / [[Hobsbawm - Era dos Extremos.pdf#page=11|p. 11]] | li a vista aérea quase toda; o prefácio só o começo |
+| Prefácio | | Prefácio e agradecimentos; "O século: vista aérea" | [[Hobsbawm - Era dos Extremos.pdf#page=6|p. 6]] / [[Hobsbawm - Era dos Extremos.pdf#page=11|p. 11]] | vista aérea lida quase toda; o prefácio só o começo |
 | I. [[Era da Catástrofe]] | 1 | A era da guerra total | [[Hobsbawm - Era dos Extremos.pdf#page=31|p. 31]] | **lido por inteiro**: [[Era dos Extremos, cap. 1 - A era da guerra total]] |
 | | 2 | A revolução mundial | [[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]] | **lido por inteiro**: [[Era dos Extremos, cap. 2 - A revolução mundial]] |
 | | 3 | Rumo ao abismo econômico | [[Hobsbawm - Era dos Extremos.pdf#page=107|p. 107]] | **lido por inteiro**: [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]] |
@@ -35,19 +35,19 @@ Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **os cap
 | | 5 | Contra o inimigo comum | [[Hobsbawm - Era dos Extremos.pdf#page=174|p. 174]] | só um parágrafo (p. 176) |
 | | 6 | As artes 1914-45 | [[Hobsbawm - Era dos Extremos.pdf#page=216|p. 216]] | só um parágrafo (p. 218) |
 | | 7 | O fim dos impérios | [[Hobsbawm - Era dos Extremos.pdf#page=241|p. 241]] | só um parágrafo (p. 243) |
-| II. [[Era de Ouro]] | 8 | Guerra Fria | [[Hobsbawm - Era dos Extremos.pdf#page=270|p. 270]] | li a abertura (pp. 271-272) |
-| | 9 | Os anos dourados | [[Hobsbawm - Era dos Extremos.pdf#page=307|p. 307]] | li a explicação do boom (pp. 319-322) |
-| | 10 | Revolução social | [[Hobsbawm - Era dos Extremos.pdf#page=343|p. 343]] | li a morte do campesinato (pp. 346-347) |
-| | 11 | Revolução cultural | [[Hobsbawm - Era dos Extremos.pdf#page=382|p. 382]] | li a tese central (pp. 398-403) |
+| II. [[Era de Ouro]] | 8 | Guerra Fria | [[Hobsbawm - Era dos Extremos.pdf#page=270|p. 270]] | abertura lida (pp. 271-272) |
+| | 9 | Os anos dourados | [[Hobsbawm - Era dos Extremos.pdf#page=307|p. 307]] | explicação do boom lida (pp. 319-322) |
+| | 10 | Revolução social | [[Hobsbawm - Era dos Extremos.pdf#page=343|p. 343]] | morte do campesinato lida (pp. 346-347) |
+| | 11 | Revolução cultural | [[Hobsbawm - Era dos Extremos.pdf#page=382|p. 382]] | tese central lida (pp. 398-403) |
 | | 12 | O Terceiro Mundo | [[Hobsbawm - Era dos Extremos.pdf#page=410|p. 410]] | só um parágrafo (p. 412) |
-| | 13 | "Socialismo real" | [[Hobsbawm - Era dos Extremos.pdf#page=442|p. 442]] | li as pp. 442-449 e 459-460 |
-| III. [[Desmoronamento]] | 14 | As Décadas de Crise | [[Hobsbawm - Era dos Extremos.pdf#page=477|p. 477]] | li a abertura (pp. 477-480) |
+| | 13 | "Socialismo real" | [[Hobsbawm - Era dos Extremos.pdf#page=442|p. 442]] | pp. 442-449 e 459-460 lidas |
+| III. [[Desmoronamento]] | 14 | As Décadas de Crise | [[Hobsbawm - Era dos Extremos.pdf#page=477|p. 477]] | abertura lida (pp. 477-480) |
 | | 15 | Terceiro Mundo e revolução | [[Hobsbawm - Era dos Extremos.pdf#page=512|p. 512]] | só um parágrafo (p. 514) |
-| | 16 | Fim do socialismo | [[Hobsbawm - Era dos Extremos.pdf#page=545|p. 545]] | li o fim (pp. 583-587) |
+| | 16 | Fim do socialismo | [[Hobsbawm - Era dos Extremos.pdf#page=545|p. 545]] | fim lido (pp. 583-587) |
 | | 17 | Morre a vanguarda: as artes após 1950 | [[Hobsbawm - Era dos Extremos.pdf#page=589|p. 589]] | só trechos (pp. 591-601) |
 | | 18 | Feiticeiros e aprendizes: as ciências naturais | [[Hobsbawm - Era dos Extremos.pdf#page=615|p. 615]] | só um parágrafo (p. 617) |
-| | 19 | Rumo ao milênio | [[Hobsbawm - Era dos Extremos.pdf#page=656|p. 656]] | li as pp. 656-664 e o fim (pp. 685-686) |
-| | | Bibliografia | [[Hobsbawm - Era dos Extremos.pdf#page=688|p. 688]] | não li |
+| | 19 | Rumo ao milênio | [[Hobsbawm - Era dos Extremos.pdf#page=656|p. 656]] | pp. 656-664 e o fim (pp. 685-686) lidos |
+| | | Bibliografia | [[Hobsbawm - Era dos Extremos.pdf#page=688|p. 688]] | não lida |
 
 ## Teses centrais (conferidas no texto)
 1. **O Breve Século XX é um período coerente.** Vai da eclosão da Primeira Guerra ao colapso da URSS e tem a forma de um "sanduíche": catástrofe, crescimento extraordinário e crise. Ver [[Breve século XX]].
@@ -74,8 +74,8 @@ Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **os cap
 3. **A economia explica o século, mas não sozinha.** Para a Era de Ouro, a explicação é institucional (reforma do capitalismo, "economia mista") mais internacionalização; para a queda do liberalismo, é a guerra e o colapso econômico; para o fim do socialismo, a incapacidade de reformar-se. Ver [[Era de Ouro]], [[Era da Catástrofe]], [[Socialismo real]].
 4. **Marx está presente como autor, não como método declarado.** Hobsbawm o cita em pontos decisivos (pp. 28, 75, 109, 347, 448, 459, 584-585, 663). Ver [[Hobsbawm lê Marx]].
 
-> [!question] Leitura minha
-> A pergunta que eu deixava em aberto na versão anterior, "onde Hobsbawm usa categorias econômicas e onde recorre a guerras, Estados e ideias", ganhou uma resposta parcial: ele descreve os períodos em termos econômicos (catástrofe, boom, crise), mas data o século por acontecimentos políticos e explica o fim do socialismo por limites institucionais da economia planificada. Falta ler os capítulos 5, 6, 7, 12, 15, 17 e 18 para ver se isso se mantém. *(conferir)* O capítulo 3, lido por inteiro, reforça a resposta: a crise é explicada por desequilíbrio internacional e falta de demanda, e suas consequências são lidas na política (fim do liberalismo econômico, fascismo, Estado de bem-estar).
+> [!question] Interpretação
+> A pergunta "onde Hobsbawm usa categorias econômicas e onde recorre a guerras, Estados e ideias", ganhou uma resposta parcial: ele descreve os períodos em termos econômicos (catástrofe, boom, crise), mas data o século por acontecimentos políticos e explica o fim do socialismo por limites institucionais da economia planificada. Falta ler os capítulos 5, 6, 7, 12, 15, 17 e 18 para ver se isso se mantém. *(conferir)* O capítulo 3, lido por inteiro, reforça a resposta: a crise é explicada por desequilíbrio internacional e falta de demanda, e suas consequências são lidas na política (fim do liberalismo econômico, fascismo, Estado de bem-estar).
 
 ## Citações (com página do PDF)
 ### Método e propósito
@@ -138,15 +138,15 @@ Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **os cap
 
 
 ## O que as fontes secundárias diziam, e o que o livro mostra
-A versão anterior desta nota se apoiava na Wikipédia e nas resenhas de Cavallaro Filho (2022) e de Pomar (1997/98). Conferido contra o PDF:
+Afirmações da Wikipédia e das resenhas de Cavallaro Filho (2022) e de Pomar (1997/98), conferidas contra o PDF:
 - **Confirmado:** período 1914-1991; tríptico; Era de Ouro de 1947 a 1973; o livro como obra de observador-participante; a queda do número de governos constitucionais entre 1920 e 1944 (a partir de "talvez 35 ou mais" em 1920 até "talvez doze" de 65 Estados em 1944, pp. 138-139; ver [[Era da Catástrofe]]); o "triunfo do indivíduo sobre a sociedade".
-- **Corrigido:** a frase de que "o fascismo atraiu por eficiência técnica" não aparece nos trechos que li. O que li (p. 139) diz que o fascismo "deu à direita internacional um senso de confiança histórica". Retirei a primeira. Lido o cap. 4 inteiro: Hobsbawm diz que o fascismo foi "eficiente na dinamização e modernização de economias industriais" (p. 159), mas como uma das vantagens que deu ao capital, e não como a razão do seu apelo; ver [[Era dos Extremos, cap. 4 - A queda do liberalismo]].
-- **Corrigido:** Fukuyama não é mencionado nos trechos que li. Hobsbawm responde, sem nomear, aos "ensaístas filosóficos" do "fim da história" (p. 20). A crítica de Fukuyama ao livro vem da Wikipédia e não pude confirmá-la aqui. *(conferir)*
+- **Corrigido:** a frase de que "o fascismo atraiu por eficiência técnica" não aparece nos trechos lidos. O texto (p. 139) diz que o fascismo "deu à direita internacional um senso de confiança histórica". A primeira frase não se sustenta. Lido o cap. 4 inteiro: Hobsbawm diz que o fascismo foi "eficiente na dinamização e modernização de economias industriais" (p. 159), mas como uma das vantagens que deu ao capital, e não como a razão do seu apelo; ver [[Era dos Extremos, cap. 4 - A queda do liberalismo]].
+- **Corrigido:** Fukuyama não é mencionado nos trechos lidos. Hobsbawm responde, sem nomear, aos "ensaístas filosóficos" do "fim da história" (p. 20). A crítica de Fukuyama ao livro vem da Wikipédia e não está confirmada no PDF. *(conferir)*
 - **Não conferido:** pessimismo excessivo, "pouco espaço para a Ásia capitalista" (Wikipédia). Os capítulos 12 e 15 (Terceiro Mundo) não foram lidos.
 - **Ajustado:** os "anos dourados" são 1947-73 no livro (p. 19), e o capítulo 10 se chama "Revolução social" no sumário do PDF.
 
 ## Dúvidas e objeções
-- O título fala em "extremos", mas nos trechos que li não encontrei a justificativa do termo. Procurar no prefácio completo e no capítulo 19. *(conferir)*
+- O título fala em "extremos", mas os trechos lidos não trazem a justificativa do termo. Procurar no prefácio completo e no capítulo 19. *(conferir)*
 - Se o boom do pós-guerra não tem "explicação satisfatória" (p. 320), o que sustenta a periodização econômica do tríptico?
 - Hobsbawm diz que o fracasso soviético "solapou" o socialismo não comunista (p. 663) e, páginas antes, que não decide a sorte de todo "o projeto de socialismo tradicional" (p. 586). Como ler as duas afirmações? Ver [[Socialismo real]] e a Questão 9.
 

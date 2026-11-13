@@ -14,10 +14,10 @@ criado: 2026-11-12
 Autor: [[Friedrich Engels]]
 
 > [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org lidas pela ferramenta de busca**: eu não baixei o arquivo. As aspas foram transcritas pela ferramenta, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Os trechos que a ferramenta devolveu cortados não foram usados. Antes de citar em trabalho, confira no link e preencha a página da sua edição. Os resumos são paráfrases minhas, e o que vem de memória termina com *(conferir)*.
+> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Trechos incompletos não foram usados. Antes de citar em trabalho, conferir no link e preencher a página da edição usada. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
 
 ## Referência
-Friedrich Engels, *Princípios Básicos do Comunismo*, escrito em 1847 (a página fica na pasta de novembro de 1847). Texto em forma de catecismo, com **25 perguntas e respostas**. Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1847/11/principios.htm), tradução de José Barata-Moura, do alemão, em *Obras Escolhidas* em três tomos, Editorial «Avante!», Edições Progresso, Lisboa-Moscovo, 1982 (português de Portugal). Você chamou o texto de *Princípios do Comunismo*; o título da página é *Princípios Básicos do Comunismo*. Sua edição:
+Friedrich Engels, *Princípios Básicos do Comunismo*, escrito em 1847 (a página fica na pasta de novembro de 1847). Texto em forma de catecismo, com **25 perguntas e respostas**. Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1847/11/principios.htm), tradução de José Barata-Moura, do alemão, em *Obras Escolhidas* em três tomos, Editorial «Avante!», Edições Progresso, Lisboa-Moscovo, 1982 (português de Portugal). O texto também circula como *Princípios do Comunismo*; o título da página é *Princípios Básicos do Comunismo*. Edição de referência:
 
 Em memória *(conferir)*: é um rascunho de programa para a Liga dos Comunistas, anterior ao *Manifesto* (1848), que abandonou a forma de perguntas e respostas.
 
@@ -53,7 +53,7 @@ Em memória *(conferir)*: é um rascunho de programa para a Liga dos Comunistas,
 3. Conclui pela **abolição da propriedade privada** como "a expressão mais breve e mais característica" da transformação (P14), mas com um calendário gradual (P17 e P18), porque a base material precisa estar pronta.
 4. Pensa a revolução em **escala mundial** (P19), com o mercado mundial como premissa.
 
-> [!question] Leitura minha
+> [!question] Interpretação
 > A P19 descreve a revolução como quase simultânea nos países "civilizados". Rosa, Lênin e Lora trabalham com o oposto: o capitalismo se desenvolve de modo desigual e combinado, e a ruptura acontece num elo desigual. O que mudou entre 1847 e 1916, o texto de Engels ou o mundo? Ver [[Desenvolvimento desigual e combinado]] e [[Imperialismo - Lênin e Rosa]]. A P18 também pede teste: a "constituição democrática" como primeiro passo conversa com [[Democracia socialista]] (Rosa, 1918).
 
 ## Citações (com página)
@@ -82,7 +82,7 @@ Em memória *(conferir)*: é um rascunho de programa para a Liga dos Comunistas,
 > — P17; página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1847/11/principios.htm)
 
 > "Ela estabelecerá, antes do mais, uma Constituição democrática do Estado"
-> — P18 (a página tem itálico em "Constituição democrática do Estado"; a ferramenta o omitiu); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1847/11/principios.htm)
+> — P18 (a página tem itálico em "Constituição democrática do Estado"; a transcrição o omitiu); página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1847/11/principios.htm)
 
 > "A revolução comunista não será, portanto, uma revolução simplesmente nacional"
 > — P19; página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1847/11/principios.htm)
@@ -100,13 +100,13 @@ Em memória *(conferir)*: é um rascunho de programa para a Liga dos Comunistas,
 - **Forma de catecismo.** O texto foi redigido para uma organização, não como tratado. Ver [[Que Fazer (Lênin)]] para outra forma de pensar a organização.
 
 ## Dúvidas e objeções
-- Por que Engels, na P9, P22 e P23, deixou perguntas sem resposta? A nota da edição fala em projeto anterior perdido; não li a nota inteira.
+- Por que Engels, na P9, P22 e P23, deixou perguntas sem resposta? A nota da edição fala em projeto anterior perdido; a nota não foi lida por inteiro.
 - O que a P21 (família) pode ter a ver com [[Família e reprodução social]] hoje?
 - Qual a diferença entre o "proletariado" da P2 e a "classe trabalhadora" de hoje, com o trabalho informal?
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Anotar a página de cada citação.
-- [ ] Ler as perguntas 11 a 13 e 24 e 25 direto no texto: eu as tenho só em resumo.
+- [ ] Ler as perguntas 11 a 13 e 24 e 25 direto no texto (a nota só tem resumo delas).
 - [ ] Ler a nota da edição sobre as perguntas 9, 22 e 23.
 - [ ] Comparar com o *Manifesto* (não fichado no cofre).
 

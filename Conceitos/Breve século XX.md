@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Breve século XX
 
 > [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos*** que você enviou, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso cito também o capítulo. Os resumos são paráfrases minhas. O que não li, ou que vem de memória ou de resenha, termina com *(conferir)*.
+> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
 
 ## Em uma frase
 Hobsbawm chama de "breve século XX" o período de 1914 a 1991: da eclosão da Primeira Guerra Mundial ao colapso da União Soviética, que ele trata como um período histórico coerente.
@@ -34,7 +34,7 @@ Depois de ler os trechos, a periodização é **mista**. O começo e o fim são 
 
 ## Perguntas
 - Um marco político é a melhor chave para um autor marxista, que dá primazia a processos econômicos e sociais? A resposta de Hobsbawm parece ser misturar os dois. É suficiente?
-- O que se perde ao terminar em 1991? O livro antecipa e rejeita o "fim da história", mas não trata, nos trechos que li, da ascensão asiática. *(conferir nos caps. 12 e 15)*
+- O que se perde ao terminar em 1991? O livro antecipa e rejeita o "fim da história", mas não trata, nos trechos lidos, da ascensão asiática. *(conferir nos caps. 12 e 15)*
 
 ## Três momentos
 1. [[Era da Catástrofe]]: guerras, revolução, crise econômica, queda do liberalismo.

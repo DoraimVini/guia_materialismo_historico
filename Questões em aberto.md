@@ -11,7 +11,7 @@ criado: 2026-11-12
 Perguntas que orientam o estudo. Para cada uma: formular a hipótese, apontar o que a testaria e registrar as objeções.
 
 > [!warning] Conferir nas fontes
-> As posições de Lukács, Althusser e Thompson abaixo foram resumidas de memória. Confirme nos textos antes de usar em trabalho.
+> As posições de Lukács, Althusser e Thompson abaixo foram resumidas sem conferência na fonte. Confirmar nos textos antes de usar em trabalho.
 
 ## 1. Reflexo ou práxis?
 A prática como critério de verdade distingue verdade de eficácia? Se não distingue, a posição escorrega para o pragmatismo. Se distingue, com base em quê?
@@ -170,7 +170,7 @@ Rosa diz que a organização nasce da luta e que o partido dá a palavra de orde
 - Objeções:
 
 ## 20. A acumulação precisa de um "fora" não capitalista?
-Rosa sustenta que o capital depende de camadas e territórios não capitalistas. A crítica clássica (de memória, Bukharin e outros) rejeita a tese. Como testá-la hoje, diante da globalização que Hobsbawm descreve? E a teoria da dependência precisa dela?
+Rosa sustenta que o capital depende de camadas e territórios não capitalistas. A crítica clássica (Bukharin e outros, a conferir) rejeita a tese. Como testá-la hoje, diante da globalização que Hobsbawm descreve? E a teoria da dependência precisa dela?
 
 - Ver: [[Acumulação e ambientes não capitalistas]], [[Acumulação de capital]], [[Luxemburgo e Florestan Fernandes]]
 - Textos para testar: [[A Acumulação do Capital]] (cap. 26 e seguintes); [[A Era dos Extremos]] (cap. 9)

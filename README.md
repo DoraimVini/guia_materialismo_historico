@@ -5,7 +5,7 @@ Caderno de estudo coletivo sobre materialismo histórico e dialético, economia 
 **Site:** `https://<usuario>.github.io/<repositorio>/` (ativado em Settings > Pages > Source: GitHub Actions).
 
 ## Como ler
-O site tem um **roteiro de leitura em 7 módulos** (A a G), um índice livre de todas as notas, busca e o mapa de ligações de cada nota. Cada nota diz de onde vêm as citações: *lido no PDF e conferido por script*, *lido online* ou *de memória (conferir)*. Marcas *(conferir)* indicam o que ainda não foi checado na fonte.
+O site tem um **roteiro de leitura em 7 módulos** (A a G), um índice livre de todas as notas, busca e o mapa de ligações de cada nota. Cada nota diz de onde vêm as citações: *lido no PDF e conferido por script*, *lido online* ou *não conferido na fonte (conferir)*. Marcas *(conferir)* indicam o que ainda não foi checado na fonte.
 
 ## Estrutura do repositório
 | Pasta | Conteúdo |

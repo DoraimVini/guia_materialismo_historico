@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Divisões sociais do trabalho
 
 > [!info] Como ler as marcas
-> Esta nota vem dos **epubs que você enviou**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases minhas. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
+> Esta nota vem dos **epubs da pasta `Livros/`**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
 
 ## Em uma frase
 Engels descreve três grandes divisões sociais do trabalho, que produzem excedente, troca, mercadoria e uma classe de comerciantes.
@@ -27,10 +27,10 @@ Fichamento: [[A Origem da Família, da Propriedade Privada e do Estado]], cap. I
 
 ## Em *A Ideologia Alemã* (1845-46)
 Fichamento: [[A Ideologia Alemã]]. Marx e Engels ligam cada fase da divisão do trabalho a uma **forma de propriedade**: tribal, antiga (comunal e estatal) e feudal.
-- "De resto, divisão do trabalho e propriedade privada são expressões idênticas" (seção da divisão social do trabalho; trecho da ferramenta).
+- "De resto, divisão do trabalho e propriedade privada são expressões idênticas" (seção da divisão social do trabalho; trecho transcrito da página online).
 - "A maior divisão do trabalho material e intelectual é a separação da cidade e do campo."
 - A divisão do trabalho opõe o interesse particular ao comunitário e faz a ação do homem virar "poder alheio"; a produção comunista permitiria variar de atividade.
-- Comparação *(leitura minha)*: em 1845 o eixo são as formas de propriedade; em 1884 (*A Origem da Família*) Engels conta três divisões sociais do trabalho. As duas contagens são compatíveis? Ver também [[Comunismo como movimento real]].
+- Comparação *(interpretação)*: em 1845 o eixo são as formas de propriedade; em 1884 (*A Origem da Família*) Engels conta três divisões sociais do trabalho. As duas contagens são compatíveis? Ver também [[Comunismo como movimento real]].
 
 ## Autores
 - [[Karl Marx]]

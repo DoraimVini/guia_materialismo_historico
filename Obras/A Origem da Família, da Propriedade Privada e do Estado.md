@@ -14,7 +14,7 @@ criado: 2026-11-12
 Autor: [[Friedrich Engels]]
 
 > [!info] Como ler as marcas
-> Esta nota vem dos **epubs que você enviou**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases minhas. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
+> Esta nota vem dos **epubs da pasta `Livros/`**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
 
 ## Referência
 Friedrich Engels, *A Origem da Família, da Propriedade Privada e do Estado*, escrita de março a junho de 1884 e publicada em Zurique no mesmo ano. Edição do seu epub: Editorial Vitória, 1964, tradução de Leandro Konder, feita da edição espanhola de 1953 do Instituto Marx-Engels-Lênin (Moscou) e confrontada com a edição alemã (Dietz Verlag, 1961) por Helga Hoffmann. As notas assinaladas "N. da R." são do Instituto Marx-Engels-Lênin. Arquivo: `Livros/Origem da Família - Engels.epub`.
@@ -29,8 +29,8 @@ Prefácio à primeira edição (1884); Prefácio à quarta edição (1891); I. E
 1. **Prefácio de 1884.** Engels apresenta o livro como "execução de um testamento": Marx pretendia expor os resultados de Morgan, que redescobriu a concepção materialista da história. Aqui está a formulação da "dupla produção" (meios de existência e reprodução da espécie).
 2. **Prefácio de 1891.** Resume a história dos estudos da família: Bachofen (*O Direito Materno*, 1861), McLennan (exogamia), Morgan (1871 e *A Sociedade Antiga*, 1877). Engels compara a descoberta da gens de direito materno à teoria de Darwin na biologia (a frase continua; *conferir*).
 3. **Cap. I.** Periodização de Morgan: estado selvagem, barbárie, civilização.
-4. **Cap. II (A Família).** É o capítulo mais longo (cerca de 125 mil caracteres no epub). Trata das formas de família e da monogamia. *(li só trechos)*
-5. **Caps. III a VIII.** A gens iroquesa (confederação com conselho federal de cinquenta sachens), a gens grega (a "democracia primitiva" e o chefe militar, o *basileu*), o Estado ateniense, o romano e o germânico. *(li só trechos)*
+4. **Cap. II (A Família).** É o capítulo mais longo (cerca de 125 mil caracteres no epub). Trata das formas de família e da monogamia. *(só trechos lidos)*
+5. **Caps. III a VIII.** A gens iroquesa (confederação com conselho federal de cinquenta sachens), a gens grega (a "democracia primitiva" e o chefe militar, o *basileu*), o Estado ateniense, o romano e o germânico. *(só trechos lidos)*
 6. **Cap. IX (Barbárie e Civilização).** As três grandes divisões do trabalho, a mercadoria, a definição do Estado e o juízo sobre a civilização. É o capítulo de maior interesse teórico.
 
 ## Análise do argumento
@@ -40,7 +40,7 @@ Prefácio à primeira edição (1884); Prefácio à quarta edição (1891); I. E
 4. A monogamia é o primeiro caso de opressão de classe e, ao mesmo tempo, de sexo.
 5. A civilização, baseada na exploração, avança por contradições, e o Estado, no fim, irá para o "museu de antiguidades".
 
-> [!question] Leitura minha
+> [!question] Interpretação
 > O livro tem duas ênfases que nem sempre se alinham: a produção determinante "em última instância" e a "dupla produção". O próprio Instituto Marx-Engels-Lênin sentiu necessidade de corrigir Engels numa nota (ver Citações). Isso mostra que a definição de "determinar" era politicamente e teoricamente sensível. Questão 11.
 
 ## Citações (localização no epub)

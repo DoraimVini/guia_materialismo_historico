@@ -14,11 +14,11 @@ criado: 2026-11-12
 Autor: [[Lênin]]
 
 > [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org lidas pela ferramenta de busca**: eu não baixei o arquivo. As aspas foram transcritas pela ferramenta, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Antes de citar em trabalho, confira no link. Os resumos são paráfrases minhas, e o que vem de memória termina com *(conferir)*.
-> As citações marcadas "citado no folheto de Lora" foram **localizadas por script** no PDF que você enviou.
+> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> As citações marcadas "citado no folheto de Lora" foram **localizadas por script** no PDF.
 
 ## Referência
-V. I. Lênin, *O Imperialismo, Fase Superior do Capitalismo*, escrito de janeiro a junho de 1916. Edição na página: *Obras Escolhidas*, t. 2, Avante! / Progresso, 1984 (português de Portugal). Texto: [índice](https://www.marxists.org/portugues/lenin/1916/imperialismo/index.htm). Li as páginas dos **capítulos IV e VII**, o índice e trechos citados no folheto de Lora.
+V. I. Lênin, *O Imperialismo, Fase Superior do Capitalismo*, escrito de janeiro a junho de 1916. Edição na página: *Obras Escolhidas*, t. 2, Avante! / Progresso, 1984 (português de Portugal). Texto: [índice](https://www.marxists.org/portugues/lenin/1916/imperialismo/index.htm). Foram lidas as páginas dos **capítulos IV e VII**, o índice e trechos citados no folheto de Lora.
 
 ## Estrutura
 I. Concentração da produção e monopólios · II. Os bancos · III. Capital financeiro e oligarquia financeira · **IV. Exportação de capital** · V. Partilha do mundo entre associações de capitalistas · VI. Partilha entre as grandes potências · **VII. O imperialismo, fase particular do capitalismo** · VIII. Parasitismo e decomposição · IX. Crítica do imperialismo · X. O lugar do imperialismo na história.

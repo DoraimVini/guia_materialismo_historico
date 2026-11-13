@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Teoria do reflexo
 
 > [!info] Como ler as marcas
-> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto vem de memória e termina com *(conferir)*. Falta conferir tudo com a sua edição.
+> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto não foi conferido na fonte e termina com *(conferir)*. Falta conferir tudo com uma edição em papel.
 
 ## Em uma frase
 Para Lênin, o pensamento reflete uma realidade objetiva independente da consciência.
@@ -24,7 +24,7 @@ Fichamento: [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12 do cap. II
 Garante o realismo do conhecimento: há um mundo que não depende da consciência, e o pensamento pode acertar ou errar sobre ele. Lênin a usa contra o idealismo subjetivo e o agnosticismo.
 
 ## A autocorreção de Lênin (verificada)
-Em *Sobre a Questão da Dialética* (1915), Lênin critica o materialismo metafísico pela "incapacidade de aplicar a dialética à *Bildertheorie*, ao processo e desenvolvimento do conhecimento" (*Bildertheorie* é a teoria da reflexão). Diz também que o conhecimento humano não é uma linha reta, mas uma curva que se aproxima infinitamente. Nos cadernos sobre a *Lógica* de Hegel, ele teria observado que as leis são aproximadas e que o conhecimento é mediado, mas não localizei a passagem. *(conferir)* A frase de que a consciência não só reflete o mundo objetivo, mas também o cria, costuma ser citada dos *Cadernos filosóficos*, mas não a localizei nas páginas que li. *(conferir)*
+Em *Sobre a Questão da Dialética* (1915), Lênin critica o materialismo metafísico pela "incapacidade de aplicar a dialética à *Bildertheorie*, ao processo e desenvolvimento do conhecimento" (*Bildertheorie* é a teoria da reflexão). Diz também que o conhecimento humano não é uma linha reta, mas uma curva que se aproxima infinitamente. Nos cadernos sobre a *Lógica* de Hegel, ele teria observado que as leis são aproximadas e que o conhecimento é mediado, mas a passagem não foi localizada. *(conferir)* A frase de que a consciência não só reflete o mundo objetivo, mas também o cria, costuma ser citada dos *Cadernos filosóficos*, mas não foi localizada nas páginas lidas. *(conferir)*
 
 ## Críticas
 - **Passividade.** Pensar como cópia reaproxima do "materialismo contemplativo" criticado na Tese I de [[Teses sobre Feuerbach]].

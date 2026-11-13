@@ -13,17 +13,17 @@ criado: 2026-11-12
 
 Autor: [[Georg Lukács]]
 
-> [!warning] Contexto de memória
-> O contexto e as perguntas abaixo foram escritos antes da leitura, de memória. Confirme na obra e ajuste.
+> [!warning] Contexto anterior à leitura
+> O contexto e as perguntas abaixo foram escritos antes da leitura da obra, sem conferência na fonte. Confirmar na obra e ajustar.
 
 ## Referência
-Georg Lukács, *História e Consciência de Classe* (1923). Sua edição: 
+Georg Lukács, *História e Consciência de Classe* (1923). Edição de referência: 
 
 ## Por que ler
 Base da [[Filosofia da práxis]]. Alimenta a Questão 2 (ponto de vista do proletariado) e a Questão 4 (dialética restrita à realidade social) de [[Questões em aberto]].
 
 ## Foco da leitura
-Os ensaios sobre consciência de classe, reificação e o que é marxismo ortodoxo. Veja se a sua edição traz o prefácio de 1967.
+Os ensaios sobre consciência de classe, reificação e o que é marxismo ortodoxo. Veja se a edição em papel traz o prefácio de 1967.
 
 ## Contexto (pré-leitura)
 Coletânea de ensaios dos anos 1920. Temas centrais: totalidade, reificação e consciência de classe. Lukács restringe a dialética à realidade social, em contraste com Engels (ver [[Do socialismo utópico ao socialismo científico]]).

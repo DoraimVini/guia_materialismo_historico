@@ -13,11 +13,11 @@ criado: 2026-11-12
 
 Autor: [[Louis Althusser]]
 
-> [!warning] Contexto de memória
-> O contexto e as perguntas abaixo foram escritos antes da leitura, de memória. Confirme na obra e ajuste.
+> [!warning] Contexto anterior à leitura
+> O contexto e as perguntas abaixo foram escritos antes da leitura da obra, sem conferência na fonte. Confirmar na obra e ajustar.
 
 ## Referência
-Louis Althusser et al., *Ler O Capital* (1965). Obra coletiva, com Balibar, Establet, Macherey e Rancière. Confira quais ensaios a sua edição traz. Sua edição: 
+Louis Althusser et al., *Ler O Capital* (1965). Obra coletiva, com Balibar, Establet, Macherey e Rancière. Confira quais ensaios a edição em papel traz. Edição de referência: 
 
 ## Por que ler
 Principal texto para a [[Ruptura epistemológica]] (Questão 3 de [[Questões em aberto]]). Pode ser lido junto com *Por Marx*.

@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Família e reprodução social
 
 > [!info] Como ler as marcas
-> Esta nota vem dos **epubs que você enviou**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases minhas. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
+> Esta nota vem dos **epubs da pasta `Livros/`**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
 
 ## Em uma frase
 Engels propõe que a ordem social é condicionada por duas produções, a dos meios de existência e a do próprio homem, e liga a monogamia ao início da opressão de classe e de sexo.
@@ -26,7 +26,7 @@ Fichamento: [[A Origem da Família, da Propriedade Privada e do Estado]].
 - A dupla produção é um ponto em que o texto de Engels é lido de maneiras opostas. A nota soviética a recusa; a teoria da reprodução social a toma como ponto de partida. *(conferir as referências abaixo)*
 - Liga-se a [[Força de trabalho]]: quem produz e reproduz a força de trabalho que o capital compra? Ver [[Salário, Preço e Lucro]].
 
-## Desdobramentos (de memória)
+## Desdobramentos (conferir)
 - [[Lise Vogel]], *Marxismo e a opressão às mulheres*: reprodução da força de trabalho. *(conferir)*
 - [[Silvia Federici]]: trabalho doméstico e acumulação primitiva. *(conferir)*
 - Antropologia: a hipótese do matriarcado primitivo de Bachofen e o esquema evolutivo de Morgan foram muito contestados. *(conferir)*

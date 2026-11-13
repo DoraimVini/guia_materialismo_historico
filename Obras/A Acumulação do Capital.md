@@ -14,18 +14,18 @@ criado: 2026-11-12
 Autor: [[Rosa Luxemburgo]]
 
 > [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org lidas pela ferramenta de busca**. Eu não consegui baixar os arquivos, então as aspas foram transcritas pela ferramenta de leitura e **não foram conferidas por script contra um arquivo**, como fiz com os PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, confira no link. Se você me enviar o PDF do livro, refaço com página conferida. Os resumos são paráfrases minhas, e o que vem de memória termina com *(conferir)*.
+> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página online e **não foram conferidas por script contra um arquivo**, ao contrário das notas feitas a partir dos PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
 
 ## Referência
-Rosa Luxemburgo, *A Acumulação do Capital* (1913). Nesta nota li apenas **trechos do capítulo 26 em inglês**, que está no marxists.org: [capítulo 26](https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch26.htm). Não encontrei o livro em português na lista do marxists.org (ver [[Fontes de Rosa Luxemburgo]]). **As traduções abaixo são minhas**, do inglês; não são de uma edição brasileira.
+Rosa Luxemburgo, *A Acumulação do Capital* (1913). Esta nota usa apenas **trechos do capítulo 26 em inglês**, que está no marxists.org: [capítulo 26](https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch26.htm). O livro em português não consta da lista do marxists.org (ver [[Fontes de Rosa Luxemburgo]]). **As traduções abaixo são livres**, do inglês; não são de uma edição brasileira.
 
-## Estrutura (de memória, conferir)
-O livro tem três seções: o problema da reprodução, a discussão histórica do problema e as condições históricas da acumulação. O capítulo 26 abre a terceira, "As condições históricas da acumulação" (a página confirma este título). Os capítulos seguintes tratam, de memória, da luta contra a economia natural, da economia mercantil, da economia camponesa, dos empréstimos internacionais, das tarifas protecionistas e do militarismo. *(conferir)*
+## Estrutura (conferir)
+O livro tem três seções: o problema da reprodução, a discussão histórica do problema e as condições históricas da acumulação. O capítulo 26 abre a terceira, "As condições históricas da acumulação" (a página confirma este título). Os capítulos seguintes tratam *(conferir)* da luta contra a economia natural, da economia mercantil, da economia camponesa, dos empréstimos internacionais, das tarifas protecionistas e do militarismo. *(conferir)*
 
-## Tese (do que li)
+## Tese (nos trechos lidos)
 O capital não acumula sozinho: a acumulação "depende, em todos os aspectos, de camadas e formas sociais não capitalistas". A esfera não capitalista é o cenário histórico dado desse processo, e o capital necessita dos meios de produção e da força de trabalho do globo inteiro. Para obter força de trabalho em meios não capitalistas, ele recorre a métodos de "compulsão suave" e de violência. Ver [[Acumulação e ambientes não capitalistas]].
 
-## Citações (tradução minha do inglês; ver o aviso acima)
+## Citações (tradução livre do inglês; ver o aviso acima)
 > "depende, em todos os aspectos, de camadas e formas sociais não capitalistas"
 > — cap. 26, "A reprodução do capital e seu cenário social"; original: "depends in every respect upon non-capitalist social strata and forms of social organisation" · [marxists.org](https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch26.htm)
 
@@ -37,7 +37,7 @@ O capital não acumula sozinho: a acumulação "depende, em todos os aspectos, d
 
 
 ## Trechos em português (do folheto de Lora)
-O folheto [[Lei do desenvolvimento desigual e combinado (Lora)]] reproduz três passagens do livro em português, com a paginação de uma edição não identificada (p. 363, 428, 434). Estas citações foram **localizadas por script** no PDF que você enviou, mas eu não sei a edição nem o tradutor.
+O folheto [[Lei do desenvolvimento desigual e combinado (Lora)]] reproduz três passagens do livro em português, com a paginação de uma edição não identificada (p. 363, 428, 434). Estas citações foram **localizadas por script** no PDF, mas a edição e o tradutor não estão identificados.
 > "Considerada historicamente, a acumulação capitalista é uma espécie de metabolismo que se verifica entre os modos de produção capitalista e pré-capitalista."
 > — Rosa Luxemburgo (via Lora), p. 92 (PDF p. 93) · [[Lora - Lei do desenvolvimento desigual e combinado.pdf#page=93|abrir]]
 
@@ -51,10 +51,10 @@ O folheto [[Lei do desenvolvimento desigual e combinado (Lora)]] reproduz três 
 > — Rosa Luxemburgo (via Lora; "p. 434" da edição de origem), p. 94 (PDF p. 95) · [[Lora - Lei do desenvolvimento desigual e combinado.pdf#page=95|abrir]]
 
 
-Leitura minha: o livro faz do capital um sistema que **consome** o seu entorno, e não só convive com ele. É o ponto que Singer, Loureiro e Arantes retomam em [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]] (Singer: "essa demanda faltante vem de fora"; Arantes, citando Harvey: a acumulação "primitiva" é permanente).
+Interpretação: o livro faz do capital um sistema que **consome** o seu entorno, e não só convive com ele. É o ponto que Singer, Loureiro e Arantes retomam em [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]] (Singer: "essa demanda faltante vem de fora"; Arantes, citando Harvey: a acumulação "primitiva" é permanente).
 
 ## Limites desta leitura
-Li poucas passagens do capítulo 26. Não li o argumento sobre o esquema de reprodução ampliada de Marx, a crítica aos autores anteriores, nem os capítulos sobre empréstimos, tarifas e militarismo. O debate crítico (Lênin, Bukharin e a acusação de subconsumismo) vem de memória e fica como pergunta na Questão 20. *(conferir)* O que há nas fontes novas: Singer defende o livro e vê Rosa como precursora de Keynes; Loureiro lembra que Hannah Arendt duvidou de que Rosa fosse marxista (comentários dos entrevistados, em [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]]).
+Foram lidas poucas passagens do capítulo 26. Não foram lidos o argumento sobre o esquema de reprodução ampliada de Marx, a crítica aos autores anteriores, nem os capítulos sobre empréstimos, tarifas e militarismo. O debate crítico (Lênin, Bukharin e a acusação de subconsumismo) não foi conferido na fonte e fica como pergunta na Questão 20. *(conferir)* O que há nas fontes novas: Singer defende o livro e vê Rosa como precursora de Keynes; Loureiro lembra que Hannah Arendt duvidou de que Rosa fosse marxista (comentários dos entrevistados, em [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]]).
 
 ## Conceitos relacionados
 - [[Acumulação e ambientes não capitalistas]]

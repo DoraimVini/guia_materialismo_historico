@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Socialismo real
 
 > [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos*** que você enviou, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso cito também o capítulo. Os resumos são paráfrases minhas. O que não li, ou que vem de memória ou de resenha, termina com *(conferir)*.
+> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
 
 ## Em uma frase
 Nome dado às sociedades de tipo soviético (o "socialismo realmente existente"). Para Hobsbawm, uma experiência com características estruturais próprias, com um fracasso que ele explica em termos econômicos e políticos e cuja relação com Marx é ambígua.
@@ -47,7 +47,7 @@ Nome dado às sociedades de tipo soviético (o "socialismo realmente existente")
 
 
 ## O que o texto não confirma
-A versão anterior, baseada na Wikipédia, atribuía a Hobsbawm a hostilidade de Lênin ao liberalismo, os movimentos de Stalin contra revoluções na guerra e a doutrina maoista ligada ao Grande Salto e à fome de 1959-61. Esses pontos não estão nos trechos que li. *(conferir nos caps. 13 e 15)* As outras fontes (Depoimento de 1989, Trótski) continuam em [[Depoimento (1989)]].
+A Wikipédia atribui a Hobsbawm a hostilidade de Lênin ao liberalismo, os movimentos de Stalin contra revoluções na guerra e a doutrina maoista ligada ao Grande Salto e à fome de 1959-61. Esses pontos não estão nos trechos lidos. *(conferir nos caps. 13 e 15)* As outras fontes (Depoimento de 1989, Trótski) continuam em [[Depoimento (1989)]].
 
 ## Perguntas
 - O planejamento central aboliu a [[Mercadoria e valor]]? Hobsbawm diz que o socialismo "tinha de funcionar, pelo menos em parte, através de preços", inclusive "preços contábeis" (p. 586). Isso contraria a ideia de abolir a forma-valor?

@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Desmoronamento
 
 > [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos*** que você enviou, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso cito também o capítulo. Os resumos são paráfrases minhas. O que não li, ou que vem de memória ou de resenha, termina com *(conferir)*.
+> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
 
 ## Em uma frase
 Terceira parte (caps. 14 a 19): as "Décadas de Crise" depois de 1973, o fim do socialismo soviético, as artes, as ciências e o futuro.
@@ -22,7 +22,7 @@ Terceira parte (caps. 14 a 19): as "Décadas de Crise" depois de 1973, o fim do 
 18. Feiticeiros e aprendizes: as ciências naturais ([[Hobsbawm - Era dos Extremos.pdf#page=615|p. 615]])
 19. Rumo ao milênio ([[Hobsbawm - Era dos Extremos.pdf#page=656|p. 656]])
 
-Li a abertura do cap. 14, o fim do cap. 16, trechos dos capítulos 17 e 18 e boa parte do início e do fim do cap. 19.
+Foram lidos a abertura do cap. 14, o fim do cap. 16, trechos dos capítulos 17 e 18 e boa parte do início e do fim do cap. 19.
 
 ## O que o livro diz
 - **Um mundo que perdeu suas referências (cap. 14).** A crise não foi reconhecida como global nas regiões capitalistas até depois da queda do "socialismo real". Durante anos falou-se em "recessões", pois o termo "depressão" era um tabu de meio século (pp. 478-479).
@@ -54,10 +54,10 @@ Li a abertura do cap. 14, o fim do cap. 16, trechos dos capítulos 17 e 18 e boa
 > "Profetizar não ajuda nada."
 > — PDF p. 685 · cap. 19 · [[Hobsbawm - Era dos Extremos.pdf#page=685|abrir]]
 
-- **Artes (cap. 17).** Só li trechos (televisão, vanguarda, subsídios). O título diz "Morre a vanguarda"; a tese precisa ser lida no capítulo. *(conferir)*
+- **Artes (cap. 17).** Só trechos lidos (televisão, vanguarda, subsídios). O título diz "Morre a vanguarda"; a tese precisa ser lida no capítulo. *(conferir)*
 
-## Erros da versão anterior que esta leitura corrige
-- A Wikipédia dizia que o livro prevê que "a distribuição, e não o crescimento, dominará a política". Nos trechos que li, ele fala da necessidade de "alocação e redistribuição da renda nacional pelo Estado" (p. 677) e de espaço de expansão para o capitalismo global (p. 671), mas não vi a frase atribuída. Retirei a afirmação. *(conferir no cap. 19)*
+## Fontes secundárias conferidas no livro
+- A Wikipédia dizia que o livro prevê que "a distribuição, e não o crescimento, dominará a política". Nos trechos lidos, ele fala da necessidade de "alocação e redistribuição da renda nacional pelo Estado" (p. 677) e de espaço de expansão para o capitalismo global (p. 671), mas a frase atribuída não aparece. Foi retirada a afirmação. *(conferir no cap. 19)*
 
 ## Perguntas
 - A crise dos anos 1970 é uma crise de lucratividade ([[Queda tendencial da taxa de lucro]]) ou de outro tipo? O trecho lido não faz esse diagnóstico. Ver [[Robert Brenner]] e [[David Harvey]]. *(conferir o resto do cap. 14)*

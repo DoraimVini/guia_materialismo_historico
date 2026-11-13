@@ -14,13 +14,13 @@ criado: 2026-11-12
 Autor: [[Karl Marx]]
 
 > [!info] Como ler as marcas
-> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a sua edição e preencher as páginas.
+> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a edição em papel e preencher as páginas.
 
 ## Referência
-Karl Marx, *O Capital*, livro I (1867). Versão online: [índice no marxists.org](https://www.marxists.org/portugues/marx/1867/capital/livro1/index.htm), transcrição autorizada associada às Edições Avante!, sem nome de tradutor na página. Sua edição:
+Karl Marx, *O Capital*, livro I (1867). Versão online: [índice no marxists.org](https://www.marxists.org/portugues/marx/1867/capital/livro1/index.htm), transcrição autorizada associada às Edições Avante!, sem nome de tradutor na página. Edição de referência:
 
 ## Por que ler
-É a obra central da [[Economia política marxista]]. Aqui estão as seções que sustentam os conceitos do cofre. Ainda não li o livro inteiro.
+É a obra central da [[Economia política marxista]]. Aqui estão as seções que sustentam os conceitos do cofre. O livro ainda não foi lido por inteiro.
 
 ## Seções lidas
 | Seção | URL | Conceito |
@@ -35,7 +35,7 @@ Karl Marx, *O Capital*, livro I (1867). Versão online: [índice no marxists.org
 | Cap. 24 §7 | [cap24/07](https://www.marxists.org/portugues/marx/1867/capital/livro1/cap24/07.htm) | [[Acumulação de capital]] |
 
 > [!note] Paráfrase e citação
-> Os resumos são paráfrases minhas, e só as aspas foram copiadas das páginas. Os títulos das seções e dos capítulos vêm do índice da página. Os textos não lidos (caps. 2, 3, 6, 7, 9 a 23, 25 a 33) estão fora desta nota.
+> Os resumos são paráfrases, e só as aspas foram copiadas das páginas. Os títulos das seções e dos capítulos vêm do índice da página. Os textos não lidos (caps. 2, 3, 6, 7, 9 a 23, 25 a 33) estão fora desta nota.
 
 ## Roteiro
 1. **Cap. 1 §1.** A mercadoria tem valor de uso e valor; o valor mede-se pelo tempo de trabalho socialmente necessário.
@@ -54,7 +54,7 @@ Karl Marx, *O Capital*, livro I (1867). Versão online: [índice no marxists.org
 4. A troca de equivalentes na circulação convive com a apropriação de trabalho não pago na produção.
 5. A tendência do capital ao sobretrabalho gera luta pela jornada e, na escala histórica, a concentração que prepara a "expropriação dos expropriadores".
 
-> [!question] Leitura minha
+> [!question] Interpretação
 > A ordem de exposição vai do mais abstrato (mercadoria) ao mais concreto (acumulação, classes). Isso parece ilustrar o caminho "do abstrato ao concreto" da [[Introdução de 1857]]. Mas a [[Introdução de 1857]] também diz que o concreto não nasce no pensamento. A exposição, segundo o [[Posfácio de 1873]], é diferente da investigação. Perguntar de onde vem o ponto de partida (mercadoria) é a Questão 6.
 
 ## Citações (com página)
@@ -110,7 +110,7 @@ Karl Marx, *O Capital*, livro I (1867). Versão online: [índice no marxists.org
 - O trabalho abstrato é fisiológico, social ou as duas coisas? (Questão 7)
 - O que no cap. 4 §3 mostra que a igualdade da troca é aparência *objetiva*?
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Anotar a página de cada citação.
 - [ ] Ler o cap. 1 inteiro, pois as seções 1 a 3 foram lidas só por trechos.
 - [ ] Ler os caps. 6, 7, 10, 12 a 15 (mais-valia relativa e maquinaria).

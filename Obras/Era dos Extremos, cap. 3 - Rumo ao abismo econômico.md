@@ -15,10 +15,10 @@ criado: 2026-11-12
 Autor: [[Eric Hobsbawm]] · Parte I, [[Era da Catástrofe]] · livro: [[A Era dos Extremos]] · capítulo anterior: [[Era dos Extremos, cap. 2 - A revolução mundial]] · próximo: [[Era dos Extremos, cap. 4 - A queda do liberalismo]]
 
 > [!info] Como ler as marcas
-> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` que você enviou (PDF pp. 107-134). As citações foram **localizadas por script** no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**; na sua edição de papel use as seções (I a III) para achar o trecho. Os resumos são paráfrases minhas; o que é meu e não de Hobsbawm vem marcado como *(leitura minha)*.
+> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` (PDF pp. 107-134). As citações foram **localizadas por script** no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**; na edição em papel, usar as seções (I a III) para achar o trecho. Os resumos são paráfrases; as interpretações que não são de Hobsbawm vêm marcadas *(interpretação)*.
 
 ## Referência
-Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 3, "Rumo ao abismo econômico". Duas epígrafes (Coolidge, mensagem ao Congresso de 4/12/1928; *The Times*, 23/1/1943) e três seções: I (PDF pp. 108-120), II (pp. 120-127), III (pp. 127-133); notas de rodapé nas pp. 133-134. Sua edição:
+Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 3, "Rumo ao abismo econômico". Duas epígrafes (Coolidge, mensagem ao Congresso de 4/12/1928; *The Times*, 23/1/1943) e três seções: I (PDF pp. 108-120), II (pp. 120-127), III (pp. 127-133); notas de rodapé nas pp. 133-134. Edição de referência:
 
 ## Por que ler
 É o capítulo econômico da [[Era da Catástrofe]] e o que mais se aproxima, no livro, da [[Economia política marxista]]: trata do ciclo, da crise, do desemprego e da concentração de capital. Ele também explica o "salvamento" do capitalismo liberal anunciado no fim do capítulo 2 (a URSS parecia imune à Depressão) e prepara o capítulo 4 (a queda do liberalismo político) e o 9 (a [[Era de Ouro]] como capitalismo reformado). Traz duas passagens sobre o Brasil: o café queimado nas locomotivas e a chegada de Vargas.
@@ -43,14 +43,14 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 3, "Rumo 
 4. **A política explica a economia, e vice-versa.** As reparações e a inflação são raízes "em grande parte de origem política"; o desemprego, por sua vez, explica as políticas ocidentais do pós-guerra "mais do que prolongadas pesquisas de arquivos". A reforma do capitalismo vem do medo da radicalização, não de uma teoria pronta (a *Teoria geral* só sai em 1936).
 5. **Resultado não previsto, outra vez.** Como no capítulo 2, o que aconteceu foi o oposto do que os revolucionários esperavam: a crise prevista pela Internacional enfraqueceu a esquerda e fortaleceu a direita radical.
 
-> [!question] Leitura minha
-> *(leitura minha)* A nota [[Era da Catástrofe]] perguntava se o capítulo usa as categorias de [[Acumulação de capital]] ou de [[Queda tendencial da taxa de lucro]]. Lido o capítulo inteiro: **não usa**. A segunda explicação (salários estagnados, lucros crescentes, demanda de massa que não acompanha a produção, "superprodução e especulação", p. 124) é uma explicação pelo lado da demanda, próxima das teses de subconsumo e do diagnóstico de Keynes, que o próprio Hobsbawm cita. Marx aparece três vezes, sempre como alguém cujas previsões a crise pareceu confirmar (o ciclo como contradição, p. 109; a concentração de capital, p. 128; a Associação Econômica Americana em 1938, p. 132), e não como fonte de uma teoria da crise. Ver [[Hobsbawm lê Marx]].
+> [!question] Interpretação
+> A nota [[Era da Catástrofe]] perguntava se o capítulo usa as categorias de [[Acumulação de capital]] ou de [[Queda tendencial da taxa de lucro]]. Lido o capítulo inteiro: **não usa**. A segunda explicação (salários estagnados, lucros crescentes, demanda de massa que não acompanha a produção, "superprodução e especulação", p. 124) é uma explicação pelo lado da demanda, próxima das teses de subconsumo e do diagnóstico de Keynes, que o próprio Hobsbawm cita. Marx aparece três vezes, sempre como alguém cujas previsões a crise pareceu confirmar (o ciclo como contradição, p. 109; a concentração de capital, p. 128; a Associação Econômica Americana em 1938, p. 132), e não como fonte de uma teoria da crise. Ver [[Hobsbawm lê Marx]].
 
-> [!question] Leitura minha
-> *(leitura minha)* A explicação pela demanda pode ser lida junto com a tese de [[Rosa Luxemburgo]] sobre a realização da mais-valia ([[Acumulação e ambientes não capitalistas]]): os dois falam de produção que não encontra mercado. Mas Hobsbawm não fala em "fora" não capitalista; o que falta, para ele, é renda salarial e confiança, e a saída que descreve (pleno emprego, previdência) é interna ao capitalismo. Isso pesa na Questão 21 de [[Questões em aberto]]: aqui a reforma nasce do medo da revolução e da direita radical (p. 118-119), e não de uma pressão gradual por dentro.
+> [!question] Interpretação
+> A explicação pela demanda pode ser lida junto com a tese de [[Rosa Luxemburgo]] sobre a realização da mais-valia ([[Acumulação e ambientes não capitalistas]]): os dois falam de produção que não encontra mercado. Mas Hobsbawm não fala em "fora" não capitalista; o que falta, para ele, é renda salarial e confiança, e a saída que descreve (pleno emprego, previdência) é interna ao capitalismo. Isso pesa na Questão 21 de [[Questões em aberto]]: aqui a reforma nasce do medo da revolução e da direita radical (p. 118-119), e não de uma pressão gradual por dentro.
 
-> [!question] Leitura minha
-> *(leitura minha)* Na conclusão (p. 132), Hobsbawm diz que três opções competiam pela "hegemonia intelectual-política". Ele não remete a [[Antonio Gramsci]], mas a expressão permite ler o capítulo com [[Hegemonia]]: a crise de 1929 como crise de uma hegemonia liberal, e a disputa dos anos 1930 como disputa pela direção, não só pelo poder. *(pergunta; o capítulo não desenvolve o termo)*
+> [!question] Interpretação
+> Na conclusão (p. 132), Hobsbawm diz que três opções competiam pela "hegemonia intelectual-política". Ele não remete a [[Antonio Gramsci]], mas a expressão permite ler o capítulo com [[Hegemonia]]: a crise de 1929 como crise de uma hegemonia liberal, e a disputa dos anos 1930 como disputa pela direção, não só pelo poder. *(pergunta; o capítulo não desenvolve o termo)*
 
 ## Citações (com página do PDF)
 ### O colapso
@@ -122,7 +122,7 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 3, "Rumo 
 - [[Socialismo real]]: a URSS "imune" à Depressão e o prestígio do planejamento
 - [[Hegemonia]]
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Anotar a página da edição de papel dos trechos citados (o PDF não tem paginação impressa).
 - [ ] p. 125: o PDF diz que "após 1939" havia sinais de que o pior já passara, mas o contexto (o Japão e a Suécia no fim dos anos 1930, a Alemanha em 1938) indica o começo da recuperação, depois de 1932-33. Conferir a data na edição de papel. *(conferir)*
 - [ ] p. 131: o PDF data a "República Velha" de "1899-1930"; a República foi proclamada em 1889. Ver se o erro é do PDF ou da tradução. *(conferir)*

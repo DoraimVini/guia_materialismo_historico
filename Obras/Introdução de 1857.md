@@ -14,10 +14,10 @@ criado: 2026-11-12
 Autor: [[Karl Marx]]
 
 > [!info] Como ler as marcas
-> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto vem de memória e termina com *(conferir)*. Falta conferir tudo com a sua edição.
+> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto não foi conferido na fonte e termina com *(conferir)*. Falta conferir tudo com uma edição em papel.
 
 ## Referência
-Karl Marx, Introdução de 1857 (*Grundrisse*), seção "O método da economia política". Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1859/contcriteconpoli/introducao.htm). A página não indica tradutor, aparece sob o cabeçalho "1859" e traz erros de digitalização. Marx não a publicou: no [[Prefácio de 1859]], §2, diz que suprimiu a introdução geral para não antecipar resultados. Sua edição:
+Karl Marx, Introdução de 1857 (*Grundrisse*), seção "O método da economia política". Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1859/contcriteconpoli/introducao.htm). A página não indica tradutor, aparece sob o cabeçalho "1859" e traz erros de digitalização. Marx não a publicou: no [[Prefácio de 1859]], §2, diz que suprimiu a introdução geral para não antecipar resultados. Edição de referência:
 
 ## Por que ler
 É o texto de Marx mais direto sobre o método. Sustenta a nota [[Do abstrato ao concreto pensado]], e fornece o material para discutir se o conhecimento é cópia do real ou construção (Questão 1 em [[Questões em aberto]]).
@@ -26,7 +26,7 @@ Karl Marx, Introdução de 1857 (*Grundrisse*), seção "O método da economia p
 A seção sobre o método. Leia primeiro o exemplo da população, depois a passagem sobre Hegel e a frase final sobre o "sujeito real".
 
 > [!note] Paráfrase e citação
-> Os resumos do roteiro e da análise são paráfrases minhas. Só os trechos entre aspas na seção "Citações" foram conferidos literalmente na versão online; detalhes do roteiro (como "palavra oca") vêm de memória. *(conferir)*
+> Os resumos do roteiro e da análise são paráfrases. Só os trechos entre aspas na seção "Citações" foram conferidos literalmente na versão online; detalhes do roteiro (como "palavra oca") não foram conferidos na fonte. *(conferir)*
 
 ## Roteiro do texto
 1. **Ponto de partida aparente.** O correto parece ser começar pelo real e concreto, por exemplo a população.
@@ -45,7 +45,7 @@ A seção sobre o método. Leia primeiro o exemplo da população, depois a pass
 5. **Distinção decisiva:** o concreto pensado é o modo como o pensamento se apropria do concreto, não o processo pelo qual o concreto nasce. A gênese do concreto em si não se dá no pensamento.
 6. **Realismo:** o sujeito real, a sociedade, existe independentemente do ato de pensar.
 
-> [!question] Leitura minha
+> [!question] Interpretação
 > O texto sustenta duas teses ao mesmo tempo: o concreto pensado é produto do pensamento (construção) e há um sujeito real que existe fora da mente (realismo). As posições da epistemologia se separam conforme enfatizam uma ou outra: o reflexo acentua o realismo; Althusser acentua a construção; "reprodução ideal" tenta manter as duas.
 
 ## Conceitos-chave (como o texto os usa)
@@ -87,7 +87,7 @@ A seção sobre o método. Leia primeiro o exemplo da população, depois a pass
 - Se o pensamento parte de abstrações, o que garante que são as abstrações certas? (Questão 3)
 - Há afinidade entre o caminho "do singular para o geral" do [[Prefácio de 1859]], §2, e o movimento deste texto?
 
-## Para a conferência com a sua edição
+## Para a conferência com a edição em papel
 - [ ] Anotar a página de cada citação.
 - [ ] Comparar a tradução com outra edição (esta tem erros de digitalização).
 

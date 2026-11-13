@@ -12,9 +12,9 @@ criado: 2026-11-12
 
 > [!info] Como ler as marcas
 > Esta nota segue um problema no tempo: **de onde veio** a pergunta que Hobsbawm responde no cap. 4 e **para onde ela foi depois**. Há três tipos de fonte, sempre indicados:
-> - **lido e conferido:** trechos copiados da versão online (marxists.org) e procurados no texto por script: Marx, *O 18 Brumário* (caps. I, IV e VII, em português); Thalheimer, *On Fascism* (1928, em inglês); Trotsky, *What Is National Socialism?* (1933, em inglês); Dimitrov, informe ao VII Congresso (1935, em português). As traduções do inglês são minhas.
+> - **lido e conferido:** trechos copiados da versão online (marxists.org) e procurados no texto por script: Marx, *O 18 Brumário* (caps. I, IV e VII, em português); Thalheimer, *On Fascism* (1928, em inglês); Trotsky, *What Is National Socialism?* (1933, em inglês); Dimitrov, informe ao VII Congresso (1935, em português). As traduções do inglês são livres.
 > - **do cofre:** notas já fichadas, com a página delas (Engels, Gramsci, Hobsbawm).
-> - *(de memória, conferir)*: o que não li. Fica marcado até a leitura.
+> - *(conferir)*: o que ainda não foi lido na fonte. Fica marcado até a leitura.
 
 ## O problema, em uma frase
 **Quando a burguesia deixa de governar pelas instituições liberais, quem governa, e em nome de quem?** Cada autor desta linha responde de um jeito: o Estado fica autônomo (Marx, Engels, Thalheimer), o Estado continua sendo o do capital (Dimitrov, Trotsky para o fascismo no poder), ou as classes dominantes perderam a direção e só lhes resta a força (Gramsci). Hobsbawm herda as três respostas e combina partes delas.
@@ -55,7 +55,7 @@ O *18 Brumário* é o primeiro texto marxista que analisa uma burguesia abrindo 
 > "Como autoridade executiva que se tornou um poder independente, Bonaparte considera sua missão salvaguardar “a ordem burguesa”."
 > — Marx, *O 18 Brumário*, cap. VII · versão online ([marxists.org](https://www.marxists.org/portugues/marx/1852/brumario/cap07.htm))
 
-*(leitura minha)* As três ideias reaparecem em Hobsbawm. A primeira está no seu método: os atores do entreguerras agem, mas o resultado é o contrário do esperado (caps. 2 e 3). A segunda está na direita tradicional, que se alia ao fascismo contra o "inimigo maior" (cap. 4, p. 151). A terceira está na frase de que o grande capital "pode se acomodar com todo regime" (p. 158). A palavra **"parece"** é o centro da disputa posterior: o Estado parece autônomo, ou é?
+*(interpretação)* As três ideias reaparecem em Hobsbawm. A primeira está no seu método: os atores do entreguerras agem, mas o resultado é o contrário do esperado (caps. 2 e 3). A segunda está na direita tradicional, que se alia ao fascismo contra o "inimigo maior" (cap. 4, p. 151). A terceira está na frase de que o grande capital "pode se acomodar com todo regime" (p. 158). A palavra **"parece"** é o centro da disputa posterior: o Estado parece autônomo, ou é?
 
 ## 2. Engels e a exceção (1884)
 Na [[Teoria marxista do Estado]], Engels diz que o Estado é "por regra geral" o da classe economicamente dominante, e abre uma exceção: os períodos em que as classes em luta se equilibram e o Estado adquire "certa independência momentânea", como as monarquias absolutas e o bonapartismo. *(do cofre: [[A Origem da Família, da Propriedade Privada e do Estado]], cap. IX)* Fica fixado o problema dos **dois polos**: o Estado como instrumento e o Estado como poder relativamente autônomo.
@@ -63,24 +63,24 @@ Na [[Teoria marxista do Estado]], Engels diz que o Estado é "por regra geral" o
 ## 3. Diante do fascismo (1928-1935)
 Os marxistas do entreguerras se dividiram justamente nesse ponto.
 
-**Thalheimer (1928): o fascismo pelo bonapartismo.** Escrito como documento para a Internacional, de onde ele foi expulso logo depois, por se opor à linha ultraesquerdista. Ele parte expressamente de Marx: "o melhor ponto de partida para investigar o fascismo é, na minha opinião, a análise do bonapartismo" (tradução minha), sem igualar os dois. E cita o trecho da "bolsa" e da "coroa".
+**Thalheimer (1928): o fascismo pelo bonapartismo.** Escrito como documento para a Internacional, de onde ele foi expulso logo depois, por se opor à linha ultraesquerdista. Ele parte expressamente de Marx: "o melhor ponto de partida para investigar o fascismo é, na minha opinião, a análise do bonapartismo" (tradução livre), sem igualar os dois. E cita o trecho da "bolsa" e da "coroa".
 > "The bourgeoisie is thus one of the social foundations of Bonapartism, but in order to save its social existence in a specific historical situation it abandons its political power"
-> — Thalheimer, *On Fascism* (1928) · versão online ([marxists.org](https://www.marxists.org/archive/thalheimer/works/fascism.htm)) · "A burguesia é assim uma das bases sociais do bonapartismo, mas, para salvar sua existência social numa situação histórica determinada, abandona o seu poder político." (tradução minha)
+> — Thalheimer, *On Fascism* (1928) · versão online ([marxists.org](https://www.marxists.org/archive/thalheimer/works/fascism.htm)) · "A burguesia é assim uma das bases sociais do bonapartismo, mas, para salvar sua existência social numa situação histórica determinada, abandona o seu poder político." (tradução livre)
 
 > "A serious defeat for the proletariat in a deep social crisis is thus one of the preconditions of Bonapartism."
-> — Thalheimer, *On Fascism* (1928) · versão online ([marxists.org](https://www.marxists.org/archive/thalheimer/works/fascism.htm)) · "Uma derrota séria do proletariado numa crise social profunda é, assim, uma das precondições do bonapartismo." (tradução minha)
+> — Thalheimer, *On Fascism* (1928) · versão online ([marxists.org](https://www.marxists.org/archive/thalheimer/works/fascism.htm)) · "Uma derrota séria do proletariado numa crise social profunda é, assim, uma das precondições do bonapartismo." (tradução livre)
 
-*(leitura minha)* A condição de Thalheimer é quase a mesma de Hobsbawm: "fortes movimentos socialistas ameaçando ou parecendo ameaçar com a revolução social, mas não de fato em posição de realizá-la" (cap. 4, p. 156). Hobsbawm não cita Thalheimer.
+*(interpretação)* A condição de Thalheimer é quase a mesma de Hobsbawm: "fortes movimentos socialistas ameaçando ou parecendo ameaçar com a revolução social, mas não de fato em posição de realizá-la" (cap. 4, p. 156). Hobsbawm não cita Thalheimer.
 
 **Trotsky (1933): o movimento e o poder.** Trotsky separa duas fases. O **movimento** fascista é a pequena burguesia empobrecida, lançada contra a classe operária. O fascismo **no poder** é outra coisa.
 > "German fascism, like Italian fascism, raised itself to power on the backs of the petty bourgeoisie, which it turned into a battering ram against the organizations of the working class and the institutions of democracy."
-> — Trotsky, *What Is National Socialism?* (1933) · versão online ([marxists.org](https://www.marxists.org/archive/trotsky/germany/1933/330610.htm)) · "O fascismo alemão, como o italiano, subiu ao poder nas costas da pequena burguesia, que transformou em aríete contra as organizações da classe operária e as instituições da democracia." (tradução minha)
+> — Trotsky, *What Is National Socialism?* (1933) · versão online ([marxists.org](https://www.marxists.org/archive/trotsky/germany/1933/330610.htm)) · "O fascismo alemão, como o italiano, subiu ao poder nas costas da pequena burguesia, que transformou em aríete contra as organizações da classe operária e as instituições da democracia." (tradução livre)
 
 > "But fascism in power is least of all the rule of the petty bourgeoisie."
 > — Trotsky, *What Is National Socialism?* (1933) · versão online ([marxists.org](https://www.marxists.org/archive/trotsky/germany/1933/330610.htm))
 
 > "On the contrary, it is the most ruthless dictatorship of monopoly capital."
-> — Trotsky, *What Is National Socialism?* (1933) · versão online ([marxists.org](https://www.marxists.org/archive/trotsky/germany/1933/330610.htm)) · "Mas o fascismo no poder é tudo, menos o governo da pequena burguesia. Ao contrário, é a mais implacável ditadura do capital monopolista." (tradução minha)
+> — Trotsky, *What Is National Socialism?* (1933) · versão online ([marxists.org](https://www.marxists.org/archive/trotsky/germany/1933/330610.htm)) · "Mas o fascismo no poder é tudo, menos o governo da pequena burguesia. Ao contrário, é a mais implacável ditadura do capital monopolista." (tradução livre)
 
 Ele observa também que o grande capital, mesmo o que financiou Hitler, "não considerava o partido dele como seu", o mesmo dado que Hobsbawm usa (cap. 4, p. 158).
 
@@ -95,9 +95,9 @@ Mas Dimitrov não é tão simples quanto a tese que Hobsbawm combate. No mesmo i
 > "Camaradas, não é possível representar a subida do fascismo ao Poder de uma forma tão simplista e fácil, como se um comitê qualquer do capital financeiro tomasse a resolução de implantar em tal ou qual dia a ditadura fascista."
 > — Dimitrov, informe ao VII Congresso da IC · versão online ([marxists.org](https://www.marxists.org/portugues/dimitrov/1935/fascismo/01.htm))
 
-*(As traduções brasileiras variam: esta usa "ditadura terrorista descarada"; outras, "aberta". O sentido é o mesmo. A data aparece como 2 ou 4 de agosto conforme a edição. Conferir na edição que você usar.)*
+*(As traduções brasileiras variam: esta usa "ditadura terrorista descarada"; outras, "aberta". O sentido é o mesmo. A data aparece como 2 ou 4 de agosto conforme a edição. Conferir na edição usada.)*
 
-**Gramsci (1929-35): hegemonia e crise.** No cofre está fichada a distinção entre "sociedade civil" e "sociedade política", que correspondem à "hegemonia" e ao "domínio direto" ([[Hegemonia]]). A análise das "crises orgânicas", em que os grupos dirigentes perdem o consenso e surge uma solução "cesarista", está no Caderno 13, no volume 3 da edição brasileira, que ainda não está no cofre. *(conferir)* *(leitura minha)* É a resposta mais próxima da de Hobsbawm: o fascismo chega onde ruiu o "maquinário de poder, influência e hegemonia" (cap. 4, p. 155).
+**Gramsci (1929-35): hegemonia e crise.** No cofre está fichada a distinção entre "sociedade civil" e "sociedade política", que correspondem à "hegemonia" e ao "domínio direto" ([[Hegemonia]]). A análise das "crises orgânicas", em que os grupos dirigentes perdem o consenso e surge uma solução "cesarista", está no Caderno 13, no volume 3 da edição brasileira, que ainda não está no cofre. *(conferir)* *(interpretação)* É a resposta mais próxima da de Hobsbawm: o fascismo chega onde ruiu o "maquinário de poder, influência e hegemonia" (cap. 4, p. 155).
 
 ## 4. O que Hobsbawm faz com essa herança (1994)
 | Herança | Hobsbawm aceita | Hobsbawm recusa |
@@ -108,17 +108,17 @@ Mas Dimitrov não é tão simples quanto a tese que Hobsbawm combate. No mesmo i
 | Dimitrov | que o fascismo serviu ao capital (as quatro vantagens, p. 159) | que seja "a expressão" do capital (p. 157) |
 | Gramsci | o colapso da hegemonia dos velhos regimes como causa permissiva (pp. 149, 155) | (usa o termo sem a teoria) |
 
-*(leitura minha)* Hobsbawm fica com o **Marx do "parece"**: o Estado fascista não é um comitê do capital, mas também não é independente dele; é a forma que uma crise de hegemonia assumiu quando a revolução assustava sem poder vencer. A sua originalidade está menos na teoria do que no **método**: comparar casos (por que não houve fascismo de massa na Grã-Bretanha?), medir (votos, renda) e separar o que os teóricos dos anos 1930, envolvidos na luta, não podiam separar. Ver [[Epistemologia do método de Hobsbawm]].
+*(interpretação)* Hobsbawm fica com o **Marx do "parece"**: o Estado fascista não é um comitê do capital, mas também não é independente dele; é a forma que uma crise de hegemonia assumiu quando a revolução assustava sem poder vencer. A sua originalidade está menos na teoria do que no **método**: comparar casos (por que não houve fascismo de massa na Grã-Bretanha?), medir (votos, renda) e separar o que os teóricos dos anos 1930, envolvidos na luta, não podiam separar. Ver [[Epistemologia do método de Hobsbawm]].
 
 ## 5. Para onde vai (depois de 1994)
 - **O próprio Hobsbawm** fecha o capítulo dizendo que, perto do novo milênio, as vantagens da democracia "não pareçam mais tão óbvias quanto entre 1950 e 1990" (cap. 4, p. 172). A pergunta não fica no passado.
 - **O debate sobre populismo.** Hobsbawm separa fascismo e populismo pelo efeito sobre o movimento operário (cap. 4, p. 165). Teorias posteriores do populismo, como a de Ernesto Laclau (*A razão populista*, 2005), tratam o populismo como lógica política, e não como forma de classe. *(conferir)*
 - **"Novo fascismo" ou "pós-fascismo".** Desde os anos 2010, historiadores discutem se a extrema direita atual é fascismo. Robert Paxton (*A anatomia do fascismo*, 2004) define o fascismo pelo que os movimentos fazem, em etapas; Enzo Traverso fala em "pós-fascismo". *(conferir; nenhum dos dois está no cofre)*
-- **O que Hobsbawm deixa para esse debate** *(leitura minha)*: os critérios dele dão um teste. Há mobilização de massas contra o movimento operário organizado? As velhas elites perderam a capacidade de dirigir? Existe uma ameaça revolucionária, real ou imaginada? Com o movimento operário enfraquecido, o segundo e o terceiro critérios mudam de sentido, e o próprio Hobsbawm notou que o fim dos partidos operários liberou o racismo de parte dos trabalhadores (cap. 4, p. 149).
+- **O que Hobsbawm deixa para esse debate** *(interpretação)*: os critérios dele dão um teste. Há mobilização de massas contra o movimento operário organizado? As velhas elites perderam a capacidade de dirigir? Existe uma ameaça revolucionária, real ou imaginada? Com o movimento operário enfraquecido, o segundo e o terceiro critérios mudam de sentido, e o próprio Hobsbawm notou que o fim dos partidos operários liberou o racismo de parte dos trabalhadores (cap. 4, p. 149).
 
 ## 6. No Brasil
 - Hobsbawm: o Estado Novo como influência fascista aberta, mas com trabalhismo criado pelo Estado (cap. 4, pp. 163-165).
-- A linha brasileira que falta no cofre: a Ação Integralista; o debate sobre o caráter do Estado Novo; a "autocracia burguesa" de [[Florestan Fernandes]], que pensa a dominação burguesa num país dependente sem passar pelo liberalismo clássico. *(conferir)* *(leitura minha)* Florestan pode ser lido como uma resposta brasileira à pergunta do *18 Brumário*: aqui a burguesia nunca precisou "abrir mão da coroa", porque nunca a teve no sentido liberal.
+- A linha brasileira que falta no cofre: a Ação Integralista; o debate sobre o caráter do Estado Novo; a "autocracia burguesa" de [[Florestan Fernandes]], que pensa a dominação burguesa num país dependente sem passar pelo liberalismo clássico. *(conferir)* *(interpretação)* Florestan pode ser lido como uma resposta brasileira à pergunta do *18 Brumário*: aqui a burguesia nunca precisou "abrir mão da coroa", porque nunca a teve no sentido liberal.
 
 ## Perguntas
 1. A palavra "parece", em Marx, é a chave: o Estado bonapartista *parece* autônomo. Thalheimer leva a autonomia a sério; Dimitrov a nega. Qual leitura o próprio texto de Marx sustenta? (cap. VII, onde ele diz que Bonaparte "representa uma classe")

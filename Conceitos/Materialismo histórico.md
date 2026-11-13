@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Materialismo histórico
 
 > [!info] Como ler as marcas
-> O que vem dos textos já fichados ([[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]]) foi conferido na versão online. O resto vem de memória e termina com *(conferir)*.
+> O que vem dos textos já fichados ([[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]]) foi conferido na versão online. O resto não foi conferido na fonte e termina com *(conferir)*.
 
 ## Em uma frase
 Teoria que explica a organização e a mudança das sociedades a partir do modo como se produz a vida material: modos de produção, classes e luta de classes.

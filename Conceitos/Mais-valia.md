@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Mais-valia
 
 > [!info] Como ler as marcas
-> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a sua edição e preencher as páginas.
+> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a edição em papel e preencher as páginas.
 
 ## Em uma frase
 É o valor produzido além do valor da força de trabalho, apropriado pelo capitalista sem violar a troca de equivalentes.
@@ -30,7 +30,7 @@ Fichamentos: [[O Capital - Livro I]] (cap. 4 §3, cap. 5 §2, cap. 8 §1) e [[Sa
 O texto dá o caso em que a mais-valia é de 3 sh. sobre 27 sh. adiantados. Nos trechos que extraí, os termos "capital constante" e "capital variável" não aparecem nessa seção. *(conferir)*
 
 ## Mais-valia absoluta e relativa
-Absoluta: alonga-se a jornada. Relativa: reduz-se o tempo de trabalho necessário por ganhos de produtividade. A distinção é do livro I, seções III e IV *(conferir)*, e não foi lida por mim.
+Absoluta: alonga-se a jornada. Relativa: reduz-se o tempo de trabalho necessário por ganhos de produtividade. A distinção é do livro I, seções III e IV *(conferir)*, e não foi lida.
 
 ## Tensão para estudar
 A mais-valia é **explicação** (de onde vem o lucro) ou **denúncia** (exploração)? O próprio texto fala em trabalho "não remunerado" e em violência na jornada. Ver a discussão sobre justiça em [[Debates sobre a teoria do valor]]. *(conferir)*

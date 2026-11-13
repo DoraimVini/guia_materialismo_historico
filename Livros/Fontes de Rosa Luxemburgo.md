@@ -8,16 +8,16 @@ criado: 2026-11-12
 # Fontes de Rosa Luxemburgo
 
 > [!info] O que esta nota é
-> Inventário do que achei para estudar Rosa Luxemburgo e preparar Florestan Fernandes, com o estado de cada fonte. A coluna "Lido" diz o que de fato li.
+> Inventário de fontes para estudar Rosa Luxemburgo e preparar Florestan Fernandes, com o estado de cada fonte. A coluna "Lido" diz o que de fato foi lido.
 
-## Lênin e Lukács (links que você enviou)
+## Lênin e Lukács (links)
 | Texto | Link | Lido |
 | --- | --- | --- |
 | Lênin, *Que Fazer?* (1902) | [índice](https://www.marxists.org/portugues/lenin/1902/quefazer/index.htm) | caps. II e IV; ver [[Que Fazer (Lênin)]] |
 | Lênin, *Imperialismo* (1916) | [índice](https://www.marxists.org/portugues/lenin/1916/imperialismo/index.htm) | caps. IV e VII; ver [[Imperialismo, fase superior do capitalismo (Lênin)]] |
 | Lênin, *Anarquismo e Socialismo* (1901); *Agitação política...* (1902); *A ditadura democrática...* (1905) | ver [[Lênin - textos curtos (1901-1905)]] | sim, resumo e trechos |
 | Lukács, *Tática e Ética* (1919) | [texto](https://www.marxists.org/portugues/lukacs/1919/mes/41.htm) | sim, ver [[Tática e Ética (Lukács)]] |
-| Lukács, *Consciência de Classe* (1920) | [cap. I](https://www.marxists.org/portugues/lukacs/1920/consciencia/cap01.htm), [cap. IV](https://www.marxists.org/portugues/lukacs/1920/consciencia/cap04.htm) | por trechos; o endereço `.../consciencia/index.htm` que você enviou **não abriu** na minha ferramenta, então usei as páginas dos capítulos achadas por busca |
+| Lukács, *Consciência de Classe* (1920) | [cap. I](https://www.marxists.org/portugues/lukacs/1920/consciencia/cap01.htm), [cap. IV](https://www.marxists.org/portugues/lukacs/1920/consciencia/cap04.htm) | por trechos; o endereço `.../consciencia/index.htm` **não abriu**, então foram usadas as páginas dos capítulos localizadas por busca |
 | Lukács, *O Jovem Hegel* (1938) | [índice](https://www.marxists.org/portugues/lukacs/1938/jovem/index.htm) | **só o índice** (Berna, Frankfurt, Iena; alienação na *Fenomenologia*); sem nota |
 
 ## Textos de Rosa em português (marxists.org)
@@ -37,10 +37,10 @@ criado: 2026-11-12
 | O Que Quer a Liga Espartaco? | 1918 | [texto](https://www.marxists.org/portugues/luxemburgo/1918/12/14.html) | não |
 
 ## *A Acumulação do Capital*
-- Em inglês no marxists.org: [capítulo 26](https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch26.htm) (li trechos). Os outros capítulos não abriram na minha ferramenta de leitura. O livro completo em português **não está** na lista do marxists.org em português.
-- Você enviou depois **dois PDFs** (abaixo) que trazem trechos dela em português. **Ainda seria bom** ter uma edição brasileira inteira do livro para a leitura com páginas conferidas.
+- Em inglês no marxists.org: [capítulo 26](https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch26.htm) (trechos lidos). Os outros capítulos não puderam ser abertos. O livro completo em português **não está** na lista do marxists.org em português.
+- Há **dois PDFs** na pasta `Livros/` (abaixo) que trazem trechos dela em português. **Ainda seria bom** ter uma edição brasileira inteira do livro para a leitura com páginas conferidas.
 
-## PDFs enviados por você
+## PDFs da pasta `Livros/`
 | Arquivo | Fichamento | Lido |
 | --- | --- | --- |
 | `Loureiro (org.) - Socialismo ou Barbárie - Rosa Luxemburgo no Brasil.pdf` | [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]] | por trechos |
@@ -55,7 +55,7 @@ Resultados da busca, a avaliar: artigos em revistas acadêmicas e dois textos do
 - Texto de Limoeiro Cardoso sobre Florestan no [IEA/USP](https://www.iea.usp.br/publicacoes/textos/limoeirocardosoflorestan.pdf).
 
 ## Avisos
-- A ferramenta de leitura dos sites devolve **resumos e trechos transcritos**, não o arquivo. Por isso as citações das notas feitas **só com páginas do marxists.org** (as cinco primeiras obras) não passam pela conferência por script. As notas feitas com os PDFs enviados passam.
+- As notas feitas **só com páginas do marxists.org** (as cinco primeiras obras) têm citações transcritas da página, **sem conferência por script** contra um arquivo. As notas feitas com os PDFs da pasta `Livros/` têm essa conferência.
 - Os textos de Rosa em português de Portugal (Estampa) têm outra ortografia ("facto").
 
 Voltar ao [[MOC - Materialismo histórico e dialético]].
