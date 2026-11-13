@@ -15,7 +15,8 @@ ROOT = os.path.abspath(sys.argv[1])   # raiz do cofre (a raiz do repositório)
 OUT = sys.argv[2]                    # arquivo HTML de saída
 
 INCLUDE_DIRS = ["Autores", "Conceitos", "Correntes", "Obras"]
-INCLUDE_FILES = ["Questões em aberto.md", "Trilha de leitura.md", "Livros/Fontes de Rosa Luxemburgo.md"]
+INCLUDE_FILES = ["Questões em aberto.md", "Trilha de leitura.md", "Livros/Fontes de Rosa Luxemburgo.md",
+                 "Livros/Guia de fontes - epistemologia do materialismo histórico.md"]
 MOC = "MOC - Materialismo histórico e dialético"
 
 # Modulos do roteiro: (id, letra, titulo, descricao, cor, [titulos das notas em ordem])
@@ -23,7 +24,10 @@ MODULES = [
     ("a", "A", "Método e epistemologia",
      "Como Marx e Engels pensam o conhecimento: do ser social à crítica da ideologia. Comece aqui se a pergunta for \"com que método se estuda a história?\".", "epist",
      ["Materialismo histórico", "Materialismo dialético", "Epistemologia do materialismo histórico",
-      "Epistemologia do método de Hobsbawm", "Prefácio de 1859",
+      "Epistemologia do método de Hobsbawm", "Hegel, a Fenomenologia e o materialismo histórico",
+      "Prefácio à Fenomenologia do Espírito", "Manuscritos de 1844 - Crítica da dialética hegeliana",
+      "Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã",
+      "Guia de fontes - epistemologia do materialismo histórico", "Prefácio de 1859",
       "Primazia do ser social", "A Ideologia Alemã", "Ideologia e ideias dominantes", "Teses sobre Feuerbach",
       "Introdução de 1857", "Do abstrato ao concreto pensado", "Prática como critério de verdade",
       "Crítica da ideologia e historicidade das categorias", "Ruptura epistemológica"]),

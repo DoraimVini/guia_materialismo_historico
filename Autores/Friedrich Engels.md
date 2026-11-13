@@ -29,6 +29,7 @@ Quem mais desenvolve a dimensão dialética e naturalista. Sistematizador do "ma
 
 ## Fichamentos
 - [[Do socialismo utópico ao socialismo científico]]
+- [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]]
 - [[Princípios Básicos do Comunismo]]
 - [[A Ideologia Alemã]] (com Marx)
 - [[A Origem da Família, da Propriedade Privada e do Estado]]

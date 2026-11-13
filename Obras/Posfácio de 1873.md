@@ -78,4 +78,7 @@ A resposta de Marx à resenha de Kaufman e as frases sobre Hegel.
 - [[Do abstrato ao concreto pensado]]
 - [[Materialismo dialético]]
 
+## Ver também
+- [[Hegel, a Fenomenologia e o materialismo histórico]]: o que Hegel deu a Marx, e o que significa "virar" a dialética
+
 ## Minhas anotações

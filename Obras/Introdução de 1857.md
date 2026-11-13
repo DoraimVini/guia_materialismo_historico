@@ -96,4 +96,7 @@ A seção sobre o método. Leia primeiro o exemplo da população, depois a pass
 - [[Método como reprodução ideal do real]]
 - [[Teoria do reflexo]]
 
+## Ver também
+- [[Hegel, a Fenomenologia e o materialismo histórico]]
+
 ## Minhas anotações

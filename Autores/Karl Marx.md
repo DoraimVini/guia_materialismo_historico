@@ -37,6 +37,7 @@ Nunca usou o termo "materialismo dialético".
 
 ## Fichamentos
 - [[Prefácio de 1859]]
+- [[Manuscritos de 1844 - Crítica da dialética hegeliana]]
 - [[Teses sobre Feuerbach]]
 - [[Introdução de 1857]]
 - [[Posfácio de 1873]]

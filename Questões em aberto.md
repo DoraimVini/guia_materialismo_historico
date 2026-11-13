@@ -42,8 +42,8 @@ Se a ciência se separa da ideologia por uma ruptura epistemológica, qual é o 
 ## 4. Dialética só da história ou também da natureza?
 Engels estende a dialética à natureza. Lukács a restringe à realidade social. Isso decide se o materialismo dialético é uma ontologia geral ou um método para o ser social.
 
-- Ver: [[Materialismo dialético]], [[Friedrich Engels]], [[Georg Lukács]]
-- Textos para testar: *Dialética da Natureza*; [[História e Consciência de Classe]]; [[Do socialismo utópico ao socialismo científico]]
+- Ver: [[Materialismo dialético]], [[Friedrich Engels]], [[Georg Lukács]], [[Hegel, a Fenomenologia e o materialismo histórico]]
+- Textos para testar: *Dialética da Natureza*; [[História e Consciência de Classe]]; [[Do socialismo utópico ao socialismo científico]]; [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]] (parte IV: a dialética como "ciência das leis universais do movimento, tanto do mundo exterior como do pensar humano")
 - Hipótese:
 - Objeções:
 
@@ -259,6 +259,14 @@ Hobsbawm recusa a tese soviética de que o fascismo foi "a expressão do capital
 
 - Ver: [[Fascismo]], [[Genealogia - fascismo, Estado e hegemonia]], [[Era dos Extremos, cap. 4 - A queda do liberalismo]], [[Teoria marxista do Estado]], [[Hegemonia]]
 - Textos para testar: [[Cadernos do Cárcere]] (Caderno 13, não fichado); Dimitrov (1935) e Poulantzas, *Fascismo e ditadura* (não lidos)
+- Hipótese:
+- Objeções:
+## 32. O que Marx tirou de Hegel: o trabalho ou o método?
+Em 1844, Marx elogia a *Fenomenologia* por apreender o homem "como o resultado de seu próprio trabalho". Em 1858, diz que o que lhe serviu para o "método de tratamento" foi a *Lógica*. Em 1873, fala do "núcleo racional" que é preciso tirar do invólucro místico. Engels separa o sistema conservador do método revolucionário; Lênin diz que sem a *Lógica* não se entende o cap. 1 de *O Capital*; Althusser recusa o sujeito de Hegel e fica com um "processo sem sujeito". O "núcleo racional" está na antropologia do trabalho, na ordem das categorias, ou em nenhum dos dois?
+
+- Ver: [[Hegel, a Fenomenologia e o materialismo histórico]], [[Posfácio de 1873]], [[Introdução de 1857]], [[Ruptura epistemológica]], [[Guia de fontes - epistemologia do materialismo histórico]]
+- Textos para testar: o fim dos *Manuscritos de 1844*; a carta a Engels de 16/1/1858; o cap. 1 de [[O Capital - Livro I]]; Lukács, *O jovem Hegel*, cap. IV
+- Achados da leitura: Hegel diz que "o método não é outra coisa que a estrutura do todo" ([[Prefácio à Fenomenologia do Espírito]]), o que pesa contra a separação de Engels entre método e sistema ([[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]]); Marx elogia na *Fenomenologia* o trabalho, e não o método ([[Manuscritos de 1844 - Crítica da dialética hegeliana]]).
 - Hipótese:
 - Objeções:
 
