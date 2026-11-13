@@ -23,7 +23,7 @@ Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*. Original: *The
 É o panorama que Hobsbawm propõe para o século XX e, no cofre, a base para reconstruir a história e testar as ideias de [[Economia política marxista]] e de [[Epistemologia do materialismo histórico]]. Faz parte de uma série: *A Era das Revoluções*, *A Era do Capital* e *A Era dos Impérios* precedem este volume.
 
 ## Estrutura e mapa do PDF
-Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **os capítulos 1, 2 e 3 foram lidos por inteiro ([[Era dos Extremos, cap. 1 - A era da guerra total]]; [[Era dos Extremos, cap. 2 - A revolução mundial]]; [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]); os demais, só por trechos**.
+Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **os capítulos 1 a 4 foram lidos por inteiro ([[Era dos Extremos, cap. 1 - A era da guerra total]]; [[Era dos Extremos, cap. 2 - A revolução mundial]]; [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]; [[Era dos Extremos, cap. 4 - A queda do liberalismo]]); os demais, só por trechos**.
 
 | Parte | Cap. | Título (sumário do PDF) | Início (PDF) | Estado |
 | --- | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **os cap
 | I. [[Era da Catástrofe]] | 1 | A era da guerra total | [[Hobsbawm - Era dos Extremos.pdf#page=31|p. 31]] | **lido por inteiro**: [[Era dos Extremos, cap. 1 - A era da guerra total]] |
 | | 2 | A revolução mundial | [[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]] | **lido por inteiro**: [[Era dos Extremos, cap. 2 - A revolução mundial]] |
 | | 3 | Rumo ao abismo econômico | [[Hobsbawm - Era dos Extremos.pdf#page=107|p. 107]] | **lido por inteiro**: [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]] |
-| | 4 | A queda do liberalismo | [[Hobsbawm - Era dos Extremos.pdf#page=135|p. 135]] | li a abertura (pp. 135-139) |
+| | 4 | A queda do liberalismo | [[Hobsbawm - Era dos Extremos.pdf#page=135|p. 135]] | **lido por inteiro**: [[Era dos Extremos, cap. 4 - A queda do liberalismo]] |
 | | 5 | Contra o inimigo comum | [[Hobsbawm - Era dos Extremos.pdf#page=174|p. 174]] | só um parágrafo (p. 176) |
 | | 6 | As artes 1914-45 | [[Hobsbawm - Era dos Extremos.pdf#page=216|p. 216]] | só um parágrafo (p. 218) |
 | | 7 | O fim dos impérios | [[Hobsbawm - Era dos Extremos.pdf#page=241|p. 241]] | só um parágrafo (p. 243) |
@@ -140,7 +140,7 @@ Páginas do PDF. "Li" quer dizer que li trechos que sustentam as notas; **os cap
 ## O que as fontes secundárias diziam, e o que o livro mostra
 A versão anterior desta nota se apoiava na Wikipédia e nas resenhas de Cavallaro Filho (2022) e de Pomar (1997/98). Conferido contra o PDF:
 - **Confirmado:** período 1914-1991; tríptico; Era de Ouro de 1947 a 1973; o livro como obra de observador-participante; a queda do número de governos constitucionais entre 1920 e 1944 (a partir de "talvez 35 ou mais" em 1920 até "talvez doze" de 65 Estados em 1944, pp. 138-139; ver [[Era da Catástrofe]]); o "triunfo do indivíduo sobre a sociedade".
-- **Corrigido:** a frase de que "o fascismo atraiu por eficiência técnica" não aparece nos trechos que li. O que li (p. 139) diz que o fascismo "deu à direita internacional um senso de confiança histórica". Retirei a primeira.
+- **Corrigido:** a frase de que "o fascismo atraiu por eficiência técnica" não aparece nos trechos que li. O que li (p. 139) diz que o fascismo "deu à direita internacional um senso de confiança histórica". Retirei a primeira. Lido o cap. 4 inteiro: Hobsbawm diz que o fascismo foi "eficiente na dinamização e modernização de economias industriais" (p. 159), mas como uma das vantagens que deu ao capital, e não como a razão do seu apelo; ver [[Era dos Extremos, cap. 4 - A queda do liberalismo]].
 - **Corrigido:** Fukuyama não é mencionado nos trechos que li. Hobsbawm responde, sem nomear, aos "ensaístas filosóficos" do "fim da história" (p. 20). A crítica de Fukuyama ao livro vem da Wikipédia e não pude confirmá-la aqui. *(conferir)*
 - **Não conferido:** pessimismo excessivo, "pouco espaço para a Ásia capitalista" (Wikipédia). Os capítulos 12 e 15 (Terceiro Mundo) não foram lidos.
 - **Ajustado:** os "anos dourados" são 1947-73 no livro (p. 19), e o capítulo 10 se chama "Revolução social" no sumário do PDF.
@@ -151,8 +151,8 @@ A versão anterior desta nota se apoiava na Wikipédia e nas resenhas de Cavalla
 - Hobsbawm diz que o fracasso soviético "solapou" o socialismo não comunista (p. 663) e, páginas antes, que não decide a sorte de todo "o projeto de socialismo tradicional" (p. 586). Como ler as duas afirmações? Ver [[Socialismo real]] e a Questão 9.
 
 ## Para continuar a leitura
-- [ ] Prefácio completo (a periodização). Os capítulos 1, 2 e 3 já foram lidos por inteiro.
-- [ ] Capítulo 4 inteiro (a queda do liberalismo), continuação direta do 3.
+- [ ] Prefácio completo (a periodização). Os capítulos 1 a 4 já foram lidos por inteiro.
+- [ ] Capítulo 5 inteiro (o antifascismo), continuação direta do 4.
 - [ ] Capítulos 5, 6 e 7 (antifascismo, artes, descolonização).
 - [ ] Capítulos 12 e 15 (Terceiro Mundo), para testar as críticas de eurocentrismo e de "cegueira" sobre a Ásia.
 - [ ] Capítulo 16 inteiro, para ler o diagnóstico completo do fim da URSS.
@@ -167,5 +167,6 @@ A versão anterior desta nota se apoiava na Wikipédia e nas resenhas de Cavalla
 - [[Socialismo real]]
 - [[Morte do campesinato]]
 - [[Hobsbawm lê Marx]]
+- [[Fascismo]]
 
 ## Minhas anotações

@@ -38,6 +38,7 @@ Engels os mantém juntos com a cláusula "por regra geral". As leituras posterio
 - [[Friedrich Engels]]
 
 ## Ver também
+- [[Fascismo]]: Hobsbawm recusa a leitura instrumental (o fascismo como "expressão do capital monopolista") e diz que o grande capital "pode se acomodar com todo regime que não o exproprie" ([[Era dos Extremos, cap. 4 - A queda do liberalismo]], pp. 157-158)
 - [[Família e reprodução social]]
 - [[Divisões sociais do trabalho]]
 - [[Materialismo histórico]]
