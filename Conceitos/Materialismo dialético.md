@@ -43,6 +43,7 @@ Questões 3 e 4 em [[Questões em aberto]].
 
 ## Ver também
 - [[Materialismo histórico]]
+- [[Hegel, a Fenomenologia e o materialismo histórico]]: de onde vem a dialética que Marx diz ter "virado"
 
 ## Versão soviética
 Os manuais da Academia de Ciências da URSS estão fichados em [[Materialismo Dialético - Academia de Ciências da URSS]] e [[Compêndio de História da Filosofia]]. A análise está em [[Materialismo dialético soviético]].

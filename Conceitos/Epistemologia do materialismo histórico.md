@@ -38,6 +38,9 @@ As linhas de Althusser, Netto, Thompson e Lukács vêm de memória. *(conferir)*
 - [[Materialismo e Empiriocriticismo]]: o reflexo, a verdade objetiva e o critério da prática.
 - [[Do socialismo utópico ao socialismo científico]]: a natureza como "pedra de toque" da dialética e a prova do pudim (Introdução de 1892).
 
+## A raiz hegeliana
+As quatro posições da tabela respondem, de modos diferentes, à mesma herança: a *Fenomenologia* e a *Lógica* de Hegel (o verdadeiro como resultado, a substância como sujeito, o trabalho do negativo). Lukács e Gramsci ficam com o sujeito; Althusser, com o "processo sem sujeito"; a teoria do reflexo vem da fórmula de Engels sobre a dialética "posta de novo em pé". Ver [[Hegel, a Fenomenologia e o materialismo histórico]] e, para continuar os estudos, [[Guia de fontes - epistemologia do materialismo histórico]].
+
 ## O problema que atravessa tudo
 A teoria precisa explicar a si mesma com os próprios instrumentos. Se as ideias são determinadas pelo ser social, o materialismo histórico também é. Se a verdade se prova na prática, é preciso dizer que prática prova e quando. Se há ciência e há ideologia, é preciso um critério para separá-las. E, como mostra a Introdução de 1857, Marx afirma ao mesmo tempo que o concreto pensado é construído e que o sujeito real é independente da mente: a dupla tese que as posições da tabela dividem.
 
@@ -45,6 +48,8 @@ A teoria precisa explicar a si mesma com os próprios instrumentos. Se as ideias
 Todas as quatro de [[Questões em aberto]].
 
 ## Ver também
+- [[Hegel, a Fenomenologia e o materialismo histórico]]
+- [[Guia de fontes - epistemologia do materialismo histórico]]
 - [[Epistemologia do método de Hobsbawm]]: o método aplicado por um historiador, de Marx a *Era dos Extremos*
 - [[Materialismo e dualismo na filosofia da mente]]: mapa do debate mente-corpo, fora de Marx
 - [[Materialismo histórico]]

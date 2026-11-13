@@ -12,7 +12,7 @@ Autores que discutem materialismo histórico e dialético, organizados por corre
 ## Conceitos
 - [[Materialismo histórico]]: teoria da história e da sociedade
 - [[Materialismo dialético]]: base filosófica (método, ontologia, teoria do conhecimento)
-- [[Epistemologia do materialismo histórico]] (apoio: [[Materialismo e dualismo na filosofia da mente]]; aplicada a um historiador: [[Epistemologia do método de Hobsbawm]])
+- [[Epistemologia do materialismo histórico]] (apoio: [[Materialismo e dualismo na filosofia da mente]]; aplicada a um historiador: [[Epistemologia do método de Hobsbawm]]; a raiz hegeliana: [[Hegel, a Fenomenologia e o materialismo histórico]]; fontes e roteiro: [[Guia de fontes - epistemologia do materialismo histórico]])
 - [[Economia política marxista]]: crítica da economia política, do valor à acumulação
 - [[História do século XX]]: Hobsbawm e *A Era dos Extremos*
 - [[Materialismo dialético soviético]]: os manuais da Academia de Ciências da URSS
