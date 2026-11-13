@@ -28,6 +28,7 @@ Quem mais desenvolve a dimensão dialética e naturalista. Sistematizador do "ma
 - [[Divisões sociais do trabalho]]
 
 ## Fichamentos
+- [[Manifesto do Partido Comunista]] (com Marx)
 - [[Do socialismo utópico ao socialismo científico]]
 - [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]]
 - [[Princípios Básicos do Comunismo]]
