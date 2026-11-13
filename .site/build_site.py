@@ -174,7 +174,7 @@ def render(title, body):
     html = re.sub(r"<blockquote>\s*<p>\[!(\w+)\]\s*([^\n<]*)\n?(.*?)</p>(.*?)</blockquote>",
                   lambda m: callout(m), html, flags=re.S)
     html = re.sub(r"<em>(\(conferir[^<]*)</em>", r'<em class="tbc">\1</em>', html)
-    html = re.sub(r"<em>(\((?:leitura minha|pergunta)[^<]*)</em>", r'<em class="mine">\1</em>', html)
+    html = re.sub(r"<em>(\((?:interpretação|pergunta)[^<]*)</em>", r'<em class="mine">\1</em>', html)
     html = html.replace("<li>[ ] ", '<li class="todo">').replace("<li>[x] ", '<li class="done">')
     html = html.replace("<table>", '<div class="tw"><table>').replace("</table>", "</table></div>")
     html = re.sub(r'<a href="(https?://[^"]+)"', r'<a href="\1" target="_blank" rel="noopener noreferrer"', html)
