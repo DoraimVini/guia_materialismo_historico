@@ -15,7 +15,7 @@ criado: 2026-11-13
 Autor: [[Friedrich Engels]] · apresentação e notas: [[José Paulo Netto]] · ler junto: [[Manifesto do Partido Comunista]], [[Trabalho Assalariado e Capital]], [[Salário, Preço e Lucro]]
 
 > [!info] Como ler as marcas
-> Esta nota vem do PDF `Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf` (pasta `Livros/`), edição Boitempo. O PDF é escaneado e não tem camada de texto: cada uma das suas 194 páginas traz duas páginas do livro. O texto foi obtido por **OCR** (Tesseract, português) e as citações foram **localizadas por script no texto do OCR**. As páginas citadas são as **impressas no livro** (pp. 1-388); o link `abrir` leva à página do PDF correspondente (p. do livro + 4, dividido por 2). Lidos por inteiro: o prefácio de Engels, todos os capítulos, o anexo "Uma greve inglesa" e o prefácio à edição alemã de 1892; da apresentação de Netto, a p. 9 e as pp. 31-34; a dedicatória não foi lida (ver Estrutura). Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*; o que não foi conferido na fonte, *(conferir)*.
+> Esta nota vem do PDF `Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf` (pasta `Livros/`), edição Boitempo. O PDF é escaneado e não tem camada de texto: cada uma das suas 194 páginas traz duas páginas do livro. O texto foi obtido por **OCR** (Tesseract, português) e as citações foram **localizadas por script no texto do OCR**. As páginas citadas são as **impressas no livro** (pp. 1-388); o link `abrir` leva à página do PDF correspondente (p. do livro + 4, dividido por 2). O livro foi lido por inteiro: nota da editora, apresentação de Netto, dedicatória, prefácio, todos os capítulos e os anexos; as fontes, o índice e a cronologia foram apenas consultados (ver Estrutura). Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*; o que não foi conferido na fonte, *(conferir)*.
 
 ## Em uma frase
 Escrito por Engels aos 24 anos, depois de quase dois anos em Manchester, o livro mostra a classe operária inglesa como produto da revolução industrial e da concorrência: concentrada nas grandes cidades, submetida ao ciclo de prosperidade e crise e a uma "reserva" de desempregados, degradada física e moralmente por um "assassinato social", mas também a única classe capaz de movimentos autônomos e de uma revolução.
@@ -35,8 +35,8 @@ Friedrich Engels, *A situação da classe trabalhadora na Inglaterra: segundo as
 ## Estrutura
 | Parte | Páginas | Tema | Leitura |
 | --- | --- | --- | --- |
-| Nota da editora e Apresentação (Netto) | 7-36 | o jovem Engels, as fontes, a originalidade e os limites do livro | trechos (p. 9, pp. 31-34) |
-| Às classes trabalhadoras da Grã-Bretanha | 37-40 | dedicatória aos operários ingleses | não lido |
+| Nota da editora e Apresentação (Netto) | 7-36 | o jovem Engels, as fontes, a originalidade e os limites do livro | inteiro |
+| Às classes trabalhadoras da Grã-Bretanha | 37-40 | dedicatória aos operários ingleses, escrita em inglês | inteiro |
 | Prefácio | 41-43 | o objeto, as fontes, por que interessa à Alemanha | inteiro |
 | Introdução | 45-62 | a revolução industrial e o nascimento do proletariado | inteiro |
 | O proletariado industrial | 63-66 | a centralização do capital e da população | inteiro |
@@ -55,7 +55,7 @@ Friedrich Engels, *A situação da classe trabalhadora na Inglaterra: segundo as
 | Fontes, índice onomástico, cronologia | 359-388 | material de consulta da edição | consultado |
 
 ## Roteiro
-1. **Prefácio (pp. 41-43).** A situação da classe operária é "a base real e o ponto de partida de todos os movimentos sociais" do tempo, e só na Inglaterra existe em forma "clássica" e documentada. Engels reúne observação própria e fontes oficiais, e desafia a burguesia inglesa a provar a inexatidão de um único fato importante. O livro serve sobretudo à Alemanha, onde o socialismo partiu de premissas teóricas e conhece mal "o mundo real". "Classe média" traduz *middle-class*, isto é, a burguesia.
+1. **Dedicatória e prefácio (pp. 37-43).** A dedicatória, escrita em inglês e impressa à parte para ser enviada a políticos ingleses, diz que Engels quis conhecer os operários em suas casas e trocou o vinho do Porto e o champanhe da classe média pelo convívio com eles (p. 37); que a classe média tem interesses "diametralmente opostos" aos dos operários e deixou a um estrangeiro a tarefa de mostrar a sua situação (p. 38); e que os operários ingleses estão livres do preconceito nacional e são "membros da grande e universal família da humanidade", cuja causa é "a causa da humanidade" (pp. 38-39). *(interpretação)* Esse humanismo é o que o prefácio de 1892 chamará de herança da filosofia clássica alemã (p. 350). No prefácio, a situação da classe operária é "a base real e o ponto de partida de todos os movimentos sociais" do tempo, e só na Inglaterra existe em forma "clássica" e documentada. Engels reúne observação própria e fontes oficiais, e desafia a burguesia inglesa a provar a inexatidão de um único fato importante. O livro serve sobretudo à Alemanha, onde o socialismo partiu de premissas teóricas e conhece mal "o mundo real". "Classe média" traduz *middle-class*, isto é, a burguesia.
 2. **Introdução (pp. 45-62).** A história da classe operária começa com as máquinas de fiar e a máquina a vapor, numa "revolução industrial" (Engels foi um dos primeiros a usar a expressão, segundo a nota da p. 45). Antes, o tecelão-camponês vivia de modo tranquilo, mas "intelectualmente morto"; a revolução industrial o transforma em máquina e, por isso mesmo, o leva "a pensar e a exigir uma condição humana" (p. 47). Seguem a jenny, a throstle, a mule, o tear mecânico, a máquina de Watt, o ferro, o carvão, os canais e as ferrovias. A revolução industrial foi para a Inglaterra o que a política foi para a França e a filosofia para a Alemanha; seu "fruto mais importante" é o proletariado, que agora é uma classe estável e, "pela primeira vez", capaz de movimentos autônomos (p. 60). A classe média nada quer saber da miséria operária, e a cólera operária deverá explodir numa revolução (p. 62).
 3. **O proletariado industrial (pp. 63-66).** A indústria centraliza a propriedade e a população. "A pequena indústria criou a classe média, a grande indústria criou a classe operária" (p. 64). Nas grandes cidades, só existem uma classe rica e uma pobre; a pequena burguesia desaparece.
 4. **As grandes cidades (pp. 67-116).** Na multidão de Londres, a "indiferença brutal" e o isolamento de cada um mostram "a guerra de todos contra todos" (p. 68); o operário nunca sabe se terá amanhã o que tem hoje (p. 70). Toda grande cidade tem seus "bairros de má fama", separados para a classe operária (p. 70). Engels percorre St. Giles, Whitechapel e Bethnal Green, em Londres, com famílias inteiras num só cômodo e 50 mil pessoas que acordam sem saber onde dormirão (pp. 70-76), e depois Dublin, Edimburgo, Liverpool, Glasgow, Leeds, Bradford e as cidades do Lancashire (pp. 76-87). Manchester, "o tipo clássico da moderna cidade industrial", recebe a descrição mais longa (p. 85). Manchester é construída de tal forma que se pode viver nela anos "sem jamais ver um bairro operário" (p. 88): as lojas das grandes avenidas escondem dos ricos "a miséria e a sujeira que são o complemento de seu luxo" (p. 89), e em nenhum outro lugar Engels viu tanto cuidado em afastar os operários das ruas principais, embora a cidade tenha crescido ao acaso (p. 90). Na cidade velha, à beira do Irk, as casas se amontoam em pátios sem esgoto nem latrina (pp. 90-96); à desculpa de que "é a cidade velha", Engels responde que tudo isso "é obra exclusiva da indústria", que ocupou e adensou o bairro para lucrar com os aluguéis (p. 96). Seguem a "cidade irlandesa", os três sistemas de construção dos bairros operários (casas soltas, pátios fechados, filas com rua dos fundos), feitos para durar uns quarenta anos porque os construtores apenas alugam o terreno (pp. 97-101), a Pequena Irlanda, Hulme e Salford (pp. 101-104): os 350 mil operários de Manchester e arredores vivem quase todos em habitações miseráveis (pp. 104-105). A habitação serve de critério para as outras necessidades (p. 107): roupas de algodão impróprias ao clima, comida comprada no fim do sábado, carne estragada, alimentos adulterados e pesos falsos, fraudes que recaem sobre o operário (pp. 108-115). Conclusão: a escala de condições de vida da classe operária não tem degraus fixos, e qualquer operário pode percorrê-la inteira, "do modesto conforto à privação extrema" (pp. 115-116).
@@ -73,6 +73,13 @@ Friedrich Engels, *A situação da classe trabalhadora na Inglaterra: segundo as
 
 ## A apresentação de José Paulo Netto
 - **Hobsbawm e as três razões.** Netto abre com o prefácio de Hobsbawm a uma edição francesa: o livro é um marco na história do capitalismo, uma etapa na elaboração do marxismo e uma obra-prima literária (p. 9).
+- **Nota da editora (pp. 7-8).** Tradução de Bernhard A. Schumann direto do alemão (texto da *Marx-Engels Werke*, v. 2), revista por Netto e cotejada com as edições italiana, francesa, inglesa e mexicana. As notas de Engels são numeradas; as da edição, chamadas por letras; as intervenções do editor nas notas de Engels levam "N.E.". As duas traduções portuguesas anteriores (Afrontamento, 1975; Global, 1986) estavam esgotadas.
+- **A vida de Engels (pp. 9-17).** Filho de um industrial têxtil pietista de Barmen; em Berlim (1841-42), na esquerda hegeliana; em Manchester, 21 meses (1842-44) que Netto chama de período decisivo da sua formação, ao lado de Mary Burns, operária irlandesa que lhe abriu os meios proletários (p. 11 e nota). Depois vêm a colaboração com Marx, a revolução de 1848, quase vinte anos de "cativeiro egípcio" nos negócios de Manchester, que sustentaram Marx (pp. 13-14), a Primeira Internacional e a edição dos livros II e III de *O Capital*, no último quase como coautor (p. 17).
+- **"Um pensador com luz própria" (pp. 18-19).** Netto contesta a imagem de Engels como "segundo violino" de Marx; com Florestan Fernandes, chama-o "um pensador com luz própria", e, com Lukács, recusa opor o jovem Engels ao maduro: não há "corte", mas ruptura e continuidade (p. 18 e nota).
+- **Do hegelianismo ao comunismo (pp. 19-23).** De Börne a Hegel, pela crítica da religião de Strauss: neo-hegeliano em 1840, Engels ataca Schelling, chamado a Berlim para combater o hegelianismo, e adere ao materialismo de Feuerbach (pp. 19-21). Distingue-se dos Livres de Berlim por recusar a filosofia desligada da prática (p. 22). Moses Hess, em *A triarquia europeia* (1841), sustenta que a Reforma alemã e a Revolução Francesa se completariam numa revolução social na Inglaterra; foi Hess quem o converteu ao comunismo, ainda "filosófico" (pp. 22-23).
+- **Na Inglaterra (pp. 23-25).** Engels chega a Manchester logo depois da greve geral de 1842, lê a conjuntura inglesa pela tese de Hess e projeta uma história social da Inglaterra, que este livro substitui (pp. 23-24). Ali descobre a importância das condições de produção da vida material e formula a ideia, que Marx retomará em *O Capital*, de que o "caso clássico" inglês antecipa o futuro dos outros países (p. 25).
+- **Carlyle e o "Esboço" (pp. 26-30).** Na resenha de *Past and Present* (1843), Engels aceita o diagnóstico de Carlyle e recusa o seu programa: não há reorganização do trabalho que mantenha a propriedade privada (pp. 26-27). O "Esboço de uma crítica da economia política" (1843-44) é, para Netto, a primeira análise das categorias da economia política feita de uma perspectiva dialética e comunista: trata essa economia como expressão ideológica da ordem vigente, historiciza as suas categorias e afirma leis da concorrência, da centralização, das crises e da pauperização (pp. 27-29). Marx o chamou de "genial" e o citou em *O Capital*; Netto subscreve Lefebvre, para quem o "Esboço" inaugura o marxismo, contra G. Stedman Jones (pp. 27-28, notas).
+- **O livro no seu tempo (pp. 30, 35).** Entre os anos 1830 e 1850, a "questão social" produziu uma vasta literatura (Gaskell, Villermé, Buret, Tocqueville), da qual o livro não é o ponto de partida (p. 30). Netto fecha lembrando que a "questão social" voltou à ordem do dia com a crise do fim do século XX e a ofensiva neoliberal (p. 35, nota).
 - **A originalidade.** Não está na observação participante nem nos dados, já usados por outros, mas em três pontos (p. 31): a revolução industrial ganha a centralidade que lhe cabe; a "questão social" deixa de depender da filantropia e passa a depender da supressão da propriedade privada dos meios de produção; e o proletariado aparece como sujeito revolucionário, não como massa sofredora e passiva.
 - **O esquema teórico.** O cap. "A concorrência" resume o "Esboço" e traz "a primeira aproximação" ao que Marx chamará de "exército industrial de reserva" (p. 32).
 - **Os limites.** Um "otimismo revolucionário meio ingênuo", tributos ao "eticismo" dos utópicos (Owen), uma compreensão ainda pouco determinada das lutas de classes, e sobretudo a previsão de uma revolução iminente, sem prever nem a sobrevivência do capitalismo nem a "degradação reformista do movimento operário" (p. 33). Em nota, Netto cita as críticas de Hobsbawm: pouca atenção à religião, à cultura operária autônoma e ao cooperativismo.
@@ -109,6 +116,7 @@ Friedrich Engels, *A situação da classe trabalhadora na Inglaterra: segundo as
 12. **Forma e causa.** No caso irlandês, Engels separa a causa da miséria (as relações sociais) das formas em que ela aparece; sem a causa, as formas podem ser descritas, mas a miséria não pode ser compreendida "como tal" (p. 305). *(interpretação)* É uma formulação precoce da distinção entre essência e aparência que organiza [[O Capital - Livro I]]; ver também [[Epistemologia do método de Hobsbawm]].
 13. **Aristocracia operária.** O prefácio de 1892 usa o monopólio industrial inglês para explicar por que uma minoria de operários (fabris e grandes sindicatos) melhorou de vida e por que o socialismo desapareceu da Inglaterra depois do owenismo (pp. 354-356). *(interpretação)* Lênin retomará a ideia na teoria do imperialismo; ver [[Imperialismo, fase superior do capitalismo (Lênin)]] e [[Imperialismo - Lênin e Rosa]].
 14. **Engels sobre a própria obra.** O prefácio de 1892 apresenta o livro como uma fase "embrionária" do socialismo moderno, com traços da filosofia clássica alemã (p. 350), e troca a "venda do trabalho" do texto de 1845 pela venda da força de trabalho (p. 348; ver a nota de Netto na p. 233). Ver [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]] e [[Hegel, a Fenomenologia e o materialismo histórico]].
+15. **A formação de Engels.** A apresentação de Netto mostra o caminho de Engels até o materialismo histórico: crítica da religião, Hegel, Feuerbach, Hess e, por fim, a economia política e a observação da indústria inglesa (pp. 19-30). *(interpretação)* É o lado de Engels da história contada em [[Hegel, a Fenomenologia e o materialismo histórico]]: o caminho passa pela crítica da religião e pela economia, não só pela leitura da *Fenomenologia*. Ver também [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]] e [[Manuscritos de 1844 - Crítica da dialética hegeliana]].
 
 ## Limites e objeções *(interpretação)*
 1. **A profecia.** O livro anuncia uma revolução iminente (pp. 62, 326-328) que não veio; Netto chama isso de "catastrofismo" (p. 34). Engels chega a dizer que "em nenhum lugar é tão fácil, como na Inglaterra, fazer previsões" (p. 327). A previsão sobre a indústria americana (p. 325) se cumpriu; a da revolução, não. É o mesmo problema do "inevitáveis" do [[Manifesto do Partido Comunista]] e da recusa da profecia em Hobsbawm ([[Epistemologia do método de Hobsbawm]]). No prefácio de 1892, Engels mantém as profecias no texto e diz que o extraordinário é que tantas tenham se cumprido (p. 351).
@@ -146,6 +154,15 @@ Friedrich Engels, *A situação da classe trabalhadora na Inglaterra: segundo as
 
 ## Citações (com página do livro)
 ### Objeto e método
+> "não me interessava um conhecimento apenas abstrato de meu tema — eu queria conhecer-vos em vossas casas, observar-vos em vossa vida cotidiana"
+> — Dedicatória às classes trabalhadoras da Grã-Bretanha · p. 37 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=20|abrir]]
+
+> "Seus interesses são diametralmente opostos aos vossos"
+> — Dedicatória, sobre a classe média · p. 38 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=21|abrir]]
+
+> "membros da grande e universal família da humanidade"
+> — Dedicatória · p. 38 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=21|abrir]]
+
 > "A situação da classe operária é a base real e o ponto de partida de todos os movimentos sociais de nosso tempo porque ela é, simultaneamente, a expressão máxima e a mais visível manifestação de nossa miséria social."
 > — Prefácio · p. 41 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=22|abrir]]
 
@@ -404,6 +421,24 @@ Friedrich Engels, *A situação da classe trabalhadora na Inglaterra: segundo as
 > — Prefácio de 1892, citando artigo de 1885 · p. 356 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=180|abrir]]
 
 ### A apresentação de Netto
+> "o jovem que abandona Manchester para regressar à Alemanha, nos últimos dias de agosto de 1844, é decididamente um comunista."
+> — Netto, Apresentação · p. 11 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=7|abrir]]
+
+> "era um pensador com luz própria"
+> — Netto, Apresentação, citando Florestan Fernandes · p. 18 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=11|abrir]]
+
+> "a mentação filosófica desvinculada da atividade prática sempre foi estranha a seu caráter e a seus projetos"
+> — Netto, Apresentação · p. 22 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=13|abrir]]
+
+> "descobre a importância capital, para a compreensão da vida social, das condições em que se opera a produção da vida material da sociedade"
+> — Netto, Apresentação · p. 25 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=14|abrir]]
+
+> "Como se pretende acabar com a concorrência, a oferta e a procura [...], deixando intacta a sua raiz, a propriedade privada?"
+> — Engels, resenha de Carlyle, citado por Netto · p. 27 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=15|abrir]]
+
+> "Utilizando procedimentos dialéticos, o jovem Engels historiciza as categorias econômicas e revela o seu condicionamento histórico-social."
+> — Netto, Apresentação, sobre o "Esboço" · p. 29 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=16|abrir]]
+
 > "Nesse esquema teórico dá-se a primeira aproximação ao que Marx, n'O capital, chamará de “exército industrial de reserva”"
 > — Netto, Apresentação · p. 32 · [[Engels - A Situação da Classe Trabalhadora na Inglaterra.pdf#page=18|abrir]]
 
@@ -425,6 +460,5 @@ Friedrich Engels, *A situação da classe trabalhadora na Inglaterra: segundo as
 
 ## Para a conferência com a edição em papel
 - [ ] O texto foi obtido por OCR: conferir na edição as citações antes de usá-las em trabalho.
-- [ ] Ler a dedicatória "Às classes trabalhadoras da Grã-Bretanha" (pp. 37-40) e o resto da apresentação de Netto.
 
 ## Minhas anotações
