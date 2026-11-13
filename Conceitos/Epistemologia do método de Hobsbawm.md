@@ -140,4 +140,7 @@ E o limite, posto pelo próprio Hobsbawm como epígrafe do cap. 4:
 - [[Genealogia - fascismo, Estado e hegemonia]]
 - [[Eric Hobsbawm]]
 
+## Ver também (Engels, 1845)
+- [[A Situação da Classe Trabalhadora na Inglaterra]]: livro que Hobsbawm prefaciou em edição francesa; Netto, na apresentação, cita Hobsbawm sobre ciência social e "ilusões da sociedade burguesa" (p. 34)
+
 ## Minhas anotações

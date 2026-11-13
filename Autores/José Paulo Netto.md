@@ -18,4 +18,7 @@ Boa porta de entrada no contexto brasileiro.
 ## Conceitos relacionados
 - [[Método como reprodução ideal do real]]
 
+## Fichamentos
+- [[A Situação da Classe Trabalhadora na Inglaterra]]: apresentação e notas da edição Boitempo (2008)
+
 ## Minhas anotações

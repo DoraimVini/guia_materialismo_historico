@@ -40,4 +40,7 @@ Fichamento: [[O Capital - Livro I]], cap. 24 §7 ("Tendência histórica da acum
 - [[Queda tendencial da taxa de lucro]]
 - [[Economia política marxista]]
 
+## Ver também (Engels, 1845)
+- [[A Situação da Classe Trabalhadora na Inglaterra]]: a "reserva de trabalhadores desempregados" de que a indústria precisa (p. 125), primeira aproximação do exército industrial de reserva
+
 ## Minhas anotações

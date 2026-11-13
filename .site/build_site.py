@@ -41,7 +41,7 @@ MODULES = [
      "Divisão do trabalho, família, Estado e a ideia de comunismo em Engels e Marx.", "soc",
      ["Divisões sociais do trabalho", "Família e reprodução social", "A Origem da Família, da Propriedade Privada e do Estado",
       "Teoria marxista do Estado", "Do socialismo utópico ao socialismo científico", "Princípios Básicos do Comunismo",
-      "Manifesto do Partido Comunista",
+      "Manifesto do Partido Comunista", "A Situação da Classe Trabalhadora na Inglaterra",
       "Comunismo como movimento real"]),
     ("d", "D", "Gramsci: hegemonia e cultura",
      "Como uma classe domina pelo consentimento e como se disputa o senso comum.", "grams",
