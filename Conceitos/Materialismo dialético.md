@@ -42,6 +42,8 @@ Questões 3 e 4 em [[Questões em aberto]].
 - [[Stalin]]
 
 ## Ver também
+- [[Contradição e negação da negação]]: a contradição como fonte do movimento, de Hegel a Lênin
+- [[Ciência da Lógica]] e [[Cadernos filosóficos (Lênin)]]
 - [[Materialismo histórico]]
 - [[Hegel, a Fenomenologia e o materialismo histórico]]: de onde vem a dialética que Marx diz ter "virado"
 

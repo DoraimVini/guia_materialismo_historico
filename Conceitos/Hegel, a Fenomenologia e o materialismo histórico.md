@@ -51,7 +51,7 @@ Publicada em 1807, em Iena, é o caminho da consciência desde a certeza mais im
 | 1857-58 | Marx, Introdução e carta a Engels | a *Lógica* ajuda no "método de tratamento"; Hegel confunde o caminho do pensamento com a gênese do real | lido e conferido; do cofre: [[Introdução de 1857]] |
 | 1873 | Marx, Posfácio de *O Capital* | a dialética está "de cabeça para baixo" e precisa ser virada | do cofre: [[Posfácio de 1873]] |
 | 1886 | Engels, *Ludwig Feuerbach* | separa o **sistema** conservador do **método** revolucionário | lido e conferido |
-| 1914-15 | Lênin, *Cadernos filosóficos* | sem toda a *Lógica* de Hegel não se entende o cap. 1 de *O Capital* | lido e conferido |
+| 1914-15 | Lênin, *Cadernos filosóficos* | sem toda a *Lógica* de Hegel não se entende o cap. 1 de *O Capital* | lido e conferido; fichamento: [[Cadernos filosóficos (Lênin)]] |
 | 1923 | Lukács, *História e Consciência de Classe* | a totalidade; o proletariado como sujeito-objeto da história | do cofre: [[História e Consciência de Classe]], [[Totalidade e consciência atribuída]] |
 | 1929-35 | Gramsci, *Cadernos* | o hegelianismo como motivo da filosofia da práxis, que é "historicismo absoluto" | do cofre: [[Historicismo absoluto]] |
 | 1933-39 | Kojève, cursos sobre a *Fenomenologia* (Paris) | o senhor e o escravo como chave da história; o "fim da história" | *(conferir)* |
@@ -157,6 +157,8 @@ Os três fichamentos das etapas 1 a 3 do roteiro ([[Prefácio à Fenomenologia d
 Ver o roteiro de leitura em [[Guia de fontes - epistemologia do materialismo histórico]]. Fichamentos já feitos: [[Prefácio à Fenomenologia do Espírito]], [[Manuscritos de 1844 - Crítica da dialética hegeliana]], [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]].
 
 ## Ver também
+- [[Ciência da Lógica]], [[Cadernos filosóficos (Lênin)]], [[Contradição e negação da negação]]: a trilha da *Lógica*
+- [[Prefácio à Filosofia do Direito]] e [[A razão na história]]: o Estado e a história em Hegel
 - [[Epistemologia do materialismo histórico]]
 - [[Materialismo dialético]], [[Posfácio de 1873]], [[Introdução de 1857]]
 - [[G. W. F. Hegel]]

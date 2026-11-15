@@ -9,7 +9,7 @@ criado: 2026-11-12
 # Teoria do reflexo
 
 > [!info] Como ler as marcas
-> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto não foi conferido na fonte e termina com *(conferir)*. Falta conferir tudo com uma edição em papel.
+> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4), *Sobre a Questão da Dialética* (Lênin, 1915) e o resumo da *Ciência da Lógica* nos *Cadernos filosóficos* (Lênin, 1914, versão inglesa). O resto não foi conferido na fonte e termina com *(conferir)*. Falta conferir tudo com uma edição em papel.
 
 ## Em uma frase
 Para Lênin, o pensamento reflete uma realidade objetiva independente da consciência.
@@ -24,7 +24,10 @@ Fichamento: [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12 do cap. II
 Garante o realismo do conhecimento: há um mundo que não depende da consciência, e o pensamento pode acertar ou errar sobre ele. Lênin a usa contra o idealismo subjetivo e o agnosticismo.
 
 ## A autocorreção de Lênin (verificada)
-Em *Sobre a Questão da Dialética* (1915), Lênin critica o materialismo metafísico pela "incapacidade de aplicar a dialética à *Bildertheorie*, ao processo e desenvolvimento do conhecimento" (*Bildertheorie* é a teoria da reflexão). Diz também que o conhecimento humano não é uma linha reta, mas uma curva que se aproxima infinitamente. Nos cadernos sobre a *Lógica* de Hegel, ele teria observado que as leis são aproximadas e que o conhecimento é mediado, mas a passagem não foi localizada. *(conferir)* A frase de que a consciência não só reflete o mundo objetivo, mas também o cria, costuma ser citada dos *Cadernos filosóficos*, mas não foi localizada nas páginas lidas. *(conferir)*
+Em *Sobre a Questão da Dialética* (1915), Lênin critica o materialismo metafísico pela "incapacidade de aplicar a dialética à *Bildertheorie*, ao processo e desenvolvimento do conhecimento" (*Bildertheorie* é a teoria da reflexão). Diz também que o conhecimento humano não é uma linha reta, mas uma curva que se aproxima infinitamente. Nos resumos da *Ciência da Lógica* (1914), agora lidos na versão inglesa das *Collected Works*, vol. 38, as duas passagens foram localizadas ([[Cadernos filosóficos (Lênin)]]):
+- a consciência do homem "não só reflete o mundo objetivo, mas o cria" ("Man’s consciousness not only reflects the objective world, but creates it"), na parte sobre a Ideia, em que Lênin liga a "ideia do bem" de Hegel ao critério da prática;
+- o conhecimento é "a aproximação eterna, sem fim, do pensamento ao objeto", e o reflexo da natureza no pensamento deve ser entendido "não morto", "não abstrato", mas no processo do movimento, do surgimento das contradições e da sua solução;
+- sobre as leis: o conceito de lei é uma etapa do conhecimento da unidade e da conexão do mundo, e Hegel luta contra a tendência de torná-lo absoluto e "fetichizá-lo"; a lei não está além do fenômeno, mas presente nele.
 
 ## Críticas
 - **Passividade.** Pensar como cópia reaproxima do "materialismo contemplativo" criticado na Tese I de [[Teses sobre Feuerbach]].
@@ -33,7 +36,7 @@ Em *Sobre a Questão da Dialética* (1915), Lênin critica o materialismo metaf�
 - **Retomada.** O Lukács tardio reformula a noção de reflexo na *Estética* e na *Ontologia do Ser Social*. *(conferir)*
 
 ## Tensão dentro de Lênin
-Em 1909, a imagem é de cópia e fotografia. Em 1915, o próprio Lênin pede que a teoria do reflexo seja dialetizada. A pergunta para a leitura: são duas fases, ou duas teses compatíveis?
+Em 1909, a imagem é de cópia e fotografia. Em 1914-15, o próprio Lênin pede que a teoria do reflexo seja dialetizada: o reflexo passa a ser um processo de aproximação, mediado pela abstração ("da percepção viva ao pensamento abstrato, e dele à prática") e testado pela prática. A pergunta para a leitura: são duas fases, ou duas teses compatíveis? *(interpretação)* Uma leitura possível: a tese realista (há um mundo independente da consciência) se mantém; o que muda é a concepção do processo de conhecer, que deixa de ser cópia imediata e passa a ser espiral. Ver [[Contradição e negação da negação]].
 
 ## Questões ligadas
 Questões 1 e 4 em [[Questões em aberto]].

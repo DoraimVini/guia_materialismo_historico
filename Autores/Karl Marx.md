@@ -46,6 +46,7 @@ Nunca usou o termo "materialismo dialético".
 - [[Trabalho Assalariado e Capital]]
 - [[Salário, Preço e Lucro]]
 - [[O Capital - Livro I]]
-- [[Salário, Preço e Lucro]]
+- [[A Guerra Civil em França]]
+- [[Crítica do Programa de Gotha]]
 
 ## Minhas anotações

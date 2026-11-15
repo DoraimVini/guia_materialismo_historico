@@ -75,7 +75,7 @@ Friedrich Engels, *Ludwig Feuerbach e o fim da filosofia clássica alemã*, escr
 7. **O Estado que se autonomiza.** O Estado nasce como órgão da sociedade e se torna autônomo, e por isso produz ideologia própria (o direito como domínio "autônomo"). Liga-se à exceção bonapartista de Engels em 1884 e à [[Genealogia - fascismo, Estado e hegemonia]].
 
 ## Personagens e termos
-- **"Tudo o que é real é racional":** frase do prefácio da *Filosofia do Direito* (1820) de Hegel.
+- **"Tudo o que é real é racional":** frase do prefácio da *Filosofia do Direito* (1820) de Hegel. Ver [[Prefácio à Filosofia do Direito]].
 - **Jovens hegelianos:** Strauss (*Vida de Jesus*, 1835), Bruno Bauer, Max Stirner (*O Único e sua propriedade*).
 - **"Socialismo verdadeiro":** a corrente alemã dos anos 1840 que trocava a economia pelo "amor" (Karl Grün).
 - **Coisa em si:** em Kant, o que existe independentemente do nosso conhecimento e não pode ser conhecido.
