@@ -38,6 +38,9 @@ Engels os mantém juntos com a cláusula "por regra geral". As leituras posterio
 - [[Friedrich Engels]]
 
 ## Ver também
+- [[A Guerra Civil em França]]: a classe operária não pode "apossar-se simplesmente da maquinaria de Estado já pronta"; a Comuna como forma política da emancipação do trabalho
+- [[Crítica do Programa de Gotha]]: as duas fases do comunismo e a "ditadura revolucionária do proletariado" na transição
+- [[O Estado e a Revolução]]: o Estado como "produto e manifestação" das contradições de classe inconciliáveis; quebrar a máquina; a extinção do Estado
 - [[Manifesto do Partido Comunista]]: o Estado como "comissão que administra os negócios comuns de toda a classe burguesa" (PDF pp. 31-32) e o prefácio de 1872 sobre a "máquina estatal" (PDF p. 7)
 - [[Genealogia - fascismo, Estado e hegemonia]]: o bonapartismo do *18 Brumário* e a leitura do fascismo
 - [[Fascismo]]: Hobsbawm recusa a leitura instrumental (o fascismo como "expressão do capital monopolista") e diz que o grande capital "pode se acomodar com todo regime que não o exproprie" ([[Era dos Extremos, cap. 4 - A queda do liberalismo]], pp. 157-158)
