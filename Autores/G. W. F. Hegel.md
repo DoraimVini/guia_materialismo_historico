@@ -13,13 +13,15 @@ Georg Wilhelm Friedrich Hegel (1770-1831), filósofo alemão. Não é marxista, 
 ## Obras que importam para o cofre
 - *Fenomenologia do Espírito* (1807): a experiência da consciência; o senhor e o escravo; a alienação. Prefácio em português no [marxists.org](https://www.marxists.org/portugues/hegel/1807/mes/fenomenologia.htm); tradução inglesa de Baillie no [marxists.org](https://www.marxists.org/reference/archive/hegel/works/ph/phconten.htm). Tradução brasileira de referência: Paulo Meneses (Vozes, 1992, 2 vols.; revista em 1 vol., 2002).
 - [[Ciência da Lógica]] (1812-16): a obra que Marx releu em 1858 e que Lênin resumiu em 1914.
-- *Filosofia do Direito* (1820): a "sociedade civil", que Marx critica em 1843 e retoma no [[Prefácio de 1859]].
-- *Lições sobre a filosofia da história*: a razão na história.
+- *Filosofia do Direito* (1820): a "sociedade civil", que Marx critica em 1843 e retoma no [[Prefácio de 1859]]. Prefácio fichado: [[Prefácio à Filosofia do Direito]].
+- *Lições sobre a filosofia da história*: a introdução fichada em [[A razão na história]].
 
 ## Notas
 - [[Prefácio à Fenomenologia do Espírito]]: fichamento do Prefácio inteiro
 - [[Ciência da Lógica]]: fichamento dos prefácios, da Introdução, do começo (ser, nada, devir) e da Doutrina da Essência (aparência, contradição, fenômeno)
 - [[Contradição e negação da negação]]: a contradição como raiz do movimento, de Hegel a Lênin
+- [[Prefácio à Filosofia do Direito]]: "o que é racional é real", a filosofia como "o seu tempo apreendido em pensamentos", a coruja de Minerva
+- [[A razão na história]]: a história como progresso da consciência da liberdade; as paixões; a astúcia da razão; os grandes homens; o Estado
 - [[Hegel, a Fenomenologia e o materialismo histórico]]: o que a *Fenomenologia* deu ao marxismo, de Marx (1844) a Althusser (1969)
 - [[Guia de fontes - epistemologia do materialismo histórico]]
 - Onde Hegel aparece no cofre: [[Posfácio de 1873]], [[Introdução de 1857]], [[Do socialismo utópico ao socialismo científico]], [[Historicismo absoluto]], [[Materialismo dialético]]

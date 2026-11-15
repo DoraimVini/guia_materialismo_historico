@@ -158,6 +158,7 @@ Ver o roteiro de leitura em [[Guia de fontes - epistemologia do materialismo his
 
 ## Ver também
 - [[Ciência da Lógica]], [[Cadernos filosóficos (Lênin)]], [[Contradição e negação da negação]]: a trilha da *Lógica*
+- [[Prefácio à Filosofia do Direito]] e [[A razão na história]]: o Estado e a história em Hegel
 - [[Epistemologia do materialismo histórico]]
 - [[Materialismo dialético]], [[Posfácio de 1873]], [[Introdução de 1857]]
 - [[G. W. F. Hegel]]

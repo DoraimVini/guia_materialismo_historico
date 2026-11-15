@@ -31,13 +31,14 @@ Engels os mantém juntos com a cláusula "por regra geral". As leituras posterio
 ## Desdobramentos (conferir)
 - [[Antonio Gramsci]]: nos trechos lidos (vol. 2, p. 12), ele fixa dois planos superestruturais, a "sociedade civil" e a "sociedade política ou Estado", que correspondem à "hegemonia" e ao "domínio direto". A formulação sobre o Estado está no vol. 3 (não enviado). Ver [[Hegemonia]]. *(conferir o vol. 3)*
 - [[Louis Althusser]]: aparelhos ideológicos de Estado. *(conferir)*
-- [[Lênin]]: *O Estado e a revolução*. *(conferir; não lido)*
+- [[Lênin]]: [[O Estado e a Revolução]], lido por partes.
 - Marxismo político de [[Ellen Meiksins Wood]]: separação entre o econômico e o político no capitalismo. *(conferir)*
 
 ## Autores
 - [[Friedrich Engels]]
 
 ## Ver também
+- [[Prefácio à Filosofia do Direito]] e [[A razão na história]]: a tese oposta, de Hegel, do Estado como "algo de racional em si" e realidade positiva da liberdade
 - [[A Guerra Civil em França]]: a classe operária não pode "apossar-se simplesmente da maquinaria de Estado já pronta"; a Comuna como forma política da emancipação do trabalho
 - [[Crítica do Programa de Gotha]]: as duas fases do comunismo e a "ditadura revolucionária do proletariado" na transição
 - [[O Estado e a Revolução]]: o Estado como "produto e manifestação" das contradições de classe inconciliáveis; quebrar a máquina; a extinção do Estado

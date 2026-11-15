@@ -26,6 +26,7 @@ MODULES = [
      ["Materialismo histórico", "Materialismo dialético", "Epistemologia do materialismo histórico",
       "Epistemologia do método de Hobsbawm", "Hegel, a Fenomenologia e o materialismo histórico",
       "Prefácio à Fenomenologia do Espírito", "Ciência da Lógica", "Contradição e negação da negação",
+      "Prefácio à Filosofia do Direito", "A razão na história",
       "Cadernos filosóficos (Lênin)", "Manuscritos de 1844 - Crítica da dialética hegeliana",
       "Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã",
       "Guia de fontes - epistemologia do materialismo histórico", "Prefácio de 1859",
