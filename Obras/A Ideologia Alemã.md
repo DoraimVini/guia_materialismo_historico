@@ -13,14 +13,14 @@ criado: 2026-11-12
 
 Autores: [[Karl Marx]] e [[Friedrich Engels]]
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Trechos incompletos não foram usados. Antes de citar em trabalho, conferir no link e preencher a página da edição usada. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, em trechos curtos, sem cotejo com um arquivo baixado. Trechos incompletos não foram usados. As páginas da edição impressa não estão indicadas. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Referência
 Karl Marx e Friedrich Engels, *A Ideologia Alemã* (Bruxelas, nov. 1845 a ago. 1846). Título completo, segundo a nota de fim de tomo: *Crítica da Novíssima Filosofia Alemã na Pessoa dos seus Representantes Feuerbach, B. Bauer e Stirner e do Socialismo Alemão na Pessoa dos seus Diversos Profetas*. Versão online: [índice](https://www.marxists.org/portugues/marx/1845/ideologia-alema-oe/index.htm), [cap. 1](https://www.marxists.org/portugues/marx/1845/ideologia-alema-oe/cap1.htm), [cap. 2](https://www.marxists.org/portugues/marx/1845/ideologia-alema-oe/cap2.htm); tradução de Álvaro Pina, do alemão, *Obras Escolhidas* em três tomos, Editorial «Avante!» (português de Portugal). O que está no site é o **capítulo primeiro**, "Feuerbach. Oposição das concepções materialista e idealista". Edição de referência:
 
 ## Por que ler
-É onde Marx e Engels, no vocabulário de 1845, **tiram as consequências da crítica a Feuerbach** ([[Teses sobre Feuerbach]]): a história parte de indivíduos reais e de como produzem a vida. O [[Prefácio de 1859]] (§5) diz que os dois "acertaram contas" com a sua consciência filosófica anterior num manuscrito deixado "à crítica roedora dos ratos". A literatura identifica esse manuscrito com *A Ideologia Alemã* *(conferir)*.
+É onde Marx e Engels, no vocabulário de 1845, **tiram as consequências da crítica a Feuerbach** ([[Teses sobre Feuerbach]]): a história parte de indivíduos reais e de como produzem a vida. O [[Prefácio de 1859]] (§5) diz que os dois "acertaram contas" com a sua consciência filosófica anterior num manuscrito deixado "à crítica roedora dos ratos". A literatura identifica esse manuscrito com *A Ideologia Alemã* *(não verificado)*.
 
 ## Estrutura (conforme o índice do site)
 O índice organiza o capítulo em quatro partes e doze seções. A numeração é a do site e pode não coincidir com a de uma edição impressa.
@@ -32,9 +32,9 @@ O índice organiza o capítulo em quatro partes e doze seções. A numeração �
 | III | **A classe dominante e a consciência dominante** |
 | IV | Instrumentos de produção e formas de propriedade; **a divisão do trabalho material e intelectual**; manufatura; a grande indústria; contradição entre forças produtivas e forma de intercâmbio; concorrência e formação das classes; violência na história; antagonismo entre trabalho e capital; abolição da propriedade privada; Estado e direito; formas da consciência social |
 
-Em negrito, as seções lidas em resumo e trechos. As demais seções **não foram lidas**, em especial as seções sobre a crítica de Feuerbach (II.2 e II.9) e toda a Parte IV depois da divisão do trabalho material e intelectual.
+Em negrito, as seções fichadas em resumo e trechos. As demais seções **não foram fichadas**, em especial as seções sobre a crítica de Feuerbach (II.2 e II.9) e toda a Parte IV depois da divisão do trabalho material e intelectual.
 
-## Roteiro (seções lidas)
+## Roteiro
 1. **Premissas.** Os autores partem de "premissas reais": indivíduos vivos, sua atividade e suas condições materiais, constatáveis empiricamente. Os homens se distinguem dos animais ao produzir seus meios de vida, e com isso produzem a sua vida material. O que são depende das condições materiais da produção. A produção pressupõe população e intercâmbio.
 2. **Produção, intercâmbio, divisão do trabalho, propriedade.** O desenvolvimento das forças produtivas e da divisão do trabalho determina a relação entre as nações e a estrutura interna de cada uma. A divisão do trabalho separa o trabalho industrial e comercial do agrícola, depois a cidade do campo, e cria interesses opostos. Cada fase dela corresponde a uma **forma de propriedade**: tribal, antiga (comunal e estatal) e feudal (ou de estados).
 3. **A essência da concepção materialista.** Os fatos são indivíduos que trabalham de certo modo e entram em relações sociais e políticas. As ideias derivam da atividade material e do intercâmbio, e a ideologia aparece invertida, como numa câmara escura. A história é o desenvolvimento prático dos homens, e a filosofia autônoma perde o lugar.
@@ -52,7 +52,7 @@ Em negrito, as seções lidas em resumo e trechos. As demais seções **não for
 5. **Comunismo.** Aparece como movimento real, com premissas materiais, o que prepara [[Comunismo como movimento real]].
 
 > [!question] Interpretação
-> No Prefácio, o motor é a contradição entre forças produtivas e relações de produção. Aqui, o ponto de partida é a atividade de indivíduos reais e a divisão do trabalho. São a mesma tese em vocabulários diferentes, ou há um deslocamento do sujeito (atividade, em 1845; estrutura, em 1859)? Isso toca nas Questões 1 e 2 de [[Questões em aberto]] e na leitura de Althusser sobre a "ruptura" em torno de 1845. Ver [[Ruptura epistemológica]]. *(Althusser: conferir)*
+> No Prefácio, o motor é a contradição entre forças produtivas e relações de produção. Aqui, o ponto de partida é a atividade de indivíduos reais e a divisão do trabalho. São a mesma tese em vocabulários diferentes, ou há um deslocamento do sujeito (atividade, em 1845; estrutura, em 1859)? Isso toca nas Questões [[Questões em aberto#1. Reflexo ou práxis?|1]] e [[Questões em aberto#2. Reflexividade|2]] de [[Questões em aberto]] e na leitura de Althusser sobre a "ruptura" em torno de 1845. Ver [[Ruptura epistemológica]]. *(Althusser: não verificado)*
 
 ## Citações (com página)
 > "As premissas com que começamos não são arbitrárias, não são dogmas, são premissas reais"
@@ -101,20 +101,20 @@ Em negrito, as seções lidas em resumo e trechos. As demais seções **não for
 > — A divisão do trabalho material e intelectual; página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1845/ideologia-alema-oe/cap2.htm)
 
 
-Duas passagens ficam fora da lista de citações: a da câmara escura, que já aparece em [[Crítica da ideologia e historicidade das categorias]] (lida em outra nota), e a do comunismo como "um estado de coisas que deva ser estabelecido, um ideal", que a transcrição trouxe cortada no meio da frase. Leia as duas no link.
+Duas passagens ficam fora da lista de citações: a da câmara escura, que já aparece em [[Crítica da ideologia e historicidade das categorias]] (fichada em outra nota), e a do comunismo como "um estado de coisas que deva ser estabelecido, um ideal", que a transcrição trouxe cortada no meio da frase. Leia as duas no link.
 
 ## Debate crítico
-- **Ideologia e inversão.** [[Georg Lukács]], [[Antonio Gramsci]] e Althusser reabrem o conceito de ideologia a partir daqui. Ver [[Ideologia e ideias dominantes]]. *(conferir)*
-- **Estatuto do texto.** Foi um manuscrito inédito; o "capítulo Feuerbach" que circula é uma reconstrução editorial. A ordem das seções varia entre edições, e o índice do site pode não coincidir com a sua. *(conferir)*
-- **Do indivíduo à estrutura.** O ponto de partida em "indivíduos reais" foi lido de formas opostas (humanismo de um lado, antiumanismo do outro). *(conferir)*
+- **Ideologia e inversão.** [[Georg Lukács]], [[Antonio Gramsci]] e Althusser reabrem o conceito de ideologia a partir daqui. Ver [[Ideologia e ideias dominantes]]. *(não verificado)*
+- **Estatuto do texto.** Foi um manuscrito inédito; o "capítulo Feuerbach" que circula é uma reconstrução editorial. A ordem das seções varia entre edições, e o índice do site pode não coincidir com a sua. *(não verificado)*
+- **Do indivíduo à estrutura.** O ponto de partida em "indivíduos reais" foi lido de formas opostas (humanismo de um lado, antiumanismo do outro). *(não verificado)*
 
 ## Dúvidas e objeções
-- Como se concilia "a vida determina a consciência" com "não é a crítica, mas sim a revolução" e com a Tese III de [[Teses sobre Feuerbach]] ("os homens fazem as circunstâncias")? Ver a Questão 30 em [[Questões em aberto]].
+- Como se concilia "a vida determina a consciência" com "não é a crítica, mas sim a revolução" e com a Tese III de [[Teses sobre Feuerbach]] ("os homens fazem as circunstâncias")? Ver a Questão [[Questões em aberto#30. Se a vida determina a consciência, de onde vem a crítica?|30]] em [[Questões em aberto]].
 - Qual a relação entre as formas de propriedade (tribal, antiga, feudal) e os modos de produção do [[Prefácio de 1859]] (asiático, antigo, feudal, burguês)?
 
 ## Para a conferência com a edição em papel
 - [ ] Anotar a página de cada citação e a numeração das seções.
-- [ ] Ler as seções ainda não lidas (crítica a Feuerbach, Stirner, B. Bauer, Parte IV a partir da manufatura).
+- [ ] Ler as seções não fichadas (crítica a Feuerbach, Stirner, B. Bauer, Parte IV a partir da manufatura).
 - [ ] Conferir a "câmara escura" e o trecho do ideal.
 - [ ] Verificar o que a edição em papel diz sobre a história do manuscrito.
 

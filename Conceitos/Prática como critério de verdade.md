@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Prática como critério de verdade
 
-> [!info] Como ler as marcas
-> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto não foi conferido na fonte e termina com *(conferir)*. Falta conferir tudo com uma edição em papel.
+> [!info] Fonte e marcas
+> Citações conferidas na versão online destes textos: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto leva a marca *(não verificado)*. Não há cotejo com edição em papel.
 
 ## Em uma frase
 A verdade objetiva do pensamento não é questão puramente teórica, e se prova na práxis.
@@ -23,15 +23,15 @@ A verdade objetiva do pensamento não é questão puramente teórica, e se prova
 ## Três leituras
 1. **Pragmática.** A verdade é o que funciona. Risco: confundir verdade com sucesso. Lênin recusa essa leitura explicitamente (contra Mach).
 2. **Realista.** A prática testa se o pensamento corresponde à realidade: o pudim de Engels e a seção 8 de Lênin. A prática é critério, não definição de verdade.
-3. **Histórico-social.** A verdade é inseparável da práxis de uma classe e de uma época ([[Georg Lukács]], [[Antonio Gramsci]]). *(conferir)*
+3. **Histórico-social.** A verdade é inseparável da práxis de uma classe e de uma época ([[Georg Lukács]], [[Antonio Gramsci]]). *(não verificado)*
 
 ## Problemas
 - **A prática é carregada de teoria.** O que conta como sucesso ou fracasso depende de uma interpretação prévia, e isso ameaça a circularidade.
 - **O tempo da prova.** A prática relevante é coletiva e histórica. Uma revolução derrotada refuta a teoria ou só a conjuntura? Lênin responde parcialmente: a prova nunca é absoluta.
-- **Risco histórico.** O critério da prática foi invocado para justificar doutrinas oficiais que serviam à política do momento, como no caso Lyssenko. O manual soviético de 1954 apresenta Mitchúrin e Lissenko como vitória sobre o "weismannismo-morganismo", classificado como metafísica reacionária (ver [[Materialismo Dialético - Academia de Ciências da URSS]]). A história posterior do episódio segue *(conferir)* fora do cofre.
+- **Risco histórico.** O critério da prática foi invocado para justificar doutrinas oficiais que serviam à política do momento, como no caso Lyssenko. O manual soviético de 1954 apresenta Mitchúrin e Lissenko como vitória sobre o "weismannismo-morganismo", classificado como metafísica reacionária (ver [[Materialismo Dialético - Academia de Ciências da URSS]]). A história posterior do episódio segue *(não verificado)* fora do cofre.
 
 ## Questão ligada
-Questão 1 de [[Questões em aberto]]: a prática distingue verdade de eficácia? A distinção de Lênin (critério, não definição) é uma resposta a testar.
+Questão [[Questões em aberto#1. Reflexo ou práxis?|1]] de [[Questões em aberto]]: a prática distingue verdade de eficácia? A distinção de Lênin (critério, não definição) é uma resposta a testar.
 
 ## Autores
 - [[Karl Marx]]
@@ -42,7 +42,7 @@ Questão 1 de [[Questões em aberto]]: a prática distingue verdade de eficácia
 - [[Filosofia da práxis]]
 - [[Teoria do reflexo]]
 
-## A prática no manual soviético (verificada)
-O manual da Academia de Ciências da URSS diz: "A justeza das conclusões intelectuais deve ser confirmada pela prática, que é o seu critério da verdade." (cap. 8). O mesmo manual faz a filosofia servir à "linha geral do Partido" (Compêndio, introdução). Aqui se vê o risco da leitura pragmática: se a prática é a do Partido, o critério pode virar ratificação da linha. Ver [[Materialismo dialético soviético]] e a Questão 12.
+## A prática no manual soviético
+O manual da Academia de Ciências da URSS diz: "A justeza das conclusões intelectuais deve ser confirmada pela prática, que é o seu critério da verdade." (cap. 8). O mesmo manual faz a filosofia servir à "linha geral do Partido" (Compêndio, introdução). Aqui se vê o risco da leitura pragmática: se a prática é a do Partido, o critério pode virar ratificação da linha. Ver [[Materialismo dialético soviético]] e a Questão [[Questões em aberto#12. O que o "diamat" simplificou?|12]].
 
 ## Minhas anotações

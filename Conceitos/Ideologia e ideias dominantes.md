@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Ideologia e ideias dominantes
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Trechos incompletos não foram usados. Antes de citar em trabalho, conferir no link e preencher a página da edição usada. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, em trechos curtos, sem cotejo com um arquivo baixado. Trechos incompletos não foram usados. As páginas da edição impressa não estão indicadas. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Para Marx e Engels (1845-46), a ideologia é uma inversão que nasce da vida real, e as ideias dominantes de uma época são as da classe que domina materialmente.
@@ -18,7 +18,7 @@ Para Marx e Engels (1845-46), a ideologia é uma inversão que nasce da vida rea
 Fichamento: [[A Ideologia Alemã]] (Feuerbach, seção da essência da concepção materialista e seção III.1 do índice do site).
 - Direção: "Não é a consciência que determina a vida, é a vida que determina a consciência."
 - Classe: "As ideias da classe dominante são, em todas as épocas, as ideias dominantes", e "a classe que é o poder material dominante da sociedade é, ao mesmo tempo, o seu poder espiritual dominante."
-- Divisão do trabalho: a separação entre trabalho material e intelectual faz aparecerem os pensadores da classe, e uma classe revolucionária é pressuposto das ideias revolucionárias (resumo; não foi lido o texto todo).
+- Divisão do trabalho: a separação entre trabalho material e intelectual faz aparecerem os pensadores da classe, e uma classe revolucionária é pressuposto das ideias revolucionárias (resumo; não foi fichado o texto todo).
 - Inversão: a "câmara escura" (ver a nota do fichamento sobre o trecho cortado).
 
 ## Como se encaixa
@@ -28,7 +28,7 @@ Fichamento: [[A Ideologia Alemã]] (Feuerbach, seção da essência da concepç�
 - Lênin e Lukács trabalham o mesmo problema pelo lado da classe dominada: [[Consciência de fora e espontaneidade]], [[Totalidade e consciência atribuída]]. *(interpretação)*
 
 ## Pergunta aberta
-Se as ideias dominantes são as da classe dominante, de onde vem a crítica? O texto responde com a prática revolucionária ("não é a crítica, mas sim a revolução"). Os debates de Lênin e Lukács partem dessa dificuldade. Ver a Questão 30 em [[Questões em aberto]].
+Se as ideias dominantes são as da classe dominante, de onde vem a crítica? O texto responde com a prática revolucionária ("não é a crítica, mas sim a revolução"). Os debates de Lênin e Lukács partem dessa dificuldade. Ver a Questão [[Questões em aberto#30. Se a vida determina a consciência, de onde vem a crítica?|30]] em [[Questões em aberto]].
 
 ## Autores
 - [[Karl Marx]]

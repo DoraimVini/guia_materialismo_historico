@@ -13,8 +13,8 @@ criado: 2026-11-12
 
 Autor: [[Eric Hobsbawm]] · Parte I, [[Era da Catástrofe]] · livro: [[A Era dos Extremos]]
 
-> [!info] Como ler as marcas
-> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` (PDF pp. 31-70). As citações foram **localizadas por script** no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**, por isso a citação traz a página do PDF e o capítulo; na edição em papel, usar a seção (I a IV) para achar o trecho. Os resumos são paráfrases; as interpretações que não são de Hobsbawm vêm marcadas *(interpretação)*.
+> [!info] Fonte e marcas
+> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` (PDF pp. 31-70). As citações foram conferidas no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**, por isso a citação traz a página do PDF e o capítulo; na edição em papel, usar a seção (I a IV) para achar o trecho. Os resumos são paráfrases; as interpretações que não são de Hobsbawm vêm marcadas *(interpretação)*.
 
 ## Referência
 Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 1, "A era da guerra total". Quatro seções: I (PDF pp. 33-48), II (pp. 49-59), III (pp. 59-65), IV (pp. 65-70). Edição de referência:

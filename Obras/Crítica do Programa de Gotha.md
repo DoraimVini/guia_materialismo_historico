@@ -14,14 +14,14 @@ criado: 2026-11-14
 
 Autor: [[Karl Marx]] · trilha: Hegel, Marx e Lênin, etapa 3 · ler junto: [[A Guerra Civil em França]], [[O Estado e a Revolução]] · conceito: [[Teoria marxista do Estado]]
 
-> [!info] Como ler as marcas
-> Esta nota vem da versão em português do marxists.org ([link](https://www.marxists.org/portugues/marx/1875/gotha/gotha.htm)), Edições Avante! (*Obras Escolhidas em três tomos*), tradução de José Barata-Moura, do alemão. Foram lidas a parte I (sobre o "provento do trabalho", as duas fases da sociedade comunista e o "direito igual") e a parte IV (sobre o Estado e a ditadura do proletariado); as partes II e III foram vistas por alto. As citações foram procuradas por script no texto da página e seguem a grafia portuguesa da edição. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
+> [!info] Fonte e marcas
+> Esta nota vem da versão em português do marxists.org ([link](https://www.marxists.org/portugues/marx/1875/gotha/gotha.htm)), Edições Avante! (*Obras Escolhidas em três tomos*), tradução de José Barata-Moura, do alemão. Foram fichadas a parte I (sobre o "provento do trabalho", as duas fases da sociedade comunista e o "direito igual") e a parte IV (sobre o Estado e a ditadura do proletariado); as partes II e III foram vistas por alto. As citações foram conferidas no texto da página e seguem a grafia portuguesa da edição. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
 
 ## Em uma frase
 Nas notas à margem do programa de unificação dos socialistas alemães (1875), Marx distingue duas fases da sociedade comunista (uma primeira, que ainda traz as marcas da sociedade capitalista e paga cada um segundo o seu trabalho, e uma superior, que inscreve na bandeira "de cada um segundo as suas capacidades, a cada um segundo as suas necessidades") e diz que, entre o capitalismo e o comunismo, o Estado da transição "não pode ser senão a ditadura revolucionária do proletariado".
 
 ## Referência
-Karl Marx, *Randglossen zum Programm der deutschen Arbeiterpartei* (glosas marginais ao programa do Partido Operário Alemão), escritas em abril-maio de 1875 e enviadas a Wilhelm Bracke para circular entre os dirigentes. Publicadas só em 1891 por Engels, na *Neue Zeit*. *(conferir)* Edição de referência: Edições Avante!, trad. José Barata-Moura.
+Karl Marx, *Randglossen zum Programm der deutschen Arbeiterpartei* (glosas marginais ao programa do Partido Operário Alemão), escritas em abril-maio de 1875 e enviadas a Wilhelm Bracke para circular entre os dirigentes. Publicadas só em 1891 por Engels, na *Neue Zeit*. *(não verificado)* Edição de referência: Edições Avante!, trad. José Barata-Moura.
 
 ## Por que ler
 É o único texto em que Marx fala com algum detalhe da sociedade pós-capitalista, e o faz para criticar fórmulas vagas ("produto integral do trabalho", "repartição justa", "Estado livre"). Lênin constrói sobre ele o cap. 5 de [[O Estado e a Revolução]], e a distinção entre "socialismo" e "comunismo" usada no século XX vem daqui.

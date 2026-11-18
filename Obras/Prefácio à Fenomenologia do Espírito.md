@@ -14,8 +14,8 @@ criado: 2026-11-12
 
 Autor: [[G. W. F. Hegel]] · obra: *Fenomenologia do Espírito* (1807), Prefácio · nota-ponte: [[Hegel, a Fenomenologia e o materialismo histórico]] · roteiro: etapa 1 do [[Guia de fontes - epistemologia do materialismo histórico]] · ler junto: [[Manuscritos de 1844 - Crítica da dialética hegeliana]]
 
-> [!info] Como ler as marcas
-> Esta nota vem **da leitura do Prefácio inteiro** na versão online do marxists.org ([link](https://www.marxists.org/portugues/hegel/1807/mes/fenomenologia.htm)). A página não indica o tradutor; a terminologia ("suprassumir" para *aufheben*, "ser-aí" para *Dasein*, "carente-de-conceito") é a da tradução de Paulo Meneses (Vozes). *(conferir na edição da Vozes antes de citar em trabalho)* As citações foram procuradas por script no texto da página. A página não numera os parágrafos; esta nota divide o texto em onze partes, na ordem do Prefácio. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
+> [!info] Fonte e marcas
+> Esta nota vem **da leitura do Prefácio inteiro** na versão online do marxists.org ([link](https://www.marxists.org/portugues/hegel/1807/mes/fenomenologia.htm)). A página não indica o tradutor; a terminologia ("suprassumir" para *aufheben*, "ser-aí" para *Dasein*, "carente-de-conceito") é a da tradução de Paulo Meneses (Vozes). *(não verificado na edição da Vozes)* As citações foram conferidas no texto da página. A página não numera os parágrafos; esta nota divide o texto em onze partes, na ordem do Prefácio. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
 
 ## Em uma frase
 O Prefácio diz que **a verdade é um processo**: o verdadeiro é o todo, o todo só existe como resultado do seu desenvolvimento, e por isso a filosofia não pode ser nem intuição imediata do absoluto, nem aplicação de um esquema, nem coleção de proposições prontas; ela é o "esforço tenso do conceito" que acompanha o movimento da própria coisa.
@@ -27,7 +27,7 @@ G. W. F. Hegel, *Fenomenologia do Espírito* (Bamberg e Würzburg, 1807), Prefá
 É o texto mais citado de Hegel pelos marxistas e o mais curto para entrar no seu pensamento. Contém, em poucas páginas, as fórmulas que Marx, Engels, Lênin, Lukács e Gramsci retomam ("o verdadeiro é o todo", "substância como sujeito", "trabalho do negativo"). E mostra uma coisa que os resumos esquecem: Hegel já falava da consciência que anda "de cabeça para baixo", e já dizia que o método não se separa do conteúdo.
 
 ## O que é bom saber antes *(contexto)*
-- **Contra quem Hegel escreve.** Contra o romantismo e a "filosofia do sentimento" (o absoluto sentido e intuído, não pensado) e contra o formalismo da filosofia da natureza de Schelling, seu antigo amigo, que aplicava o mesmo esquema a tudo. A frase sobre a noite em que "todos os gatos são pardos" foi lida como ataque a Schelling e rompeu a amizade. *(conferir)*
+- **Contra quem Hegel escreve.** Contra o romantismo e a "filosofia do sentimento" (o absoluto sentido e intuído, não pensado) e contra o formalismo da filosofia da natureza de Schelling, seu antigo amigo, que aplicava o mesmo esquema a tudo. A frase sobre a noite em que "todos os gatos são pardos" foi lida como ataque a Schelling e rompeu a amizade. *(não verificado)*
 - **1807.** O livro saiu logo depois da vitória de Napoleão em Iena (1806). O Prefácio fala de "um tempo de nascimento e trânsito para uma nova época".
 - **O Prefácio e a *Lógica*.** O Prefácio apresenta a *Fenomenologia* como introdução: ela termina onde começa a *Lógica*. Isso ajuda a entender por que Marx, mais tarde, buscou o "método" na *Lógica* ([[Hegel, a Fenomenologia e o materialismo histórico]]).
 

@@ -8,14 +8,14 @@ criado: 2026-11-12
 
 # Problema da transformação
 
-> [!info] Como ler as marcas
-> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a edição em papel e preencher as páginas.
+> [!info] Fonte e marcas
+> Fontes, na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. *(não verificado)* marca o que não vem desses textos. As páginas da edição em papel não estão indicadas.
 
 ## Em uma frase
 No livro I, mercadorias trocam por valor. No livro III, por preços de produção (custo + lucro médio). Como passar de uma coisa à outra?
 
-## Contexto (conferir)
-Os fatos abaixo vêm do que se sabe do livro III e dos debates, e não de uma interpretação das fontes. A página do cap. 9 do livro III não estava acessível. *(conferir tudo)*
+## Contexto (não verificado)
+Os fatos abaixo vêm do que se sabe do livro III e dos debates, e não de uma interpretação das fontes. A página do cap. 9 do livro III não estava acessível. *(não verificado)*
 1. Em ramos com composição orgânica diferente, a mais-valia por capital seria diferente, mas a concorrência tende a igualar a taxa de lucro.
 2. Então o preço de produção de uma mercadoria difere do seu valor, e a soma de mais-valia sobra e falta entre ramos.
 3. Marx deu um esquema numérico em que insumos continuavam valorados em valor.
@@ -23,15 +23,15 @@ Os fatos abaixo vêm do que se sabe do livro III e dos debates, e não de uma in
 ## A crítica clássica
 - Böhm-Bawerk (1896) vê contradição entre o livro I e o III.
 - Bortkiewicz (1907) mostra que os insumos também devem ser transformados em preços de produção.
-- Depois: Sraffa, Steedman, a "nova interpretação" (Duménil, Foley) e a interpretação "de um só sistema temporal" (Kliman, Freeman). *(conferir)*
+- Depois: Sraffa, Steedman, a "nova interpretação" (Duménil, Foley) e a interpretação "de um só sistema temporal" (Kliman, Freeman). *(não verificado)*
 
 ## Por que importa para o estudo
-Se a teoria do valor precisa do problema da transformação resolvido para explicar preços, então ela é uma teoria empírica falsificável. Se não precisa (leitura de crítica das formas), o valor é outra coisa: uma categoria do modo de produção. A escolha decide como se lê o resto. Ver [[Debates sobre a teoria do valor]] e a Questão 5 em [[Questões em aberto]].
+Se a teoria do valor precisa do problema da transformação resolvido para explicar preços, então ela é uma teoria empírica falsificável. Se não precisa (leitura de crítica das formas), o valor é outra coisa: uma categoria do modo de produção. A escolha decide como se lê o resto. Ver [[Debates sobre a teoria do valor]] e a Questão [[Questões em aberto#5. A teoria do valor é empírica ou categorial?|5]] em [[Questões em aberto]].
 
 ## Autores
 - [[Karl Marx]]
 - [[Friedrich Engels]] (editor do livro III)
-- [[John Roemer]] e [[Jon Elster]] (marxismo analítico, que abandona a teoria do valor-trabalho) *(conferir)*
+- [[John Roemer]] e [[Jon Elster]] (marxismo analítico, que abandona a teoria do valor-trabalho) *(não verificado)*
 
 ## Ver também
 - [[Queda tendencial da taxa de lucro]]

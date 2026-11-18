@@ -17,7 +17,7 @@ Autores que discutem materialismo histórico e dialético, organizados por corre
 - [[História do século XX]]: Hobsbawm e *A Era dos Extremos*
 - [[Materialismo dialético soviético]]: os manuais da Academia de Ciências da URSS
 - [[Teoria marxista do Estado]], [[Família e reprodução social]], [[Divisões sociais do trabalho]]: Engels, *A Origem da Família*
-- [[Biblioteca]]: livros inteiros enviados
+- [[Biblioteca]]: livros inteiros guardados no cofre
 - Gramsci: [[Hegemonia]], [[Senso comum e bom senso]], [[Intelectuais orgânicos e tradicionais]], [[Bloco histórico]], [[Historicismo absoluto]], [[Objetividade histórica]]
 - Hobsbawm: [[Hobsbawm lê Marx]], [[Morte do campesinato]], [[Socialismo real]], [[Era de Ouro]], [[Fascismo]], [[Genealogia - fascismo, Estado e hegemonia]]
 - Marx e Engels (1845-1865): [[Ideologia e ideias dominantes]], [[Comunismo como movimento real]], [[Luta salarial e sindicatos]]
@@ -39,7 +39,7 @@ Autores que discutem materialismo histórico e dialético, organizados por corre
 
 ## Estudo
 - [[Questões em aberto]]
-- [[Conferências pendentes]]: o que falta conferir com a edição em papel e o que falta ler
+- [[Conferências pendentes]]: pendências de cotejo com a edição em papel e textos ainda não fichados
 - [[Inbox]]
 - Fichamentos: [[A Ideologia Alemã]], [[Princípios Básicos do Comunismo]], [[Trabalho Assalariado e Capital]], [[Que Fazer (Lênin)]], [[Imperialismo, fase superior do capitalismo (Lênin)]], [[Lênin - textos curtos (1901-1905)]], [[Tática e Ética (Lukács)]], [[Consciência de Classe (Lukács, 1920)]], [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]], [[Lei do desenvolvimento desigual e combinado (Lora)]], [[Descartes, materialismo e dualismo (Teixeira)]], [[Reforma ou Revolução]], [[Greve de massas, partido e sindicatos]], [[A Revolução Russa (1918)]], [[A Acumulação do Capital]], [[Imperialismo (1914)]], [[Do socialismo utópico ao socialismo científico]], [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Cadernos do Cárcere]], [[História e Consciência de Classe]], [[Ler O Capital]], [[A Miséria da Teoria]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]], [[O Capital - Livro I]], [[Salário, Preço e Lucro]], [[A Era dos Extremos]], [[Manifesto para a renovação da história]], [[Depoimento (1989)]], [[Obituário de E. P. Thompson]], [[A Origem da Família, da Propriedade Privada e do Estado]], [[Materialismo Dialético - Academia de Ciências da URSS]], [[Compêndio de História da Filosofia]]
 - Modelos de nota ficam em `Modelos/` (fichamento, conceito, autor)

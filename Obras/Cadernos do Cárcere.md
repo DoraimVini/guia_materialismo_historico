@@ -13,14 +13,14 @@ criado: 2026-11-12
 
 Autor: [[Antonio Gramsci]]
 
-> [!info] Como ler as marcas
-> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não foi lido ou conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, fichados por trechos. As citações foram conferidas no texto do PDF, na página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Referência
 Antonio Gramsci, *Cadernos do cárcere*, edição e tradução de Carlos Nelson Coutinho, co-edição de Luiz Sérgio Henriques e Marco Aurélio Nogueira. Rio de Janeiro: Civilização Brasileira.
 - **Vol. 1:** *Introdução ao estudo da filosofia. A filosofia de Benedetto Croce*, 1999, introdução de Coutinho. PDF de 536 páginas (ISBN 85-200-0511-X). Arquivo: `Livros/Gramsci - Cadernos do Cárcere vol 1.pdf`.
 - **Vol. 2:** *Os intelectuais. O princípio educativo. Jornalismo*, 2ª edição, 2001. PDF de 313 páginas (ISBN 85-200-0512-8). Arquivo: `Livros/Gramsci - Cadernos do Cárcere vol 2.pdf`.
-- Os volumes 3 a 6 (Maquiavel e o Estado; temas de cultura e americanismo; Risorgimento e classes subalternas; literatura e folclore) **não foram enviados**.
+- Os volumes 3 a 6 (Maquiavel e o Estado; temas de cultura e americanismo; Risorgimento e classes subalternas; literatura e folclore) **não estão no cofre**.
 
 ## Por que ler
 É a fonte direta da [[Filosofia da práxis]], da [[Hegemonia]] e da crítica ao manual de [[Bukharin]]. Os trechos abaixo respondem a pontos que o cofre tinha sem fonte conferida: o que Gramsci entende por "objetivo" ([[Objetividade histórica]]), o que ele chama de "historicismo absoluto" ([[Historicismo absoluto]]) e quem são os intelectuais ([[Intelectuais orgânicos e tradicionais]]).
@@ -30,7 +30,7 @@ Antonio Gramsci, *Cadernos do cárcere*, edição e tradução de Carlos Nelson 
 
 **Vol. 2.** I. *Os intelectuais. O princípio educativo*: Caderno 12 (p. 6) e trechos dos cadernos miscelâneos (p. 50). II. *Jornalismo*: Caderno 24 (p. 203) e trechos dos cadernos miscelâneos (p. 223). Há ainda blocos posteriores no Sumário que não percorri.
 
-## Roteiro (trechos lidos)
+## Roteiro
 | Trecho | Páginas (PDF) | Assunto |
 | --- | --- | --- |
 | Projetos de Gramsci | vol. 1, pp. 82-86 | cartas de 1927 e 1929, plano do Caderno 1, agrupamentos de matéria |
@@ -48,7 +48,7 @@ Antonio Gramsci, *Cadernos do cárcere*, edição e tradução de Carlos Nelson 
 | Trecho do bloco Jornalismo | vol. 2, pp. 277-278 | "pessimismo da inteligência, otimismo da vontade" |
 | Introdução de Coutinho | vol. 1, pp. 5-6, 27, 40, 48 | só alguns pontos |
 
-**Não lido:** o resto do Caderno 11 (inclusive as pp. 114-123 e 153-168, 189-207, 216-257), a Parte II do Caderno 10 (a análise da filosofia de Croce), o resto do Caderno 12, o Caderno 24, e quase toda a Introdução de Coutinho.
+**Não fichado:** o resto do Caderno 11 (inclusive as pp. 114-123 e 153-168, 189-207, 216-257), a Parte II do Caderno 10 (a análise da filosofia de Croce), o resto do Caderno 12, o Caderno 24, e quase toda a Introdução de Coutinho.
 
 ## Análise do argumento
 1. **Todos são filósofos, mas a filosofia espontânea é desagregada.** Está na linguagem, no senso comum e no folclore. A tarefa é torná-la crítica e coerente, e isso é uma tarefa política (pp. 98-104).
@@ -61,7 +61,7 @@ Antonio Gramsci, *Cadernos do cárcere*, edição e tradução de Carlos Nelson 
 8. **Os intelectuais são os "prepostos" do grupo dominante** na hegemonia e no governo, e o partido faz essa função para um grupo que ainda quer dirigir (vol. 2, pp. 6-16).
 
 > [!question] Interpretação
-> A Advertência do Caderno 11 pede que tudo seja "revisto e verificado" (p. 87). Isso importa para citar: são notas de trabalho, às vezes com erro de memória. A nota do editor da p. 177 corrige uma afirmação de Gramsci sobre o livro de Bukharin, então vale conferir os fatos que ele afirma sobre o Ensaio popular antes de citá-los.
+> A Advertência do Caderno 11 pede que tudo seja "revisto e verificado" (p. 87). Isso importa para citar: são notas de trabalho, às vezes com erro de memória. A nota do editor da p. 177 corrige uma afirmação de Gramsci sobre o livro de Bukharin, então os fatos que ele afirma sobre o *Ensaio popular* pedem cotejo antes de serem citados.
 
 ## Citações (com página)
 ### Filosofia, senso comum, hegemonia (Caderno 11, vol. 1)
@@ -184,17 +184,17 @@ Antonio Gramsci, *Cadernos do cárcere*, edição e tradução de Carlos Nelson 
 > — vol. 2, p. 277 · bloco Jornalismo, cadernos miscelâneos · [[Gramsci - Cadernos do Cárcere vol 2.pdf#page=277|abrir]]
 
 ## Debate crítico
-- **Contra o "materialismo metafísico".** Gramsci diz que falar de uma realidade que existiria sem o homem é "metáfora" ou "misticismo" (vol. 1, p. 147). A fórmula de Lênin em [[Materialismo e Empiriocriticismo]] (matéria como realidade objetiva copiada pela sensação) e o [[Materialismo dialético soviético]] ficam do outro lado desse debate. Gramsci critica o *Ensaio popular* de Bukharin; os manuais da Academia de Ciências da URSS são posteriores à sua morte. Ver Questões 14 e 16.
+- **Contra o "materialismo metafísico".** Gramsci diz que falar de uma realidade que existiria sem o homem é "metáfora" ou "misticismo" (vol. 1, p. 147). A fórmula de Lênin em [[Materialismo e Empiriocriticismo]] (matéria como realidade objetiva copiada pela sensação) e o [[Materialismo dialético soviético]] ficam do outro lado desse debate. Gramsci critica o *Ensaio popular* de Bukharin; os manuais da Academia de Ciências da URSS são posteriores à sua morte. Ver Questões [[Questões em aberto#14. "Humanamente objetivo" ainda é objetivo?|14]] e [[Questões em aberto#16. A crítica de Gramsci a Bukharin alcança o "diamat"?|16]].
 - **Ele mesmo reconhece uma "realidade objetiva".** Na p. 151, o exemplo de Leste e Oeste: são construções históricas, mas "reais", pois "permitem prever o futuro". Isso restringe uma leitura puramente relativista. Ver [[Objetividade histórica]].
 - **Engels.** Gramsci diz haver "motivos" em Engels que levam aos desvios de Bukharin (p. 187). Segundo a nota do editor, esse trecho foi suprimido na "edição temática" italiana. A nota da p. 27 diz que as omissões dessa edição não parecem ter motivo ideológico, com a exceção de um trecho em que Gramsci critica o *Anti-Dühring* (e de uma nota autobiográfica).
 - **Lukács.** Gramsci reage ao que ouviu de Lukács sobre a dialética só valer para a história, e não para a natureza. Diz que o dualismo seria um erro, mas "pode estar errado e pode ter razão". A nota do editor diz que Gramsci provavelmente não conheceu *História e Consciência de Classe* diretamente (p. 187). Ver [[História e Consciência de Classe]].
 - **Erro de Gramsci.** Na p. 177 ele afirma que o Ensaio popular não cita o Prefácio de Marx de 1859. A nota do editor diz que o livro de Bukharin o reproduz por inteiro. Ver [[Prefácio de 1859]].
-- **Leituras posteriores** (Althusser, Thompson, Anderson): *(conferir)*, não lidas.
+- **Leituras posteriores** (Althusser, Thompson, Anderson): *(não verificado)*, não fichadas.
 
 ## Dúvidas e objeções
 - Se "objetivo" é "universal subjetivo" (p. 147), como distinguir objetividade de consenso histórico?
-- A "unidade de teoria e prática" depende dos intelectuais e do partido (pp. 111-112). O que acontece com a crítica quando o partido é o próprio dirigente do Estado? Ver Questão 15.
-- Que parte do que o cofre chama de "Estado ampliado" está no vol. 3 (não enviado)?
+- A "unidade de teoria e prática" depende dos intelectuais e do partido (pp. 111-112). O que acontece com a crítica quando o partido é o próprio dirigente do Estado? Ver Questão [[Questões em aberto#15. Quem faz a unidade de teoria e prática?|15]].
+- Que parte do que o cofre chama de "Estado ampliado" está no vol. 3, que não está no cofre?
 
 ## Para a conferência
 - [ ] Ler Caderno 11, §§ 13-16 e o resto do § 12 (pp. 114-141).

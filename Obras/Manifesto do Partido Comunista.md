@@ -13,14 +13,14 @@ criado: 2026-11-13
 
 Autores: [[Karl Marx]] e [[Friedrich Engels]] · antecedente: [[Princípios Básicos do Comunismo]] · ler junto: [[A Ideologia Alemã]], [[Trabalho Assalariado e Capital]]
 
-> [!info] Como ler as marcas
-> Esta nota vem da **leitura do texto inteiro** no PDF `Marx e Engels - Manifesto do Partido Comunista.pdf` (pasta `Livros/`), edição Penguin-Companhia, com os sete prefácios, as notas de Engels e o posfácio de Marshall Berman. As citações foram **localizadas por script** no texto do PDF; a página é a do PDF (82 páginas), e o link `abrir` leva a ela. O PDF não traz a paginação do livro impresso. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*; o que não foi conferido na fonte, *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem da **leitura do texto inteiro** no PDF `Marx e Engels - Manifesto do Partido Comunista.pdf` (pasta `Livros/`), edição Penguin-Companhia, com os sete prefácios, as notas de Engels e o posfácio de Marshall Berman. As citações foram conferidas no texto do PDF; a página é a do PDF (82 páginas), e o link `abrir` leva a ela. O PDF não traz a paginação do livro impresso. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*; o que não foi conferido na fonte, *(não verificado)*.
 
 ## Em uma frase
 A história escrita é a história das lutas de classes; a burguesia revolucionou a produção e o mundo inteiro, mas criou forças que suas relações de propriedade já não comportam e a classe que vai superá-la, o proletariado; os comunistas não formam um partido à parte, mas representam o interesse do conjunto do movimento, cujo fim é uma associação em que "o livre desenvolvimento de cada um é a condição para o livre desenvolvimento de todos".
 
 ## Referência
-Karl Marx e Friedrich Engels, *Manifesto do Partido Comunista* (Londres, fevereiro de 1848). Tradução de Sergio Tellaroli, a partir da edição alemã de 1890 (*Werke*, Dietz), com posfácio de Marshall Berman ("Rasgando os véus: o Manifesto Comunista"); as notas biográficas do PDF citam também Ricardo Musse. Edição de referência: Penguin Classics / Companhia das Letras. *(conferir o ano da edição no livro)* Estrutura no PDF: prefácios (pp. 6-27), texto (pp. 28-61), notas de Engels (p. 62), variações entre edições (pp. 64-65), posfácio de Berman (pp. 66-80).
+Karl Marx e Friedrich Engels, *Manifesto do Partido Comunista* (Londres, fevereiro de 1848). Tradução de Sergio Tellaroli, a partir da edição alemã de 1890 (*Werke*, Dietz), com posfácio de Marshall Berman ("Rasgando os véus: o Manifesto Comunista"); as notas biográficas do PDF citam também Ricardo Musse. Edição de referência: Penguin Classics / Companhia das Letras. *(ano da edição não verificado no livro)* Estrutura no PDF: prefácios (pp. 6-27), texto (pp. 28-61), notas de Engels (p. 62), variações entre edições (pp. 64-65), posfácio de Berman (pp. 66-80).
 
 ## Por que ler
 É o texto mais lido de Marx e Engels e a primeira exposição pública da [[Materialismo histórico|concepção materialista da história]]: a tese da luta de classes, a burguesia como classe revolucionária, o Estado como poder de classe, as ideias dominantes como ideias da classe dominante. No cofre, ele liga os textos de 1845-46 ([[A Ideologia Alemã]], [[Teses sobre Feuerbach]]) às obras econômicas ([[Trabalho Assalariado e Capital]], [[O Capital - Livro I]]), e é a fonte de afirmações que Hobsbawm retoma (o capitalismo como força que dissolve "tudo o que é sagrado", ver [[Hobsbawm lê Marx]]).
@@ -29,7 +29,7 @@ Karl Marx e Friedrich Engels, *Manifesto do Partido Comunista* (Londres, feverei
 - **A Liga dos Comunistas** encomendou o texto no congresso de Londres de novembro de 1847. O rascunho anterior de Engels, em perguntas e respostas, é [[Princípios Básicos do Comunismo]].
 - **Fevereiro de 1848.** O Manifesto saiu às vésperas das revoluções de 1848 na França e na Alemanha.
 - **"Socialismo" e "comunismo" em 1847.** Engels explica no prefácio de 1890 que "socialismo" designava então um movimento burguês e "comunismo", um movimento operário (p. 22).
-- **A tradução.** A abertura aparece aqui como "Um fantasma circula pela Europa"; outras traduções brasileiras usam "espectro". A frase que outras edições traduzem por "tudo o que é sólido desmancha no ar", título do livro de Berman, aparece aqui como "Evapora-se toda estratificação, todo o estabelecido" (p. 32). *(conferir o original alemão: "Alles Ständische und Stehende verdampft")*
+- **A tradução.** A abertura aparece aqui como "Um fantasma circula pela Europa"; outras traduções brasileiras usam "espectro". A frase que outras edições traduzem por "tudo o que é sólido desmancha no ar", título do livro de Berman, aparece aqui como "Evapora-se toda estratificação, todo o estabelecido" (p. 32). *(original alemão não verificado: "Alles Ständische und Stehende verdampft")*
 
 ## Estrutura
 | Parte | PDF | Tema |
@@ -85,7 +85,7 @@ Karl Marx e Friedrich Engels, *Manifesto do Partido Comunista* (Londres, feverei
 - **Os utópicos** Saint-Simon, Fourier e Owen (p. 57), cujo valor crítico o texto reconhece. Ver [[Do socialismo utópico ao socialismo científico]].
 
 ## Limites e objeções *(interpretação)*
-1. **"Inevitáveis."** O texto afirma que a vitória do proletariado é inevitável (p. 40), mas o próprio Engels, em 1888 e 1890, trata o Manifesto como documento histórico. A Questão 22 (Rosa era determinista?) e a recusa da profecia em Hobsbawm ([[Epistemologia do método de Hobsbawm]]) pesam aqui.
+1. **"Inevitáveis."** O texto afirma que a vitória do proletariado é inevitável (p. 40), mas o próprio Engels, em 1888 e 1890, trata o Manifesto como documento histórico. A Questão [[Questões em aberto#22. Rosa era determinista ou a história é aberta?|22]] (Rosa era determinista?) e a recusa da profecia em Hobsbawm ([[Epistemologia do método de Hobsbawm]]) pesam aqui.
 2. **A pauperização.** "O trabalhador transforma-se em miserável" (p. 40) e o salário tende ao mínimo de subsistência (pp. 36, 43). [[Salário, Preço e Lucro]] (1865) e [[O Capital - Livro I]] incluem um "elemento histórico e moral" no valor da força de trabalho, o que relativiza a tese.
 3. **Dois campos.** A simplificação em burguesia e proletariado convive, no próprio texto, com camponeses, pequena-burguesia e lumpemproletariado com papéis próprios (pp. 38-39). A análise de classes de [[Fascismo]] em Hobsbawm (as camadas médias) mostra o peso desses grupos no século XX.
 4. **"Os trabalhadores não têm pátria."** No mesmo parágrafo, o proletariado deve "se constituir em uma nação" (p. 46). A frase é menos internacionalista do que costuma ser citada.
@@ -210,7 +210,7 @@ Karl Marx e Friedrich Engels, *Manifesto do Partido Comunista* (Londres, feverei
 - [[Teoria marxista do Estado]], [[Comunismo como movimento real]]
 - [[Consciência de fora e espontaneidade]], [[Luta salarial e sindicatos]]
 - [[Comunismo primitivo e comunidades tradicionais]], [[Desenvolvimento desigual e combinado]]
-- Questões 22 e 28 em [[Questões em aberto]]
+- Questões [[Questões em aberto#22. Rosa era determinista ou a história é aberta?|22]] e [[Questões em aberto#28. A revolução é mundial e simultânea, ou desigual?|28]] em [[Questões em aberto]]
 
 ## Para a conferência com a edição em papel
 - [ ] Anotar a página da edição impressa (o PDF não traz a paginação do livro).

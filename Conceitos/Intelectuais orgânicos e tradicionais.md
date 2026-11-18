@@ -8,13 +8,13 @@ criado: 2026-11-12
 
 # Intelectuais orgânicos e tradicionais
 
-> [!info] Como ler as marcas
-> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não foi lido ou conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, fichados por trechos. As citações foram conferidas no texto do PDF, na página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Cada grupo social fundamental cria "organicamente" seus intelectuais, mas encontra também intelectuais "tradicionais" (como os eclesiásticos), e a função intelectual se define pelo conjunto das relações sociais, e não pela atividade em si.
 
-## Base textual (verificada)
+## Base textual
 **Criação orgânica.** O grupo social que nasce numa função essencial da produção cria camadas de intelectuais que lhe dão homogeneidade e consciência da própria função.
 > "Todo grupo social, nascendo no terreno originário de uma função essencial no mundo da produção econômica, cria para si, ao mesmo tempo, organicamente, uma ou mais camadas de intelectuais que lhe dão homogeneidade e consciência da própria função, não apenas no campo econômico, mas também no social e político"
 > — vol. 2, p. 6 · Caderno 12, § 1 · [[Gramsci - Cadernos do Cárcere vol 2.pdf#page=6|abrir]]
@@ -34,7 +34,7 @@ Cada grupo social fundamental cria "organicamente" seus intelectuais, mas encont
 **Na filosofia (vol. 1, p. 111).** A autoconsciência crítica significa "criação de uma elite de intelectuais", porque não existe organização sem organizadores e dirigentes.
 
 ## Perguntas
-Questão 15 em [[Questões em aberto]].
+Questão [[Questões em aberto#15. Quem faz a unidade de teoria e prática?|15]] em [[Questões em aberto]].
 
 ## Autores
 - [[Antonio Gramsci]]

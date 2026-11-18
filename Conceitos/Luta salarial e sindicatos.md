@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Luta salarial e sindicatos
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Trechos incompletos não foram usados. Antes de citar em trabalho, conferir no link e preencher a página da edição usada. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, em trechos curtos, sem cotejo com um arquivo baixado. Trechos incompletos não foram usados. As páginas da edição impressa não estão indicadas. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Marx (1865) defende a luta por salários como resistência necessária, mas limitada: ela combate efeitos, não causas, e o objetivo deve ser abolir o trabalho assalariado.
@@ -18,7 +18,7 @@ Marx (1865) defende a luta por salários como resistência necessária, mas limi
 Fichamentos: [[Salário, Preço e Lucro]] (caps. 12 a 14) e [[Trabalho Assalariado e Capital]].
 - Cap. 14: o lema conservador seria "Um salário justo por uma jornada de trabalho justa!"; na bandeira deve estar "Abolição do sistema de trabalho assalariado!"
 - Cap. 14: "Os sindicatos trabalham bem como centro de resistência contra as usurpações do capital."
-- Cap. 14: a luta "contra os efeitos, mas não contra as causas desses efeitos" (trecho transcrito da página online, cortado no início; conferir no link).
+- Cap. 14: a luta "contra os efeitos, mas não contra as causas desses efeitos" (trecho transcrito da página online, sem o início da frase).
 - Cap. 14: "A tendência geral da produção capitalista não é para elevar o padrão médio de salários, mas para reduzi-lo."
 - Cap. 12: "Se os salários baixam, subirão os lucros; e se os salários sobem, baixarão os lucros."
 - Cap. 13: "O tempo é o campo do desenvolvimento humano."
@@ -30,7 +30,7 @@ Fichamentos: [[Salário, Preço e Lucro]] (caps. 12 a 14) e [[Trabalho Assalaria
 - **Valor da força de trabalho.** A tese do cap. 14 de que o valor do trabalho tem um piso físico e um componente histórico e social conecta com o "elemento histórico e moral" de [[Força de trabalho]].
 
 ## Pergunta aberta
-Sindicato é escola de luta ou freio? Questão 29 em [[Questões em aberto]].
+Sindicato é escola de luta ou freio? Questão [[Questões em aberto#29. A luta por salário é limite ou escola política?|29]] em [[Questões em aberto]].
 
 ## Autores
 - [[Karl Marx]]

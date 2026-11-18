@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Divisões sociais do trabalho
 
-> [!info] Como ler as marcas
-> Esta nota vem dos **epubs da pasta `Livros/`**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
+> [!info] Fonte e marcas
+> Esta nota vem dos **epubs da pasta `Livros/`** (introdução, prefácios e capítulos-chave). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As citações foram copiadas do texto do epub. Os resumos são paráfrases. *(não verificado)* marca o que não foi confirmado na fonte. Edição e tradutor: ver a seção Referência.
 
 ## Em uma frase
 Engels descreve três grandes divisões sociais do trabalho, que produzem excedente, troca, mercadoria e uma classe de comerciantes.

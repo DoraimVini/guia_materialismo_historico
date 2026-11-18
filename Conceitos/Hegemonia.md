@@ -8,13 +8,13 @@ criado: 2026-11-12
 
 # Hegemonia
 
-> [!info] Como ler as marcas
-> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não foi lido ou conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, fichados por trechos. As citações foram conferidas no texto do PDF, na página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Nos *Cadernos*, hegemonia é a direção intelectual, moral e política que um grupo exerce por consenso, articulada à coerção ("domínio direto") do Estado, e também um problema de filosofia.
 
-## Base textual (verificada)
+## Base textual
 **A hegemonia como luta de direções.** A compreensão crítica de si mesmo se obtém "através de uma luta de 'hegemonias' políticas". Gramsci afirma que o desenvolvimento do conceito é "um grande progresso filosófico" porque pressupõe uma unidade intelectual e ética.
 > "A compreensão crítica de si mesmo é obtida, portanto, através de uma luta de “hegemonias” políticas, de direções contrastantes, primeiro no campo da ética, depois no da política"
 > — vol. 1, p. 110 · Caderno 11, § 12 · [[Gramsci - Cadernos do Cárcere vol 1.pdf#page=110|abrir]]
@@ -33,14 +33,14 @@ Nos *Cadernos*, hegemonia é a direção intelectual, moral e política que um g
 > "a história ético-política é uma hipóstase arbitrária e mecânica do momento da hegemonia, da direção política, do consenso, na vida e no desenvolvimento da atividade do Estado e da sociedade civil"
 > — vol. 1, p. 339 · Caderno 10, I, § 7 · [[Gramsci - Cadernos do Cárcere vol 1.pdf#page=339|abrir]]
 
-**Guerra de posição.** No trecho lido, Gramsci aplica o termo ao período posterior a 1921 (vol. 1, p. 346), com o fascismo como representante. Não é a sede mais conhecida do conceito. *(conferir no vol. 3, não enviado)*
+**Guerra de posição.** No trecho fichado, Gramsci aplica o termo ao período posterior a 1921 (vol. 1, p. 346), com o fascismo como representante. Não é a sede mais conhecida do conceito. *(não verificado; o vol. 3 não está no cofre)*
 
-## O que ainda não foi lido
-- A formulação mais citada da relação entre Estado, sociedade civil e hegemonia aparece no vol. 3 (*Maquiavel. Notas sobre o Estado e a política*). *(conferir)*
+## O que não está fichado
+- A formulação mais citada da relação entre Estado, sociedade civil e hegemonia aparece no vol. 3 (*Maquiavel. Notas sobre o Estado e a política*). *(não verificado)*
 - A relação com [[Teoria marxista do Estado]]: ver aquela nota.
 
 ## Perguntas
-Questão 15 em [[Questões em aberto]].
+Questão [[Questões em aberto#15. Quem faz a unidade de teoria e prática?|15]] em [[Questões em aberto]].
 
 ## Autores
 - [[Antonio Gramsci]]

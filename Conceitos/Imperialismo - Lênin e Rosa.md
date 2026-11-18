@@ -8,9 +8,9 @@ criado: 2026-11-12
 
 # Imperialismo - Lênin e Rosa
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
-> As citações marcadas "citado no folheto de Lora" foram **localizadas por script** no PDF.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, em trechos curtos, sem cotejo com um arquivo baixado. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
+> As citações marcadas "citado no folheto de Lora" foram conferidas no PDF.
 
 ## Em uma frase
 Lênin define o imperialismo como fase monopolista do capitalismo (cinco traços, com exportação de capital e partilha do mundo); Rosa o liga à necessidade de acumulação em meios não capitalistas.
@@ -31,6 +31,6 @@ As linhas de Singer e Loureiro são interpretações em [[Socialismo ou Barbári
 - [[Luxemburgo e Florestan Fernandes]]: dependência como forma interna do capitalismo ou "fora"?
 
 ## Perguntas
-Questão 26.
+Questão [[Questões em aberto#26. O imperialismo é uma fase ou uma condição permanente?|26]].
 
 ## Minhas anotações

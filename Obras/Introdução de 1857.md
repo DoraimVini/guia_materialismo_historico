@@ -13,20 +13,20 @@ criado: 2026-11-12
 
 Autor: [[Karl Marx]]
 
-> [!info] Como ler as marcas
-> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto não foi conferido na fonte e termina com *(conferir)*. Falta conferir tudo com uma edição em papel.
+> [!info] Fonte e marcas
+> Citações conferidas na versão online destes textos: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto leva a marca *(não verificado)*. Não há cotejo com edição em papel.
 
 ## Referência
 Karl Marx, Introdução de 1857 (*Grundrisse*), seção "O método da economia política". Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1859/contcriteconpoli/introducao.htm). A página não indica tradutor, aparece sob o cabeçalho "1859" e traz erros de digitalização. Marx não a publicou: no [[Prefácio de 1859]], §2, diz que suprimiu a introdução geral para não antecipar resultados. Edição de referência:
 
 ## Por que ler
-É o texto de Marx mais direto sobre o método. Sustenta a nota [[Do abstrato ao concreto pensado]], e fornece o material para discutir se o conhecimento é cópia do real ou construção (Questão 1 em [[Questões em aberto]]).
+É o texto de Marx mais direto sobre o método. Sustenta a nota [[Do abstrato ao concreto pensado]], e fornece o material para discutir se o conhecimento é cópia do real ou construção (Questão [[Questões em aberto#1. Reflexo ou práxis?|1]] em [[Questões em aberto]]).
 
 ## Foco da leitura
 A seção sobre o método. Leia primeiro o exemplo da população, depois a passagem sobre Hegel e a frase final sobre o "sujeito real".
 
 > [!note] Paráfrase e citação
-> Os resumos do roteiro e da análise são paráfrases. Só os trechos entre aspas na seção "Citações" foram conferidos literalmente na versão online; detalhes do roteiro (como "palavra oca") não foram conferidos na fonte. *(conferir)*
+> Os resumos do roteiro e da análise são paráfrases. Só os trechos entre aspas na seção "Citações" foram conferidos literalmente na versão online; detalhes do roteiro (como "palavra oca") não foram conferidos na fonte. *(não verificado)*
 
 ## Roteiro do texto
 1. **Ponto de partida aparente.** O correto parece ser começar pelo real e concreto, por exemplo a população.
@@ -77,14 +77,14 @@ A seção sobre o método. Leia primeiro o exemplo da população, depois a pass
 > — seção do método; página: ___
 
 ## Debate crítico
-- **Objeto real e objeto de conhecimento.** [[Louis Althusser]] lê a Introdução de 1857 em *Ler O Capital* para sustentar que o processo de conhecimento se passa inteiramente no conhecimento, e que confundir o objeto real com o objeto de conhecimento é empirismo. *(conferir)*
-- **Pseudoconcreticidade.** [[Karel Kosík]] distingue o mundo das aparências do concreto como totalidade. *(conferir)*
-- **Reprodução ideal.** [[José Paulo Netto]] lê o texto como o fundamento do método como reprodução ideal do movimento real do objeto. Ver [[Método como reprodução ideal do real]]. *(conferir)*
-- **Ilyenkov.** O soviético Evald Ilyenkov dedicou um livro à dialética do abstrato e do concreto (há PDF no marxists.org). *(conferir)*
+- **Objeto real e objeto de conhecimento.** [[Louis Althusser]] lê a Introdução de 1857 em *Ler O Capital* para sustentar que o processo de conhecimento se passa inteiramente no conhecimento, e que confundir o objeto real com o objeto de conhecimento é empirismo. *(não verificado)*
+- **Pseudoconcreticidade.** [[Karel Kosík]] distingue o mundo das aparências do concreto como totalidade. *(não verificado)*
+- **Reprodução ideal.** [[José Paulo Netto]] lê o texto como o fundamento do método como reprodução ideal do movimento real do objeto. Ver [[Método como reprodução ideal do real]]. *(não verificado)*
+- **Ilyenkov.** O soviético Evald Ilyenkov dedicou um livro à dialética do abstrato e do concreto (há PDF no marxists.org). *(não verificado)*
 
 ## Dúvidas e objeções
-- Como conciliar "o concreto pensado é produto do pensamento" com "o sujeito real é autônomo"? (Questão 1)
-- Se o pensamento parte de abstrações, o que garante que são as abstrações certas? (Questão 3)
+- Como conciliar "o concreto pensado é produto do pensamento" com "o sujeito real é autônomo"? (Questão [[Questões em aberto#1. Reflexo ou práxis?|1]])
+- Se o pensamento parte de abstrações, o que garante que são as abstrações certas? (Questão [[Questões em aberto#3. Critério de cientificidade|3]])
 - Há afinidade entre o caminho "do singular para o geral" do [[Prefácio de 1859]], §2, e o movimento deste texto?
 
 ## Para a conferência com a edição em papel

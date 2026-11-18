@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Recepção de Rosa Luxemburgo no Brasil
 
-> [!info] Como ler as marcas
-> Esta nota vem de um **PDF da pasta `Livros/`**, com texto extraível. As citações foram **localizadas por script no texto do PDF**; cada uma traz a página do PDF e um link `abrir`. Como o livro é diagramado em páginas duplas, a página do livro é uma de duas (por isso `pp. a-b`). Comentários de entrevistados são **interpretações deles**, não textos de Rosa. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de um **PDF da pasta `Livros/`**, com texto extraível. As citações foram conferidas no texto do PDF; cada uma traz a página do PDF e um link `abrir`. Como o livro é diagramado em páginas duplas, a página do livro é uma de duas (por isso `pp. a-b`). Comentários de entrevistados são **interpretações deles**, não textos de Rosa. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Rosa chegou ao Brasil por uma linhagem curta (Mário Pedrosa, Paul Singer, Michael Löwy), passou pelo PT das origens e hoje é lida sobretudo no MST.

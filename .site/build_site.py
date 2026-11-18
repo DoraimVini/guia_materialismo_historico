@@ -162,7 +162,7 @@ def convert_wikilinks(title, body):
 
 def render(title, body):
     body = re.sub(r"\n## Minhas anotações\s*$", "\n", body.rstrip() + "\n")
-    body = re.sub(r"\n## Para a confer[^\n]*\n.*?(?=\n## |\Z)", "\n", body, flags=re.S)
+    body = re.sub(r"\n## (?:Para a )?[Cc]onfer[^\n]*\n.*?(?=\n## |\Z)", "\n", body, flags=re.S)
     body, outs = convert_wikilinks(title, body)
     md.reset()
     html = md.convert(body)
@@ -176,7 +176,7 @@ def render(title, body):
         return f'<aside class="callout c-{kind}"><div class="ch">{head}</div>{inner}{more}</aside>'
     html = re.sub(r"<blockquote>\s*<p>\[!(\w+)\]\s*([^\n<]*)\n?(.*?)</p>(.*?)</blockquote>",
                   lambda m: callout(m), html, flags=re.S)
-    html = re.sub(r"<em>(\(conferir[^<]*)</em>", r'<em class="tbc">\1</em>', html)
+    html = re.sub(r"<em>(\([^<]*?(?:não verificad|conferir)[^<]*\))</em>", r'<em class="tbc">\1</em>', html)
     html = re.sub(r"<em>(\((?:interpretação|pergunta)[^<]*)</em>", r'<em class="mine">\1</em>', html)
     html = html.replace("<li>[ ] ", '<li class="todo">').replace("<li>[x] ", '<li class="done">')
     html = html.replace("<table>", '<div class="tw"><table>').replace("</table>", "</table></div>")

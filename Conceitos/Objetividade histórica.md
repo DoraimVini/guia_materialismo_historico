@@ -8,13 +8,13 @@ criado: 2026-11-12
 
 # Objetividade histórica
 
-> [!info] Como ler as marcas
-> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não foi lido ou conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, fichados por trechos. As citações foram conferidas no texto do PDF, na página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Na crítica ao *Ensaio popular* de Bukharin, Gramsci recusa uma objetividade "extra-histórica e extra-humana" e propõe que "objetivo" quer dizer "humanamente objetivo".
 
-## Base textual (verificada)
+## Base textual
 **A crítica.** O Ensaio acolheu a "realidade objetiva do mundo exterior" em sua forma "mais trivial e acrítica" (vol. 1, p. 146).
 > "Pode existir uma objetividade extra-histórica e extra-humana? Mas quem julgará esta objetividade?"
 > — vol. 1, p. 146 · Caderno 11, § 17 · [[Gramsci - Cadernos do Cárcere vol 1.pdf#page=146|abrir]]
@@ -47,7 +47,7 @@ Na crítica ao *Ensaio popular* de Bukharin, Gramsci recusa uma objetividade "ex
 - Sobre uma objetividade sem sujeito, ele sugere tratar-se de "um resíduo do conceito de Deus" (vol. 1, p. 146). Ele acrescenta que a formulação de Engels sobre a unidade do mundo contém "o germe da concepção justa", pois recorre à história e ao homem (p. 146).
 
 ## Perguntas
-Questão 14 em [[Questões em aberto]].
+Questão [[Questões em aberto#14. "Humanamente objetivo" ainda é objetivo?|14]] em [[Questões em aberto]].
 
 ## Autores
 - [[Antonio Gramsci]]

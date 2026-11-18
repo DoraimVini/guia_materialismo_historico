@@ -20,16 +20,16 @@ Autor: [[Louis Althusser]]
 Louis Althusser et al., *Ler O Capital* (1965). Obra coletiva, com Balibar, Establet, Macherey e Rancière. Confira quais ensaios a edição em papel traz. Edição de referência: 
 
 ## Por que ler
-Principal texto para a [[Ruptura epistemológica]] (Questão 3 de [[Questões em aberto]]). Pode ser lido junto com *Por Marx*.
+Principal texto para a [[Ruptura epistemológica]] (Questão [[Questões em aberto#3. Critério de cientificidade|3]] de [[Questões em aberto]]). Pode ser lido junto com *Por Marx*.
 
 ## Foco da leitura
 Os ensaios de Althusser sobre a leitura de Marx e a distinção entre ciência e ideologia.
 
-## Contexto (pré-leitura)
+## Contexto
 Leitura de *O Capital* que critica o humanismo e o historicismo e propõe a "ruptura epistemológica" entre o jovem Marx e a ciência da história.
 
 ## Perguntas-guia
-- Qual critério de cientificidade Althusser propõe, já que não é a prática? (Questão 3)
+- Qual critério de cientificidade Althusser propõe, já que não é a prática? (Questão [[Questões em aberto#3. Critério de cientificidade|3]])
 - Como ele distingue ciência de ideologia?
 - O que Thompson contesta nessa leitura?
 

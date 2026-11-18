@@ -13,14 +13,14 @@ criado: 2026-11-12
 
 Autor: [[Karl Marx]]
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Trechos incompletos não foram usados. Antes de citar em trabalho, conferir no link e preencher a página da edição usada. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, em trechos curtos, sem cotejo com um arquivo baixado. Trechos incompletos não foram usados. As páginas da edição impressa não estão indicadas. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Referência
 Karl Marx, *Trabalho Assalariado e Capital* (*Lohnarbeit und Kapital*), série de artigos na *Neue Rheinische Zeitung*; a página indica 5 de abril de 1849. Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1849/04/05.htm), com **introdução de Engels, Londres, 30 de abril de 1891**, tradução de José Barata-Moura e Álvaro Pina, *Obras Escolhidas* em três tomos, Editorial «Avante!» (português de Portugal). Edição de referência:
 
 > [!warning] O texto é a versão revista por Engels
-> Segundo a introdução de 1891, Engels reformulou a expressão "vende o trabalho" para "vende a força de trabalho", sem mudar o essencial, porque a nova edição se destinava à propaganda entre os operários. As aspas abaixo com "força de trabalho" estão portanto **na versão de 1891**, e não necessariamente no texto de 1849. Isso vem de um resumo da introdução; conferir na introdução.
+> Segundo a introdução de 1891, Engels reformulou a expressão "vende o trabalho" para "vende a força de trabalho", sem mudar o essencial, porque a nova edição se destinava à propaganda entre os operários. As aspas abaixo com "força de trabalho" estão portanto **na versão de 1891**, e não necessariamente no texto de 1849. Isso vem de um resumo da introdução. *(não verificado)*
 
 ## Por que ler
 É a exposição de Marx para operários da relação entre salário, preço e capital, doze anos antes de *O Capital*. Pareia com [[Salário, Preço e Lucro]] (1865): o mesmo problema, em duas fases do pensamento dele. E mostra a **passagem de "trabalho" a "força de trabalho"**, que sustenta a [[Mais-valia]].
@@ -45,7 +45,7 @@ Karl Marx, *Trabalho Assalariado e Capital* (*Lohnarbeit und Kapital*), série d
 4. Conclui pelo antagonismo de interesses: o que sobe para um lado desce para o outro, e o crescimento do capital não melhora a posição relativa do operário. Ver [[Luta salarial e sindicatos]].
 
 > [!question] Interpretação
-> A mudança de 1891 mostra que a fórmula "vende o trabalho" estava, para Engels, errada ou ao menos enganosa. Mas Marx a usava em 1849. Quando a [[Força de trabalho]] vira conceito de pleno direito: em *Salário, Preço e Lucro* (1865), em *O Capital*? O texto oferece um caso para a Questão sobre ruptura e continuidade em Marx. Ver [[Ruptura epistemológica]]. *(pergunta; a cronologia dos manuscritos não foi lida)*
+> A mudança de 1891 mostra que a fórmula "vende o trabalho" estava, para Engels, errada ou ao menos enganosa. Mas Marx a usava em 1849. Quando a [[Força de trabalho]] vira conceito de pleno direito: em *Salário, Preço e Lucro* (1865), em *O Capital*? O texto oferece um caso para a Questão sobre ruptura e continuidade em Marx. Ver [[Ruptura epistemológica]]. *(pergunta; a cronologia dos manuscritos não foi fichada)*
 
 ## Citações (com página)
 > "Nos anos 40, Marx ainda não tinha terminado a sua crítica da Economia Política."
@@ -79,11 +79,11 @@ Karl Marx, *Trabalho Assalariado e Capital* (*Lohnarbeit und Kapital*), série d
 > — Marx, efeitos do crescimento do capital; página: ___ · [marxists.org](https://www.marxists.org/portugues/marx/1849/04/05.htm)
 
 
-Uma frase fica fora da lista de propósito: "O capital não consiste no facto de o trabalho acumulado servir ao trabalho vivo como meio para nova produção." É a negação que abre a definição do capital como relação. A continuação não foi lida; quem for citar deve ler a frase seguinte na página.
+Uma frase fica fora da lista de propósito: "O capital não consiste no facto de o trabalho acumulado servir ao trabalho vivo como meio para nova produção." É a negação que abre a definição do capital como relação. A continuação não foi fichada; quem for citar deve ler a frase seguinte na página.
 
 ## Debate crítico
 - **Trabalho ou força de trabalho.** A mudança de 1891 é sinal de um problema conceitual que só se fecha com a distinção de [[Trabalho concreto e trabalho abstrato]] e com a [[Mais-valia]]. *(pergunta)*
-- **Salário relativo.** A tese de que o salário real pode subir enquanto o relativo cai é um ponto de partida para os debates sobre pauperização. *(conferir)*
+- **Salário relativo.** A tese de que o salário real pode subir enquanto o relativo cai é um ponto de partida para os debates sobre pauperização. *(não verificado)*
 
 ## Dúvidas e objeções
 - O que dizem as seções 2 e 3 anunciadas? A página só traz a primeira.
@@ -92,7 +92,7 @@ Uma frase fica fora da lista de propósito: "O capital não consiste no facto de
 ## Para a conferência com a edição em papel
 - [ ] Anotar a página de cada citação.
 - [ ] Ler a introdução de Engels inteira e as notas N70 a N78.
-- [ ] Ler o texto de Marx inteiro (só resumo e trechos foram lidos).
+- [ ] Ler o texto de Marx inteiro (só resumo e trechos foram fichados).
 - [ ] Comparar com [[Salário, Preço e Lucro]], caps. 7 a 9.
 
 ## Conceitos relacionados

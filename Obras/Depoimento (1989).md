@@ -13,8 +13,8 @@ criado: 2026-11-12
 
 Autor: [[Eric Hobsbawm]]
 
-> [!info] Como ler as marcas
-> **Nota anterior à leitura de *A Era dos Extremos*.** Fontes: a página da edição brasileira (Companhia das Letras), a [página da Wikipédia em inglês](https://en.wikipedia.org/wiki/The_Age_of_Extremes), as resenhas de Cavallaro Filho (2022) e de Pomar (1997/98), e três textos do próprio Hobsbawm no marxists.org: o *Depoimento* (1989), o obituário de E. P. Thompson (1993) e o *Manifesto para a renovação da história* (2004). Os resumos são paráfrases. O que não vem dessas leituras termina com *(conferir)*. Para citar, é preciso uma edição em papel: as páginas ficam como `página: ___`.
+> [!info] Fonte e marcas
+> Fontes: a página da edição brasileira (Companhia das Letras), a [página da Wikipédia em inglês](https://en.wikipedia.org/wiki/The_Age_of_Extremes), as resenhas de Cavallaro Filho (2022) e de Pomar (1997/98), e três textos do próprio Hobsbawm no marxists.org: o *Depoimento* (1989), o obituário de E. P. Thompson (1993) e o *Manifesto para a renovação da história* (2004). Os resumos são paráfrases. *(não verificado)* marca o que não vem desses textos. As páginas da edição em papel ficam em branco (`página: ___`).
 
 ## Referência
 Eric Hobsbawm, *Depoimento* (entrevista), abril de 1989, com introdução de Paulo Sérgio Pinheiro ("Eric Hobsbawm: um espelho do mundo em mutação"). Publicada primeiro no *Estado de S. Paulo* (Caderno 2); a página do marxists.org cita a revista *Estudos Avançados* (doi 10.1590/S0103-40141989000100012). Versão online: [marxists.org](https://www.marxists.org/portugues/hobsbawm/1989/04/40.htm). Tradutor não indicado. Edição de referência:
@@ -38,7 +38,7 @@ Eric Hobsbawm, *Depoimento* (entrevista), abril de 1989, com introdução de Pau
 3. A crise é geral na esquerda, mas a do marxismo é um reflexo, e não uma causa.
 
 > [!question] Interpretação
-> Em 1989, Hobsbawm já distingue a crise do marxismo da crise dos regimes. Em 1994 (*A Era dos Extremos*), o socialismo "acabou sem crentes". O que mudou entre as duas posições? Questão 9.
+> Em 1989, Hobsbawm já distingue a crise do marxismo da crise dos regimes. Em 1994 (*A Era dos Extremos*), o socialismo "acabou sem crentes". O que mudou entre as duas posições? Questão [[Questões em aberto#9. O fim do socialismo real refuta o materialismo histórico?|9]].
 
 ## Dúvidas e objeções
 - A explicação da perestroika por uma classe média culta é uma explicação de classe, ou de elite técnica?

@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Epistemologia do materialismo histórico
 
-> [!info] Como ler as marcas
-> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto não foi conferido na fonte e termina com *(conferir)*. Falta conferir tudo com uma edição em papel.
+> [!info] Fonte e marcas
+> Citações conferidas na versão online destes textos: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto leva a marca *(não verificado)*. Não há cotejo com edição em papel.
 
 ## Em uma frase
 No materialismo histórico, o conhecimento nasce da prática social e só se verifica nela.
@@ -28,9 +28,9 @@ No materialismo histórico, o conhecimento nasce da prática social e só se ver
 | [[Método como reprodução ideal do real]] | [[José Paulo Netto]] | O pensamento reconstrói o movimento do objeto | Fidelidade ao movimento real | Distância em relação ao reflexo simples |
 | Experiência e evidência | [[E. P. Thompson]] | Diálogo entre o ser social e a consciência social | Confronto com a evidência histórica | Peso da experiência diante da estrutura |
 
-As linhas de Althusser, Netto, Thompson e Lukács não foram conferidas na fonte. *(conferir)*
+As linhas de Althusser, Netto, Thompson e Lukács não foram conferidas na fonte. *(não verificado)*
 
-## O núcleo textual (lido)
+## O núcleo textual
 - [[Prefácio de 1859]], §4: o ser social determina a consciência, e há uma transformação material "verificável como nas ciências naturais" distinta das formas ideológicas.
 - [[Introdução de 1857]]: o concreto pensado como síntese de determinações, e o "sujeito real" que conserva sua autonomia fora da mente.
 - [[Posfácio de 1873]]: o ideal como o material transposto; investigação e exposição; a leitura de Kaufman, que Marx endossa.

@@ -8,22 +8,22 @@ criado: 2026-11-12
 
 # Era da Catástrofe
 
-> [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem do **PDF de *Era dos Extremos***; as partes cobertas estão listadas na nota da obra. As citações foram conferidas no texto do PDF. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. *(não verificado)* marca o que não foi confirmado na fonte ou vem de resenha.
 
 ## Em uma frase
 Primeira parte de *A Era dos Extremos* (caps. 1 a 7): das duas guerras mundiais ao fim dos impérios, passando pela revolução, pela Grande Depressão e pela queda do liberalismo.
 
 ## Capítulos (sumário do PDF)
-1. A era da guerra total ([[Hobsbawm - Era dos Extremos.pdf#page=31|p. 31]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 1 - A era da guerra total]]
-2. A revolução mundial ([[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 2 - A revolução mundial]]
-3. Rumo ao abismo econômico ([[Hobsbawm - Era dos Extremos.pdf#page=107|p. 107]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]
-4. A queda do liberalismo ([[Hobsbawm - Era dos Extremos.pdf#page=135|p. 135]]): **lido por inteiro**, ver [[Era dos Extremos, cap. 4 - A queda do liberalismo]] e a síntese [[Fascismo]]
+1. A era da guerra total ([[Hobsbawm - Era dos Extremos.pdf#page=31|p. 31]]): **fichado por inteiro**, ver [[Era dos Extremos, cap. 1 - A era da guerra total]]
+2. A revolução mundial ([[Hobsbawm - Era dos Extremos.pdf#page=71|p. 71]]): **fichado por inteiro**, ver [[Era dos Extremos, cap. 2 - A revolução mundial]]
+3. Rumo ao abismo econômico ([[Hobsbawm - Era dos Extremos.pdf#page=107|p. 107]]): **fichado por inteiro**, ver [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]
+4. A queda do liberalismo ([[Hobsbawm - Era dos Extremos.pdf#page=135|p. 135]]): **fichado por inteiro**, ver [[Era dos Extremos, cap. 4 - A queda do liberalismo]] e a síntese [[Fascismo]]
 5. Contra o inimigo comum ([[Hobsbawm - Era dos Extremos.pdf#page=174|p. 174]])
 6. As artes 1914-45 ([[Hobsbawm - Era dos Extremos.pdf#page=216|p. 216]])
 7. O fim dos impérios ([[Hobsbawm - Era dos Extremos.pdf#page=241|p. 241]])
 
-Os capítulos 1 a 4 foram lidos por inteiro. Dos capítulos 5 a 7, só parágrafos soltos.
+Os capítulos 1 a 4 foram fichados por inteiro. Dos capítulos 5 a 7, só parágrafos soltos.
 
 ## O que o livro diz
 - **A guerra como início.** O cap. 1 diz que não se compreende o Breve Século XX sem a guerra mundial de 31 anos (1914-45) e que ele "viveu e pensou em termos de guerra mundial, mesmo quando os canhões se calavam" (p. 34).
@@ -54,19 +54,19 @@ Os capítulos 1 a 4 foram lidos por inteiro. Dos capítulos 5 a 7, só parágraf
 > "Até 1938, havia talvez dezessete desses Estados, em 1944 talvez doze, de um total global de 65."
 > — PDF p. 139 · cap. 4 · [[Hobsbawm - Era dos Extremos.pdf#page=139|abrir]]
 
-- **O perigo vinha da direita.** Entre as guerras, a ameaça às instituições liberais vinha só da direita; o fascismo "deu à direita internacional um senso de confiança histórica" (p. 139). O rótulo "fascismo" é, diz ele, "insuficiente mas não inteiramente irrelevante". Lido o capítulo inteiro: há três direitas antiliberais (autoritários tradicionais, corporativistas e fascistas), o traço próprio do fascismo é a mobilização de massas, e ele chega ao poder onde ruíram os velhos regimes e seu "maquinário de poder, influência e hegemonia" (p. 155). Ver [[Fascismo]].
+- **O perigo vinha da direita.** Entre as guerras, a ameaça às instituições liberais vinha só da direita; o fascismo "deu à direita internacional um senso de confiança histórica" (p. 139). O rótulo "fascismo" é, diz ele, "insuficiente mas não inteiramente irrelevante". No capítulo inteiro, há três direitas antiliberais (autoritários tradicionais, corporativistas e fascistas), o traço próprio do fascismo é a mobilização de massas, e ele chega ao poder onde ruíram os velhos regimes e seu "maquinário de poder, influência e hegemonia" (p. 155). Ver [[Fascismo]].
 > "deu à direita internacional um senso de confiança histórica"
 > — PDF p. 139 · cap. 4 · [[Hobsbawm - Era dos Extremos.pdf#page=139|abrir]]
 
-- **Antifascismo (cap. 5).** Só o começo foi lido: em janeiro de 1939, 83% dos americanos preferiam a vitória soviética a uma alemã numa guerra URSS-Alemanha (p. 176), o que Hobsbawm chama de anomalia num século de confronto entre comunismo e capitalismo.
+- **Antifascismo (cap. 5).** Só o começo foi fichado: em janeiro de 1939, 83% dos americanos preferiam a vitória soviética a uma alemã numa guerra URSS-Alemanha (p. 176), o que Hobsbawm chama de anomalia num século de confronto entre comunismo e capitalismo.
 - **Eurocentrismo (cap. 7).** Em trecho do capítulo, ele diz que a história do mundo não ocidental no Breve Século XX é "derivada, não original" em sua dinâmica, e que se opõe ao que E. P. Thompson chamou de "enorme condescendência" (p. 243). *(ler o capítulo para entender o alcance dessa frase)*
 
-## Fontes secundárias conferidas no livro
-- A Wikipédia afirma que o fascismo "teria atraído por eficiência técnica". A frase não aparece nos trechos lidos.
+## Fontes secundárias e o texto do livro
+- Atribui-se ao livro a ideia de que o fascismo "teria atraído por eficiência técnica". A frase não aparece nas partes fichadas.
 
 ## Perguntas
 - A expressão "catástrofe" é descritiva ou explicativa? O que unifica guerra, depressão e fascismo? Hobsbawm responde, em parte, com o colapso econômico.
-- Como o capítulo 3 ("Rumo ao abismo econômico") se relaciona com [[Acumulação de capital]] e [[Queda tendencial da taxa de lucro]]? Os trechos lidos não usam essas categorias: fala em ciclos, ondas longas de Kondratiev e "globalização". Lido o capítulo inteiro, isso se confirma: as duas explicações que ele apresenta são o desequilíbrio internacional (os EUA sem papel de estabilizador) e a falta de demanda (salários atrás da produtividade, "superprodução e especulação", p. 124). Ver [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]].
+- Como o capítulo 3 ("Rumo ao abismo econômico") se relaciona com [[Acumulação de capital]] e [[Queda tendencial da taxa de lucro]]? Os trechos fichados não usam essas categorias: fala em ciclos, ondas longas de Kondratiev e "globalização". O capítulo inteiro confirma isso: as duas explicações que ele apresenta são o desequilíbrio internacional (os EUA sem papel de estabilizador) e a falta de demanda (salários atrás da produtividade, "superprodução e especulação", p. 124). Ver [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]].
 - A [[Teoria do reflexo]] e a [[Filosofia da práxis]] se aplicam de modo diferente à Revolução de 1917? Hobsbawm descreve Lênin concluindo que não havia condições na Rússia, o que pesa na leitura de [[Lênin]], [[Trotsky]] e [[Stalin]].
 
 ## Autores

@@ -13,14 +13,14 @@ criado: 2026-11-12
 
 Autor: [[Karl Marx]]
 
-> [!info] Como ler as marcas
-> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica não foram conferidos na fonte e terminam com *(conferir)*. Falta a conferência com uma edição em papel.
+> [!info] Fonte e marcas
+> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica não foram confirmados na fonte e levam a marca *(não verificado)*. Não há cotejo com edição em papel.
 
 ## Referência
 Karl Marx, *Teses sobre Feuerbach* (1845). Existem duas versões do texto: a de Marx e a editada por Engels, publicada em 1888 como apêndice de *Ludwig Feuerbach e o fim da filosofia clássica alemã*. Confira qual delas a edição em papel usa. Versão online: [marxists.org](https://marxists.org/portugues/marx/1845/tesfeuer.htm), tradução de Álvaro Pina (Avante!, 1982), a partir da edição de Engels. Edição de referência:
 
 ## Por que ler
-Base da [[Prática como critério de verdade]] e da [[Filosofia da práxis]]. Em onze teses curtas, Marx rompe com o materialismo anterior e com o idealismo de uma só vez. Alimenta as Questões 1 e 2 de [[Questões em aberto]].
+Base da [[Prática como critério de verdade]] e da [[Filosofia da práxis]]. Em onze teses curtas, Marx rompe com o materialismo anterior e com o idealismo de uma só vez. Alimenta as Questões [[Questões em aberto#1. Reflexo ou práxis?|1]] e [[Questões em aberto#2. Reflexividade|2]] de [[Questões em aberto]].
 
 ## Foco da leitura
 Teses I, II, III, VI e XI. As outras mostram a crítica a Feuerbach em detalhe.
@@ -49,8 +49,8 @@ Os fios do texto se agrupam em quatro movimentos.
 4. **Religião e essência humana (IV, VI, VII).** Feuerbach reduz o religioso ao humano, mas toma o humano como essência abstrata do indivíduo. Para Marx, a essência humana é o conjunto das relações sociais, e o próprio sentimento religioso é produto social.
 
 > [!question] Interpretações
-> 1. A Tese III contém o problema da reflexividade em estado nascente: ao dizer que o educador também precisa ser educado, Marx recusa dividir a sociedade em uma parte que pensa e outra pensada. Isso liga o texto à Questão 2.
-> 2. A Tese II mistura duas ideias: a prática como teste da verdade e a prática como demonstração do "poder" do pensamento. A diferença entre as duas é a Questão 1.
+> 1. A Tese III contém o problema da reflexividade em estado nascente: ao dizer que o educador também precisa ser educado, Marx recusa dividir a sociedade em uma parte que pensa e outra pensada. Isso liga o texto à Questão [[Questões em aberto#2. Reflexividade|2]].
+> 2. A Tese II mistura duas ideias: a prática como teste da verdade e a prática como demonstração do "poder" do pensamento. A diferença entre as duas é a Questão [[Questões em aberto#1. Reflexo ou práxis?|1]].
 
 ## Conceitos-chave (como o texto os usa)
 - **Atividade sensível humana / práxis:** a ação concreta dos seres humanos sobre o mundo. Opõe-se à contemplação.
@@ -83,14 +83,14 @@ Os fios do texto se agrupam em quatro movimentos.
 > — Tese XI, trad. Álvaro Pina; página: ___
 
 ## Debate crítico
-- **Anti-humanismo contra humanismo.** [[Louis Althusser]] vê nas Teses (sobretudo na VI) o limiar da ruptura de Marx com a antropologia de Feuerbach: se a essência humana é o conjunto das relações sociais, não há essência humana a ser realizada. Marxistas humanistas, como [[Karel Kosík]], leem a mesma tese como base de uma filosofia da práxis. *(conferir)*
-- **A Tese XI não nega a teoria.** A leitura de que o texto desvaloriza a teoria é contestada. [[Lênin]] sustentava que sem teoria revolucionária não há movimento revolucionário. [[Theodor Adorno]] abre a *Dialética Negativa* retomando a Tese XI e discutindo se a filosofia perdeu o momento da sua realização. *(conferir)*
-- **Verdade ou eficácia (Tese II).** Três leituras costumam ser distinguidas: a pragmática (a verdade é o que funciona), a realista (a prática testa a correspondência com a realidade, como Engels ao dizer que "a prova do pudim está no comê-lo") e a histórico-social de [[Antonio Gramsci]] e [[Georg Lukács]] (a verdade é inseparável da práxis de uma classe). *(conferir)*
-- **Dois textos.** Existem a versão de Marx e a editada por Engels, com diferenças de redação. Quem cita as Teses deve dizer qual das duas está usando. *(conferir)*
+- **Anti-humanismo contra humanismo.** [[Louis Althusser]] vê nas Teses (sobretudo na VI) o limiar da ruptura de Marx com a antropologia de Feuerbach: se a essência humana é o conjunto das relações sociais, não há essência humana a ser realizada. Marxistas humanistas, como [[Karel Kosík]], leem a mesma tese como base de uma filosofia da práxis. *(não verificado)*
+- **A Tese XI não nega a teoria.** A leitura de que o texto desvaloriza a teoria é contestada. [[Lênin]] sustentava que sem teoria revolucionária não há movimento revolucionário. [[Theodor Adorno]] abre a *Dialética Negativa* retomando a Tese XI e discutindo se a filosofia perdeu o momento da sua realização. *(não verificado)*
+- **Verdade ou eficácia (Tese II).** Três leituras costumam ser distinguidas: a pragmática (a verdade é o que funciona), a realista (a prática testa a correspondência com a realidade, como Engels ao dizer que "a prova do pudim está no comê-lo") e a histórico-social de [[Antonio Gramsci]] e [[Georg Lukács]] (a verdade é inseparável da práxis de uma classe). *(não verificado)*
+- **Dois textos.** Existem a versão de Marx e a editada por Engels, com diferenças de redação. Quem cita as Teses deve dizer qual das duas está usando. *(não verificado)*
 
 ## Dúvidas e objeções
-- A Tese II diz que a verdade se decide na prática. Isso separa verdade de eficácia? (Questão 1 em [[Questões em aberto]])
-- Se a essência humana é o conjunto das relações sociais, de onde vem o ponto de vista para criticá-las? (Questão 2)
+- A Tese II diz que a verdade se decide na prática. Isso separa verdade de eficácia? (Questão [[Questões em aberto#1. Reflexo ou práxis?|1]] em [[Questões em aberto]])
+- Se a essência humana é o conjunto das relações sociais, de onde vem o ponto de vista para criticá-las? (Questão [[Questões em aberto#2. Reflexividade|2]])
 - Na Tese III, quem educa o educador, e isso resolve ou repete o problema de um ponto de vista exterior à sociedade?
 - A "humanidade socializada" da Tese X é uma descrição, uma tarefa ou uma norma?
 

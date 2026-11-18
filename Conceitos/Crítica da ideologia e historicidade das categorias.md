@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Crítica da ideologia e historicidade das categorias
 
-> [!info] Como ler as marcas
-> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto não foi conferido na fonte e termina com *(conferir)*. Falta conferir tudo com uma edição em papel.
+> [!info] Fonte e marcas
+> Citações conferidas na versão online destes textos: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto leva a marca *(não verificado)*. Não há cotejo com edição em papel.
 
 ## Em uma frase
 Valor, capital e trabalho são categorias históricas, e a ideologia apresenta formas sociais particulares como naturais.
@@ -26,13 +26,13 @@ Valor, capital e trabalho são categorias históricas, e a ideologia apresenta f
 2. **Explicar a aparência.** Mostrar por que a forma social necessariamente aparece invertida. O fetichismo não é só erro: as formas de pensamento são "socialmente válidas e, portanto, objectivas" para esse modo de produção. Segundo a seção do *Capital*, o fetichismo é próprio da produção de mercadorias, e as relações são transparentes em outras formas (a economia de Robinson, a Idade Média, uma associação de produtores livres).
 
 ## Desdobramentos
-- [[Georg Lukács]] estende o fetichismo à reificação da consciência (*História e Consciência de Classe*). *(conferir)*
-- [[Louis Althusser]] define a ideologia como relação imaginária dos indivíduos com suas condições de existência, com existência material nos aparelhos. *(conferir)*
-- [[Antonio Gramsci]] liga a ideologia à hegemonia e à formação do senso comum. *(conferir)*
-- [[Moishe Postone]] e [[Michael Heinrich]] leem as categorias de *O Capital* como formas historicamente específicas. *(conferir)*
+- [[Georg Lukács]] estende o fetichismo à reificação da consciência (*História e Consciência de Classe*). *(não verificado)*
+- [[Louis Althusser]] define a ideologia como relação imaginária dos indivíduos com suas condições de existência, com existência material nos aparelhos. *(não verificado)*
+- [[Antonio Gramsci]] liga a ideologia à hegemonia e à formação do senso comum. *(não verificado)*
+- [[Moishe Postone]] e [[Michael Heinrich]] leem as categorias de *O Capital* como formas historicamente específicas. *(não verificado)*
 
 ## Problema
-Se as categorias são "produtos históricos e transitórios", qual o estatuto das categorias do próprio materialismo histórico ("modo de produção", "classe")? Também são formas de uma época? Ligado à Questão 2 de [[Questões em aberto]]. E se a aparência é "objetiva", como a crítica a distingue de uma ciência?
+Se as categorias são "produtos históricos e transitórios", qual o estatuto das categorias do próprio materialismo histórico ("modo de produção", "classe")? Também são formas de uma época? Ligado à Questão [[Questões em aberto#2. Reflexividade|2]] de [[Questões em aberto]]. E se a aparência é "objetiva", como a crítica a distingue de uma ciência?
 
 ## Autores
 - [[Karl Marx]]

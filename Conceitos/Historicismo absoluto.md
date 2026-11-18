@@ -8,13 +8,13 @@ criado: 2026-11-12
 
 # Historicismo absoluto
 
-> [!info] Como ler as marcas
-> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não foi lido ou conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, fichados por trechos. As citações foram conferidas no texto do PDF, na página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Em um parágrafo do Caderno 11, Gramsci diz que a filosofia da práxis é o "historicismo absoluto": pensamento sem transcendência e sem metafísica, que continua a imanência no terreno da história.
 
-## Base textual (verificada)
+## Base textual
 **O parágrafo.** A nota trata do nome "materialismo histórico", onde se deu peso ao primeiro termo, quando "dever-se-ia colocar o acento no segundo termo, 'histórico'" (vol. 1, p. 173; a nota do editor da p. 172 identifica a expressão como "materialismo histórico").
 > "A filosofia da práxis é o historicismo absoluto, a mundanização e terrenalidade absoluta do pensamento, um humanismo absoluto da história."
 > — vol. 1, p. 173 · Caderno 11, § 27, nota I · [[Gramsci - Cadernos do Cárcere vol 1.pdf#page=173|abrir]]
@@ -34,7 +34,7 @@ Em um parágrafo do Caderno 11, Gramsci diz que a filosofia da práxis é o "his
 **Hegel, Croce.** Na p. 309 (Caderno 15), o imanentismo hegeliano torna-se historicismo, "mas só é historicismo absoluto com a filosofia da práxis".
 
 ## Pergunta
-Se tudo é histórico, o que garante a objetividade? Ver [[Objetividade histórica]] e Questão 14.
+Se tudo é histórico, o que garante a objetividade? Ver [[Objetividade histórica]] e Questão [[Questões em aberto#14. "Humanamente objetivo" ainda é objetivo?|14]].
 
 ## Autores
 - [[Antonio Gramsci]]

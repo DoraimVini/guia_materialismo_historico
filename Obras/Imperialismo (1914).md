@@ -13,13 +13,13 @@ criado: 2026-11-12
 
 Autor: [[Rosa Luxemburgo]]
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página online e **não foram conferidas por script contra um arquivo**, ao contrário das notas feitas a partir dos PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, sem cotejo com um arquivo baixado. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Referência
 Rosa Luxemburgo, *Imperialismo*. Discurso de 1914, em Berlim, publicado no *Vorwärts*, segundo a página do marxists.org: [texto](https://www.marxists.org/portugues/luxemburgo/1914/mes/40.htm). Não é o livro de 1913; trata de militarismo e de guerra, não da teoria da acumulação.
 
-## Argumento (nos trechos lidos)
+## Argumento
 O imperialismo se tornou a ideologia da sociedade burguesa; alianças diplomáticas não garantem a paz; a esperança de desarmamento é ilusão; a garantia da paz seria a fraternidade internacional do proletariado; a tarefa maior é aumentar a capacidade de ação das massas. A leitura da página não trouxe nada sobre ambientes não capitalistas.
 
 ## Citações (transcritas da página; ver o aviso acima)

@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Morte do campesinato
 
-> [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem do **PDF de *Era dos Extremos***; as partes cobertas estão listadas na nota da obra. As citações foram conferidas no texto do PDF. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. *(não verificado)* marca o que não foi confirmado na fonte ou vem de resenha.
 
 ## Em uma frase
 Para Hobsbawm, a "mudança social mais impressionante e de mais longo alcance" da segunda metade do século XX é o desaparecimento do campesinato, que "nos isola para sempre do mundo do passado".
@@ -29,7 +29,7 @@ Para Hobsbawm, a "mudança social mais impressionante e de mais longo alcance" d
 É um caso em que Hobsbawm submete uma previsão de Marx ao teste da história, e a resposta é "sim, mas por vias inesperadas". Serve como exemplo para a [[Prática como critério de verdade]] aplicada à teoria social, e para discutir a [[Primazia do ser social]]. Ver [[Hobsbawm lê Marx]].
 
 ## Perguntas
-- A previsão era sobre industrialização ou sobre luta de classes? Hobsbawm só confirma a primeira nas páginas lidas.
+- A previsão era sobre industrialização ou sobre luta de classes? Hobsbawm só confirma a primeira nas páginas fichadas.
 - O que significa que o declínio ocorra em países "sem desenvolvimento"? Isso afeta a ideia de etapas do [[Materialismo histórico]]?
 
 ## Autores

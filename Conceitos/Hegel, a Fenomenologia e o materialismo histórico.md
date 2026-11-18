@@ -10,11 +10,11 @@ criado: 2026-11-12
 
 # Hegel, a Fenomenologia e o materialismo histórico
 
-> [!info] Como ler as marcas
+> [!info] Fonte e marcas
 > Esta nota pergunta **o que a *Fenomenologia do Espírito* (1807) deu ao materialismo histórico** e o que os marxistas fizeram com isso. Fontes:
-> - **lido e conferido:** trechos copiados da versão online (marxists.org) e procurados por script: o Prefácio da *Fenomenologia* em português (tradutor não indicado na página) e a seção "Senhorio e servidão" na tradução inglesa de Baillie; Marx, *Manuscritos de 1844*, "Crítica da dialética e da filosofia hegelianas" (em português); Marx, carta a Engels de 16/1/1858 (em inglês); Engels, *Ludwig Feuerbach* (1886, em português); Lênin, *Resumo da Ciência da Lógica* (1914, em francês); Lukács, *O jovem Hegel*, cap. IV, 4 (em português); Althusser, *Lênin diante de Hegel* (1969, em inglês). As traduções do inglês e do francês são livres.
+> - **fichado e conferido:** trechos copiados da versão online (marxists.org) e conferidos: o Prefácio da *Fenomenologia* em português (tradutor não indicado na página) e a seção "Senhorio e servidão" na tradução inglesa de Baillie; Marx, *Manuscritos de 1844*, "Crítica da dialética e da filosofia hegelianas" (em português); Marx, carta a Engels de 16/1/1858 (em inglês); Engels, *Ludwig Feuerbach* (1886, em português); Lênin, *Resumo da Ciência da Lógica* (1914, em francês); Lukács, *O jovem Hegel*, cap. IV, 4 (em português); Althusser, *Lênin diante de Hegel* (1969, em inglês). As traduções do inglês e do francês são livres.
 > - **do cofre:** as notas já fichadas, citadas pelo nome.
-> - *(conferir)*: o que ainda não foi lido na fonte.
+> - *(não verificado)*: o que não foi confirmado na fonte.
 
 ## Em uma frase
 A *Fenomenologia* ensinou ao jovem Marx que **o verdadeiro é um processo, e que o homem se produz pelo próprio trabalho**; Marx tirou do processo o "Espírito" como sujeito e trocou o trabalho "abstratamente mental" pelo trabalho real. Mas o **método** de *O Capital* deve mais à *Ciência da Lógica* (1812-16) do que à *Fenomenologia*, e é sobre essa diferença que os marxistas se dividem até hoje.
@@ -45,20 +45,20 @@ Publicada em 1807, em Iena, é o caminho da consciência desde a certeza mais im
 ## A linha: de 1807 até hoje
 | Quando | Quem | O que faz com Hegel | Fonte |
 | --- | --- | --- | --- |
-| 1807 | Hegel, *Fenomenologia* | a verdade como processo; a substância como sujeito; o trabalho do negativo | lido e conferido |
-| 1844 | Marx, *Manuscritos* | elogia a *Fenomenologia* por apreender o homem como resultado do próprio trabalho; critica o trabalho "abstratamente mental" | lido e conferido |
+| 1807 | Hegel, *Fenomenologia* | a verdade como processo; a substância como sujeito; o trabalho do negativo | fichado e conferido |
+| 1844 | Marx, *Manuscritos* | elogia a *Fenomenologia* por apreender o homem como resultado do próprio trabalho; critica o trabalho "abstratamente mental" | fichado e conferido |
 | 1845-46 | Marx, *Teses sobre Feuerbach*; Marx e Engels, *A Ideologia Alemã* | o "lado ativo" desenvolvido pelo idealismo volta à prática sensível | do cofre: [[Teses sobre Feuerbach]], [[A Ideologia Alemã]] |
-| 1857-58 | Marx, Introdução e carta a Engels | a *Lógica* ajuda no "método de tratamento"; Hegel confunde o caminho do pensamento com a gênese do real | lido e conferido; do cofre: [[Introdução de 1857]] |
+| 1857-58 | Marx, Introdução e carta a Engels | a *Lógica* ajuda no "método de tratamento"; Hegel confunde o caminho do pensamento com a gênese do real | fichado e conferido; do cofre: [[Introdução de 1857]] |
 | 1873 | Marx, Posfácio de *O Capital* | a dialética está "de cabeça para baixo" e precisa ser virada | do cofre: [[Posfácio de 1873]] |
-| 1886 | Engels, *Ludwig Feuerbach* | separa o **sistema** conservador do **método** revolucionário | lido e conferido |
-| 1914-15 | Lênin, *Cadernos filosóficos* | sem toda a *Lógica* de Hegel não se entende o cap. 1 de *O Capital* | lido e conferido; fichamento: [[Cadernos filosóficos (Lênin)]] |
+| 1886 | Engels, *Ludwig Feuerbach* | separa o **sistema** conservador do **método** revolucionário | fichado e conferido |
+| 1914-15 | Lênin, *Cadernos filosóficos* | sem toda a *Lógica* de Hegel não se entende o cap. 1 de *O Capital* | fichado e conferido; fichamento: [[Cadernos filosóficos (Lênin)]] |
 | 1923 | Lukács, *História e Consciência de Classe* | a totalidade; o proletariado como sujeito-objeto da história | do cofre: [[História e Consciência de Classe]], [[Totalidade e consciência atribuída]] |
 | 1929-35 | Gramsci, *Cadernos* | o hegelianismo como motivo da filosofia da práxis, que é "historicismo absoluto" | do cofre: [[Historicismo absoluto]] |
-| 1933-39 | Kojève, cursos sobre a *Fenomenologia* (Paris) | o senhor e o escravo como chave da história; o "fim da história" | *(conferir)* |
-| 1938 (publ. 1948) | Lukács, *O jovem Hegel* | a alienação como conceito central da *Fenomenologia*, lida pela economia política | lido e conferido (um trecho) |
-| 1941 | Marcuse, *Razão e revolução* | Hegel como origem da teoria social crítica, contra a leitura que o liga ao autoritarismo | *(conferir)* |
+| 1933-39 | Kojève, cursos sobre a *Fenomenologia* (Paris) | o senhor e o escravo como chave da história; o "fim da história" | *(não verificado)* |
+| 1938 (publ. 1948) | Lukács, *O jovem Hegel* | a alienação como conceito central da *Fenomenologia*, lida pela economia política | fichado e conferido (um trecho) |
+| 1941 | Marcuse, *Razão e revolução* | Hegel como origem da teoria social crítica, contra a leitura que o liga ao autoritarismo | *(não verificado)* |
 | 1963 | Kosík, *Dialética do concreto* | a totalidade concreta e a pseudoconcreticidade | do cofre: [[Karel Kosík]] |
-| 1965-69 | Althusser, *Por Marx*; *Lênin diante de Hegel* | a ruptura com Hegel; a história como "processo sem sujeito" | lido e conferido (um trecho); do cofre: [[Ruptura epistemológica]] |
+| 1965-69 | Althusser, *Por Marx*; *Lênin diante de Hegel* | a ruptura com Hegel; a história como "processo sem sujeito" | fichado e conferido (um trecho); do cofre: [[Ruptura epistemológica]] |
 | 1966-83 | Giannotti, Arantes, Fausto (Brasil, USP) | a lógica do jovem Marx; Hegel e o tempo; a dialética em *O Capital* | ver o [[Guia de fontes - epistemologia do materialismo histórico]] |
 
 ## 1. Marx, 1844: o elogio e a crítica
@@ -70,7 +70,7 @@ E a frase que liga Hegel à economia:
 > "No momento, façamos estas observações preliminares: o ponto de vista de Hegel é o da moderna Economia Política."
 > — Marx, *Manuscritos de 1844* · versão online ([marxists.org](https://www.marxists.org/portugues/marx/1844/manuscritos/cap07.htm))
 
-A crítica: em Hegel, a atividade "viva, sensória e concreta" se reduz a "negatividade absoluta", e o processo é a "expressão abstrata, lógica e especulativa do processo histórico", que ainda não é "a verdadeira história do homem". *(lido e conferido no mesmo texto)* Por isso, o materialismo histórico pode ser lido como a tentativa de fazer a história que Hegel só pensou em forma lógica. *(interpretação)*
+A crítica: em Hegel, a atividade "viva, sensória e concreta" se reduz a "negatividade absoluta", e o processo é a "expressão abstrata, lógica e especulativa do processo histórico", que ainda não é "a verdadeira história do homem". *(fichado e conferido no mesmo texto)* Por isso, o materialismo histórico pode ser lido como a tentativa de fazer a história que Hegel só pensou em forma lógica. *(interpretação)*
 
 **Atenção para um mito comum.** Marx não discute, nos *Manuscritos*, a passagem do senhor e do escravo; a crítica dele vai ao capítulo final, o do saber absoluto. A ideia de que o senhor e o escravo seriam a "origem" da luta de classes vem sobretudo da leitura de Kojève nos anos 1930. *(conferido no texto de 1844: a única menção é o título "dominação e servidão", no sumário que Marx copia; ver [[Manuscritos de 1844 - Crítica da dialética hegeliana]]. A atribuição a Kojève segue sem conferência na fonte.)*
 
@@ -84,7 +84,7 @@ A crítica: em Hegel, a atividade "viva, sensória e concreta" se reduz a "negat
 
 - **A Introdução de 1857** ([[Introdução de 1857]], [[Do abstrato ao concreto pensado]]) dá o limite: Hegel caiu na "ilusão de conceber o real como resultado do pensamento". O pensamento reconstrói o concreto, mas não o cria.
 - **O Posfácio de 1873** ([[Posfácio de 1873]]) dá a fórmula: o método de Marx é "o seu directo oposto"; em Hegel a dialética está de cabeça para baixo, e é preciso virá-la para descobrir o "núcleo racional".
-- *(interpretação)* As duas folhas prometidas nunca foram escritas. Por isso o "núcleo racional" é a maior pergunta aberta dessa história: o que exatamente sobra de Hegel quando ele é "virado"? Questão 4 e Questão 32.
+- *(interpretação)* As duas folhas prometidas nunca foram escritas. Por isso o "núcleo racional" é a maior pergunta aberta dessa história: o que exatamente sobra de Hegel quando ele é "virado"? Questão [[Questões em aberto#4. Dialética só da história ou também da natureza?|4]] e Questão [[Questões em aberto#32. O que Marx tirou de Hegel: o trabalho ou o método?|32]].
 
 ## 3. Engels, 1886: sistema e método
 Engels dá a versão que se tornou padrão no marxismo: o **sistema** de Hegel é conservador, o **método** é revolucionário.
@@ -110,7 +110,7 @@ Durante a guerra, Lênin lê a *Ciência da Lógica* e escreve o aforismo mais c
 ## 5. As duas grandes leituras no século XX
 | | Continuidade (Hegel dentro de Marx) | Ruptura (Marx contra Hegel) |
 | --- | --- | --- |
-| Autores | [[Georg Lukács]], [[Herbert Marcuse]], [[Karel Kosík]], [[Antonio Gramsci]] (à sua maneira) | [[Louis Althusser]]; Della Volpe e Colletti na Itália *(conferir)* |
+| Autores | [[Georg Lukács]], [[Herbert Marcuse]], [[Karel Kosík]], [[Antonio Gramsci]] (à sua maneira) | [[Louis Althusser]]; Della Volpe e Colletti na Itália *(não verificado)* |
 | O que Marx herda | a totalidade, a alienação, a negatividade, o sujeito que se faz | só o vocabulário; o objeto e o método são novos |
 | O sujeito da história | o homem, a classe, o proletariado | nenhum: um "processo sem sujeito" |
 | Risco apontado pelo outro lado | o humanismo vago, a teleologia | o objetivismo, a perda da prática |
@@ -118,7 +118,7 @@ Durante a guerra, Lênin lê a *Ciência da Lógica* e escreve o aforismo mais c
 Os dois polos em uma frase cada:
 - **Lukács, *O jovem Hegel*.** Lukács mostra que Marx separa a alienação da objetivação em geral: trabalhar e produzir objetos não é, em si, alienar-se. A alienação é a forma que o trabalho toma em certas relações sociais.
 > "Afinal, a alienação (Entfremdung) é mais decisivamente separada por Marx da objetividade como tal, da objetivação no trabalho."
-> — Lukács, *O jovem Hegel*, cap. IV, 4 · versão online ([marxists.org](https://www.marxists.org/portugues/lukacs/1938/jovem/26.htm)) · *a tradução da página tem problemas visíveis; conferir na edição da Boitempo antes de citar*
+> — Lukács, *O jovem Hegel*, cap. IV, 4 · versão online ([marxists.org](https://www.marxists.org/portugues/lukacs/1938/jovem/26.htm)) · *a tradução da página tem problemas visíveis; a edição da Boitempo é a referência para citação*
 
 - **Althusser, *Lênin diante de Hegel*.** Contra a "substância como sujeito" de Hegel, a tese de que a história não tem sujeito:
 > "that history is a process without a subject , that the dialectic at work in history is not the work of any Subject whatsoever, whether Absolute (God) or merely human"
@@ -138,9 +138,9 @@ Os dois polos em uma frase cada:
 | O saber absoluto | recusado: não há fim do conhecimento, só a prática que o testa | [[Prática como critério de verdade]] |
 
 ## 7. E Hobsbawm?
-*(interpretação)* Hobsbawm não discute Hegel em *Era dos Extremos*, mas responde aos que viram o "fim da história" na queda da URSS (PDF p. 20, ver [[A Era dos Extremos]]). A fórmula de Fukuyama vem da leitura de Kojève da *Fenomenologia*. *(conferir)* Quando Hobsbawm recusa a profecia e diz que o futuro não pode ser o prolongamento do presente, ele recusa também o "saber absoluto" na versão liberal.
+*(interpretação)* Hobsbawm não discute Hegel em *Era dos Extremos*, mas responde aos que viram o "fim da história" na queda da URSS (PDF p. 20, ver [[A Era dos Extremos]]). A fórmula de Fukuyama vem da leitura de Kojève da *Fenomenologia*. *(não verificado)* Quando Hobsbawm recusa a profecia e diz que o futuro não pode ser o prolongamento do presente, ele recusa também o "saber absoluto" na versão liberal.
 
-## O que a leitura dos textos inteiros acrescentou
+## O que os textos completos acrescentam
 Os três fichamentos das etapas 1 a 3 do roteiro ([[Prefácio à Fenomenologia do Espírito]], [[Manuscritos de 1844 - Crítica da dialética hegeliana]], [[Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã]]) corrigem ou precisam esta nota em quatro pontos:
 1. **"De cabeça para baixo" é uma imagem do próprio Hegel.** No Prefácio, é a consciência comum que, ao entrar na ciência, tenta "andar de cabeça para baixo". Marx (1873) e Engels (1886) devolvem a imagem contra Hegel.
 2. **Hegel não separa método e conteúdo.** "O método não é outra coisa que a estrutura do todo" (Prefácio). A separação de Engels entre método revolucionário e sistema conservador é uma tese de Engels, não uma leitura neutra de Hegel.
@@ -148,7 +148,7 @@ Os três fichamentos das etapas 1 a 3 do roteiro ([[Prefácio à Fenomenologia d
 4. **Duas noções de prática.** Engels refuta Kant com "a experimentação e a indústria"; as Teses de Marx falam de atividade "prático-crítica". A primeira é a do laboratório; a segunda, a da transformação social. *(interpretação)*
 
 ## Perguntas
-1. O que exatamente é o "núcleo racional" que Marx diz ter tirado de Hegel? Ele está na *Fenomenologia* (o trabalho, a alienação) ou na *Lógica* (a ordem das categorias)? Questão 32.
+1. O que exatamente é o "núcleo racional" que Marx diz ter tirado de Hegel? Ele está na *Fenomenologia* (o trabalho, a alienação) ou na *Lógica* (a ordem das categorias)? Questão [[Questões em aberto#32. O que Marx tirou de Hegel: o trabalho ou o método?|32]].
 2. A separação de Engels entre sistema e método é fiel a Hegel? E a Marx?
 3. Se a história é um "processo sem sujeito", o que resta da Tese XI ("transformar o mundo")?
 4. A dialética do senhor e do escravo tem lugar legítimo numa leitura de Marx, ou é uma projeção de Kojève?

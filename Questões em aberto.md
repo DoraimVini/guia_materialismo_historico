@@ -10,8 +10,8 @@ criado: 2026-11-12
 
 Perguntas que orientam o estudo. Para cada uma: formular a hipótese, apontar o que a testaria e registrar as objeções.
 
-> [!warning] Conferir nas fontes
-> As posições de Lukács, Althusser e Thompson abaixo foram resumidas sem conferência na fonte. Confirmar nos textos antes de usar em trabalho.
+> [!warning] Sem cotejo com as fontes
+> As posições de Lukács, Althusser e Thompson abaixo foram resumidas sem cotejo com a fonte e levam a marca *(não verificado)* quando aparecem nas notas.
 
 ## 1. Reflexo ou práxis?
 A prática como critério de verdade distingue verdade de eficácia? Se não distingue, a posição escorrega para o pragmatismo. Se distingue, com base em quê?
@@ -76,7 +76,7 @@ O "breve século XX" (1914-1991) tem marcos políticos. Um autor marxista deveri
 
 - Ver: [[Breve século XX]], [[Cronologia do breve século XX]]
 - Textos para testar: [[A Era dos Extremos]]
-- Após ler trechos: a periodização é mista. Os marcos são políticos (guerra de 1914, fim da URSS), mas o "tríptico" é descrito em ritmo econômico e o século é definido também pelo "tempo de vida" do Estado soviético. Ver [[Breve século XX]]. Falta ler como ele justifica a data de 1914 no cap. 1.
+- A periodização é mista. Os marcos são políticos (guerra de 1914, fim da URSS), mas o "tríptico" é descrito em ritmo econômico e o século é definido também pelo "tempo de vida" do Estado soviético. Ver [[Breve século XX]]. Falta ler como ele justifica a data de 1914 no cap. 1.
 - Hipótese:
 - Objeções:
 
@@ -170,7 +170,7 @@ Rosa diz que a organização nasce da luta e que o partido dá a palavra de orde
 - Objeções:
 
 ## 20. A acumulação precisa de um "fora" não capitalista?
-Rosa sustenta que o capital depende de camadas e territórios não capitalistas. A crítica clássica (Bukharin e outros, a conferir) rejeita a tese. Como testá-la hoje, diante da globalização que Hobsbawm descreve? E a teoria da dependência precisa dela?
+Rosa sustenta que o capital depende de camadas e territórios não capitalistas. A crítica clássica (Bukharin e outros; não verificado) rejeita a tese. Como testá-la hoje, diante da globalização que Hobsbawm descreve? E a teoria da dependência precisa dela?
 
 - Ver: [[Acumulação e ambientes não capitalistas]], [[Acumulação de capital]], [[Luxemburgo e Florestan Fernandes]]
 - Textos para testar: [[A Acumulação do Capital]] (cap. 26 e seguintes); [[A Era dos Extremos]] (cap. 9)
@@ -190,7 +190,7 @@ Rosa diz que reforma e revolução se condicionam. Hobsbawm descreve a Era de Ou
 Löwy diz que Rosa rompe com o fatalismo da Segunda Internacional a partir de 1914 e funda a alternativa "socialismo ou barbárie". Loureiro diz que o lado determinista permanece até o fim, e que Löwy o esquece para atualizá-la. Como decidir pelos textos?
 
 - Ver: [[Socialismo ou barbárie]], [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]]
-- Textos para testar: o *Folheto Junius* (1915, não lido); [[Reforma ou Revolução]]; [[A Acumulação do Capital]]
+- Textos para testar: o *Folheto Junius* (1915, não fichado); [[Reforma ou Revolução]]; [[A Acumulação do Capital]]
 - Hipótese:
 - Objeções:
 
@@ -198,7 +198,7 @@ Löwy diz que Rosa rompe com o fatalismo da Segunda Internacional a partir de 19
 Lora nega a "dependência unilateral" e usa o desenvolvimento combinado; a teoria da dependência (Marini, Florestan) fala em dependência estrutural. São teses incompatíveis, ou respondem a perguntas diferentes?
 
 - Ver: [[Desenvolvimento desigual e combinado]], [[Lei do desenvolvimento desigual e combinado (Lora)]], [[Luxemburgo e Florestan Fernandes]]
-- Textos para testar: [[Ruy Mauro Marini]] e [[Florestan Fernandes]] (não lidos)
+- Textos para testar: [[Ruy Mauro Marini]] e [[Florestan Fernandes]] (não fichados)
 - Hipótese:
 - Objeções:
 
@@ -214,7 +214,7 @@ O excerto de Teixeira mapeia o debate mente-corpo (identidade, reducionismo, eme
 Lênin (1902) diz que a espontaneidade chega só ao trade-unionismo e que a consciência socialista vem "de fora"; Rosa (1906) vê a organização nascer da luta; Lukács (1920) fala de consciência "atribuída". Os três descrevem o mesmo problema ou respondem a situações diferentes?
 
 - Ver: [[Consciência de fora e espontaneidade]], [[Que Fazer (Lênin)]], [[Greve de massas, partido e sindicatos]], [[Consciência de Classe (Lukács, 1920)]]
-- Textos para testar: o cap. III de *Que Fazer?* e a polêmica de Rosa de 1904 (não lidos)
+- Textos para testar: o cap. III de *Que Fazer?* e a polêmica de Rosa de 1904 (não fichados)
 - Hipótese:
 - Objeções:
 
@@ -258,7 +258,7 @@ A Ideologia Alemã afirma que "não é a consciência que determina a vida, é a
 Hobsbawm recusa a tese soviética de que o fascismo foi "a expressão do capital monopolista": o grande capital se acomoda a qualquer regime que não o exproprie, e só apoiou Hitler tarde. Mas ele mostra que o fascismo derrotou a revolução, eliminou os sindicatos e deu ao capital a saída mais favorável da Depressão. Isso refuta a leitura marxista, ou pede uma versão com autonomia relativa do Estado (Gramsci, Thalheimer, Poulantzas)? E onde fica o Estado Novo de Vargas, que Hobsbawm separa do fascismo porque criou um movimento trabalhista?
 
 - Ver: [[Fascismo]], [[Genealogia - fascismo, Estado e hegemonia]], [[Era dos Extremos, cap. 4 - A queda do liberalismo]], [[Teoria marxista do Estado]], [[Hegemonia]]
-- Textos para testar: [[Cadernos do Cárcere]] (Caderno 13, não fichado); Dimitrov (1935) e Poulantzas, *Fascismo e ditadura* (não lidos)
+- Textos para testar: [[Cadernos do Cárcere]] (Caderno 13, não fichado); Dimitrov (1935) e Poulantzas, *Fascismo e ditadura* (não fichados)
 - Hipótese:
 - Objeções:
 ## 32. O que Marx tirou de Hegel: o trabalho ou o método?

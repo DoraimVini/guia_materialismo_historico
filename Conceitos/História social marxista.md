@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # História social marxista
 
-> [!info] Como ler as marcas
-> As fontes aqui são os textos curtos de Hobsbawm no marxists.org ([[Depoimento (1989)]], [[Manifesto para a renovação da história]]) e a resenha de Pomar sobre *Sobre História*. O PDF de *Era dos Extremos* só entra na seção "No livro", abaixo. Os resumos são paráfrases. O que não foi conferido termina com *(conferir)*.
+> [!info] Fonte e marcas
+> As fontes aqui são os textos curtos de Hobsbawm no marxists.org ([[Depoimento (1989)]], [[Manifesto para a renovação da história]]) e a resenha de Pomar sobre *Sobre História*. O PDF de *Era dos Extremos* só entra na seção "No livro", abaixo. Os resumos são paráfrases. O que não foi conferido termina com *(não verificado)*.
 
 ## Em uma frase
 Para Hobsbawm, a história marxista busca explicar como a humanidade se transformou, com a relação entre base e superestrutura como problema central; ela dialoga com outras correntes, mas não se confunde com a história social em geral.
@@ -36,8 +36,8 @@ Resumo de dois textos do próprio autor: [[Depoimento (1989)]] e [[Manifesto par
 ## Ligação com a epistemologia
 - Desenvolvido em [[Epistemologia do método de Hobsbawm]].
 - Ponto 2 e a [[Introdução de 1857]]: o concreto não é ponto de partida.
-- Ponto 5 e a Questão 3: qual o critério de cientificidade? Hobsbawm responde com uma coalizão e com a razão, e não com a ruptura de [[Louis Althusser]]. *(interpretação)*
-- Ponto 8 e o [[Posfácio de 1873]]: Marx endossa a leitura de leis independentes da consciência. Como isso se concilia com "consequências não intencionais"? Questão 10.
+- Ponto 5 e a Questão [[Questões em aberto#3. Critério de cientificidade|3]]: qual o critério de cientificidade? Hobsbawm responde com uma coalizão e com a razão, e não com a ruptura de [[Louis Althusser]]. *(interpretação)*
+- Ponto 8 e o [[Posfácio de 1873]]: Marx endossa a leitura de leis independentes da consciência. Como isso se concilia com "consequências não intencionais"? Questão [[Questões em aberto#10. Explicação estrutural ou consequências não intencionais?|10]].
 
 ## Autores
 - [[Eric Hobsbawm]]

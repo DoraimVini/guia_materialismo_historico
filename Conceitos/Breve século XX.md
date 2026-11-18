@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Breve século XX
 
-> [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem do **PDF de *Era dos Extremos***; as partes cobertas estão listadas na nota da obra. As citações foram conferidas no texto do PDF. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. *(não verificado)* marca o que não foi confirmado na fonte ou vem de resenha.
 
 ## Em uma frase
 Hobsbawm chama de "breve século XX" o período de 1914 a 1991: da eclosão da Primeira Guerra Mundial ao colapso da União Soviética, que ele trata como um período histórico coerente.
@@ -29,12 +29,12 @@ Hobsbawm chama de "breve século XX" o período de 1914 a 1991: da eclosão da P
 - **Contra o "fim da história".** O fim do século não encerra a história. Os que viram o "fim da história" na queda do império soviético "estavam errados" (p. 20), e a "única generalização cem por cento segura" é que, enquanto houver humanidade, haverá história (p. 17).
 - **Três mudanças qualitativas desde 1914** (pp. 26-28): o fim do eurocentrismo, o globo como unidade operacional única e a desintegração dos padrões de relações sociais. Na p. 28 Hobsbawm diz que "Marx e os outros profetas da desintegração dos velhos valores e relações sociais tinham razão" sobre o capitalismo como força revolucionadora permanente. Ver [[Hobsbawm lê Marx]].
 
-## Resposta parcial à Questão 8 (marco político ou econômico?)
-Depois de ler os trechos, a periodização é **mista**. O começo e o fim são políticos (a guerra; o fim da URSS). Mas o miolo é definido por ritmo econômico (crescimento extraordinário entre duas crises), e a Era de Ouro é explicada por mudanças de economia e instituições (ver [[Era de Ouro]]). Hobsbawm também diz que a oposição capitalismo/socialismo é "uma construção arbitrária e em certa medida artificial" (p. 15). Resta ver, nos capítulos não lidos, se ele justifica 1914 e 1991 por motivos econômicos além dos políticos. Ver a Questão 8 em [[Questões em aberto]].
+## Resposta parcial à Questão [[Questões em aberto#8. Como periodizar o século XX?|8]] (marco político ou econômico?)
+A periodização é **mista**. O começo e o fim são políticos (a guerra; o fim da URSS). Mas o miolo é definido por ritmo econômico (crescimento extraordinário entre duas crises), e a Era de Ouro é explicada por mudanças de economia e instituições (ver [[Era de Ouro]]). Hobsbawm também diz que a oposição capitalismo/socialismo é "uma construção arbitrária e em certa medida artificial" (p. 15). Fica em aberto se, nos capítulos não fichados, ele justifica 1914 e 1991 também por motivos econômicos. Ver a Questão [[Questões em aberto#8. Como periodizar o século XX?|8]] em [[Questões em aberto]].
 
 ## Perguntas
 - Um marco político é a melhor chave para um autor marxista, que dá primazia a processos econômicos e sociais? A resposta de Hobsbawm parece ser misturar os dois. É suficiente?
-- O que se perde ao terminar em 1991? O livro antecipa e rejeita o "fim da história", mas não trata, nos trechos lidos, da ascensão asiática. *(conferir nos caps. 12 e 15)*
+- O que se perde ao terminar em 1991? O livro antecipa e rejeita o "fim da história", mas, nas partes fichadas, não trata da ascensão asiática. *(não verificado nos caps. 12 e 15)*
 
 ## Três momentos
 1. [[Era da Catástrofe]]: guerras, revolução, crise econômica, queda do liberalismo.

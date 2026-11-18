@@ -9,8 +9,8 @@ criado: 2026-11-12
 
 # Hobsbawm lê Marx
 
-> [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem do **PDF de *Era dos Extremos***; as partes cobertas estão listadas na nota da obra. As citações foram conferidas no texto do PDF. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. *(não verificado)* marca o que não foi confirmado na fonte ou vem de resenha.
 
 ## Em uma frase
 Onde Hobsbawm cita ou usa Marx em *A Era dos Extremos*, com páginas, para ver em que sentido o livro é marxista, e o que ele diz do destino do marxismo.
@@ -47,7 +47,7 @@ Onde Hobsbawm cita ou usa Marx em *A Era dos Extremos*, com páginas, para ver e
 3. **Marx como testado pela história.** Em três pontos (campesinato, planejamento, autocracia) Hobsbawm mede o que Marx previu ou não previu. Isso é um uso da [[Prática como critério de verdade]], aplicado à teoria. *(interpretação)*
 
 ## Perguntas
-- Se o colapso soviético é "argumento para a análise de Marx", a causa é a contradição entre forças e relações, ou a falta das condições que o próprio Marx exigia? Hobsbawm parece admitir as duas. Questão 9.
+- Se o colapso soviético é "argumento para a análise de Marx", a causa é a contradição entre forças e relações, ou a falta das condições que o próprio Marx exigia? Hobsbawm parece admitir as duas. Questão [[Questões em aberto#9. O fim do socialismo real refuta o materialismo histórico?|9]].
 - Qual a distância entre o Marx de Hobsbawm e o de [[Louis Althusser]] ([[Ruptura epistemológica]])?
 
 ## Autores

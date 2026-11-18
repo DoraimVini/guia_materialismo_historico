@@ -13,14 +13,14 @@ criado: 2026-11-12
 
 Autor: [[Friedrich Engels]]
 
-> [!info] Como ler as marcas
-> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica não foram conferidos na fonte e terminam com *(conferir)*. Falta a conferência com uma edição em papel.
+> [!info] Fonte e marcas
+> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica não foram confirmados na fonte e levam a marca *(não verificado)*. Não há cotejo com edição em papel.
 
 ## Referência
 Friedrich Engels, *Do socialismo utópico ao socialismo científico* (1880). Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1880/socialismo/index.htm), em três partes (a página não indica o tradutor). Complemento: [Introdução à edição inglesa de 1892](https://www.marxists.org/portugues/marx/1892/04/20.htm). Edição de referência:
 
 ## Por que ler
-Porta de entrada sugerida na [[Trilha de leitura]]. Em poucas páginas, reúne a crítica ao socialismo utópico, a dialética, a concepção materialista da história e a análise do capitalismo. É também a fonte mais direta para a tese de que a dialética vale para a natureza (Questão 4 em [[Questões em aberto]]).
+Porta de entrada sugerida na [[Trilha de leitura]]. Em poucas páginas, reúne a crítica ao socialismo utópico, a dialética, a concepção materialista da história e a análise do capitalismo. É também a fonte mais direta para a tese de que a dialética vale para a natureza (Questão [[Questões em aberto#4. Dialética só da história ou também da natureza?|4]] em [[Questões em aberto]]).
 
 ## Foco da leitura
 Parte II (dialética e metafísica; concepção materialista da história) e o final da Parte III (apropriação social e extinção do Estado).
@@ -66,8 +66,8 @@ Engels explica por que usa "materialismo histórico": para designar a visão do 
 4. **Conclusão.** A saída é a apropriação social consciente das forças produtivas, executada pela classe que é produto da própria contradição.
 
 > [!question] Tensões que vale anotar
-> 1. **Estatuto das "leis" dialéticas.** Engels diz que a natureza é a "pedra de toque" da dialética e usa Darwin e Kant-Laplace como confirmação. Isso trata a dialética como tese verificável pelas ciências naturais. Se ela é verificável, que resultado a refutaria? (Questões 3 e 4)
-> 2. **Determinação econômica.** A base econômica explica "em última análise" a superestrutura. O que a expressão concede e o que ela retém? (Questão 2)
+> 1. **Estatuto das "leis" dialéticas.** Engels diz que a natureza é a "pedra de toque" da dialética e usa Darwin e Kant-Laplace como confirmação. Isso trata a dialética como tese verificável pelas ciências naturais. Se ela é verificável, que resultado a refutaria? (Questões [[Questões em aberto#3. Critério de cientificidade|3]] e [[Questões em aberto#4. Dialética só da história ou também da natureza?|4]])
+> 2. **Determinação econômica.** A base econômica explica "em última análise" a superestrutura. O que a expressão concede e o que ela retém? (Questão [[Questões em aberto#2. Reflexividade|2]])
 > 3. **Necessidade e agência.** O socialismo aparece como "produto necessário" do conflito e, ao mesmo tempo, como "missão histórica" a ser cumprida. Como se combinam?
 > 4. **Ciência como programa.** Engels diz que o materialismo "converte-se em uma ciência" e que falta desenvolvê-la em todos os detalhes. Isso a torna um programa de pesquisa ou uma doutrina?
 
@@ -117,16 +117,16 @@ Engels explica por que usa "materialismo histórico": para designar a visão do 
 > — Parte III; página: ___
 
 ## Debate crítico
-- **Dialética da natureza.** [[Georg Lukács]] restringe a dialética à realidade histórico-social e vê na extensão à natureza um acréscimo de Engels, sem base em Marx. A discussão sobre se Engels deformou Marx é antiga no marxismo ocidental. *(conferir)*
-- **Dialética como obscurantismo.** [[Jon Elster]] e a corrente do marxismo analítico tratam a dialética como pouco rigorosa e preferem reconstruir o materialismo histórico sem ela. *(conferir)*
-- **Sistematização soviética.** [[Georgi Plekhanov]] e [[Lênin]] elaboraram o "materialismo dialético" a partir de Engels, e [[Stalin]] o fixou em um manual dogmático. O termo costuma ser atribuído a Plekhanov, embora Dietzgen já o tivesse usado. *(conferir)*
-- **Científico em que sentido.** O "socialismo científico" foi alvo da crítica de falseabilidade de Popper, e [[G. A. Cohen]] procurou defender o materialismo histórico como teoria com explicações funcionais. *(conferir)*
-- **Estatização e socialismo.** A distinção de Engels entre estatização e socialismo é a base de discussões posteriores sobre o caráter dos Estados que se disseram socialistas. *(conferir)*
-- **Extinção do Estado.** A tese foi retomada por Lênin em *O Estado e a Revolução* e criticada pelos anarquistas. *(conferir)*
+- **Dialética da natureza.** [[Georg Lukács]] restringe a dialética à realidade histórico-social e vê na extensão à natureza um acréscimo de Engels, sem base em Marx. A discussão sobre se Engels deformou Marx é antiga no marxismo ocidental. *(não verificado)*
+- **Dialética como obscurantismo.** [[Jon Elster]] e a corrente do marxismo analítico tratam a dialética como pouco rigorosa e preferem reconstruir o materialismo histórico sem ela. *(não verificado)*
+- **Sistematização soviética.** [[Georgi Plekhanov]] e [[Lênin]] elaboraram o "materialismo dialético" a partir de Engels, e [[Stalin]] o fixou em um manual dogmático. O termo costuma ser atribuído a Plekhanov, embora Dietzgen já o tivesse usado. *(não verificado)*
+- **Científico em que sentido.** O "socialismo científico" foi alvo da crítica de falseabilidade de Popper, e [[G. A. Cohen]] procurou defender o materialismo histórico como teoria com explicações funcionais. *(não verificado)*
+- **Estatização e socialismo.** A distinção de Engels entre estatização e socialismo é a base de discussões posteriores sobre o caráter dos Estados que se disseram socialistas. *(não verificado)*
+- **Extinção do Estado.** A tese foi retomada por Lênin em *O Estado e a Revolução* e criticada pelos anarquistas. *(não verificado)*
 
 ## Dúvidas e objeções
-- Engels chama a natureza de "pedra de toque da dialética". Isso é compatível com restringir a dialética ao ser social? (Questão 4 em [[Questões em aberto]])
-- Se a estrutura econômica é a "base real", que autonomia sobra às ideias e à teoria? (Questão 2)
+- Engels chama a natureza de "pedra de toque da dialética". Isso é compatível com restringir a dialética ao ser social? (Questão [[Questões em aberto#4. Dialética só da história ou também da natureza?|4]] em [[Questões em aberto]])
+- Se a estrutura econômica é a "base real", que autonomia sobra às ideias e à teoria? (Questão [[Questões em aberto#2. Reflexividade|2]])
 - A necessidade histórica e a missão do proletariado se conciliam ou se contradizem?
 - O que diferencia a crítica de Engels aos utopistas da crítica moral que ele recusa?
 
