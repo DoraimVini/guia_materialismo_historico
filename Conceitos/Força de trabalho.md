@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Força de trabalho
 
-> [!info] Como ler as marcas
-> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a edição em papel e preencher as páginas.
+> [!info] Fonte e marcas
+> Fontes, na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. *(não verificado)* marca o que não vem desses textos. As páginas da edição em papel não estão indicadas.
 
 ## Em uma frase
 O que o operário vende não é "o trabalho", mas a sua capacidade de trabalhar por um tempo, e essa capacidade tem um valor como qualquer mercadoria.

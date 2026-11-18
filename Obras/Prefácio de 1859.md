@@ -13,8 +13,8 @@ criado: 2026-11-12
 
 Autor: [[Karl Marx]]
 
-> [!info] Como ler as marcas
-> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica não foram conferidos na fonte e terminam com *(conferir)*. Falta a conferência com uma edição em papel.
+> [!info] Fonte e marcas
+> A reconstrução do texto e as citações vêm da versão online (marxists.org), conferidas bloco a bloco. Os comentários da literatura crítica não foram confirmados na fonte e levam a marca *(não verificado)*. Não há cotejo com edição em papel.
 
 ## Referência
 Karl Marx, Prefácio da *Contribuição à Crítica da Economia Política* (1859). Versão online: [marxists.org](https://marxists.org/portugues/marx/1859/01/prefacio.htm), tradução de José Barata-Moura (*Obras Escolhidas*, Avante!, 1982), em português de Portugal ("económica", "superstrutura"). Edição de referência:
@@ -30,7 +30,7 @@ O §4. Leia-o duas vezes: a primeira para os termos, a segunda para a ordem das 
 2. **§2, a introdução suprimida.** Marx corta a introdução geral que esboçara, porque lhe parece prejudicial antecipar resultados ainda por comprovar. O leitor deverá "ascender do singular para o geral".
 3. **§3, jornalismo e economia (1842-43).** Na *Rheinische Zeitung*, os debates sobre o furto de lenha, a propriedade fundiária, a situação dos camponeses do Mosela e o livre-câmbio o põem diante de "interesses materiais". Ele recusa o socialismo e o comunismo franceses que circulavam no jornal e admite não poder julgá-los ainda. Retira-se para estudar.
 4. **§4, a tese geral.** Crítica da filosofia do direito de Hegel; relações de produção, base e superestrutura; revolução social; modos de produção; fim da pré-história. É o núcleo do texto.
-5. **§5, com Engels.** Em Bruxelas (1845), os dois "acertam contas" com a sua consciência filosófica anterior. O manuscrito, em dois volumes, não foi publicado e ficou à "crítica roedora dos ratos", porque o objetivo, a autocompreensão, já estava cumprido. A literatura identifica esse manuscrito com [[A Ideologia Alemã]] *(conferir; o Prefácio não dá o título)*. Marx cita o *Manifesto*, a *Miséria da Filosofia* (contra Proudhon) e o trabalho sobre o *Trabalho Assalariado*.
+5. **§5, com Engels.** Em Bruxelas (1845), os dois "acertam contas" com a sua consciência filosófica anterior. O manuscrito, em dois volumes, não foi publicado e ficou à "crítica roedora dos ratos", porque o objetivo, a autocompreensão, já estava cumprido. A literatura identifica esse manuscrito com [[A Ideologia Alemã]] *(não verificado; o Prefácio não dá o título)*. Marx cita o *Manifesto*, a *Miséria da Filosofia* (contra Proudhon) e o trabalho sobre o *Trabalho Assalariado*.
 6. **§6, de 1848 a 1859.** A revolução interrompe os estudos. Em Londres (1850), com o British Museum e a observação da sociedade burguesa, Marx recomeça "de princípio" a crítica do material. A colaboração de oito anos no *New-York Tribune* limita o seu tempo.
 7. **§7, fecho.** O percurso serve para mostrar que as opiniões resultam de investigação longa, ainda que contrariem os preconceitos das classes dominantes. A epígrafe é de Dante: à entrada da ciência, como à do inferno, tem de ser posta a exigência de abandonar toda desconfiança.
 
@@ -45,7 +45,7 @@ O §4. Leia-o duas vezes: a primeira para os termos, a segunda para a ordem das 
 8. **Periodização.** Os modos de produção asiático, antigo, feudal e burguês são épocas progressivas. O burguês é a última forma antagónica, e com ele se encerra a "pré-história" da sociedade humana.
 
 > [!question] Interpretação
-> O passo 7 mostra a posição de onde Marx fala: ele separa o plano material, passível de verificação "como nas ciências naturais", das formas ideológicas. Isso supõe um ponto de vista que sabe distinguir os dois planos, e é exatamente o que as Questões 2 e 3 de [[Questões em aberto]] perguntam.
+> O passo 7 mostra a posição de onde Marx fala: ele separa o plano material, passível de verificação "como nas ciências naturais", das formas ideológicas. Isso supõe um ponto de vista que sabe distinguir os dois planos, e é exatamente o que as Questões [[Questões em aberto#2. Reflexividade|2]] e [[Questões em aberto#3. Critério de cientificidade|3]] de [[Questões em aberto]] perguntam.
 
 ## Conceitos-chave (como o texto os usa)
 - **Forças produtivas materiais:** o que a sociedade dispõe para produzir. Cada etapa do seu desenvolvimento corresponde a um conjunto de relações de produção.
@@ -86,16 +86,16 @@ O §4. Leia-o duas vezes: a primeira para os termos, a segunda para a ordem das 
 > — §5, trad. Barata-Moura; página: ___
 
 ## Debate crítico
-- **Primazia das forças produtivas.** [[G. A. Cohen]] trata o §4 como a formulação canônica e a reconstrói com duas teses: as forças produtivas tendem a se desenvolver, e as relações de produção são explicadas pelo nível dessas forças (explicação funcional). Daí a acusação de determinismo tecnológico. *(conferir)*
-- **Contra a primazia das forças.** [[Ellen Meiksins Wood]] e [[Robert Brenner]] (marxismo político) enfatizam as relações sociais de propriedade e a luta de classes como motor da história, e não o desenvolvimento das forças produtivas. *(conferir)*
-- **A metáfora de base e superestrutura.** [[E. P. Thompson]] criticou o modelo como rígido. [[Louis Althusser]] mantém a determinação "em última instância" pela economia, mas a combina com a autonomia relativa e com a "sobredeterminação" (*Por Marx*), e chama a topografia base/superestrutura de metáfora a ser corrigida. Engels, em cartas dos anos 1890, já admitia a ação recíproca da superestrutura. *(conferir)*
-- **Totalidade em vez de economia.** [[Georg Lukács]] sustenta, em [[História e Consciência de Classe]], que a ortodoxia marxista diz respeito ao método e que o ponto de vista central é a totalidade, não o primado dos fatores econômicos. *(conferir)*
-- **Estágios.** A sequência asiático, antigo, feudal e burguês foi lida como esquema de estágios. [[Perry Anderson]] e [[Eric Hobsbawm]] discutiram sua aplicação histórica. *(conferir)*
-- **Hegemonia.** [[Antonio Gramsci]] retoma o tema da superestrutura com a hegemonia e o "bloco histórico". *(conferir)*
+- **Primazia das forças produtivas.** [[G. A. Cohen]] trata o §4 como a formulação canônica e a reconstrói com duas teses: as forças produtivas tendem a se desenvolver, e as relações de produção são explicadas pelo nível dessas forças (explicação funcional). Daí a acusação de determinismo tecnológico. *(não verificado)*
+- **Contra a primazia das forças.** [[Ellen Meiksins Wood]] e [[Robert Brenner]] (marxismo político) enfatizam as relações sociais de propriedade e a luta de classes como motor da história, e não o desenvolvimento das forças produtivas. *(não verificado)*
+- **A metáfora de base e superestrutura.** [[E. P. Thompson]] criticou o modelo como rígido. [[Louis Althusser]] mantém a determinação "em última instância" pela economia, mas a combina com a autonomia relativa e com a "sobredeterminação" (*Por Marx*), e chama a topografia base/superestrutura de metáfora a ser corrigida. Engels, em cartas dos anos 1890, já admitia a ação recíproca da superestrutura. *(não verificado)*
+- **Totalidade em vez de economia.** [[Georg Lukács]] sustenta, em [[História e Consciência de Classe]], que a ortodoxia marxista diz respeito ao método e que o ponto de vista central é a totalidade, não o primado dos fatores econômicos. *(não verificado)*
+- **Estágios.** A sequência asiático, antigo, feudal e burguês foi lida como esquema de estágios. [[Perry Anderson]] e [[Eric Hobsbawm]] discutiram sua aplicação histórica. *(não verificado)*
+- **Hegemonia.** [[Antonio Gramsci]] retoma o tema da superestrutura com a hegemonia e o "bloco histórico". *(não verificado)*
 
 ## Dúvidas e objeções
-- O que significa "determina": causa, condicionamento ou limite? A resposta pesa nas Questões 1 e 2 de [[Questões em aberto]].
-- O passo 7 supõe um ponto de vista exterior à ideologia. De onde ele vem? (Questões 2 e 3)
+- O que significa "determina": causa, condicionamento ou limite? A resposta pesa nas Questões [[Questões em aberto#1. Reflexo ou práxis?|1]] e [[Questões em aberto#2. Reflexividade|2]] de [[Questões em aberto]].
+- O passo 7 supõe um ponto de vista exterior à ideologia. De onde ele vem? (Questões [[Questões em aberto#2. Reflexividade|2]] e [[Questões em aberto#3. Critério de cientificidade|3]])
 - O Prefácio dá primazia às forças produtivas. O [[Manifesto do Partido Comunista]] diz que a história é a história da luta de classes. Qual das duas é primária, e elas são compatíveis?
 - O que muda se lermos "ser social" como relações sociais (como na Tese VI de [[Teses sobre Feuerbach]]) e não como "condições materiais"?
 

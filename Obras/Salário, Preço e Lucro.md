@@ -13,16 +13,16 @@ criado: 2026-11-12
 
 Autor: [[Karl Marx]]
 
-> [!info] Como ler as marcas
-> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7 a 10 conferidos na leitura anterior; caps. 6 e 12 a 14 acrescentados depois, por resumo e trechos curtos da página online, **não conferidos por script**) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a edição em papel e preencher as páginas.
+> [!info] Fonte e marcas
+> Fontes, na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7 a 10 conferidos na leitura anterior; caps. 6 e 12 a 14 acrescentados depois, por resumo e trechos curtos da página online, **não conferidos**) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. *(não verificado)* marca o que não vem desses textos. As páginas da edição em papel não estão indicadas.
 
 ## Referência
-Karl Marx, *Salário, Preço e Lucro*. Versão online: [índice no marxists.org](https://www.marxists.org/portugues/marx/1865/salario/), sem indicação de tradutor. Lidos: caps. 6 a 10 e 12 a 14. **Não lidos:** Observações preliminares, caps. 1 a 5 e cap. 11. A página informa que o texto é o relatório apresentado por Marx em 20 e 27 de junho de 1865 ao Conselho Geral da Associação Internacional dos Trabalhadores, publicado em folheto em Londres, em 1898; o site usa *Obras Escolhidas de Marx e Engels*, Ediciones en Lenguas Extranjeras, Moscou, 1953 (tradutor não indicado). Edição de referência:
+Karl Marx, *Salário, Preço e Lucro*. Versão online: [índice no marxists.org](https://www.marxists.org/portugues/marx/1865/salario/), sem indicação de tradutor. Fichados: caps. 6 a 10 e 12 a 14. **Não fichados:** Observações preliminares, caps. 1 a 5 e cap. 11. A página informa que o texto é o relatório apresentado por Marx em 20 e 27 de junho de 1865 ao Conselho Geral da Associação Internacional dos Trabalhadores, publicado em folheto em Londres, em 1898; o site usa *Obras Escolhidas de Marx e Engels*, Ediciones en Lenguas Extranjeras, Moscou, 1953 (tradutor não indicado). Edição de referência:
 
 ## Por que ler
 É a melhor porta de entrada para a [[Mais-valia]], num texto curto escrito para trabalhadores. Distingue [[Força de trabalho]] de trabalho, e explica o lucro sem recorrer a trapaça na troca.
 
-## Seções lidas
+## Seções fichadas
 | Cap. | Título na página | Conceito |
 | --- | --- | --- |
 | 6 | Valor e trabalho | [[Mercadoria e valor]] |
@@ -39,10 +39,10 @@ Karl Marx, *Salário, Preço e Lucro*. Versão online: [índice no marxists.org]
 2. **Cap. 8.** A "verdadeira dificuldade" é explicar a mais-valia sem violar a lei de que se compra e se paga o valor. A resposta está no uso da força de trabalho: parte da jornada repõe o valor, e a outra parte é mais-valia.
 3. **Cap. 9.** "Valor do trabalho" é expressão enganosa: o salário aparece como preço do trabalho. O trabalho não remunerado é a fonte da mais-valia.
 4. **Cap. 10.** O lucro vem de vender a mercadoria pelo seu valor, porque parte do valor é trabalho não pago.
-5. **Cap. 6 (lido depois).** O valor de uma mercadoria é o trabalho **socialmente necessário** para produzi-la nas condições médias da sociedade; não depende dos salários pagos. O preço é a expressão monetária do valor, e no longo prazo as oscilações de oferta e procura se compensam. Por isso o lucro deve ser explicado a partir dos valores, e não de uma venda acima deles.
-6. **Cap. 12 (lido depois).** O valor novo criado pelo trabalho se divide entre salário e lucro: o que uma parte ganha, a outra perde. Um aumento geral de salários reduz a taxa geral de lucro, mas não muda os valores das mercadorias.
-7. **Cap. 13 (lido depois).** Os casos em que os trabalhadores lutam por aumentos ou contra cortes: variações na produtividade e no valor do dinheiro, prolongamento e intensificação da jornada, ciclos de prosperidade e crise. A luta salarial é uma reação a ações anteriores do capital.
-8. **Cap. 14 (lido depois).** A luta por salários não se separa do sistema assalariado. Os sindicatos servem como centros de resistência, mas combatem efeitos, e o objetivo deve ser a abolição do trabalho assalariado. A tendência da produção capitalista, diz Marx, é rebaixar o padrão médio de salários. Ver [[Luta salarial e sindicatos]].
+5. **Cap. 6.** O valor de uma mercadoria é o trabalho **socialmente necessário** para produzi-la nas condições médias da sociedade; não depende dos salários pagos. O preço é a expressão monetária do valor, e no longo prazo as oscilações de oferta e procura se compensam. Por isso o lucro deve ser explicado a partir dos valores, e não de uma venda acima deles.
+6. **Cap. 12.** O valor novo criado pelo trabalho se divide entre salário e lucro: o que uma parte ganha, a outra perde. Um aumento geral de salários reduz a taxa geral de lucro, mas não muda os valores das mercadorias.
+7. **Cap. 13.** Os casos em que os trabalhadores lutam por aumentos ou contra cortes: variações na produtividade e no valor do dinheiro, prolongamento e intensificação da jornada, ciclos de prosperidade e crise. A luta salarial é uma reação a ações anteriores do capital.
+8. **Cap. 14.** A luta por salários não se separa do sistema assalariado. Os sindicatos servem como centros de resistência, mas combatem efeitos, e o objetivo deve ser a abolição do trabalho assalariado. A tendência da produção capitalista, diz Marx, é rebaixar o padrão médio de salários. Ver [[Luta salarial e sindicatos]].
 
 ## Análise do argumento
 1. A força de trabalho é mercadoria, e seu valor é determinado como o de qualquer outra.
@@ -107,7 +107,7 @@ Karl Marx, *Salário, Preço e Lucro*. Versão online: [índice no marxists.org]
 
 ## Debate crítico
 - **Sem mistério na troca.** A tese de que há lucro com troca de equivalentes foi contestada. O principal contra-argumento vem do problema da transformação. Ver [[Problema da transformação]].
-- **Trabalho doméstico.** [[Silvia Federici]] e [[Lise Vogel]] perguntam quem produz e reproduz a força de trabalho. *(conferir)*
+- **Trabalho doméstico.** [[Silvia Federici]] e [[Lise Vogel]] perguntam quem produz e reproduz a força de trabalho. *(não verificado)*
 - **Sindicato como resistência.** O cap. 14 dá ao sindicato o papel de "centro de resistência" e pede um objetivo maior (abolir o salariado). Isso se compara com a fórmula de Lênin em [[Que Fazer (Lênin)]] e com [[Greve de massas, partido e sindicatos]] (Rosa). Ver [[Luta salarial e sindicatos]]. *(interpretação)*
 - **Mesmo tema em 1849.** [[Trabalho Assalariado e Capital]] trata do mesmo problema doze anos antes, e a introdução de Engels (1891) explica a troca de "trabalho" por "força de trabalho".
 
@@ -117,7 +117,7 @@ Karl Marx, *Salário, Preço e Lucro*. Versão online: [índice no marxists.org]
 
 ## Para a conferência com a edição em papel
 - [ ] Anotar a página de cada citação.
-- [ ] Ler as Observações preliminares, os caps. 1 a 5 e o cap. 11, ainda não lidos.
+- [ ] Ler as Observações preliminares, os caps. 1 a 5 e o cap. 11, não fichados.
 - [ ] Conferir no link os trechos dos caps. 6 e 12 a 14, que vieram por resumo da página, sem o texto integral.
 
 ## Conceitos relacionados

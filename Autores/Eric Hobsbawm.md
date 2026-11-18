@@ -23,7 +23,7 @@ Corrente: [[Historiografia e tradição britânica]]
 - [[Genealogia - fascismo, Estado e hegemonia]]
 
 ## Fichamentos
-- [[A Era dos Extremos]]: lido por trechos a partir do PDF (ver [[Hobsbawm lê Marx]] e [[Morte do campesinato]])
+- [[A Era dos Extremos]]: fichado por trechos a partir do PDF (ver [[Hobsbawm lê Marx]] e [[Morte do campesinato]])
 - [[Manifesto para a renovação da história]]
 - [[Depoimento (1989)]]
 - [[Obituário de E. P. Thompson]]

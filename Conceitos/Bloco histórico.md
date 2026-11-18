@@ -8,13 +8,13 @@ criado: 2026-11-12
 
 # Bloco histórico
 
-> [!info] Como ler as marcas
-> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não foi lido ou conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, fichados por trechos. As citações foram conferidas no texto do PDF, na página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
-Nas passagens lidas, o bloco histórico é a unidade entre forças materiais e ideologias, em que as ideologias são a "forma" e as forças materiais o "conteúdo" (uma distinção que Gramsci chama de "puramente didática").
+Nas passagens fichadas, o bloco histórico é a unidade entre forças materiais e ideologias, em que as ideologias são a "forma" e as forças materiais o "conteúdo" (uma distinção que Gramsci chama de "puramente didática").
 
-## Base textual (verificada)
+## Base textual
 **Forma e conteúdo.** Ao analisar a "validade das ideologias".
 > "as forças materiais são o conteúdo e as ideologias são a forma, distinção entre forma e conteúdo puramente didática"
 > — vol. 1, p. 277 · Caderno 7, § 21 · [[Gramsci - Cadernos do Cárcere vol 1.pdf#page=277|abrir]]

@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Acumulação e ambientes não capitalistas
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página online e **não foram conferidas por script contra um arquivo**, ao contrário das notas feitas a partir dos PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, sem cotejo com um arquivo baixado. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Tese de Rosa Luxemburgo: a acumulação capitalista depende de camadas e territórios não capitalistas, onde encontra mercados, meios de produção e força de trabalho; por isso a expansão colonial e o militarismo fazem parte da reprodução do capital.
@@ -18,7 +18,7 @@ Tese de Rosa Luxemburgo: a acumulação capitalista depende de camadas e territ�
 Ver [[A Acumulação do Capital]]: o capital "depende em todos os aspectos" de camadas e formas não capitalistas; precisa de "meios de produção e força de trabalho de todo o globo"; métodos de "compulsão suave" e de violência. (Tradução livre do inglês.)
 
 ## Ponto de atrito com a teoria do valor e da acumulação
-Marx, em *O Capital*, trata a acumulação com o esquema de reprodução ampliada de um capitalismo fechado (ver [[Acumulação de capital]]). Rosa sustenta que esse esquema não explica de onde vem a demanda para realizar a mais-valia acumulada ([[Mais-valia]]). A tese foi muito criticada (por Bukharin e outros, como subconsumista). *(conferir)* Ver a Questão 20.
+Marx, em *O Capital*, trata a acumulação com o esquema de reprodução ampliada de um capitalismo fechado (ver [[Acumulação de capital]]). Rosa sustenta que esse esquema não explica de onde vem a demanda para realizar a mais-valia acumulada ([[Mais-valia]]). A tese foi muito criticada (por Bukharin e outros, como subconsumista). *(não verificado)* Ver a Questão [[Questões em aberto#20. A acumulação precisa de um "fora" não capitalista?|20]].
 
 ## Em debate (fontes novas)
 - Singer: o esquema de Marx "não tem demanda" para a parte acumulada; a demanda "vem de fora" (ver [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]]).

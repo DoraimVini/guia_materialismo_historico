@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Socialismo real
 
-> [!info] Como ler as marcas
-> Esta nota vem do **PDF de *Era dos Extremos***, lido por trechos (os trechos estão listados na nota da obra). As aspas foram copiadas do PDF e a página foi localizada por script. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. O que não foi lido ou conferido na fonte, ou vem de resenha, termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem do **PDF de *Era dos Extremos***; as partes cobertas estão listadas na nota da obra. As citações foram conferidas no texto do PDF. **A página é a do PDF** (764 páginas): é um PDF refluído de um epub, sem numeração impressa, então **não bate com as páginas da edição em papel**; por isso a citação traz também o capítulo. Os resumos são paráfrases. *(não verificado)* marca o que não foi confirmado na fonte ou vem de resenha.
 
 ## Em uma frase
 Nome dado às sociedades de tipo soviético (o "socialismo realmente existente"). Para Hobsbawm, uma experiência com características estruturais próprias, com um fracasso que ele explica em termos econômicos e políticos e cuja relação com Marx é ambígua.
@@ -47,12 +47,12 @@ Nome dado às sociedades de tipo soviético (o "socialismo realmente existente")
 
 
 ## O que o texto não confirma
-A Wikipédia atribui a Hobsbawm a hostilidade de Lênin ao liberalismo, os movimentos de Stalin contra revoluções na guerra e a doutrina maoista ligada ao Grande Salto e à fome de 1959-61. Esses pontos não estão nos trechos lidos. *(conferir nos caps. 13 e 15)* As outras fontes (Depoimento de 1989, Trótski) continuam em [[Depoimento (1989)]].
+Resumos correntes do livro atribuem a Hobsbawm a hostilidade de Lênin ao liberalismo, os movimentos de Stalin contra revoluções na guerra e a doutrina maoista ligada ao Grande Salto e à fome de 1959-61. Esses pontos não estão nas partes fichadas. *(não verificado nos caps. 13 e 15)* As outras fontes (Depoimento de 1989, Trótski) continuam em [[Depoimento (1989)]].
 
 ## Perguntas
 - O planejamento central aboliu a [[Mercadoria e valor]]? Hobsbawm diz que o socialismo "tinha de funcionar, pelo menos em parte, através de preços", inclusive "preços contábeis" (p. 586). Isso contraria a ideia de abolir a forma-valor?
 - Qual é a relação entre [[Materialismo dialético]] oficial (o manual soviético, [[Stalin]]) e a prática política? Hobsbawm diz que a ideologia obrigatória deixou a maioria da população "praticamente intocada" (p. 467, anedota de Budapeste).
-- Hobsbawm separa a crise da esquerda e a crise do marxismo (1989). O que o colapso soviético diz sobre a [[Prática como critério de verdade]]? É a Questão 9: o livro lê o colapso como argumento a favor da análise de Marx (p. 584) e, ao mesmo tempo, como falha do projeto prático.
+- Hobsbawm separa a crise da esquerda e a crise do marxismo (1989). O que o colapso soviético diz sobre a [[Prática como critério de verdade]]? É a Questão [[Questões em aberto#9. O fim do socialismo real refuta o materialismo histórico?|9]]: o livro lê o colapso como argumento a favor da análise de Marx (p. 584) e, ao mesmo tempo, como falha do projeto prático.
 
 ## Autores
 - [[Eric Hobsbawm]]

@@ -13,13 +13,13 @@ criado: 2026-11-12
 
 Autor: [[Friedrich Engels]]
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Trechos incompletos não foram usados. Antes de citar em trabalho, conferir no link e preencher a página da edição usada. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, em trechos curtos, sem cotejo com um arquivo baixado. Trechos incompletos não foram usados. As páginas da edição impressa não estão indicadas. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Referência
 Friedrich Engels, *Princípios Básicos do Comunismo*, escrito em 1847 (a página fica na pasta de novembro de 1847). Texto em forma de catecismo, com **25 perguntas e respostas**. Versão online: [marxists.org](https://www.marxists.org/portugues/marx/1847/11/principios.htm), tradução de José Barata-Moura, do alemão, em *Obras Escolhidas* em três tomos, Editorial «Avante!», Edições Progresso, Lisboa-Moscovo, 1982 (português de Portugal). O texto também circula como *Princípios do Comunismo*; o título da página é *Princípios Básicos do Comunismo*. Edição de referência:
 
-Em memória *(conferir)*: é um rascunho de programa para a Liga dos Comunistas, anterior ao *Manifesto* (1848), que abandonou a forma de perguntas e respostas.
+Em memória *(não verificado)*: é um rascunho de programa para a Liga dos Comunistas, anterior ao *Manifesto* (1848), que abandonou a forma de perguntas e respostas.
 
 ## Por que ler
 É a exposição mais direta que o cofre tem de como Engels, em 1847, liga **proletariado, propriedade privada, crises e revolução** numa sequência só. Serve de contraponto aos textos de Rosa, Lênin e Lukács sobre organização, tática e imperialismo: a pergunta 19 (a revolução em um só país) e a pergunta 18 (a democracia como primeiro passo) reaparecem nas [[Questões em aberto]].
@@ -96,11 +96,11 @@ Em memória *(conferir)*: é um rascunho de programa para a Liga dos Comunistas,
 
 ## Debate crítico
 - **Gradualismo e revolução.** A P16 e a P17 pedem prudência (nada de conspirações, nada "de um só golpe"), enquanto a P18 prevê o domínio político do proletariado. Como isso se compara com a polêmica de [[Reforma ou Revolução]]? *(pergunta)*
-- **Revolução mundial.** A P19 é o ponto de partida do debate sobre "socialismo em um só país" e sobre o desenvolvimento desigual. *(conferir)*
+- **Revolução mundial.** A P19 é o ponto de partida do debate sobre "socialismo em um só país" e sobre o desenvolvimento desigual. *(não verificado)*
 - **Forma de catecismo.** O texto foi redigido para uma organização, não como tratado. Ver [[Que Fazer (Lênin)]] para outra forma de pensar a organização.
 
 ## Dúvidas e objeções
-- Por que Engels, na P9, P22 e P23, deixou perguntas sem resposta? A nota da edição fala em projeto anterior perdido; a nota não foi lida por inteiro.
+- Por que Engels, na P9, P22 e P23, deixou perguntas sem resposta? A nota da edição fala em projeto anterior perdido; a nota não foi fichada por inteiro.
 - O que a P21 (família) pode ter a ver com [[Família e reprodução social]] hoje?
 - Qual a diferença entre o "proletariado" da P2 e a "classe trabalhadora" de hoje, com o trabalho informal?
 

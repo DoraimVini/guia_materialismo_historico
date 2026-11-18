@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Queda tendencial da taxa de lucro
 
-> [!info] Como ler as marcas
-> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a edição em papel e preencher as páginas.
+> [!info] Fonte e marcas
+> Fontes, na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. *(não verificado)* marca o que não vem desses textos. As páginas da edição em papel não estão indicadas.
 
 ## Em uma frase
 Com o aumento da composição orgânica do capital, a taxa de lucro tende a cair, mesmo que a taxa de mais-valia suba.
@@ -28,16 +28,16 @@ Com o aumento da composição orgânica do capital, a taxa de lucro tende a cair
 3. Como só v produz mais-valia, a taxa de lucro cai, salvo contratendências.
 
 ## "Tendência"
-Marx a chama de **tendência**, e os debates giram em torno disso. Existem causas contrariantes (cap. 14 do livro III: aumento da exploração, barateamento do capital constante, etc.), ainda não lidas. *(conferir)*
+Marx a chama de **tendência**, e os debates giram em torno disso. Existem causas contrariantes (cap. 14 do livro III: aumento da exploração, barateamento do capital constante, etc.), não fichadas. *(não verificado)*
 
 ## Debates
-- **Teorema de Okishio** (1961): se os capitalistas só adotam técnicas que reduzem custos, a taxa de lucro não cai. Os defensores da lei respondem com interpretações alternativas do valor. *(conferir)*
-- **Lei como ferramenta ou dogma?** Em crises, a lei é usada como teoria geral. Heinrich a questiona como "lei" demonstrada. *(conferir)*
+- **Teorema de Okishio** (1961): se os capitalistas só adotam técnicas que reduzem custos, a taxa de lucro não cai. Os defensores da lei respondem com interpretações alternativas do valor. *(não verificado)*
+- **Lei como ferramenta ou dogma?** Em crises, a lei é usada como teoria geral. Heinrich a questiona como "lei" demonstrada. *(não verificado)*
 
 ## Autores
 - [[Karl Marx]]
 - [[Michael Heinrich]]
-- [[Robert Brenner]]: explica a crise por competição e superacumulação, em vez de usar a lei de Marx. *(conferir)*
+- [[Robert Brenner]]: explica a crise por competição e superacumulação, em vez de usar a lei de Marx. *(não verificado)*
 
 ## Ver também
 - [[Problema da transformação]]

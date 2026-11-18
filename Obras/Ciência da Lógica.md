@@ -15,14 +15,14 @@ criado: 2026-11-14
 
 Autor: [[G. W. F. Hegel]] · trilha: Hegel, Marx e Lênin, etapa 1 · antes: [[Prefácio à Fenomenologia do Espírito]] · depois: [[Cadernos filosóficos (Lênin)]] · conceito: [[Contradição e negação da negação]]
 
-> [!info] Como ler as marcas
-> Esta nota vem da versão em português do marxists.org ([índice](https://www.marxists.org/portugues/hegel/1812/logica/index.htm)). A página não indica o tradutor, e a tradução é **irregular**: os prefácios e a Introdução são legíveis; vários capítulos da Doutrina da Essência parecem traduzidos de forma automática, com frases truncadas e termos instáveis (*aufheben* aparece como "superar", "suspender" e "abolir"). As citações abaixo foram procuradas por script no texto das páginas e reproduzem a tradução tal como está, inclusive os seus defeitos. Para citar em trabalho, usar a edição da Vozes. *(conferir)* Lidos: Prefácio à 1ª edição, Introdução, "Qual deve ser o início da ciência?", cap. 1 do Livro I (Ser, Nada, Devir e a nota sobre o *aufheben*), abertura do Livro II e, nele, os capítulos sobre a aparência, as determinações da reflexão (com a contradição) e o fenômeno. O resto do livro não foi lido. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
+> [!info] Fonte e marcas
+> Esta nota vem da versão em português do marxists.org ([índice](https://www.marxists.org/portugues/hegel/1812/logica/index.htm)). A página não indica o tradutor, e a tradução é **irregular**: os prefácios e a Introdução são legíveis; vários capítulos da Doutrina da Essência parecem traduzidos de forma automática, com frases truncadas e termos instáveis (*aufheben* aparece como "superar", "suspender" e "abolir"). As citações abaixo foram conferidas no texto das páginas e reproduzem a tradução tal como está, inclusive os seus defeitos. Para citação, a referência é a edição da Vozes. *(não verificado)* Fichados: Prefácio à 1ª edição, Introdução, "Qual deve ser o início da ciência?", cap. 1 do Livro I (Ser, Nada, Devir e a nota sobre o *aufheben*), abertura do Livro II e, nele, os capítulos sobre a aparência, as determinações da reflexão (com a contradição) e o fenômeno. O resto do livro não foi fichado. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
 
 ## Em uma frase
 A *Lógica* expõe as categorias do pensamento (ser, nada, devir, essência, aparência, contradição, conceito) não como formas vazias aplicadas de fora a um conteúdo, mas como um movimento que se desenvolve por si mesmo, em que cada categoria, levada até o fim, passa no seu oposto; o motor desse movimento é o negativo, e a contradição é "a raiz de todo movimento e vitalidade".
 
 ## Referência
-G. W. F. Hegel, *Wissenschaft der Logik*. Livro I, *A doutrina do ser* (Nuremberg, 1812; 2ª ed. revista, 1832); Livro II, *A doutrina da essência* (1813); Livro III, *A doutrina do conceito* (1816). Os Livros I e II formam a "lógica objetiva"; o III, a "lógica subjetiva". Versão resumida: a primeira parte da *Enciclopédia das ciências filosóficas* (1817), a chamada "Pequena Lógica". Edição brasileira: *Ciência da Lógica*, Vozes, em três volumes (2016-2018). *(conferir os tradutores e os anos)* Edição de referência:
+G. W. F. Hegel, *Wissenschaft der Logik*. Livro I, *A doutrina do ser* (Nuremberg, 1812; 2ª ed. revista, 1832); Livro II, *A doutrina da essência* (1813); Livro III, *A doutrina do conceito* (1816). Os Livros I e II formam a "lógica objetiva"; o III, a "lógica subjetiva". Versão resumida: a primeira parte da *Enciclopédia das ciências filosóficas* (1817), a chamada "Pequena Lógica". Edição brasileira: *Ciência da Lógica*, Vozes, em três volumes (2016-2018). *(tradutores e anos não verificados)* Edição de referência:
 
 ## Por que ler
 É o livro que Marx e Lênin leram como fonte do método. Marx conta a Engels, em 1858, que reler a *Lógica* lhe foi útil no "método de tratamento" da teoria do lucro ([[Hegel, a Fenomenologia e o materialismo histórico]]). No [[Posfácio de 1873]], diz que em Hegel a dialética está "de cabeça para baixo" e que é preciso virá-la "para descobrir o núcleo racional no invólucro místico". E Lênin, em 1914, escreve que não se entende o primeiro capítulo de *O Capital* sem ter estudado toda a *Lógica* ([[Cadernos filosóficos (Lênin)]]). Sem este livro, essas três frases ficam no ar.
@@ -38,10 +38,10 @@ G. W. F. Hegel, *Wissenschaft der Logik*. Livro I, *A doutrina do ser* (Nurember
 | Parte | Conteúdo | Leitura |
 | --- | --- | --- |
 | Prefácios (1812 e 1831) e Introdução | o novo conceito de método; dialética e especulação; a lógica como reino do pensamento puro | Prefácio de 1812 e Introdução |
-| "Qual deve ser o início da ciência?" | o começo deve ser o imediato indeterminado: o ser | lido |
+| "Qual deve ser o início da ciência?" | o começo deve ser o imediato indeterminado: o ser | fichado |
 | Livro I, A doutrina do ser | qualidade (ser, nada, devir; ser-aí; ser-para-si), quantidade, medida | cap. 1 (ser, nada, devir) |
 | Livro II, A doutrina da essência | a essência como reflexão (aparência; identidade, diferença, oposição, contradição; fundamento); o fenômeno; a efetividade | abertura, caps. "A aparência", "As determinações da reflexão", "Aparência" (seção II) |
-| Livro III, A doutrina do conceito | subjetividade (conceito, juízo, silogismo), objetividade (mecanismo, quimismo, teleologia), a Ideia (vida, conhecimento, a ideia absoluta e o método) | não lido |
+| Livro III, A doutrina do conceito | subjetividade (conceito, juízo, silogismo), objetividade (mecanismo, quimismo, teleologia), a Ideia (vida, conhecimento, a ideia absoluta e o método) | não fichado |
 
 ## Roteiro
 1. **O método (Prefácio de 1812).** A filosofia não pode tomar o método emprestado da matemática, nem confiar na intuição, nem raciocinar por reflexão exterior: "somente a natureza do conteúdo" se move no conhecimento científico. O entendimento fixa as determinações; a razão é "negativa e dialética", porque as dissolve, e "positiva", porque cria o universal. Esse movimento é "o método absoluto do conhecimento" e, ao mesmo tempo, "a alma imanente do próprio conteúdo".

@@ -8,13 +8,13 @@ criado: 2026-11-12
 
 # Senso comum e bom senso
 
-> [!info] Como ler as marcas
-> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, lidos por trechos. As aspas foram copiadas do texto do PDF e conferidas por script contra a página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. O que não foi lido ou conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem dos **PDFs dos *Cadernos do Cárcere* (vol. 1 e 2)**, fichados por trechos. As citações foram conferidas no texto do PDF, na página indicada. A **página é a do PDF**, que bate com o Sumário do próprio PDF; não há confirmação de que coincide com a paginação do livro em papel. Os resumos são paráfrases. Notas de rodapé citadas como "nota do editor" são de Carlos Nelson Coutinho. *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Para Gramsci, o senso comum é a filosofia espontânea e desagregada de todos, e o "bom senso" é o seu núcleo sadio, que a filosofia crítica deve desenvolver e unificar.
 
-## Base textual (verificada)
+## Base textual
 **Todos são filósofos.** A "filosofia espontânea" está na linguagem, no senso comum e no bom senso e na religião popular e no folclore (vol. 1, p. 98).
 > "É preciso, portanto, demonstrar preliminarmente que todos os homens são “filósofos”"
 > — vol. 1, p. 98 · Caderno 11, § 12 · [[Gramsci - Cadernos do Cárcere vol 1.pdf#page=98|abrir]]
@@ -37,7 +37,7 @@ Para Gramsci, o senso comum é a filosofia espontânea e desagregada de todos, e
 A filosofia da práxis deve começar como "crítica do senso comum", apoiando-se nele para mostrar que todos são filósofos (vol. 1, p. 107). Ela não quer manter os "simples" na filosofia primitiva, mas levá-los a uma concepção superior (vol. 1, p. 109). Ver [[Filosofia da práxis]].
 
 ## Perguntas
-Questão 2 (reflexividade) e Questão 15 em [[Questões em aberto]]: como a crítica do senso comum se aplica ao próprio marxismo?
+Questão [[Questões em aberto#2. Reflexividade|2]] (reflexividade) e Questão [[Questões em aberto#15. Quem faz a unidade de teoria e prática?|15]] em [[Questões em aberto]]: como a crítica do senso comum se aplica ao próprio marxismo?
 
 ## Autores
 - [[Antonio Gramsci]]

@@ -271,7 +271,7 @@ const DATA = /*__DATA__*/null;
     $("main").innerHTML = `
       <div class="eyebrow">Caderno de estudo · versão de teste</div>
       <h1 class="page">Materialismo histórico e economia política, em notas ligadas</h1>
-      <p class="lede">Um guia de base para estudar em grupo: dos fundamentos de Marx e Engels à economia política, a Gramsci, a Lênin, Lukács e Rosa Luxemburgo, e à história do século XX de Hobsbawm. Cada nota diz o que leu, de onde vem e o que ainda falta conferir.</p>
+      <p class="lede">Um guia de base para estudar em grupo: dos fundamentos de Marx e Engels à economia política, a Gramsci, a Lênin, Lukács e Rosa Luxemburgo, e à história do século XX de Hobsbawm. Cada nota indica de onde vêm as citações e o que ainda não foi verificado na fonte.</p>
       <div class="cta">
         <a class="btn primary" href="#${nx.id}" data-ctx="${nx.mod}">${started ? "Continuar: " + esc(byId[nx.id].t) : "Começar pelo roteiro"}</a>
         <a class="btn" href="#${byId[ids("Questões em aberto")] ? ids("Questões em aberto") : "inicio"}">Perguntas para discutir em grupo</a>
@@ -288,7 +288,7 @@ const DATA = /*__DATA__*/null;
       }).join("")}</div>
       <h2 class="sec">Como ler as marcas</h2>
       <div class="legend">
-        <div><em class="tbc">(conferir)</em> afirmação ainda não conferida na fonte ou numa edição em papel.</div>
+        <div><em class="tbc">(não verificado)</em> afirmação ainda não confirmada na fonte ou numa edição em papel.</div>
         <div><em class="mine">(interpretação)</em> leitura interpretativa, para discutir; não é afirmação da fonte.</div>
         <div><span class="wl-miss">texto pontilhado</span> remete a uma nota ou arquivo que não está nesta versão online.</div>
       </div>

@@ -13,12 +13,12 @@ criado: 2026-11-12
 
 Autor: [[Lênin]]
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
-> As citações marcadas "citado no folheto de Lora" foram **localizadas por script** no PDF.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, em trechos curtos, sem cotejo com um arquivo baixado. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
+> As citações marcadas "citado no folheto de Lora" foram conferidas no PDF.
 
 ## Referência
-V. I. Lênin, *O Imperialismo, Fase Superior do Capitalismo*, escrito de janeiro a junho de 1916. Edição na página: *Obras Escolhidas*, t. 2, Avante! / Progresso, 1984 (português de Portugal). Texto: [índice](https://www.marxists.org/portugues/lenin/1916/imperialismo/index.htm). Foram lidas as páginas dos **capítulos IV e VII**, o índice e trechos citados no folheto de Lora.
+V. I. Lênin, *O Imperialismo, Fase Superior do Capitalismo*, escrito de janeiro a junho de 1916. Edição na página: *Obras Escolhidas*, t. 2, Avante! / Progresso, 1984 (português de Portugal). Texto: [índice](https://www.marxists.org/portugues/lenin/1916/imperialismo/index.htm). Foram fichadas as páginas dos **capítulos IV e VII**, o índice e trechos citados no folheto de Lora.
 
 ## Estrutura
 I. Concentração da produção e monopólios · II. Os bancos · III. Capital financeiro e oligarquia financeira · **IV. Exportação de capital** · V. Partilha do mundo entre associações de capitalistas · VI. Partilha entre as grandes potências · **VII. O imperialismo, fase particular do capitalismo** · VIII. Parasitismo e decomposição · IX. Crítica do imperialismo · X. O lugar do imperialismo na história.
@@ -58,7 +58,7 @@ Singer, em [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]], contrapõe a
 > "O imperialismo seria a véspera da sua implosão."
 > — Paul Singer (sobre Lênin) · PDF p. 11 (livro pp. 20-21) · [[Loureiro (org.) - Socialismo ou Barbárie - Rosa Luxemburgo no Brasil.pdf#page=11|abrir]]
 
-A página do marxists.org cita, no prefácio de 1920, Lênin dizendo que o imperialismo é "a véspera da revolução social do proletariado". Já Loureiro diz que, para Rosa, "o imperialismo não é a última fase do capitalismo". Ver [[Imperialismo - Lênin e Rosa]] e a Questão 26.
+A página do marxists.org cita, no prefácio de 1920, Lênin dizendo que o imperialismo é "a véspera da revolução social do proletariado". Já Loureiro diz que, para Rosa, "o imperialismo não é a última fase do capitalismo". Ver [[Imperialismo - Lênin e Rosa]] e a Questão [[Questões em aberto#26. O imperialismo é uma fase ou uma condição permanente?|26]].
 
 ## Conceitos relacionados
 - [[Imperialismo - Lênin e Rosa]]

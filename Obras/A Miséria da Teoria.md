@@ -20,17 +20,17 @@ Autor: [[E. P. Thompson]]
 E. P. Thompson, *A Miséria da Teoria* (1978), com o subtítulo "ou um planetário de erros: uma crítica ao pensamento de Althusser". Edição de referência: 
 
 ## Por que ler
-Contraponto a Althusser na Questão 3 de [[Questões em aberto]]. Defende a experiência histórica e o diálogo com a evidência.
+Contraponto a Althusser na Questão [[Questões em aberto#3. Critério de cientificidade|3]] de [[Questões em aberto]]. Defende a experiência histórica e o diálogo com a evidência.
 
 ## Foco da leitura
 O argumento de Thompson contra a separação entre teoria e evidência histórica.
 
-## Contexto (pré-leitura)
+## Contexto
 Ensaio polêmico contra o estruturalismo de Althusser, em defesa da experiência histórica e do diálogo entre teoria e evidência.
 
 ## Perguntas-guia
 - O que Thompson entende por experiência e por diálogo com a evidência?
-- Isso responde à pergunta sobre o critério de cientificidade ou a desloca? (Questão 3)
+- Isso responde à pergunta sobre o critério de cientificidade ou a desloca? (Questão [[Questões em aberto#3. Critério de cientificidade|3]])
 - Como situar Thompson frente a Cohen, que reconstrói o materialismo histórico de modo analítico?
 
 ## Como ler

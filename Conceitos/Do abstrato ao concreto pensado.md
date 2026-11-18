@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Do abstrato ao concreto pensado
 
-> [!info] Como ler as marcas
-> Os textos abaixo foram lidos na versão online e as citações conferidas: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto não foi conferido na fonte e termina com *(conferir)*. Falta conferir tudo com uma edição em papel.
+> [!info] Fonte e marcas
+> Citações conferidas na versão online destes textos: [[Prefácio de 1859]], [[Teses sobre Feuerbach]], [[Do socialismo utópico ao socialismo científico]], [[Introdução de 1857]], [[Posfácio de 1873]], [[Materialismo e Empiriocriticismo]] (seções 8, 10 e 12), *A Ideologia Alemã* (cap. Feuerbach), *Miséria da Filosofia* (cap. II, §1), *O Capital* (cap. 1, seção 4) e *Sobre a Questão da Dialética* (Lênin, 1915). O resto leva a marca *(não verificado)*. Não há cotejo com edição em papel.
 
 ## Em uma frase
 O concreto é síntese de múltiplas determinações, e o pensamento o reconstrói por abstrações sucessivas. Marx separa o método de investigação do método de exposição.
@@ -17,7 +17,7 @@ O concreto é síntese de múltiplas determinações, e o pensamento o reconstr�
 ## Base textual
 Fichamento: [[Introdução de 1857]].
 - O exemplo da população: "A população é uma abstração quando, por exemplo, deixamos de lado as classes de que se compõe."
-- O caminho de ida: da representação caótica do todo a determinações cada vez mais simples (paráfrase). *(conferir a formulação exata)*
+- O caminho de ida: da representação caótica do todo a determinações cada vez mais simples (paráfrase). *(formulação exata não verificada)*
 - O caminho de volta: "O concreto é concreto porque é a síntese de múltiplas determinações e, por isso, é a unidade do diverso."
 - Resultado, não ponto de partida: "Aparece no pensamento como processo de síntese, como resultado, e não como ponto de partida".
 - Contra Hegel: a "ilusão de conceber o real como resultado do pensamento", e a ressalva "não é este de modo nenhum o processo de gênese do concreto em si".
@@ -28,12 +28,12 @@ Fichamento: [[Introdução de 1857]].
 ## A dupla tese
 O texto afirma, ao mesmo tempo, que o concreto pensado é produto do pensamento (construção) e que o sujeito real existe fora da mente (realismo). As leituras se dividem conforme o acento:
 - **Reflexo:** acentua o realismo (ver [[Teoria do reflexo]]).
-- **Reprodução ideal:** tenta manter as duas teses ([[José Paulo Netto]]; ver [[Método como reprodução ideal do real]]). *(conferir)*
-- **Objeto de conhecimento:** [[Louis Althusser]] acentua a construção e insiste que o processo de conhecimento se passa no conhecimento. *(conferir)*
-- **Pseudoconcreticidade:** [[Karel Kosík]] distingue as aparências do concreto como totalidade. *(conferir)*
+- **Reprodução ideal:** tenta manter as duas teses ([[José Paulo Netto]]; ver [[Método como reprodução ideal do real]]). *(não verificado)*
+- **Objeto de conhecimento:** [[Louis Althusser]] acentua a construção e insiste que o processo de conhecimento se passa no conhecimento. *(não verificado)*
+- **Pseudoconcreticidade:** [[Karel Kosík]] distingue as aparências do concreto como totalidade. *(não verificado)*
 
 ## Problema
-Se o concreto pensado é produto do pensamento e, ao mesmo tempo, reproduz o real, o que distingue reconstruir o real de construir uma teoria sobre ele? E se o pensamento parte de abstrações, o que garante que são as certas? Ligado às Questões 1 e 3 de [[Questões em aberto]].
+Se o concreto pensado é produto do pensamento e, ao mesmo tempo, reproduz o real, o que distingue reconstruir o real de construir uma teoria sobre ele? E se o pensamento parte de abstrações, o que garante que são as certas? Ligado às Questões [[Questões em aberto#1. Reflexo ou práxis?|1]] e [[Questões em aberto#3. Critério de cientificidade|3]] de [[Questões em aberto]].
 
 ## Autores
 - [[Karl Marx]]

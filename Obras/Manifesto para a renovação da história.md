@@ -13,8 +13,8 @@ criado: 2026-11-12
 
 Autor: [[Eric Hobsbawm]]
 
-> [!info] Como ler as marcas
-> **Nota anterior à leitura de *A Era dos Extremos*.** Fontes: a página da edição brasileira (Companhia das Letras), a [página da Wikipédia em inglês](https://en.wikipedia.org/wiki/The_Age_of_Extremes), as resenhas de Cavallaro Filho (2022) e de Pomar (1997/98), e três textos do próprio Hobsbawm no marxists.org: o *Depoimento* (1989), o obituário de E. P. Thompson (1993) e o *Manifesto para a renovação da história* (2004). Os resumos são paráfrases. O que não vem dessas leituras termina com *(conferir)*. Para citar, é preciso uma edição em papel: as páginas ficam como `página: ___`.
+> [!info] Fonte e marcas
+> Fontes: a página da edição brasileira (Companhia das Letras), a [página da Wikipédia em inglês](https://en.wikipedia.org/wiki/The_Age_of_Extremes), as resenhas de Cavallaro Filho (2022) e de Pomar (1997/98), e três textos do próprio Hobsbawm no marxists.org: o *Depoimento* (1989), o obituário de E. P. Thompson (1993) e o *Manifesto para a renovação da história* (2004). Os resumos são paráfrases. *(não verificado)* marca o que não vem desses textos. As páginas da edição em papel ficam em branco (`página: ___`).
 
 ## Referência
 Eric Hobsbawm, *Manifesto para a renovação da história*, texto apresentado no Colóquio da Academia Britânica sobre Historiografia Marxista, 13 de novembro de 2004. Versão online: [marxists.org (PDF)](https://www.marxists.org/portugues/hobsbawm/2004/11/13.pdf). A página não indica tradutor. Edição de referência:
@@ -39,10 +39,10 @@ Eric Hobsbawm, *Manifesto para a renovação da história*, texto apresentado no
 4. A experiência dos projetos coletivos do século XX pode ajudar a entender o que a humanidade fez e não pretendia.
 
 > [!question] Interpretação
-> A defesa da "razão" contra o relativismo supõe um critério de verdade histórica. A Questão 3 pergunta qual. Hobsbawm responde com a ideia de uma coalizão de historiadores, não com um critério formal. É suficiente?
+> A defesa da "razão" contra o relativismo supõe um critério de verdade histórica. A Questão [[Questões em aberto#3. Critério de cientificidade|3]] pergunta qual. Hobsbawm responde com a ideia de uma coalizão de historiadores, não com um critério formal. É suficiente?
 
 ## Debate crítico
-- **Relativismo.** Quem o defende alega que o ponto de vista marca todo conhecimento. Ver a [[Primazia do ser social]] e a Questão 2 (reflexividade).
+- **Relativismo.** Quem o defende alega que o ponto de vista marca todo conhecimento. Ver a [[Primazia do ser social]] e a Questão [[Questões em aberto#2. Reflexividade|2]] (reflexividade).
 - **Marx e a base econômica.** Hobsbawm diz que o peso dado a fatores econômicos e sociais foi parte de um movimento mais amplo, e não só marxista.
 
 ## Dúvidas e objeções

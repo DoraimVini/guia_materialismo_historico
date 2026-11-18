@@ -15,32 +15,32 @@ criado: 2026-11-14
 
 Autor: [[Lênin]] · trilha: Hegel, Marx e Lênin, etapa 2 · lê: [[Ciência da Lógica]] · comparar com: [[Materialismo e Empiriocriticismo]] · conceitos: [[Contradição e negação da negação]], [[Teoria do reflexo]]
 
-> [!info] Como ler as marcas
-> Os *Cadernos* não estão no marxists.org em português. Esta nota vem da versão em inglês das *Collected Works*, vol. 38 (Progress, trad. Clemence Dutt), no marxists.org: o "Resumo da *Ciência da Lógica* de Hegel" (1914, [índice](https://www.marxists.org/archive/lenin/works/1914/cons-logic/index.htm)), o "Resumo da dialética" que fecha esse resumo, o fragmento "Sobre a questão da dialética" (1915, [link](https://www.marxists.org/archive/lenin/works/1915/misc/x02.htm)) e o resumo das *Lições de história da filosofia* de Hegel (1915, [índice](https://www.marxists.org/archive/lenin/works/1915/cons-lect/toc.htm)), este só para localizar uma frase. Também se usou, em português, o ensaio "Karl Marx" (1914, Edições Avante!, [link](https://www.marxists.org/portugues/lenin/1914/11/marx-avante.htm)), escrito na mesma época. As citações em inglês vêm na língua da fonte, seguidas de tradução livre, e foram procuradas por script no texto das páginas. Os números entre parênteses nos *Cadernos* remetem às páginas da edição alemã de Hegel que Lênin usava. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*; o que não foi conferido, *(conferir)*.
+> [!info] Fonte e marcas
+> Os *Cadernos* não estão no marxists.org em português. Esta nota vem da versão em inglês das *Collected Works*, vol. 38 (Progress, trad. Clemence Dutt), no marxists.org: o "Resumo da *Ciência da Lógica* de Hegel" (1914, [índice](https://www.marxists.org/archive/lenin/works/1914/cons-logic/index.htm)), o "Resumo da dialética" que fecha esse resumo, o fragmento "Sobre a questão da dialética" (1915, [link](https://www.marxists.org/archive/lenin/works/1915/misc/x02.htm)) e o resumo das *Lições de história da filosofia* de Hegel (1915, [índice](https://www.marxists.org/archive/lenin/works/1915/cons-lect/toc.htm)), este só para localizar uma frase. Também se usou, em português, o ensaio "Karl Marx" (1914, Edições Avante!, [link](https://www.marxists.org/portugues/lenin/1914/11/marx-avante.htm)), escrito na mesma época. As citações em inglês vêm na língua da fonte, seguidas de tradução livre, e foram conferidas no texto das páginas. Os números entre parênteses nos *Cadernos* remetem às páginas da edição alemã de Hegel que Lênin usava. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*; o que não foi conferido, *(não verificado)*.
 
 ## Em uma frase
 Entre setembro de 1914 e 1915, em Berna, Lênin lê a *Ciência da Lógica* e conclui que a dialética não é um conjunto de exemplos, mas a própria teoria do conhecimento do marxismo: o conhecimento é uma aproximação infinita do pensamento ao objeto, que passa pela abstração e é testada pela prática, e o seu núcleo é a unidade e a luta dos contrários, a fonte do "automovimento" das coisas.
 
 ## Referência
-V. I. Lênin, *Cadernos filosóficos* (escritos sobretudo em 1914-1916; publicados na URSS a partir de 1929-1930). *Collected Works*, vol. 38 (Moscou, Progress, 1961; 4ª ed., 1976), trad. Clemence Dutt. *(conferir as datas da primeira publicação)* Em português, há uma edição dos cadernos sobre Hegel: *Cadernos sobre a dialética de Hegel* (Editora UFRJ). *(conferir tradutor e ano)* Edição de referência:
+V. I. Lênin, *Cadernos filosóficos* (escritos sobretudo em 1914-1916; publicados na URSS a partir de 1929-1930). *Collected Works*, vol. 38 (Moscou, Progress, 1961; 4ª ed., 1976), trad. Clemence Dutt. *(datas da primeira publicação não verificadas)* Em português, há uma edição dos cadernos sobre Hegel: *Cadernos sobre a dialética de Hegel* (Editora UFRJ). *(tradutor e ano não verificados)* Edição de referência:
 
 ## Por que ler
 Porque é o lugar onde Lênin acerta contas com Hegel e, indiretamente, consigo mesmo. Em 1909, em [[Materialismo e Empiriocriticismo]], o conhecimento aparece como cópia e fotografia da matéria. Em 1914-15, Lênin escreve que a consciência "não só reflete o mundo objetivo, mas o cria", que o conhecimento é uma espiral, e que nenhum marxista entendeu *O Capital* por não ter lido toda a *Lógica*. É o texto central para a pergunta da [[Teoria do reflexo]]: duas fases ou uma só?
 
 ## O que é bom saber antes *(contexto)*
 - **Agosto de 1914.** A guerra começa, e a social-democracia alemã, o maior partido da Segunda Internacional, vota os créditos de guerra. Lênin, exilado na Suíça, vê o marxismo "oficial" de Kautsky e Plekhanov apoiar a guerra. Os *Cadernos* começam logo depois, na biblioteca de Berna.
-- **O que vem depois.** Na sequência, Lênin escreve *O imperialismo, fase superior do capitalismo* (1916) e *O Estado e a Revolução* (1917). Alguns intérpretes sustentam que a leitura de Hegel muda a sua política. *(conferir: K. Anderson, *Lenin, Hegel and Western Marxism*, 1995)* Ver [[Imperialismo, fase superior do capitalismo (Lênin)]].
+- **O que vem depois.** Na sequência, Lênin escreve *O imperialismo, fase superior do capitalismo* (1916) e *O Estado e a Revolução* (1917). Alguns intérpretes sustentam que a leitura de Hegel muda a sua política. *(não verificado: K. Anderson, *Lenin, Hegel and Western Marxism*, 1995)* Ver [[Imperialismo, fase superior do capitalismo (Lênin)]].
 - **Notas, não livro.** São resumos e citações de Hegel com comentários na margem ("NB", "très bien", "obscuro!"). Lênin não os preparou para publicar.
 - **Ler Hegel "materialistamente".** Lênin avisa que lê Hegel deixando de lado "Deus, o Absoluto, a Ideia pura", seguindo Engels: Hegel é "materialismo posto de cabeça para baixo".
 
 ## Estrutura
 | Parte | Conteúdo | Leitura |
 | --- | --- | --- |
-| Resumo dos prefácios e da Introdução da *Lógica* | a lógica como ciência das leis de desenvolvimento das coisas; a abstração científica | lido |
+| Resumo dos prefácios e da Introdução da *Lógica* | a lógica como ciência das leis de desenvolvimento das coisas; a abstração científica | fichado |
 | Resumo do Livro I (Ser) | o começo; quantidade e qualidade; saltos | trechos |
 | Resumo do Livro II (Essência) | aparência, lei e fenômeno; "a essência tem de aparecer" | trechos |
 | Resumo do Livro III (Conceito) | o silogismo e o aforismo sobre *O Capital*; a Ideia; a prática; os "elementos da dialética" | trechos |
-| "Sobre a questão da dialética" (1915) | a unidade dos contrários; a "célula" de *O Capital*; o conhecimento como espiral | lido |
+| "Sobre a questão da dialética" (1915) | a unidade dos contrários; a "célula" de *O Capital*; o conhecimento como espiral | fichado |
 | Resumo das *Lições de história da filosofia* (1915) | Heráclito, Aristóteles; o idealismo inteligente | só uma passagem |
 
 ## Roteiro
@@ -74,7 +74,7 @@ Porque é o lugar onde Lênin acerta contas com Hegel e, indiretamente, consigo 
 
 ## Limites e leituras *(interpretação)*
 1. **Notas privadas.** Os *Cadernos* são anotações de leitura; transformá-los em doutrina fechada, como fez parte do marxismo soviético, contradiz o seu caráter de pesquisa.
-2. **Ruptura ou continuidade?** Para uns, há um "Lênin hegeliano" novo, que rompe com 1909 (Lefebvre, Anderson). Para Althusser, em "Lênin diante de Hegel" (1969), Lênin lê Hegel como materialista e mantém a mesma linha. *(conferir)*
+2. **Ruptura ou continuidade?** Para uns, há um "Lênin hegeliano" novo, que rompe com 1909 (Lefebvre, Anderson). Para Althusser, em "Lênin diante de Hegel" (1969), Lênin lê Hegel como materialista e mantém a mesma linha. *(não verificado)*
 3. **O que Lênin não leu.** O resumo se concentra na *Lógica* e nas *Lições*; Lênin praticamente não comenta a *Fenomenologia* nem a *Filosofia do Direito*.
 
 ## Personagens e termos

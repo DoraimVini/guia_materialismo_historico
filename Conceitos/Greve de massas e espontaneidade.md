@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Greve de massas e espontaneidade
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página online e **não foram conferidas por script contra um arquivo**, ao contrário das notas feitas a partir dos PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, sem cotejo com um arquivo baixado. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 A greve de massas é, para Rosa, um período inteiro da luta de classes no qual luta política e econômica se alimentam e a organização nasce da luta; o partido dá a palavra de ordem, mas não decreta a greve.
@@ -27,7 +27,7 @@ A greve de massas é, para Rosa, um período inteiro da luta de classes no qual 
 Löwy diz que Rosa nunca rejeitou o partido e criticava o "vanguardismo substitutista"; Loureiro dá a Rosa uma vanguarda que "esclarece, não comanda" (ver [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]]). Isso é interpretação deles.
 
 ## Perguntas
-Questão 19 em [[Questões em aberto]].
+Questão [[Questões em aberto#19. A organização nasce da luta ou a precede?|19]] em [[Questões em aberto]].
 
 ## Ver também
 - [[Rosa Luxemburgo]]

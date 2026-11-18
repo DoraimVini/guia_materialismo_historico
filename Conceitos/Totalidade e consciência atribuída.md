@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Totalidade e consciência atribuída
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página, em trechos curtos, e **não foram conferidas por script** contra um arquivo. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, em trechos curtos, sem cotejo com um arquivo baixado. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Em Lukács, a consciência de classe é a reação racional adequada que se atribui a uma situação de classe, entendida a partir da totalidade social, e não a média do que os indivíduos pensam.
@@ -23,6 +23,6 @@ Ver [[Consciência de Classe (Lukács, 1920)]] (capítulos I e IV): totalidade c
 - Löwy liga a totalidade de Lukács a Rosa (ver [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]]).
 
 ## Perguntas
-Questão 2 (sujeito-objeto) já registrada; a Questão 25 acrescenta a relação com a organização.
+Questão [[Questões em aberto#2. Reflexividade|2]] (sujeito-objeto) já registrada; a Questão [[Questões em aberto#25. A consciência socialista vem "de fora"?|25]] acrescenta a relação com a organização.
 
 ## Minhas anotações

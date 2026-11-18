@@ -13,8 +13,8 @@ criado: 2026-11-12
 
 Autor: [[Eric Hobsbawm]] · Parte I, [[Era da Catástrofe]] · livro: [[A Era dos Extremos]] · capítulo anterior: [[Era dos Extremos, cap. 1 - A era da guerra total]] · próximo: [[Era dos Extremos, cap. 3 - Rumo ao abismo econômico]]
 
-> [!info] Como ler as marcas
-> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` (PDF pp. 71-106). As citações foram **localizadas por script** no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**; na edição em papel, usar as seções (I a VII) para achar o trecho. Os resumos são paráfrases; as interpretações que não são de Hobsbawm vêm marcadas *(interpretação)*.
+> [!info] Fonte e marcas
+> Esta nota vem **da leitura do capítulo inteiro** no PDF `Hobsbawm - Era dos Extremos.pdf` (PDF pp. 71-106). As citações foram conferidas no texto do PDF: a página é a do PDF, e o link `abrir` leva a ela. O PDF é uma conversão de EPUB e **não traz a paginação do livro impresso**; na edição em papel, usar as seções (I a VII) para achar o trecho. Os resumos são paráfrases; as interpretações que não são de Hobsbawm vêm marcadas *(interpretação)*.
 
 ## Referência
 Eric Hobsbawm, *Era dos Extremos: o breve século XX, 1914-1991*, cap. 2, "A revolução mundial". Sete seções: I (PDF pp. 73-78), II (pp. 78-83), III (pp. 83-90), IV (pp. 90-95), V (pp. 95-98), VI (pp. 98-102), VII (pp. 102-105). Edição de referência:

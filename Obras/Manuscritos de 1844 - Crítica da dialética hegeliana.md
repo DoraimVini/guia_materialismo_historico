@@ -14,8 +14,8 @@ criado: 2026-11-12
 
 Autor: [[Karl Marx]] · obra: *Manuscritos econômico-filosóficos* (1844), Terceiro Manuscrito, última seção · nota-ponte: [[Hegel, a Fenomenologia e o materialismo histórico]] · roteiro: etapa 2 do [[Guia de fontes - epistemologia do materialismo histórico]]
 
-> [!info] Como ler as marcas
-> Esta nota vem **da leitura da seção inteira** na versão online do marxists.org ([link](https://www.marxists.org/portugues/marx/1844/manuscritos/cap07.htm), "Crítica da Filosofia Dialética e Geral de Hegel"). A página não indica o tradutor; o vocabulário ("ente-espécie" para *Gattungswesen*) sugere uma tradução feita a partir do inglês. *(conferir antes de citar em trabalho; prefira uma edição traduzida do alemão, como a da Boitempo)* As citações foram procuradas por script no texto da página. Os números romanos entre parênteses, como (XXIII), são as folhas do manuscrito de Marx e servem para localizar o trecho em qualquer edição. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
+> [!info] Fonte e marcas
+> Esta nota vem **da leitura da seção inteira** na versão online do marxists.org ([link](https://www.marxists.org/portugues/marx/1844/manuscritos/cap07.htm), "Crítica da Filosofia Dialética e Geral de Hegel"). A página não indica o tradutor; o vocabulário ("ente-espécie" para *Gattungswesen*) sugere uma tradução feita a partir do inglês. *(não verificado; para citar, é preferível uma edição traduzida do alemão, como a da Boitempo)* As citações foram conferidas no texto da página. Os números romanos entre parênteses, como (XXIII), são as folhas do manuscrito de Marx e servem para localizar o trecho em qualquer edição. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
 
 ## Em uma frase
 Marx elogia a *Fenomenologia* por ter apreendido o homem como resultado do próprio trabalho, e a critica porque, em Hegel, esse trabalho é só o do pensamento: o homem vira autoconsciência, a alienação vira um problema de consciência, e a superação da alienação acaba confirmando o mundo alienado.
@@ -75,11 +75,11 @@ Karl Marx, *Manuscritos econômico-filosóficos* (Paris, 1844; publicados só em
 5. **O que ainda falta.** Em 1844, o sujeito é o "homem" e o "ente-espécie"; ainda não são as classes nem as relações de produção. *(interpretação)* É por isso que Althusser situa aqui o Marx "humanista", antes da [[Ruptura epistemológica]].
 
 ## Sobre o senhor e o escravo
-O texto **não discute** a dialética do senhor e do escravo. A única menção é o título "dominação e servidão", no sumário da *Fenomenologia* que Marx copia (folha XIII). A crítica de Marx se concentra no capítulo final, o do saber absoluto. A leitura do senhor e do escravo como chave do marxismo vem depois, sobretudo de Kojève, nos anos 1930. *(o texto de Marx foi conferido; a atribuição a Kojève fica a conferir)*
+O texto **não discute** a dialética do senhor e do escravo. A única menção é o título "dominação e servidão", no sumário da *Fenomenologia* que Marx copia (folha XIII). A crítica de Marx se concentra no capítulo final, o do saber absoluto. A leitura do senhor e do escravo como chave do marxismo vem depois, sobretudo de Kojève, nos anos 1930. *(atribuição a Kojève não verificada)*
 
 ## Personagens e termos
 - **Autoconsciência:** em Hegel, a consciência que se sabe a si mesma; em Bauer, o motor da história. Marx: é "uma qualidade da natureza humana", não o contrário.
-- **Alienação, alheamento, objetificação:** a tradução da página usa os três termos sem muita regra; no alemão, *Entäußerung*, *Entfremdung* e *Vergegenständlichung*. *(conferir em edição traduzida do alemão)*
+- **Alienação, alheamento, objetificação:** a tradução da página usa os três termos sem muita regra; no alemão, *Entäußerung*, *Entfremdung* e *Vergegenständlichung*. *(não verificado em edição traduzida do alemão)*
 - **Negação da negação:** o movimento pelo qual uma posição é negada e a negação é, por sua vez, superada.
 - **Ente-espécie (*Gattungswesen*):** o homem como ser que tem consciência da própria espécie; o termo vem de Feuerbach.
 - **Saber absoluto:** o último capítulo da *Fenomenologia*, em que a consciência se reconhece em todos os seus objetos.
@@ -142,7 +142,7 @@ O texto **não discute** a dialética do senhor e do escravo. A única menção 
 - [[Teses sobre Feuerbach]], [[A Ideologia Alemã]]: o passo seguinte (1845-46)
 - [[Fetichismo da mercadoria]], [[Trabalho concreto e trabalho abstrato]]
 - [[Ruptura epistemológica]]: a leitura de Althusser, que situa este texto antes do "corte"
-- Questão 32 em [[Questões em aberto]]
+- Questão [[Questões em aberto#32. O que Marx tirou de Hegel: o trabalho ou o método?|32]] em [[Questões em aberto]]
 
 ## Para a conferência com a edição em papel
 - [ ] Conferir as citações numa edição traduzida do alemão e anotar a página.

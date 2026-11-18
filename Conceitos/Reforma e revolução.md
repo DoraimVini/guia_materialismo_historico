@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Reforma e revolução
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página online e **não foram conferidas por script contra um arquivo**, ao contrário das notas feitas a partir dos PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, sem cotejo com um arquivo baixado. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Para Rosa Luxemburgo, reforma e revolução não são métodos alternativos de chegar ao socialismo, mas fatores diferentes da evolução da sociedade de classes que se condicionam e completam; o que não se pode é trocar a conquista do poder político por reformas sociais.
@@ -27,7 +27,7 @@ Para Rosa Luxemburgo, reforma e revolução não são métodos alternativos de c
 Isabel Loureiro: Bernstein e Rosa "tinham razão, cada um à sua maneira" (ver [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]]). Löwy: a transformação "não virá de uma progressiva acumulação de reformas".
 
 ## Perguntas
-Ver a Questão 21 em [[Questões em aberto]].
+Ver a Questão [[Questões em aberto#21. Uma reforma pode ser revolucionária?|21]] em [[Questões em aberto]].
 
 ## Ver também
 - [[Reforma ou Revolução]]

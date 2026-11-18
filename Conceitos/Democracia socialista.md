@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Democracia socialista
 
-> [!info] Como ler as marcas
-> Esta nota vem de **páginas do marxists.org**. As aspas foram transcritas da página online e **não foram conferidas por script contra um arquivo**, ao contrário das notas feitas a partir dos PDFs de Gramsci e Hobsbawm. Antes de citar em trabalho, conferir no link. Os resumos são paráfrases, e o que não foi conferido na fonte termina com *(conferir)*.
+> [!info] Fonte e marcas
+> Esta nota vem de **páginas do marxists.org**. As citações foram transcritas da página online, sem cotejo com um arquivo baixado. Os resumos são paráfrases; *(não verificado)* marca o que não foi confirmado na fonte.
 
 ## Em uma frase
 Para Rosa, a revolução socialista exige mais democracia, não menos: "instaurar a democracia socialista no lugar da democracia burguesa, e não em suprimir toda democracia"; liberdade política ampla é condição do socialismo, que não pode ser decretado.

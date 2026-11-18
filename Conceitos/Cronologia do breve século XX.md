@@ -8,7 +8,7 @@ criado: 2026-11-12
 
 # Cronologia do breve século XX
 
-> [!info] Como ler as marcas
+> [!info] Fonte e marcas
 > Datas gerais não conferidas na fonte, **exceto** as marcadas com "PDF", que foram conferidas em *Era dos Extremos* (páginas do PDF, que não batem com as da edição em papel).
 
 ## Como usar

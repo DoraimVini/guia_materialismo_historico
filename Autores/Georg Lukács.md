@@ -24,7 +24,7 @@ Crítico do manual de Bukharin.
 - [[Consciência de Classe (Lukács, 1920)]]
 - [[Tática e Ética (Lukács)]]
 
-## Não lido
+## Não fichado no cofre
 *O Jovem Hegel* (1938; só o índice, ver [[Fontes de Rosa Luxemburgo]]).
 
 ## Minhas anotações

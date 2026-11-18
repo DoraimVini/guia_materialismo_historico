@@ -8,8 +8,8 @@ criado: 2026-11-12
 
 # Acumulação de capital
 
-> [!info] Como ler as marcas
-> Fontes lidas na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. Tudo o que não vem dessas leituras termina com *(conferir)*. Falta conferir com a edição em papel e preencher as páginas.
+> [!info] Fonte e marcas
+> Fontes, na versão online (marxists.org): *O Capital* I (cap. 1 §§1-4; cap. 4 §3; cap. 5 §2; cap. 8 §1; cap. 24 §7), *Salário, Preço e Lucro* (caps. 7-10) e *O Capital* III, cap. 13 (em inglês). As aspas foram copiadas dessas páginas, que não indicam tradutor: a de *O Capital* I é uma transcrição da Avante!. *(não verificado)* marca o que não vem desses textos. As páginas da edição em papel não estão indicadas.
 
 ## Em uma frase
 O capital reinveste a mais-valia, amplia a escala e concentra os meios de produção, o que prepara, segundo Marx, as condições da sua própria superação.
@@ -19,7 +19,7 @@ Fichamento: [[O Capital - Livro I]], cap. 24 §7 ("Tendência histórica da acum
 - Primeira negação: "a primeira negação da propriedade privada individual, fundada em trabalho próprio".
 - Segunda: "E negação da negação."
 - "Os expropriadores são expropriados."
-- A página traz "Soa a hora da propriedade privada capitalista." *(conferir a formulação na edição)*
+- A página traz "Soa a hora da propriedade privada capitalista." *(formulação não verificada na edição)*
 - Centralização e socialização: "A centralização dos meios de produção e a socialização do trabalho atingem um ponto" (a frase continua na página).
 
 ## Estrutura do argumento
@@ -28,9 +28,9 @@ Fichamento: [[O Capital - Livro I]], cap. 24 §7 ("Tendência histórica da acum
 3. Marx a descreve como resultado do próprio movimento capitalista, o que sugere uma lei histórica.
 
 ## Pontos de debate
-- **Lei histórica ou projeto político?** A linguagem de "negação da negação" é hegeliana. Marx apresenta o resultado como inevitável? O trecho completo não foi lido, e por isso a questão fica aberta; a frase de que a produção capitalista engendra a própria negação "com a necessidade de um processo natural" costuma ser citada, mas não foi conferida. *(conferir)* Liga-se à Questão 1.
-- **Acumulação primitiva.** O cap. 24 trata a violência que separou os produtores dos meios de produção. [[Silvia Federici]] e [[David Harvey]] reabrem o tema (acumulação por espoliação, caça às bruxas). *(conferir)*
-- **Imperialismo e dependência.** [[Lênin]], [[Bukharin]] e [[Ruy Mauro Marini]] discutem a expansão externa da acumulação. *(conferir)*
+- **Lei histórica ou projeto político?** A linguagem de "negação da negação" é hegeliana. Marx apresenta o resultado como inevitável? O trecho completo não foi fichado, e por isso a questão fica aberta; a frase de que a produção capitalista engendra a própria negação "com a necessidade de um processo natural" costuma ser citada, mas não foi conferida. *(não verificado)* Liga-se à Questão [[Questões em aberto#1. Reflexo ou práxis?|1]].
+- **Acumulação primitiva.** O cap. 24 trata a violência que separou os produtores dos meios de produção. [[Silvia Federici]] e [[David Harvey]] reabrem o tema (acumulação por espoliação, caça às bruxas). *(não verificado)*
+- **Imperialismo e dependência.** [[Lênin]], [[Bukharin]] e [[Ruy Mauro Marini]] discutem a expansão externa da acumulação. *(não verificado)*
 
 ## Autores
 - [[Karl Marx]]

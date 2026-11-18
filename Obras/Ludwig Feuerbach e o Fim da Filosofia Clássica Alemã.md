@@ -14,8 +14,8 @@ criado: 2026-11-12
 
 Autor: [[Friedrich Engels]] · nota-ponte: [[Hegel, a Fenomenologia e o materialismo histórico]] · roteiro: etapa 3 do [[Guia de fontes - epistemologia do materialismo histórico]] · ler junto: [[Prefácio à Fenomenologia do Espírito]], [[Manuscritos de 1844 - Crítica da dialética hegeliana]]
 
-> [!info] Como ler as marcas
-> Esta nota vem da versão online do marxists.org ([link](https://www.marxists.org/portugues/marx/1886/mes/fim.htm)), tradução de José Barata-Moura a partir do texto alemão de 1888 (*Obras Escolhidas* em três tomos, Avante!, 1982, tomo III, pp. 378-421), em português de Portugal. **Partes I, II e IV lidas por inteiro; a parte III (a religião e a ética de Feuerbach), só por trechos.** As citações foram procuradas por script no texto da página; os termos alemães entre colchetes são do tradutor. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
+> [!info] Fonte e marcas
+> Esta nota vem da versão online do marxists.org ([link](https://www.marxists.org/portugues/marx/1886/mes/fim.htm)), tradução de José Barata-Moura a partir do texto alemão de 1888 (*Obras Escolhidas* em três tomos, Avante!, 1982, tomo III, pp. 378-421), em português de Portugal. **Partes I, II e IV fichadas por inteiro; a parte III (a religião e a ética de Feuerbach), só por trechos.** As citações foram conferidas no texto da página; os termos alemães entre colchetes são do tradutor. Os resumos são paráfrases; as interpretações vêm marcadas *(interpretação)*.
 
 ## Em uma frase
 Engels conta como o marxismo saiu da dissolução da escola de Hegel: do **método** dialético revolucionário, separado do **sistema** conservador, e do materialismo de Feuerbach, levado à história. O resultado é uma dialética "posta em pé", em que os conceitos são "imagens" das coisas reais, e uma concepção da história em que as vontades individuais produzem resultados não queridos, regidos "em última instância" pelas condições econômicas.
@@ -36,7 +36,7 @@ Friedrich Engels, *Ludwig Feuerbach e o fim da filosofia clássica alemã*, escr
 | --- | --- |
 | I | Hegel: o real e o racional; o método revolucionário e o sistema conservador; a dissolução da escola; Feuerbach e *A essência do cristianismo* |
 | II | A "questão fundamental": a relação de pensar e ser; idealismo e materialismo; a cognoscibilidade do mundo e a refutação pela prática; os limites do materialismo do século XVIII |
-| III | O idealismo de Feuerbach na religião e na ética: a "religião do amor" *(lido por trechos)* |
+| III | O idealismo de Feuerbach na religião e na ética: a "religião do amor" *(fichado por trechos)* |
 | IV | Marx: a dialética "posta em pé"; o mundo como complexo de processos; a natureza; a história como resultado de vontades; classes, Estado e ideologias; o movimento operário como herdeiro da filosofia alemã |
 
 ## Roteiro
@@ -68,9 +68,9 @@ Friedrich Engels, *Ludwig Feuerbach e o fim da filosofia clássica alemã*, escr
 ## O que isso muda na epistemologia
 1. **A "questão fundamental" divide a filosofia em dois campos.** *(interpretação)* É a origem da forma que o [[Materialismo dialético soviético]] dará a toda a história da filosofia ([[Compêndio de História da Filosofia]]). O ganho é a clareza; o custo, achatar posições como a de Hegel, que não cabem bem nos dois campos.
 2. **O conceito como "imagem" (*Abbild*).** A dialética "posta em pé" faz dos conceitos "imagens das coisas reais" e da dialética do conceito um "reflexo" do movimento real. É o caminho da [[Teoria do reflexo]] de Lênin (1908). *(interpretação)* Compare com o [[Prefácio à Fenomenologia do Espírito]]: para Hegel, a verdade "não é uma moeda cunhada", não é cópia; e com a [[Introdução de 1857]]: para Marx, o concreto pensado é uma *reconstrução*.
-3. **A prática como experimentação e indústria.** Engels responde a Kant com a química e a astronomia. *(interpretação)* É uma ideia de prática diferente da das [[Teses sobre Feuerbach]] ("atividade revolucionária", "prático-crítica"). A versão de Engels é a do laboratório; a de Marx, a da transformação social. Lukács fará essa crítica a Engels em *História e Consciência de Classe*. *(conferir)* Ver [[Prática como critério de verdade]].
-4. **Sistema e método separados.** Para Engels, o método se tira do sistema. *(interpretação)* Hegel diria o contrário: "o método não é outra coisa que a estrutura do todo" ([[Prefácio à Fenomenologia do Espírito]]). A pergunta é se a dialética pode ser transplantada como uma ferramenta, ou se cada conteúdo tem a sua. Questão 32.
-5. **A dialética da natureza.** A dialética vira "ciência das leis universais do movimento" da natureza e do pensamento. É a tese que Lukács recusará e que divide o marxismo. Questão 4.
+3. **A prática como experimentação e indústria.** Engels responde a Kant com a química e a astronomia. *(interpretação)* É uma ideia de prática diferente da das [[Teses sobre Feuerbach]] ("atividade revolucionária", "prático-crítica"). A versão de Engels é a do laboratório; a de Marx, a da transformação social. Lukács fará essa crítica a Engels em *História e Consciência de Classe*. *(não verificado)* Ver [[Prática como critério de verdade]].
+4. **Sistema e método separados.** Para Engels, o método se tira do sistema. *(interpretação)* Hegel diria o contrário: "o método não é outra coisa que a estrutura do todo" ([[Prefácio à Fenomenologia do Espírito]]). A pergunta é se a dialética pode ser transplantada como uma ferramenta, ou se cada conteúdo tem a sua. Questão [[Questões em aberto#32. O que Marx tirou de Hegel: o trabalho ou o método?|32]].
+5. **A dialética da natureza.** A dialética vira "ciência das leis universais do movimento" da natureza e do pensamento. É a tese que Lukács recusará e que divide o marxismo. Questão [[Questões em aberto#4. Dialética só da história ou também da natureza?|4]].
 6. **Resultados não queridos e "em última instância".** A parte IV dá uma teoria da história em que os indivíduos agem com consciência, mas a soma das ações dá resultados que ninguém quis. *(interpretação)* É a base da tese das consequências não intencionais que Hobsbawm aplica ao século XX ([[Epistemologia do método de Hobsbawm]]); e o "em última instância" é uma fórmula de prioridade, não de dedução, como na leitura de Hobsbawm em [[Epistemologia do método de Hobsbawm]].
 7. **O Estado que se autonomiza.** O Estado nasce como órgão da sociedade e se torna autônomo, e por isso produz ideologia própria (o direito como domínio "autônomo"). Liga-se à exceção bonapartista de Engels em 1884 e à [[Genealogia - fascismo, Estado e hegemonia]].
 
@@ -159,7 +159,7 @@ Friedrich Engels, *Ludwig Feuerbach e o fim da filosofia clássica alemã*, escr
 - [[Prática como critério de verdade]], [[Teses sobre Feuerbach]]
 - [[Ideologia e ideias dominantes]], [[Teoria marxista do Estado]]
 - [[Do socialismo utópico ao socialismo científico]]: o outro texto de divulgação de Engels, com a mesma história da dialética
-- Questões 4 e 32 em [[Questões em aberto]]
+- Questões [[Questões em aberto#4. Dialética só da história ou também da natureza?|4]] e [[Questões em aberto#32. O que Marx tirou de Hegel: o trabalho ou o método?|32]] em [[Questões em aberto]]
 
 ## Para a conferência com a edição em papel
 - [ ] Ler a parte III inteira (a religião e a ética de Feuerbach).

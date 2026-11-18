@@ -8,10 +8,10 @@ criado: 2026-11-12
 # Fontes de Rosa Luxemburgo
 
 > [!info] O que esta nota é
-> Inventário de fontes para estudar Rosa Luxemburgo e preparar Florestan Fernandes, com o estado de cada fonte. A coluna "Lido" diz o que de fato foi lido.
+> Inventário de fontes para estudar Rosa Luxemburgo e preparar Florestan Fernandes, com o estado de cada fonte. A coluna "Fichado" diz o que de fato está fichado.
 
 ## Lênin e Lukács (links)
-| Texto | Link | Lido |
+| Texto | Link | Fichado |
 | --- | --- | --- |
 | Lênin, *Que Fazer?* (1902) | [índice](https://www.marxists.org/portugues/lenin/1902/quefazer/index.htm) | caps. II e IV; ver [[Que Fazer (Lênin)]] |
 | Lênin, *Imperialismo* (1916) | [índice](https://www.marxists.org/portugues/lenin/1916/imperialismo/index.htm) | caps. IV e VII; ver [[Imperialismo, fase superior do capitalismo (Lênin)]] |
@@ -23,7 +23,7 @@ criado: 2026-11-12
 ## Textos de Rosa em português (marxists.org)
 Índice geral: [marxists.org](https://www.marxists.org/portugues/luxemburgo/index.htm) (cerca de 70 textos).
 
-| Texto | Ano | Link | Lido |
+| Texto | Ano | Link | Fichado |
 | --- | --- | --- | --- |
 | Reforma ou Revolução | 1898-99 e 1908 | [texto](https://www.marxists.org/portugues/luxemburgo/1900/ref_rev/index.htm) | por trechos, ver [[Reforma ou Revolução]] |
 | Greve de massas, partido e sindicatos | 1906 | [PDF](https://www.marxists.org/portugues/luxemburgo/1906/mes/40.pdf) | por trechos, ver [[Greve de massas, partido e sindicatos]] |
@@ -37,25 +37,25 @@ criado: 2026-11-12
 | O Que Quer a Liga Espartaco? | 1918 | [texto](https://www.marxists.org/portugues/luxemburgo/1918/12/14.html) | não |
 
 ## *A Acumulação do Capital*
-- Em inglês no marxists.org: [capítulo 26](https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch26.htm) (trechos lidos). Os outros capítulos não puderam ser abertos. O livro completo em português **não está** na lista do marxists.org em português.
+- Em inglês no marxists.org: [capítulo 26](https://www.marxists.org/archive/luxemburg/1913/accumulation-capital/ch26.htm) (trechos fichados). Os outros capítulos não estavam acessíveis na consulta. O livro completo em português **não está** na lista do marxists.org em português.
 - Há **dois PDFs** na pasta `Livros/` (abaixo) que trazem trechos dela em português. **Ainda seria bom** ter uma edição brasileira inteira do livro para a leitura com páginas conferidas.
 
 ## PDFs da pasta `Livros/`
-| Arquivo | Fichamento | Lido |
+| Arquivo | Fichamento | Fichado |
 | --- | --- | --- |
 | `Loureiro (org.) - Socialismo ou Barbárie - Rosa Luxemburgo no Brasil.pdf` | [[Socialismo ou Barbárie - Rosa Luxemburgo no Brasil]] | por trechos |
 | `Lora - Lei do desenvolvimento desigual e combinado.pdf` | [[Lei do desenvolvimento desigual e combinado (Lora)]] | por trechos; contém passagens de Rosa em português |
 | `Teixeira - Descartes, materialismo e dualismo.pdf` | [[Descartes, materialismo e dualismo (Teixeira)]] | por OCR; não é sobre Rosa |
 
-## Sobre Rosa no Brasil (secundários, não lidos)
+## Sobre Rosa no Brasil (secundários, não fichados)
 Resultados da busca, a avaliar: artigos em revistas acadêmicas e dois textos do Outras Palavras ("No Brasil, Rosa Luxemburgo vive" e "Rosa Luxemburgo hoje: três provocações"). A lista do marxists.org cita também três obras sobre ela: *Rosa Luxemburgo ou o preço da liberdade*, *Rosa Luxemburgo e a reinvenção da política: uma leitura latino-americana* e *Socialismo ou barbárie – Rosa Luxemburgo no Brasil*.
 
-## Para Florestan Fernandes (não lido)
+## Para Florestan Fernandes (não fichado)
 - *A Revolução Burguesa no Brasil*, capítulos 5 e 6, em PDF no [edisciplinas da USP](https://edisciplinas.usp.br/pluginfile.php/4440363/mod_resource/content/1/Florestan%20Fernandes%20-%20A%20revolu%C3%A7%C3%A3o%20burguesa%20no%20Brasil%20Cps%205%20e%206.pdf).
 - Texto de Limoeiro Cardoso sobre Florestan no [IEA/USP](https://www.iea.usp.br/publicacoes/textos/limoeirocardosoflorestan.pdf).
 
 ## Avisos
-- As notas feitas **só com páginas do marxists.org** (as cinco primeiras obras) têm citações transcritas da página, **sem conferência por script** contra um arquivo. As notas feitas com os PDFs da pasta `Livros/` têm essa conferência.
+- As notas feitas **só com páginas do marxists.org** (as cinco primeiras obras) têm citações transcritas da página, sem cotejo com um arquivo baixado. As notas feitas com os PDFs da pasta `Livros/` têm as citações conferidas no texto do PDF.
 - Os textos de Rosa em português de Portugal (Estampa) têm outra ortografia ("facto").
 
 Voltar ao [[MOC - Materialismo histórico e dialético]].

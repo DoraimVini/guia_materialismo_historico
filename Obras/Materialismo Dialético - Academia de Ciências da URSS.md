@@ -13,20 +13,20 @@ criado: 2026-11-12
 
 Autor: [[Academia de Ciências da URSS]]
 
-> [!info] Como ler as marcas
-> Esta nota vem dos **epubs da pasta `Livros/`**, lidos por trechos (introdução, prefácios, capítulos-chave e buscas por termos). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As aspas foram copiadas do texto do epub. Os resumos são paráfrases. O que não foi lido nem conferido termina com *(conferir)*. Edição e tradutor: ver a seção Referência.
+> [!info] Fonte e marcas
+> Esta nota vem dos **epubs da pasta `Livros/`** (introdução, prefácios e capítulos-chave). O epub não tem as páginas da edição impressa, então as citações indicam a **localização** (capítulo, seção ou prefácio). As citações foram copiadas do texto do epub. Os resumos são paráfrases. *(não verificado)* marca o que não foi confirmado na fonte. Edição e tradutor: ver a seção Referência.
 
 ## Referência
 *Materialismo Dialético*, Academia de Ciências da URSS (Moscou, 1954), traduzido do russo; Editorial Vitória, Rio de Janeiro, 1955. O tradutor não é indicado. A ficha do epub lista os autores V. P. Tchertkov, V. S. Molodtsov, D. M. Trochin, K. V. Moroz, F. I. Kalochin, N. F. Ovtchinnikov, P. T. Belov, I. G. Gaidukov e M. A. Leonov. Arquivo: `Livros/Materialismo Dialético - Academia de Ciências da URSS.epub`.
 
 ## Por que ler
-É a exposição oficial da doutrina soviética do "materialismo dialético" no auge do stalinismo tardio. Serve de fonte primária sobre **como a doutrina se apresentava**, e não como exposição neutra de Marx. Ver [[Materialismo dialético soviético]]. Resolve vários itens que o cofre tinha como *(conferir)*.
+É a exposição oficial da doutrina soviética do "materialismo dialético" no auge do stalinismo tardio. Serve de fonte primária sobre **como a doutrina se apresentava**, e não como exposição neutra de Marx. Ver [[Materialismo dialético soviético]]. Resolve vários itens que o cofre tinha como *(não verificado)*.
 
 ## Estrutura (conforme o epub)
 | Capítulo | Autor (conforme o epub) |
 | --- | --- |
 | 1. O Materialismo Dialético, Concepção do Mundo do Partido Marxista-Leninista | V. P. Tchertkov |
-| 2. A Dialética Marxista e a Conexão Mútua e a Interdependência dos Fenômenos | não identificado na extração (a ficha lista V. S. Molodtsov) *(conferir)* |
+| 2. A Dialética Marxista e a Conexão Mútua e a Interdependência dos Fenômenos | não identificado na extração (a ficha lista V. S. Molodtsov) *(não verificado)* |
 | 3. O Movimento e o Desenvolvimento da Natureza e da Sociedade | D. M. Trochin |
 | 4. O Desenvolvimento como Passagem das Mudanças Quantitativas às Transformações Radicais de Qualidade | K. V. Moroz |
 | 5. O Desenvolvimento como Luta entre os Contrários | F. I. Kalochin |
@@ -35,7 +35,7 @@ Autor: [[Academia de Ciências da URSS]]
 | 8. A Cognoscibilidade do Mundo e de suas Leis | I. G. Gaidukov |
 | 9. O Materialismo Dialético e Histórico, Fundamento Teórico do Comunismo | M. A. Leonov |
 
-## Roteiro (trechos lidos)
+## Roteiro
 1. **Cap. 1.** Define o materialismo dialético como "concepção do mundo do Partido marxista-leninista" (Stálin) e como a única concepção científica do mundo.
 2. **Caps. 2 a 5.** Expõem o que o livro chama de "traços fundamentais do método dialético": conexão universal, movimento e desenvolvimento, passagem da quantidade à qualidade, luta dos contrários. Com exemplos da biologia soviética e da política do Partido.
 3. **Cap. 6.** Conceito de matéria (definição de Lênin) e leis do desenvolvimento.
@@ -50,7 +50,7 @@ Autor: [[Academia de Ciências da URSS]]
 4. A doutrina orienta a ação política: cada capítulo termina com a "significação prática" para o Partido.
 
 > [!question] Interpretação
-> Cada seção traz um item de "significação prática para o Partido". A filosofia aparece como instrumento de linha política, o que é coerente com o seu "partidarismo". O que isso faz com o critério de verdade? Ver [[Prática como critério de verdade]] e a Questão 12.
+> Cada seção traz um item de "significação prática para o Partido". A filosofia aparece como instrumento de linha política, o que é coerente com o seu "partidarismo". O que isso faz com o critério de verdade? Ver [[Prática como critério de verdade]] e a Questão [[Questões em aberto#12. O que o "diamat" simplificou?|12]].
 
 ## Citações (localização no epub)
 > "O materialismo dialético é a concepção do mundo do Partido marxista-leninista."
@@ -87,18 +87,18 @@ Autor: [[Academia de Ciências da URSS]]
 > — cap. 1 (citando Lênin)
 
 ## Debate crítico
-- **Stálin e a negação da negação.** O livro reconhece que a lista de Stálin retira a "negação da negação" da dialética. Isso reduz a distância entre a dialética e o discurso de progresso linear. *(interpretação; conferir)*
+- **Stálin e a negação da negação.** O livro reconhece que a lista de Stálin retira a "negação da negação" da dialética. Isso reduz a distância entre a dialética e o discurso de progresso linear. *(interpretação; não verificado)*
 - **Reflexo.** A fórmula "cópia, fotografia, reflexo" é a versão mais crua da [[Teoria do reflexo]]. Compare com a ressalva de Lênin de 1915 sobre a *Bildertheorie*. Interessante: este mesmo livro cita o trecho de Lênin sobre o conhecimento como espiral (cap. 8), o que mostra a tensão dentro do manual.
-- **Ciência e política.** A defesa de Mitchúrin e Lissenko contra a genética "weismannista-morganista" é um exemplo documental de filosofia usada para decidir disputas científicas. A história posterior desse episódio é conhecida e deve ser conferida fora do cofre. *(conferir)*
-- **Crítica interna ao stalinismo.** [[Louis Althusser]] criticou o dogmatismo desse "diamat", e [[E. P. Thompson]] o tratou como parte do problema. *(conferir)*
+- **Ciência e política.** A defesa de Mitchúrin e Lissenko contra a genética "weismannista-morganista" é um exemplo documental de filosofia usada para decidir disputas científicas. A história posterior desse episódio é conhecida e deve ser conferida fora do cofre. *(não verificado)*
+- **Crítica interna ao stalinismo.** [[Louis Althusser]] criticou o dogmatismo desse "diamat", e [[E. P. Thompson]] o tratou como parte do problema. *(não verificado)*
 
 ## Dúvidas e objeções
 - Que parte da exposição é de Marx e Engels, e que parte é de Stálin?
-- O livro cita Lênin com generosidade. Como ele lê *Materialismo e Empiriocriticismo* em comparação com o [[Materialismo e Empiriocriticismo]] lido online? (verificar as seções 8, 10 e 12)
+- O livro cita Lênin com generosidade. Como ele lê *Materialismo e Empiriocriticismo* em comparação com as seções 8, 10 e 12 fichadas em [[Materialismo e Empiriocriticismo]]?
 - O texto de Dietzgen: o livro menciona que Lênin criticou Dietzgen por "terminologia pouco precisa". O que é a origem do termo "materialismo dialético"? O livro não resolve isso.
 
 ## Para a conferência
-- [ ] Ler os capítulos 2 a 5 por inteiro (só trechos foram lidos).
+- [ ] Ler os capítulos 2 a 5 por inteiro (só trechos foram fichados).
 - [ ] Comparar os trechos de Lênin citados aqui com as obras originais.
 - [ ] Ler as notas de rodapé (referências a Stálin e Lênin) para identificar as fontes.
 

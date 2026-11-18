@@ -12,8 +12,8 @@ criado: {{date}}
 
 Autor: [[ ]] · livro: [[ ]] · capítulo anterior: [[ ]] · conceito-síntese: [[ ]]
 
-> [!info] Como ler as marcas
-> Fonte e páginas: diga de onde vem o texto (PDF, epub, edição em papel) e como as páginas foram conferidas. Marcas: *(interpretação)* para o que não está no texto; *(conferir)* para o que não está no texto nem foi conferido; *(contexto)* para fatos de fundo.
+> [!info] Fonte e marcas
+> Fonte e páginas: diga de onde vem o texto (PDF, epub, edição em papel) e como as páginas foram conferidas. Marcas: *(interpretação)* para o que não está no texto; *(não verificado)* para o que não foi confirmado na fonte; *(contexto)* para fatos de fundo.
 
 ## Em uma frase
 A tese do capítulo, em uma ou duas linhas.
@@ -48,7 +48,7 @@ Por que o capítulo importa para o cofre: com que notas, autores e questões ele
 | | | |
 
 ## Com quem o autor discute
-- Que teses ele aceita, recusa ou corrige, e de quem são. Marcar *(conferir)* quando a fonte não está no texto.
+- Que teses ele aceita, recusa ou corrige, e de quem são. Marcar *(não verificado)* quando a fonte não está no texto.
 
 ## Diálogo com o cofre
 - **[[Nota]]:** onde o capítulo confirma, contradiz ou complica o que o cofre já tem.
