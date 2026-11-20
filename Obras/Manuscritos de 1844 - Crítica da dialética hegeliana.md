@@ -137,6 +137,7 @@ O texto **não discute** a dialética do senhor e do escravo. A única menção 
 > — Marx, *Manuscritos de 1844*, folha XXXI · versão online ([marxists.org](https://www.marxists.org/portugues/marx/1844/manuscritos/cap07.htm))
 
 ## Conceitos relacionados
+- [[Alienação]]: as quatro dimensões do trabalho alienado e a história do conceito
 - [[Hegel, a Fenomenologia e o materialismo histórico]]
 - [[Prefácio à Fenomenologia do Espírito]]: o texto de Hegel lido junto
 - [[Teses sobre Feuerbach]], [[A Ideologia Alemã]]: o passo seguinte (1845-46)

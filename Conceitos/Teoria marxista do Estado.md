@@ -38,6 +38,8 @@ Engels os mantém juntos com a cláusula "por regra geral". As leituras posterio
 - [[Friedrich Engels]]
 
 ## Ver também
+- [[Ditadura do proletariado]]: o Estado da transição, de 1850 a 1918
+- [[Classes e luta de classes]]
 - [[Prefácio à Filosofia do Direito]] e [[A razão na história]]: a tese oposta, de Hegel, do Estado como "algo de racional em si" e realidade positiva da liberdade
 - [[A Guerra Civil em França]]: a classe operária não pode "apossar-se simplesmente da maquinaria de Estado já pronta"; a Comuna como forma política da emancipação do trabalho
 - [[Crítica do Programa de Gotha]]: as duas fases do comunismo e a "ditadura revolucionária do proletariado" na transição

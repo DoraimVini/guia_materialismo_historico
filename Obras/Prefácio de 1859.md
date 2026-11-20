@@ -105,6 +105,7 @@ O §4. Leia-o duas vezes: a primeira para os termos, a segunda para a ordem das 
 - [ ] Comparar a tradução com a de Barata-Moura (por exemplo "superstrutura" e "superestrutura").
 
 ## Conceitos relacionados
+- [[Forças produtivas e relações de produção]], [[Base e superestrutura]], [[Modo de produção]]: os três conceitos do §4, desenvolvidos
 - [[Primazia do ser social]]
 - [[Materialismo histórico]]
 - [[Epistemologia do materialismo histórico]]

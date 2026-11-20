@@ -32,6 +32,7 @@ As teses de Lênin e de Rosa não são simétricas em tempo e contexto (Rússia 
 Questões [[Questões em aberto#19. A organização nasce da luta ou a precede?|19]] e [[Questões em aberto#25. A consciência socialista vem "de fora"?|25]] em [[Questões em aberto]].
 
 ## Ver também
+- [[Partido]]: Marx, Lênin, Rosa, Lukács e Gramsci sobre a organização
 - [[Greve de massas e espontaneidade]]
 - [[Rosa Luxemburgo]] · [[Lênin]]
 

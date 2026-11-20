@@ -205,6 +205,7 @@ Karl Marx e Friedrich Engels, *Manifesto do Partido Comunista* (Londres, feverei
 > — Engels, nota 2 (1888) à primeira frase do cap. I · PDF p. 62 · [[Marx e Engels - Manifesto do Partido Comunista.pdf#page=62|abrir]]
 
 ## Conceitos relacionados
+- [[Classes e luta de classes]], [[Partido]], [[Forças produtivas e relações de produção]]
 - [[Materialismo histórico]], [[Primazia do ser social]]
 - [[Ideologia e ideias dominantes]], [[Crítica da ideologia e historicidade das categorias]]
 - [[Teoria marxista do Estado]], [[Comunismo como movimento real]]

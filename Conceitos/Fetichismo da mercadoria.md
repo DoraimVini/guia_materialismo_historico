@@ -36,6 +36,7 @@ O fetichismo não é um erro individual: é a aparência necessária de uma form
 - [[Karl Marx]]
 
 ## Ver também
+- [[Alienação]]: o problema em 1844, antes da teoria do valor
 - [[Forma-valor e dinheiro]]
 - [[Economia política marxista]]
 

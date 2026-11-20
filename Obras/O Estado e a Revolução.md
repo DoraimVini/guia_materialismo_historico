@@ -85,6 +85,7 @@ V. I. Lênin, *Gosudarstvo i revoliutsiia* (O Estado e a Revolução. A doutrina
 > — Lênin, *O Estado e a Revolução*, posfácio (30 de novembro de 1917) · versão online, Edições Avante! ([marxists.org](https://www.marxists.org/portugues/lenin/1917/08/estadoerevolucao/posfacio.htm))
 
 ## Conceitos relacionados
+- [[Ditadura do proletariado]], [[Partido]]
 - [[Teoria marxista do Estado]], [[Hegemonia]], [[Genealogia - fascismo, Estado e hegemonia]]
 - [[A Guerra Civil em França]], [[Crítica do Programa de Gotha]], [[A Origem da Família, da Propriedade Privada e do Estado]]
 - [[Cadernos filosóficos (Lênin)]], [[Contradição e negação da negação]]

@@ -49,6 +49,7 @@ Questões [[Questões em aberto#2. Reflexividade|2]] e [[Questões em aberto#3. 
 - [[G. A. Cohen]]
 
 ## Ver também
+- Conceitos-base: [[Forças produtivas e relações de produção]], [[Base e superestrutura]], [[Modo de produção]], [[Classes e luta de classes]]
 - [[Materialismo dialético]]
 - [[Epistemologia do materialismo histórico]]
 - [[Primazia do ser social]]

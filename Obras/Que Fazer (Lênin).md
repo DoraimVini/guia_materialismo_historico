@@ -73,6 +73,7 @@ Lênin distingue a organização de operários (sindical, ampla, pouco clandesti
 - Ver [[Consciência de fora e espontaneidade]] e a Questão [[Questões em aberto#25. A consciência socialista vem "de fora"?|25]].
 
 ## Conceitos relacionados
+- [[Partido]], [[Classes e luta de classes]]
 - [[Consciência de fora e espontaneidade]]
 - [[Greve de massas e espontaneidade]]
 - [[Hegemonia]]

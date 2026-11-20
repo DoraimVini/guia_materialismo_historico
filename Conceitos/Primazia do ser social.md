@@ -38,6 +38,7 @@ Se toda consciência é determinada pelo ser social, o próprio materialismo his
 - [[Friedrich Engels]]
 
 ## Ver também
+- [[Base e superestrutura]]: a metáfora de 1859, a "última instância" de Engels e as leituras de Gramsci, Althusser e Williams
 - [[Epistemologia do materialismo histórico]]
 - [[Materialismo histórico]]
 
