@@ -35,6 +35,7 @@ Se as ideias dominantes são as da classe dominante, de onde vem a crítica? O t
 - [[Friedrich Engels]]
 
 ## Ver também
+- [[Base e superestrutura]], [[Classes e luta de classes]]
 - [[Manifesto do Partido Comunista]]: "As ideias dominantes em todas as épocas sempre foram aquelas da classe dominante" (PDF p. 46)
 - [[Epistemologia do materialismo histórico]]
 - [[Primazia do ser social]]

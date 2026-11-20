@@ -62,6 +62,7 @@ Karl Marx, *Randglossen zum Programm der deutschen Arbeiterpartei* (glosas margi
 > — Marx, *Crítica do Programa de Gotha*, IV · versão online, Edições Avante! ([marxists.org](https://www.marxists.org/portugues/marx/1875/gotha/gotha.htm))
 
 ## Conceitos relacionados
+- [[Ditadura do proletariado]]
 - [[Teoria marxista do Estado]], [[Crítica da economia política]]
 - [[A Guerra Civil em França]], [[O Estado e a Revolução]]
 

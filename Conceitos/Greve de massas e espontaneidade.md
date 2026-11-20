@@ -30,6 +30,7 @@ Löwy diz que Rosa nunca rejeitou o partido e criticava o "vanguardismo substitu
 Questão [[Questões em aberto#19. A organização nasce da luta ou a precede?|19]] em [[Questões em aberto]].
 
 ## Ver também
+- [[Partido]]: a crítica de Rosa ao ultracentralismo (1904)
 - [[Rosa Luxemburgo]]
 - [[Democracia socialista]]
 
