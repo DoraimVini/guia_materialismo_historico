@@ -30,6 +30,7 @@ Marx, em *O Capital*, trata a acumulação com o esquema de reprodução ampliad
 - [[Luxemburgo e Florestan Fernandes]]: a periferia como condição versus a periferia como forma interna do capitalismo.
 
 ## Ver também
+- [[O Capital, cap. 24 - A chamada acumulação original]]: a acumulação original em Marx, que Rosa generaliza
 - [[Imperialismo e militarismo]]
 - [[Rosa Luxemburgo]]
 

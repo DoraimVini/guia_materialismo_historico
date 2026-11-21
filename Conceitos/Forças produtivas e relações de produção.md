@@ -80,6 +80,7 @@ As **forças produtivas** são a capacidade que uma sociedade tem de produzir (t
 4. A Revolução Russa refuta ou confirma o Prefácio? Ver [[Questões em aberto#18. O colapso soviético confirma o Prefácio de 1859?|questão 18]].
 
 ## Ver também
+- [[O Capital, cap. 13 - Maquinaria e grande indústria]]: a máquina sob o capital, da fábrica à agricultura
 - [[Base e superestrutura]], [[Modo de produção]], [[Classes e luta de classes]]
 - [[Prefácio de 1859]], [[Primazia do ser social]], [[Materialismo histórico]]
 - [[Desenvolvimento desigual e combinado]], [[Socialismo real]]
