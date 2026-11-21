@@ -34,8 +34,19 @@ Karl Marx, *O Capital*, livro I (1867). Versão online: [índice no marxists.org
 | Cap. 8 §1 | [cap08/01](https://www.marxists.org/portugues/marx/1867/capital/livro1/cap08/01.htm) | [[Mais-valia]] |
 | Cap. 24 §7 | [cap24/07](https://www.marxists.org/portugues/marx/1867/capital/livro1/cap24/07.htm) | [[Acumulação de capital]] |
 
+**Capítulos fichados em notas próprias** (por trechos):
+| Capítulo | Nota | Conceito |
+| --- | --- | --- |
+| Cap. 10 | [[O Capital, cap. 10 - Conceito de mais-valia relativa]] | [[Mais-valia]] |
+| Cap. 11 | [[O Capital, cap. 11 - Cooperação]] | [[Divisões sociais do trabalho]] |
+| Cap. 12 | [[O Capital, cap. 12 - Divisão do trabalho e manufactura]] | [[Divisões sociais do trabalho]] |
+| Cap. 13 | [[O Capital, cap. 13 - Maquinaria e grande indústria]] | [[Forças produtivas e relações de produção]] |
+| Cap. 23 | [[O Capital, cap. 23 - A lei geral da acumulação capitalista]] | [[Acumulação de capital]] |
+| Cap. 24 | [[O Capital, cap. 24 - A chamada acumulação original]] | [[Acumulação de capital]] |
+| Cap. 25 | [[O Capital, cap. 25 - A moderna teoria da colonização]] | [[Acumulação de capital]] |
+
 > [!note] Paráfrase e citação
-> Os resumos são paráfrases, e só as aspas foram copiadas das páginas. Os títulos das seções e dos capítulos vêm do índice da página. Os textos não fichados (caps. 2, 3, 6, 7, 9 a 23, 25 a 33) estão fora desta nota.
+> Os resumos são paráfrases, e só as aspas foram copiadas das páginas. Os títulos das seções e dos capítulos vêm do índice da página. A versão online segue a numeração alemã (25 capítulos; nas edições inglesas são 33). Os caps. 10 a 13 e 23 a 25 têm notas próprias, listadas acima; continuam sem fichamento os caps. 2, 3, 6, 7, 9 e 14 a 22, além das seções restantes dos caps. 1, 4, 5 e 8.
 
 ## Roteiro
 1. **Cap. 1 §1.** A mercadoria tem valor de uso e valor; o valor mede-se pelo tempo de trabalho socialmente necessário.
@@ -113,7 +124,7 @@ Karl Marx, *O Capital*, livro I (1867). Versão online: [índice no marxists.org
 ## Para a conferência com a edição em papel
 - [ ] Anotar a página de cada citação.
 - [ ] Ler o cap. 1 inteiro, pois as seções 1 a 3 foram fichadas só por trechos.
-- [ ] Ler os caps. 6, 7, 10, 12 a 15 (mais-valia relativa e maquinaria).
+- [ ] Ler os caps. 6, 7, 9 e 14 a 22 (mais-valia absoluta e relativa, salário, reprodução); os caps. 10 a 13 e 23 a 25 já têm notas.
 
 ## Conceitos relacionados
 - [[Economia política marxista]]

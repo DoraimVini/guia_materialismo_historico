@@ -36,6 +36,7 @@ Fichamento: [[O Capital - Livro I]], cap. 24 §7 ("Tendência histórica da acum
 - [[Karl Marx]]
 
 ## Ver também
+- [[O Capital, cap. 23 - A lei geral da acumulação capitalista]], [[O Capital, cap. 24 - A chamada acumulação original]] e [[O Capital, cap. 25 - A moderna teoria da colonização]]: o exército industrial de reserva, a acumulação original e a colonização
 - [[Mais-valia]]
 - [[Queda tendencial da taxa de lucro]]
 - [[Economia política marxista]]

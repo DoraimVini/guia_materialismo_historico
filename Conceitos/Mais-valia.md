@@ -39,6 +39,7 @@ A mais-valia é **explicação** (de onde vem o lucro) ou **denúncia** (explora
 - [[Karl Marx]]
 
 ## Ver também
+- [[O Capital, cap. 10 - Conceito de mais-valia relativa]]: a mais-valia relativa e a mais-valia extra
 - [[Força de trabalho]]
 - [[Acumulação de capital]]
 - [[Economia política marxista]]

@@ -37,6 +37,7 @@ Fichamento: [[A Ideologia Alemã]]. Marx e Engels ligam cada fase da divisão do
 - [[Friedrich Engels]]
 
 ## Ver também
+- [[O Capital, cap. 11 - Cooperação]] e [[O Capital, cap. 12 - Divisão do trabalho e manufactura]]: cooperação, operário parcelar, despotismo da oficina e anarquia da sociedade
 - [[Teoria marxista do Estado]]
 - [[Economia política marxista]]
 
